@@ -1,18 +1,18 @@
 {
   "name": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "short_name": {
-    "message": "Vidow"
+    "message": "NexFetch"
   },
   "title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "desc": {
     "message": "Descarrega i desa vídeos de qualsevol lloc web a l'instant. Un descarregador de vídeos ràpid i senzill."
   },
   "action_title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "unit_mb_short": {
     "message": "MB"
@@ -234,13 +234,13 @@
     "message": "Comença la teva prova gratuïta per enviar qualsevol vídeo a la teva TV — sense compromís, cancel·la en qualsevol moment."
   },
   "review_modal_title": {
-    "message": "T'agrada Video Downloader Plus?"
+    "message": "T'agrada NexFetch?"
   },
   "review_modal_message": {
-    "message": "Si Video Downloader Plus t'ha estat útil, una valoració ràpida a Chrome Web Store significaria molt per a nosaltres!"
+    "message": "Si NexFetch t'ha estat útil, una valoració ràpida a Chrome Web Store significaria molt per a nosaltres!"
   },
   "review_modal_rate": {
-    "message": "Valorar Video Downloader Plus"
+    "message": "Valorar NexFetch"
   },
   "review_modal_later": {
     "message": "Potser més tard"
@@ -276,7 +276,7 @@
     "message": "Tancar"
   },
   "options_header_subtitle": {
-    "message": "Personalitza com Video Downloader Plus detecta i desa vídeos"
+    "message": "Personalitza com NexFetch detecta i desa vídeos"
   },
   "options_help_center": {
     "message": "Centre d'ajuda"
@@ -288,7 +288,7 @@
     "message": "Formats multimèdia"
   },
   "options_formats_description": {
-    "message": "Tria els tipus de fitxer que Video Downloader Plus ha de buscar"
+    "message": "Tria els tipus de fitxer que NexFetch ha de buscar"
   },
   "options_formats_video_label": {
     "message": "Vídeo"
@@ -330,13 +330,13 @@
     "message": "Downloads/"
   },
   "options_download_placeholder": {
-    "message": "e.g., Vidow"
+    "message": "e.g., NexFetch"
   },
   "options_appearance_title": {
     "message": "Aparença"
   },
   "options_appearance_description": {
-    "message": "Tria l'aspecte de Video Downloader Plus"
+    "message": "Tria l'aspecte de NexFetch"
   },
   "options_theme_system": {
     "message": "Sistema"
@@ -378,7 +378,7 @@
     "message": "Llista de bloqueig"
   },
   "options_website_description": {
-    "message": "Evita que Video Downloader Plus funcioni en llocs específics"
+    "message": "Evita que NexFetch funcioni en llocs específics"
   },
   "options_website_add_label": {
     "message": "Bloquejar un lloc"

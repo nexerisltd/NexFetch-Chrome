@@ -1,18 +1,18 @@
 {
   "name": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "short_name": {
-    "message": "Vidow"
+    "message": "NexFetch"
   },
   "title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "desc": {
     "message": "Atsisiųskite ir išsaugokite vaizdo įrašus iš bet kurios svetainės akimirksniu. Greitas ir paprastas vaizdo įrašų atsisiuntimo įrankis."
   },
   "action_title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "unit_mb_short": {
     "message": "MB"
@@ -234,13 +234,13 @@
     "message": "Pradėkite nemokamą bandomąjį laikotarpį ir transliuokite bet kokį vaizdo įrašą į televizorių — be įsipareigojimų, atšaukite bet kada."
   },
   "review_modal_title": {
-    "message": "Ar jums patinka Video Downloader Plus?"
+    "message": "Ar jums patinka NexFetch?"
   },
   "review_modal_message": {
-    "message": "Jei Video Downloader Plus buvo naudingas, greitas įvertinimas Chrome Web Store mums labai daug reikštų!"
+    "message": "Jei NexFetch buvo naudingas, greitas įvertinimas Chrome Web Store mums labai daug reikštų!"
   },
   "review_modal_rate": {
-    "message": "Įvertinti Video Downloader Plus"
+    "message": "Įvertinti NexFetch"
   },
   "review_modal_later": {
     "message": "Gal vėliau"
@@ -276,7 +276,7 @@
     "message": "Uždaryti"
   },
   "options_header_subtitle": {
-    "message": "Tinkinkite, kaip Video Downloader Plus aptinka ir saugo vaizdo įrašus"
+    "message": "Tinkinkite, kaip NexFetch aptinka ir saugo vaizdo įrašus"
   },
   "options_help_center": {
     "message": "Pagalbos centras"
@@ -288,7 +288,7 @@
     "message": "Medijos formatai"
   },
   "options_formats_description": {
-    "message": "Pasirinkite failų tipus, kurių Video Downloader Plus turėtų ieškoti"
+    "message": "Pasirinkite failų tipus, kurių NexFetch turėtų ieškoti"
   },
   "options_formats_video_label": {
     "message": "Vaizdo įrašas"
@@ -330,13 +330,13 @@
     "message": "Downloads/"
   },
   "options_download_placeholder": {
-    "message": "e.g., Vidow"
+    "message": "e.g., NexFetch"
   },
   "options_appearance_title": {
     "message": "Išvaizda"
   },
   "options_appearance_description": {
-    "message": "Pasirinkite, kaip atrodo Video Downloader Plus"
+    "message": "Pasirinkite, kaip atrodo NexFetch"
   },
   "options_theme_system": {
     "message": "Sistemos"
@@ -378,7 +378,7 @@
     "message": "Blokavimo sąrašas"
   },
   "options_website_description": {
-    "message": "Neleiskite Video Downloader Plus veikti tam tikrose svetainėse"
+    "message": "Neleiskite NexFetch veikti tam tikrose svetainėse"
   },
   "options_website_add_label": {
     "message": "Blokuoti svetainę"

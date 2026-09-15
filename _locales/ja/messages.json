@@ -1,18 +1,18 @@
 {
   "name": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "short_name": {
-    "message": "Vidow"
+    "message": "NexFetch"
   },
   "title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "desc": {
     "message": "あらゆるウェブサイトから動画を瞬時にダウンロード・保存。速くてシンプルな動画ダウンローダー。"
   },
   "action_title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "unit_mb_short": {
     "message": "MB"
@@ -234,13 +234,13 @@
     "message": "無料トライアルを開始して、あらゆる動画をテレビにキャスト — 制約なし、いつでもキャンセル可能。"
   },
   "review_modal_title": {
-    "message": "Video Downloader Plusを気に入っていますか？"
+    "message": "NexFetchを気に入っていますか？"
   },
   "review_modal_message": {
-    "message": "Video Downloader Plusがお役に立てたなら、Chrome Web Storeでの簡単な評価をいただけると大変嬉しいです！"
+    "message": "NexFetchがお役に立てたなら、Chrome Web Storeでの簡単な評価をいただけると大変嬉しいです！"
   },
   "review_modal_rate": {
-    "message": "Video Downloader Plusを評価する"
+    "message": "NexFetchを評価する"
   },
   "review_modal_later": {
     "message": "後で"
@@ -276,7 +276,7 @@
     "message": "閉じる"
   },
   "options_header_subtitle": {
-    "message": "Video Downloader Plusの動画検出と保存方法をカスタマイズ"
+    "message": "NexFetchの動画検出と保存方法をカスタマイズ"
   },
   "options_help_center": {
     "message": "ヘルプセンター"
@@ -288,7 +288,7 @@
     "message": "メディア形式"
   },
   "options_formats_description": {
-    "message": "Video Downloader Plusが検索するファイルタイプを選択"
+    "message": "NexFetchが検索するファイルタイプを選択"
   },
   "options_formats_video_label": {
     "message": "動画"
@@ -330,13 +330,13 @@
     "message": "Downloads/"
   },
   "options_download_placeholder": {
-    "message": "e.g., Vidow"
+    "message": "e.g., NexFetch"
   },
   "options_appearance_title": {
     "message": "外観"
   },
   "options_appearance_description": {
-    "message": "Video Downloader Plusの外観を選択"
+    "message": "NexFetchの外観を選択"
   },
   "options_theme_system": {
     "message": "システム"
@@ -378,7 +378,7 @@
     "message": "サイトブロックリスト"
   },
   "options_website_description": {
-    "message": "特定のサイトでVideo Downloader Plusを無効にする"
+    "message": "特定のサイトでNexFetchを無効にする"
   },
   "options_website_add_label": {
     "message": "サイトをブロック"

@@ -1,18 +1,18 @@
 {
   "name": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "short_name": {
-    "message": "Vidow"
+    "message": "NexFetch"
   },
   "title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "desc": {
     "message": "Ladda ner och spara videor från vilken webbplats som helst direkt. En snabb och enkel videonedladdare."
   },
   "action_title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "unit_mb_short": {
     "message": "MB"
@@ -234,13 +234,13 @@
     "message": "Starta din gratis provperiod för att casta vilken video som helst till din TV — inget åtagande, avbryt när som helst."
   },
   "review_modal_title": {
-    "message": "Gillar du Video Downloader Plus?"
+    "message": "Gillar du NexFetch?"
   },
   "review_modal_message": {
-    "message": "Om Video Downloader Plus har varit till hjälp skulle en snabb recension på Chrome Web Store betyda mycket för oss!"
+    "message": "Om NexFetch har varit till hjälp skulle en snabb recension på Chrome Web Store betyda mycket för oss!"
   },
   "review_modal_rate": {
-    "message": "Betygsätt Video Downloader Plus"
+    "message": "Betygsätt NexFetch"
   },
   "review_modal_later": {
     "message": "Kanske senare"
@@ -276,7 +276,7 @@
     "message": "Stäng"
   },
   "options_header_subtitle": {
-    "message": "Anpassa hur Video Downloader Plus hittar och sparar videor"
+    "message": "Anpassa hur NexFetch hittar och sparar videor"
   },
   "options_help_center": {
     "message": "Hjälpcenter"
@@ -288,7 +288,7 @@
     "message": "Medieformat"
   },
   "options_formats_description": {
-    "message": "Välj filtyper som Video Downloader Plus ska leta efter"
+    "message": "Välj filtyper som NexFetch ska leta efter"
   },
   "options_formats_video_label": {
     "message": "Video"
@@ -330,13 +330,13 @@
     "message": "Downloads/"
   },
   "options_download_placeholder": {
-    "message": "e.g., Vidow"
+    "message": "e.g., NexFetch"
   },
   "options_appearance_title": {
     "message": "Utseende"
   },
   "options_appearance_description": {
-    "message": "Välj hur Video Downloader Plus ser ut"
+    "message": "Välj hur NexFetch ser ut"
   },
   "options_theme_system": {
     "message": "System"
@@ -378,7 +378,7 @@
     "message": "Blockeringslista"
   },
   "options_website_description": {
-    "message": "Förhindra Video Downloader Plus från att köras på specifika webbplatser"
+    "message": "Förhindra NexFetch från att köras på specifika webbplatser"
   },
   "options_website_add_label": {
     "message": "Blockera en webbplats"

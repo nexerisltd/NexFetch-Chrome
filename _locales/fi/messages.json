@@ -1,18 +1,18 @@
 {
   "name": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "short_name": {
-    "message": "Vidow"
+    "message": "NexFetch"
   },
   "title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "desc": {
     "message": "Lataa ja tallenna videoita miltä tahansa verkkosivustolta välittömästi. Nopea ja yksinkertainen videoiden lataaja."
   },
   "action_title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "unit_mb_short": {
     "message": "MB"
@@ -234,13 +234,13 @@
     "message": "Aloita ilmainen kokeilujakso lähettääksesi minkä tahansa videon televisioon — ei sitoumusta, peruuta milloin tahansa."
   },
   "review_modal_title": {
-    "message": "Pidätkö Video Downloader Plussta?"
+    "message": "Pidätkö NexFetchsta?"
   },
   "review_modal_message": {
-    "message": "Jos Video Downloader Plus on ollut hyödyllinen, nopea arvostelu Chrome Web Storessa merkitsisi meille paljon!"
+    "message": "Jos NexFetch on ollut hyödyllinen, nopea arvostelu Chrome Web Storessa merkitsisi meille paljon!"
   },
   "review_modal_rate": {
-    "message": "Arvostele Video Downloader Plus"
+    "message": "Arvostele NexFetch"
   },
   "review_modal_later": {
     "message": "Ehkä myöhemmin"
@@ -276,7 +276,7 @@
     "message": "Sulje"
   },
   "options_header_subtitle": {
-    "message": "Mukauta miten Video Downloader Plus tunnistaa ja tallentaa videoita"
+    "message": "Mukauta miten NexFetch tunnistaa ja tallentaa videoita"
   },
   "options_help_center": {
     "message": "Ohjekeskus"
@@ -288,7 +288,7 @@
     "message": "Mediamuodot"
   },
   "options_formats_description": {
-    "message": "Valitse tiedostotyypit joita Video Downloader Plus etsii"
+    "message": "Valitse tiedostotyypit joita NexFetch etsii"
   },
   "options_formats_video_label": {
     "message": "Video"
@@ -330,13 +330,13 @@
     "message": "Downloads/"
   },
   "options_download_placeholder": {
-    "message": "e.g., Vidow"
+    "message": "e.g., NexFetch"
   },
   "options_appearance_title": {
     "message": "Ulkoasu"
   },
   "options_appearance_description": {
-    "message": "Valitse miltä Video Downloader Plus näyttää"
+    "message": "Valitse miltä NexFetch näyttää"
   },
   "options_theme_system": {
     "message": "Järjestelmä"
@@ -378,7 +378,7 @@
     "message": "Estolista"
   },
   "options_website_description": {
-    "message": "Estä Video Downloader Plus toimimasta tietyillä sivustoilla"
+    "message": "Estä NexFetch toimimasta tietyillä sivustoilla"
   },
   "options_website_add_label": {
     "message": "Estä sivusto"

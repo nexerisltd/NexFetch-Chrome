@@ -1,18 +1,18 @@
 {
   "name": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "short_name": {
-    "message": "Vidow"
+    "message": "NexFetch"
   },
   "title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "desc": {
     "message": "הורד ושמור סרטונים מכל אתר באופן מיידי. מוריד סרטונים מהיר ופשוט שפשוט עובד."
   },
   "action_title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "unit_mb_short": {
     "message": "MB"
@@ -234,13 +234,13 @@
     "message": "התחל את תקופת הניסיון החינמית כדי לשדר כל סרטון לטלוויזיה שלך — ללא התחייבות, בטל בכל עת."
   },
   "review_modal_title": {
-    "message": "נהנים מ-Video Downloader Plus?"
+    "message": "נהנים מ-NexFetch?"
   },
   "review_modal_message": {
-    "message": "אם Video Downloader Plus עזר לך, ביקורת מהירה ב-Chrome Web Store תעזור לנו מאוד!"
+    "message": "אם NexFetch עזר לך, ביקורת מהירה ב-Chrome Web Store תעזור לנו מאוד!"
   },
   "review_modal_rate": {
-    "message": "דרג את Video Downloader Plus"
+    "message": "דרג את NexFetch"
   },
   "review_modal_later": {
     "message": "אולי מאוחר יותר"
@@ -276,7 +276,7 @@
     "message": "סגור"
   },
   "options_header_subtitle": {
-    "message": "התאם איך Video Downloader Plus מזהה ושומר סרטונים"
+    "message": "התאם איך NexFetch מזהה ושומר סרטונים"
   },
   "options_help_center": {
     "message": "מרכז עזרה"
@@ -288,7 +288,7 @@
     "message": "פורמטי מדיה"
   },
   "options_formats_description": {
-    "message": "בחר סוגי קבצים ש-Video Downloader Plus יחפש"
+    "message": "בחר סוגי קבצים ש-NexFetch יחפש"
   },
   "options_formats_video_label": {
     "message": "וידאו"
@@ -330,13 +330,13 @@
     "message": "Downloads/"
   },
   "options_download_placeholder": {
-    "message": "e.g., Vidow"
+    "message": "e.g., NexFetch"
   },
   "options_appearance_title": {
     "message": "מראה"
   },
   "options_appearance_description": {
-    "message": "בחר איך Video Downloader Plus נראה"
+    "message": "בחר איך NexFetch נראה"
   },
   "options_theme_system": {
     "message": "מערכת"
@@ -378,7 +378,7 @@
     "message": "רשימת חסימה"
   },
   "options_website_description": {
-    "message": "מנע מ-Video Downloader Plus לפעול באתרים מסוימים"
+    "message": "מנע מ-NexFetch לפעול באתרים מסוימים"
   },
   "options_website_add_label": {
     "message": "חסום אתר"

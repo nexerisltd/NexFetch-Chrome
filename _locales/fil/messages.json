@@ -1,18 +1,18 @@
 {
   "name": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "short_name": {
-    "message": "Vidow"
+    "message": "NexFetch"
   },
   "title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "desc": {
     "message": "Mag-download at mag-save ng mga video mula sa anumang website kaagad. Isang mabilis at simpleng video downloader."
   },
   "action_title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "unit_mb_short": {
     "message": "MB"
@@ -234,13 +234,13 @@
     "message": "Simulan ang iyong libreng trial para mag-cast ng anumang video sa iyong TV — walang commitment, mag-cancel anumang oras."
   },
   "review_modal_title": {
-    "message": "Nagustuhan mo ba ang Video Downloader Plus?"
+    "message": "Nagustuhan mo ba ang NexFetch?"
   },
   "review_modal_message": {
-    "message": "Kung nakatulong ang Video Downloader Plus, malaking bagay para sa amin ang mabilisang rating sa Chrome Web Store!"
+    "message": "Kung nakatulong ang NexFetch, malaking bagay para sa amin ang mabilisang rating sa Chrome Web Store!"
   },
   "review_modal_rate": {
-    "message": "I-rate ang Video Downloader Plus"
+    "message": "I-rate ang NexFetch"
   },
   "review_modal_later": {
     "message": "Mamaya Na Lang"
@@ -276,7 +276,7 @@
     "message": "Isara"
   },
   "options_header_subtitle": {
-    "message": "I-customize kung paano nagde-detect at nagse-save ng video ang Video Downloader Plus"
+    "message": "I-customize kung paano nagde-detect at nagse-save ng video ang NexFetch"
   },
   "options_help_center": {
     "message": "Sentro ng Tulong"
@@ -288,7 +288,7 @@
     "message": "Mga Media Format"
   },
   "options_formats_description": {
-    "message": "Piliin ang mga uri ng file na hahanapin ng Video Downloader Plus"
+    "message": "Piliin ang mga uri ng file na hahanapin ng NexFetch"
   },
   "options_formats_video_label": {
     "message": "Video"
@@ -330,13 +330,13 @@
     "message": "Downloads/"
   },
   "options_download_placeholder": {
-    "message": "e.g., Vidow"
+    "message": "e.g., NexFetch"
   },
   "options_appearance_title": {
     "message": "Hitsura"
   },
   "options_appearance_description": {
-    "message": "Piliin kung paano ang hitsura ng Video Downloader Plus"
+    "message": "Piliin kung paano ang hitsura ng NexFetch"
   },
   "options_theme_system": {
     "message": "System"
@@ -378,7 +378,7 @@
     "message": "Blocklist"
   },
   "options_website_description": {
-    "message": "Pigilan ang Video Downloader Plus na tumakbo sa mga partikular na site"
+    "message": "Pigilan ang NexFetch na tumakbo sa mga partikular na site"
   },
   "options_website_add_label": {
     "message": "I-block ang Site"

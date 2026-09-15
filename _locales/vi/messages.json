@@ -1,18 +1,18 @@
 {
   "name": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "short_name": {
-    "message": "Vidow"
+    "message": "NexFetch"
   },
   "title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "desc": {
     "message": "Tải và lưu video từ bất kỳ trang web nào ngay lập tức. Trình tải video nhanh, đơn giản và hiệu quả."
   },
   "action_title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "unit_mb_short": {
     "message": "MB"
@@ -234,13 +234,13 @@
     "message": "Bắt đầu dùng thử miễn phí để chiếu bất kỳ video nào lên TV — không ràng buộc, hủy bất cứ lúc nào."
   },
   "review_modal_title": {
-    "message": "Bạn thích Video Downloader Plus chứ?"
+    "message": "Bạn thích NexFetch chứ?"
   },
   "review_modal_message": {
-    "message": "Nếu Video Downloader Plus hữu ích với bạn, một đánh giá nhanh trên Chrome Web Store sẽ rất có ý nghĩa với chúng tôi!"
+    "message": "Nếu NexFetch hữu ích với bạn, một đánh giá nhanh trên Chrome Web Store sẽ rất có ý nghĩa với chúng tôi!"
   },
   "review_modal_rate": {
-    "message": "Đánh giá Video Downloader Plus"
+    "message": "Đánh giá NexFetch"
   },
   "review_modal_later": {
     "message": "Để sau"
@@ -276,7 +276,7 @@
     "message": "Đóng"
   },
   "options_header_subtitle": {
-    "message": "Tùy chỉnh cách Video Downloader Plus phát hiện và lưu video"
+    "message": "Tùy chỉnh cách NexFetch phát hiện và lưu video"
   },
   "options_help_center": {
     "message": "Trung tâm trợ giúp"
@@ -288,7 +288,7 @@
     "message": "Định dạng phương tiện"
   },
   "options_formats_description": {
-    "message": "Chọn loại tệp mà Video Downloader Plus nên tìm kiếm"
+    "message": "Chọn loại tệp mà NexFetch nên tìm kiếm"
   },
   "options_formats_video_label": {
     "message": "Video"
@@ -330,13 +330,13 @@
     "message": "Downloads/"
   },
   "options_download_placeholder": {
-    "message": "e.g., Vidow"
+    "message": "e.g., NexFetch"
   },
   "options_appearance_title": {
     "message": "Giao diện"
   },
   "options_appearance_description": {
-    "message": "Chọn giao diện của Video Downloader Plus"
+    "message": "Chọn giao diện của NexFetch"
   },
   "options_theme_system": {
     "message": "Hệ thống"
@@ -378,7 +378,7 @@
     "message": "Danh sách chặn trang web"
   },
   "options_website_description": {
-    "message": "Ngăn Video Downloader Plus hoạt động trên các trang web cụ thể"
+    "message": "Ngăn NexFetch hoạt động trên các trang web cụ thể"
   },
   "options_website_add_label": {
     "message": "Chặn trang web"

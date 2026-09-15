@@ -1,18 +1,18 @@
 {
   "name": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "short_name": {
-    "message": "Vidow"
+    "message": "NexFetch"
   },
   "title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "desc": {
     "message": "किसी भी वेबसाइट से वीडियो तुरंत डाउनलोड और सेव करें। एक तेज़, सरल वीडियो डाउनलोडर जो बस काम करता है।"
   },
   "action_title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "unit_mb_short": {
     "message": "MB"
@@ -234,13 +234,13 @@
     "message": "अपने टीवी पर किसी भी वीडियो को कास्ट करने के लिए मुफ़्त ट्रायल शुरू करें — कोई बंधन नहीं, कभी भी रद्द करें।"
   },
   "review_modal_title": {
-    "message": "Video Downloader Plus पसंद आ रहा है?"
+    "message": "NexFetch पसंद आ रहा है?"
   },
   "review_modal_message": {
-    "message": "अगर Video Downloader Plus आपके काम आया है, तो Chrome Web Store पर एक त्वरित रेटिंग हमारे लिए बहुत मायने रखेगी!"
+    "message": "अगर NexFetch आपके काम आया है, तो Chrome Web Store पर एक त्वरित रेटिंग हमारे लिए बहुत मायने रखेगी!"
   },
   "review_modal_rate": {
-    "message": "Video Downloader Plus को रेट करें"
+    "message": "NexFetch को रेट करें"
   },
   "review_modal_later": {
     "message": "बाद में"
@@ -276,7 +276,7 @@
     "message": "बंद करें"
   },
   "options_header_subtitle": {
-    "message": "Video Downloader Plus कैसे वीडियो खोजे और सहेजे, इसे अनुकूलित करें"
+    "message": "NexFetch कैसे वीडियो खोजे और सहेजे, इसे अनुकूलित करें"
   },
   "options_help_center": {
     "message": "सहायता केंद्र"
@@ -288,7 +288,7 @@
     "message": "मीडिया प्रारूप"
   },
   "options_formats_description": {
-    "message": "चुनें कि Video Downloader Plus किन फ़ाइल प्रकारों को खोजे"
+    "message": "चुनें कि NexFetch किन फ़ाइल प्रकारों को खोजे"
   },
   "options_formats_video_label": {
     "message": "वीडियो"
@@ -330,13 +330,13 @@
     "message": "Downloads/"
   },
   "options_download_placeholder": {
-    "message": "e.g., Vidow"
+    "message": "e.g., NexFetch"
   },
   "options_appearance_title": {
     "message": "रूप-रंग"
   },
   "options_appearance_description": {
-    "message": "Video Downloader Plus का रूप चुनें"
+    "message": "NexFetch का रूप चुनें"
   },
   "options_theme_system": {
     "message": "सिस्टम"
@@ -378,7 +378,7 @@
     "message": "साइट ब्लॉकलिस्ट"
   },
   "options_website_description": {
-    "message": "विशिष्ट साइटों पर Video Downloader Plus को चलने से रोकें"
+    "message": "विशिष्ट साइटों पर NexFetch को चलने से रोकें"
   },
   "options_website_add_label": {
     "message": "साइट ब्लॉक करें"

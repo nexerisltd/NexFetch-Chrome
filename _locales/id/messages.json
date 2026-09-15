@@ -1,18 +1,18 @@
 {
   "name": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "short_name": {
-    "message": "Vidow"
+    "message": "NexFetch"
   },
   "title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "desc": {
     "message": "Unduh dan simpan video dari situs web mana pun secara instan. Pengunduh video yang cepat, sederhana, dan langsung berfungsi."
   },
   "action_title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "unit_mb_short": {
     "message": "MB"
@@ -234,13 +234,13 @@
     "message": "Mulai uji coba gratis Anda untuk mentransmisikan video apa pun ke TV — tanpa komitmen, batalkan kapan saja."
   },
   "review_modal_title": {
-    "message": "Suka Video Downloader Plus?"
+    "message": "Suka NexFetch?"
   },
   "review_modal_message": {
-    "message": "Jika Video Downloader Plus bermanfaat bagi Anda, penilaian cepat di Chrome Web Store akan sangat berarti bagi kami!"
+    "message": "Jika NexFetch bermanfaat bagi Anda, penilaian cepat di Chrome Web Store akan sangat berarti bagi kami!"
   },
   "review_modal_rate": {
-    "message": "Nilai Video Downloader Plus"
+    "message": "Nilai NexFetch"
   },
   "review_modal_later": {
     "message": "Nanti saja"
@@ -276,7 +276,7 @@
     "message": "Tutup"
   },
   "options_header_subtitle": {
-    "message": "Sesuaikan cara Video Downloader Plus mendeteksi dan menyimpan video"
+    "message": "Sesuaikan cara NexFetch mendeteksi dan menyimpan video"
   },
   "options_help_center": {
     "message": "Pusat Bantuan"
@@ -288,7 +288,7 @@
     "message": "Format media"
   },
   "options_formats_description": {
-    "message": "Pilih jenis file yang harus dicari Video Downloader Plus"
+    "message": "Pilih jenis file yang harus dicari NexFetch"
   },
   "options_formats_video_label": {
     "message": "Video"
@@ -330,13 +330,13 @@
     "message": "Downloads/"
   },
   "options_download_placeholder": {
-    "message": "e.g., Vidow"
+    "message": "e.g., NexFetch"
   },
   "options_appearance_title": {
     "message": "Tampilan"
   },
   "options_appearance_description": {
-    "message": "Pilih tampilan Video Downloader Plus"
+    "message": "Pilih tampilan NexFetch"
   },
   "options_theme_system": {
     "message": "Sistem"
@@ -378,7 +378,7 @@
     "message": "Daftar situs diblokir"
   },
   "options_website_description": {
-    "message": "Cegah Video Downloader Plus berjalan di situs tertentu"
+    "message": "Cegah NexFetch berjalan di situs tertentu"
   },
   "options_website_add_label": {
     "message": "Blokir situs"

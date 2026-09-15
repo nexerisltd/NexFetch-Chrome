@@ -1,18 +1,18 @@
 {
   "name": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "short_name": {
-    "message": "Vidow"
+    "message": "NexFetch"
   },
   "title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "desc": {
     "message": "Muat turun dan simpan video daripada mana-mana laman web dengan serta-merta. Pemuat turun video yang pantas, mudah dan berkesan."
   },
   "action_title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "unit_mb_short": {
     "message": "MB"
@@ -234,13 +234,13 @@
     "message": "Mulakan percubaan percuma anda untuk menghantar sebarang video ke TV anda — tanpa komitmen, batalkan bila-bila masa."
   },
   "review_modal_title": {
-    "message": "Suka Video Downloader Plus?"
+    "message": "Suka NexFetch?"
   },
   "review_modal_message": {
-    "message": "Jika Video Downloader Plus telah membantu anda, penilaian pantas di Chrome Web Store amat bermakna bagi kami!"
+    "message": "Jika NexFetch telah membantu anda, penilaian pantas di Chrome Web Store amat bermakna bagi kami!"
   },
   "review_modal_rate": {
-    "message": "Nilai Video Downloader Plus"
+    "message": "Nilai NexFetch"
   },
   "review_modal_later": {
     "message": "Mungkin nanti"
@@ -276,7 +276,7 @@
     "message": "Tutup"
   },
   "options_header_subtitle": {
-    "message": "Sesuaikan cara Video Downloader Plus mengesan dan menyimpan video"
+    "message": "Sesuaikan cara NexFetch mengesan dan menyimpan video"
   },
   "options_help_center": {
     "message": "Pusat Bantuan"
@@ -288,7 +288,7 @@
     "message": "Format media"
   },
   "options_formats_description": {
-    "message": "Pilih jenis fail yang perlu dicari oleh Video Downloader Plus"
+    "message": "Pilih jenis fail yang perlu dicari oleh NexFetch"
   },
   "options_formats_video_label": {
     "message": "Video"
@@ -330,13 +330,13 @@
     "message": "Downloads/"
   },
   "options_download_placeholder": {
-    "message": "e.g., Vidow"
+    "message": "e.g., NexFetch"
   },
   "options_appearance_title": {
     "message": "Penampilan"
   },
   "options_appearance_description": {
-    "message": "Pilih rupa Video Downloader Plus"
+    "message": "Pilih rupa NexFetch"
   },
   "options_theme_system": {
     "message": "Sistem"
@@ -378,7 +378,7 @@
     "message": "Senarai sekat tapak"
   },
   "options_website_description": {
-    "message": "Halang Video Downloader Plus daripada berjalan di tapak tertentu"
+    "message": "Halang NexFetch daripada berjalan di tapak tertentu"
   },
   "options_website_add_label": {
     "message": "Sekat tapak"

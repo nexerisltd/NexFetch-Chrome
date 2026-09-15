@@ -1,18 +1,18 @@
 {
   "name": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "short_name": {
-    "message": "Vidow"
+    "message": "NexFetch"
   },
   "title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "desc": {
     "message": "له هرې ویب پاڼې څخه سمدلاسه ویډیوګانې ډاونلوډ او خوندي کړئ. ګړندی او ساده ویډیو ډاونلوډر."
   },
   "action_title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "unit_mb_short": {
     "message": "MB"
@@ -234,13 +234,13 @@
     "message": "خپل وړیا ازموینه پیل کړئ ترڅو هر ویډیو خپل ټلویزیون ته واستوئ — هیڅ ژمنه نشته، هر وخت لغوه کړئ."
   },
   "review_modal_title": {
-    "message": "Video Downloader Plus خوښوي?"
+    "message": "NexFetch خوښوي?"
   },
   "review_modal_message": {
-    "message": "که Video Downloader Plus ګټور وو، په Chrome Web Store کې ګړندۍ بیاکتنه زموږ لپاره ډیره ارزښتناکه ده!"
+    "message": "که NexFetch ګټور وو، په Chrome Web Store کې ګړندۍ بیاکتنه زموږ لپاره ډیره ارزښتناکه ده!"
   },
   "review_modal_rate": {
-    "message": "Video Downloader Plus درجه ورکړئ"
+    "message": "NexFetch درجه ورکړئ"
   },
   "review_modal_later": {
     "message": "شاید وروسته"
@@ -276,7 +276,7 @@
     "message": "بندول"
   },
   "options_header_subtitle": {
-    "message": "Video Downloader Plus څنګه ویډیوګانې مومي او خوندي کوي تنظیم کړئ"
+    "message": "NexFetch څنګه ویډیوګانې مومي او خوندي کوي تنظیم کړئ"
   },
   "options_help_center": {
     "message": "مرستې مرکز"
@@ -288,7 +288,7 @@
     "message": "میډیا فارمیټونه"
   },
   "options_formats_description": {
-    "message": "Video Downloader Plus کوم فایل ډولونه وپلټي غوره کړئ"
+    "message": "NexFetch کوم فایل ډولونه وپلټي غوره کړئ"
   },
   "options_formats_video_label": {
     "message": "ویډیو"
@@ -330,13 +330,13 @@
     "message": "Downloads/"
   },
   "options_download_placeholder": {
-    "message": "e.g., Vidow"
+    "message": "e.g., NexFetch"
   },
   "options_appearance_title": {
     "message": "بڼه"
   },
   "options_appearance_description": {
-    "message": "Video Downloader Plus څنګه ښکاري غوره کړئ"
+    "message": "NexFetch څنګه ښکاري غوره کړئ"
   },
   "options_theme_system": {
     "message": "سیسټم"
@@ -378,7 +378,7 @@
     "message": "بند لیست"
   },
   "options_website_description": {
-    "message": "ځانګړو سایټونو کې Video Downloader Plus چلیدل مخنیوی کړئ"
+    "message": "ځانګړو سایټونو کې NexFetch چلیدل مخنیوی کړئ"
   },
   "options_website_add_label": {
     "message": "سایټ بند کړئ"

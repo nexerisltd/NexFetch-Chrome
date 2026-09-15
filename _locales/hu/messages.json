@@ -1,18 +1,18 @@
 {
   "name": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "short_name": {
-    "message": "Vidow"
+    "message": "NexFetch"
   },
   "title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "desc": {
     "message": "Töltsön le és mentsen videókat bármely weboldalról azonnal. Gyors és egyszerű videó letöltő."
   },
   "action_title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "unit_mb_short": {
     "message": "MB"
@@ -234,13 +234,13 @@
     "message": "Kezdje el ingyenes próbaidőszakát, hogy bármilyen videót átküldhessen a tévéjére — kötelezettség nélkül, bármikor lemondható."
   },
   "review_modal_title": {
-    "message": "Tetszik a Video Downloader Plus?"
+    "message": "Tetszik a NexFetch?"
   },
   "review_modal_message": {
-    "message": "Ha a Video Downloader Plus hasznos volt, egy gyors értékelés a Chrome Web Store-ban sokat jelentene nekünk!"
+    "message": "Ha a NexFetch hasznos volt, egy gyors értékelés a Chrome Web Store-ban sokat jelentene nekünk!"
   },
   "review_modal_rate": {
-    "message": "Video Downloader Plus értékelése"
+    "message": "NexFetch értékelése"
   },
   "review_modal_later": {
     "message": "Talán később"
@@ -276,7 +276,7 @@
     "message": "Bezárás"
   },
   "options_header_subtitle": {
-    "message": "Szabja testre, hogyan érzékeli és menti a Video Downloader Plus a videókat"
+    "message": "Szabja testre, hogyan érzékeli és menti a NexFetch a videókat"
   },
   "options_help_center": {
     "message": "Súgóközpont"
@@ -288,7 +288,7 @@
     "message": "Médiaformátumok"
   },
   "options_formats_description": {
-    "message": "Válassza ki a fájltípusokat, amelyeket a Video Downloader Plus keres"
+    "message": "Válassza ki a fájltípusokat, amelyeket a NexFetch keres"
   },
   "options_formats_video_label": {
     "message": "Videó"
@@ -330,13 +330,13 @@
     "message": "Downloads/"
   },
   "options_download_placeholder": {
-    "message": "e.g., Vidow"
+    "message": "e.g., NexFetch"
   },
   "options_appearance_title": {
     "message": "Megjelenés"
   },
   "options_appearance_description": {
-    "message": "Válassza ki a Video Downloader Plus megjelenését"
+    "message": "Válassza ki a NexFetch megjelenését"
   },
   "options_theme_system": {
     "message": "Rendszer"
@@ -378,7 +378,7 @@
     "message": "Tiltólista"
   },
   "options_website_description": {
-    "message": "A Video Downloader Plus futásának megakadályozása adott oldalakon"
+    "message": "A NexFetch futásának megakadályozása adott oldalakon"
   },
   "options_website_add_label": {
     "message": "Oldal letiltása"

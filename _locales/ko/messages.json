@@ -1,18 +1,18 @@
 {
   "name": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "short_name": {
-    "message": "Vidow"
+    "message": "NexFetch"
   },
   "title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "desc": {
     "message": "모든 웹사이트에서 동영상을 즉시 다운로드하고 저장하세요. 빠르고 간단한 동영상 다운로더."
   },
   "action_title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "unit_mb_short": {
     "message": "MB"
@@ -234,13 +234,13 @@
     "message": "무료 체험을 시작하여 모든 동영상을 TV로 캐스트하세요 — 약정 없음, 언제든지 취소 가능."
   },
   "review_modal_title": {
-    "message": "Video Downloader Plus가 마음에 드시나요?"
+    "message": "NexFetch가 마음에 드시나요?"
   },
   "review_modal_message": {
-    "message": "Video Downloader Plus가 도움이 되셨다면, Chrome Web Store에서 간단한 평가를 남겨 주시면 큰 힘이 됩니다!"
+    "message": "NexFetch가 도움이 되셨다면, Chrome Web Store에서 간단한 평가를 남겨 주시면 큰 힘이 됩니다!"
   },
   "review_modal_rate": {
-    "message": "Video Downloader Plus 평가하기"
+    "message": "NexFetch 평가하기"
   },
   "review_modal_later": {
     "message": "나중에"
@@ -276,7 +276,7 @@
     "message": "닫기"
   },
   "options_header_subtitle": {
-    "message": "Video Downloader Plus의 동영상 감지 및 저장 방법을 맞춤 설정"
+    "message": "NexFetch의 동영상 감지 및 저장 방법을 맞춤 설정"
   },
   "options_help_center": {
     "message": "고객센터"
@@ -288,7 +288,7 @@
     "message": "미디어 형식"
   },
   "options_formats_description": {
-    "message": "Video Downloader Plus가 검색할 파일 유형을 선택하세요"
+    "message": "NexFetch가 검색할 파일 유형을 선택하세요"
   },
   "options_formats_video_label": {
     "message": "영상"
@@ -330,13 +330,13 @@
     "message": "Downloads/"
   },
   "options_download_placeholder": {
-    "message": "e.g., Vidow"
+    "message": "e.g., NexFetch"
   },
   "options_appearance_title": {
     "message": "외관"
   },
   "options_appearance_description": {
-    "message": "Video Downloader Plus의 모양을 선택하세요"
+    "message": "NexFetch의 모양을 선택하세요"
   },
   "options_theme_system": {
     "message": "시스템"
@@ -378,7 +378,7 @@
     "message": "사이트 차단 목록"
   },
   "options_website_description": {
-    "message": "특정 사이트에서 Video Downloader Plus 실행 방지"
+    "message": "특정 사이트에서 NexFetch 실행 방지"
   },
   "options_website_add_label": {
     "message": "사이트 차단"

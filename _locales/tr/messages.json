@@ -1,18 +1,18 @@
 {
   "name": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "short_name": {
-    "message": "Vidow"
+    "message": "NexFetch"
   },
   "title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "desc": {
     "message": "Herhangi bir web sitesinden anında video indirin ve kaydedin. Hızlı, basit ve işe yarayan bir video indirici."
   },
   "action_title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "unit_mb_short": {
     "message": "MB"
@@ -234,13 +234,13 @@
     "message": "Herhangi bir videoyu TV'nize yayınlamak için ücretsiz denemeyi başlatın — taahhüt yok, istediğiniz zaman iptal edin."
   },
   "review_modal_title": {
-    "message": "Video Downloader Plus'ı beğeniyor musunuz?"
+    "message": "NexFetch'ı beğeniyor musunuz?"
   },
   "review_modal_message": {
-    "message": "Video Downloader Plus işine yaradıysa, Chrome Web Store'da hızlı bir değerlendirme bizim için çok şey ifade eder!"
+    "message": "NexFetch işine yaradıysa, Chrome Web Store'da hızlı bir değerlendirme bizim için çok şey ifade eder!"
   },
   "review_modal_rate": {
-    "message": "Video Downloader Plus'ı Değerlendir"
+    "message": "NexFetch'ı Değerlendir"
   },
   "review_modal_later": {
     "message": "Belki Sonra"
@@ -276,7 +276,7 @@
     "message": "Kapat"
   },
   "options_header_subtitle": {
-    "message": "Video Downloader Plus'un videoları nasıl algılayıp kaydettiğini özelleştirin"
+    "message": "NexFetch'un videoları nasıl algılayıp kaydettiğini özelleştirin"
   },
   "options_help_center": {
     "message": "Yardım Merkezi"
@@ -288,7 +288,7 @@
     "message": "Medya biçimleri"
   },
   "options_formats_description": {
-    "message": "Video Downloader Plus'un araması gereken dosya türlerini seçin"
+    "message": "NexFetch'un araması gereken dosya türlerini seçin"
   },
   "options_formats_video_label": {
     "message": "Video"
@@ -330,13 +330,13 @@
     "message": "Downloads/"
   },
   "options_download_placeholder": {
-    "message": "e.g., Vidow"
+    "message": "e.g., NexFetch"
   },
   "options_appearance_title": {
     "message": "Görünüm"
   },
   "options_appearance_description": {
-    "message": "Video Downloader Plus'un görünümünü seçin"
+    "message": "NexFetch'un görünümünü seçin"
   },
   "options_theme_system": {
     "message": "Sistem"
@@ -378,7 +378,7 @@
     "message": "Site engel listesi"
   },
   "options_website_description": {
-    "message": "Video Downloader Plus'un belirli sitelerde çalışmasını engelleyin"
+    "message": "NexFetch'un belirli sitelerde çalışmasını engelleyin"
   },
   "options_website_add_label": {
     "message": "Site engelle"

@@ -1,18 +1,18 @@
 {
   "name": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "short_name": {
-    "message": "Vidow"
+    "message": "NexFetch"
   },
   "title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "desc": {
     "message": "Κατεβάστε και αποθηκεύστε βίντεο από οποιαδήποτε ιστοσελίδα αμέσως. Ένα γρήγορο και απλό εργαλείο λήψης βίντεο."
   },
   "action_title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "unit_mb_short": {
     "message": "MB"
@@ -234,13 +234,13 @@
     "message": "Ξεκινήστε τη δωρεάν δοκιμαστική περίοδο για να μεταδώσετε οποιοδήποτε βίντεο στην τηλεόρασή σας — χωρίς δέσμευση, ακύρωση ανά πάσα στιγμή."
   },
   "review_modal_title": {
-    "message": "Σας αρέσει το Video Downloader Plus;"
+    "message": "Σας αρέσει το NexFetch;"
   },
   "review_modal_message": {
-    "message": "Αν το Video Downloader Plus σας βοήθησε, μια γρήγορη βαθμολογία στο Chrome Web Store θα σήμαινε πολλά!"
+    "message": "Αν το NexFetch σας βοήθησε, μια γρήγορη βαθμολογία στο Chrome Web Store θα σήμαινε πολλά!"
   },
   "review_modal_rate": {
-    "message": "Βαθμολογήστε το Video Downloader Plus"
+    "message": "Βαθμολογήστε το NexFetch"
   },
   "review_modal_later": {
     "message": "Ίσως αργότερα"
@@ -276,7 +276,7 @@
     "message": "Κλείσιμο"
   },
   "options_header_subtitle": {
-    "message": "Προσαρμόστε πώς το Video Downloader Plus εντοπίζει και αποθηκεύει βίντεο"
+    "message": "Προσαρμόστε πώς το NexFetch εντοπίζει και αποθηκεύει βίντεο"
   },
   "options_help_center": {
     "message": "Κέντρο βοήθειας"
@@ -288,7 +288,7 @@
     "message": "Μορφές πολυμέσων"
   },
   "options_formats_description": {
-    "message": "Επιλέξτε τους τύπους αρχείων που θα αναζητά το Video Downloader Plus"
+    "message": "Επιλέξτε τους τύπους αρχείων που θα αναζητά το NexFetch"
   },
   "options_formats_video_label": {
     "message": "Βίντεο"
@@ -330,13 +330,13 @@
     "message": "Downloads/"
   },
   "options_download_placeholder": {
-    "message": "e.g., Vidow"
+    "message": "e.g., NexFetch"
   },
   "options_appearance_title": {
     "message": "Εμφάνιση"
   },
   "options_appearance_description": {
-    "message": "Επιλέξτε πώς φαίνεται το Video Downloader Plus"
+    "message": "Επιλέξτε πώς φαίνεται το NexFetch"
   },
   "options_theme_system": {
     "message": "Σύστημα"
@@ -378,7 +378,7 @@
     "message": "Λίστα αποκλεισμού"
   },
   "options_website_description": {
-    "message": "Αποτρέψτε το Video Downloader Plus από εκτέλεση σε συγκεκριμένους ιστότοπους"
+    "message": "Αποτρέψτε το NexFetch από εκτέλεση σε συγκεκριμένους ιστότοπους"
   },
   "options_website_add_label": {
     "message": "Αποκλεισμός ιστότοπου"

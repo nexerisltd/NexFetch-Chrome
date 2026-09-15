@@ -1,18 +1,18 @@
 {
   "name": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "short_name": {
-    "message": "Vidow"
+    "message": "NexFetch"
   },
   "title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "desc": {
     "message": "從任何網站即時下載並儲存影片。快速、簡單的影片下載工具。"
   },
   "action_title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "unit_mb_short": {
     "message": "MB"
@@ -234,13 +234,13 @@
     "message": "開始免費試用，將任何影片投放到電視 — 無需承諾，隨時取消。"
   },
   "review_modal_title": {
-    "message": "喜歡 Video Downloader Plus 嗎？"
+    "message": "喜歡 NexFetch 嗎？"
   },
   "review_modal_message": {
-    "message": "如果 Video Downloader Plus 對您有幫助，在 Chrome Web Store 上的快速評分對我們意義重大！"
+    "message": "如果 NexFetch 對您有幫助，在 Chrome Web Store 上的快速評分對我們意義重大！"
   },
   "review_modal_rate": {
-    "message": "評分 Video Downloader Plus"
+    "message": "評分 NexFetch"
   },
   "review_modal_later": {
     "message": "稍後再說"
@@ -276,7 +276,7 @@
     "message": "關閉"
   },
   "options_header_subtitle": {
-    "message": "自訂 Video Downloader Plus 偵測和儲存影片的方式"
+    "message": "自訂 NexFetch 偵測和儲存影片的方式"
   },
   "options_help_center": {
     "message": "幫助中心"
@@ -288,7 +288,7 @@
     "message": "媒體格式"
   },
   "options_formats_description": {
-    "message": "選擇 Video Downloader Plus 應搜尋的檔案類型"
+    "message": "選擇 NexFetch 應搜尋的檔案類型"
   },
   "options_formats_video_label": {
     "message": "影片"
@@ -330,13 +330,13 @@
     "message": "Downloads/"
   },
   "options_download_placeholder": {
-    "message": "e.g., Vidow"
+    "message": "e.g., NexFetch"
   },
   "options_appearance_title": {
     "message": "外觀"
   },
   "options_appearance_description": {
-    "message": "選擇 Video Downloader Plus 的外觀"
+    "message": "選擇 NexFetch 的外觀"
   },
   "options_theme_system": {
     "message": "系統"
@@ -378,7 +378,7 @@
     "message": "封鎖名單"
   },
   "options_website_description": {
-    "message": "防止 Video Downloader Plus 在特定網站上執行"
+    "message": "防止 NexFetch 在特定網站上執行"
   },
   "options_website_add_label": {
     "message": "封鎖網站"

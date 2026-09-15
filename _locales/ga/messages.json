@@ -1,18 +1,18 @@
 {
   "name": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "short_name": {
-    "message": "Vidow"
+    "message": "NexFetch"
   },
   "title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "desc": {
     "message": "Íoslódáil agus sábháil físeáin ó aon suíomh gréasáin láithreach. Íoslódálaí físeáin tapa agus simplí."
   },
   "action_title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "unit_mb_short": {
     "message": "MB"
@@ -234,13 +234,13 @@
     "message": "Tosaigh do thriail saor in aisce chun aon fhíseán a chraoladh chuig do theilifís — gan tiomantas, cealaigh am ar bith."
   },
   "review_modal_title": {
-    "message": "An maith leat Video Downloader Plus?"
+    "message": "An maith leat NexFetch?"
   },
   "review_modal_message": {
-    "message": "Má chabhraigh Video Downloader Plus leat, bheadh rátáil thapa ar Chrome Web Store thar a bheith luachmhar dúinn!"
+    "message": "Má chabhraigh NexFetch leat, bheadh rátáil thapa ar Chrome Web Store thar a bheith luachmhar dúinn!"
   },
   "review_modal_rate": {
-    "message": "Rátáil Video Downloader Plus"
+    "message": "Rátáil NexFetch"
   },
   "review_modal_later": {
     "message": "B'fhéidir Níos Déanaí"
@@ -276,7 +276,7 @@
     "message": "Díbhe"
   },
   "options_header_subtitle": {
-    "message": "Saincheap conas a bhraitheann agus a shábhálann Video Downloader Plus físeáin"
+    "message": "Saincheap conas a bhraitheann agus a shábhálann NexFetch físeáin"
   },
   "options_help_center": {
     "message": "Ionad Cabhrach"
@@ -288,7 +288,7 @@
     "message": "Formáidí Meán"
   },
   "options_formats_description": {
-    "message": "Roghnaigh na cineálacha comhad ba cheart do Video Downloader Plus a lorg"
+    "message": "Roghnaigh na cineálacha comhad ba cheart do NexFetch a lorg"
   },
   "options_formats_video_label": {
     "message": "Físeán"
@@ -330,13 +330,13 @@
     "message": "Downloads/"
   },
   "options_download_placeholder": {
-    "message": "e.g., Vidow"
+    "message": "e.g., NexFetch"
   },
   "options_appearance_title": {
     "message": "Cuma"
   },
   "options_appearance_description": {
-    "message": "Roghnaigh conas a fhéachann Video Downloader Plus"
+    "message": "Roghnaigh conas a fhéachann NexFetch"
   },
   "options_theme_system": {
     "message": "Córas"
@@ -378,7 +378,7 @@
     "message": "Liosta Blocála"
   },
   "options_website_description": {
-    "message": "Cosc a chur ar Video Downloader Plus rith ar shuímh ar leith"
+    "message": "Cosc a chur ar NexFetch rith ar shuímh ar leith"
   },
   "options_website_add_label": {
     "message": "Blocáil Suíomh"

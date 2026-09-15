@@ -1,18 +1,18 @@
 {
   "name": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "short_name": {
-    "message": "Vidow"
+    "message": "NexFetch"
   },
   "title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "desc": {
     "message": "Преузмите и сачувајте видео записе са било ког сајта тренутно. Брз и једноставан алат за преузимање видеа."
   },
   "action_title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "unit_mb_short": {
     "message": "MB"
@@ -234,13 +234,13 @@
     "message": "Започните бесплатни пробни период да емитујете било који видео на телевизор — без обавеза, откажите у било ком тренутку."
   },
   "review_modal_title": {
-    "message": "Да ли вам се допада Video Downloader Plus?"
+    "message": "Да ли вам се допада NexFetch?"
   },
   "review_modal_message": {
-    "message": "Ако вам је Video Downloader Plus помогао, брза оцена на Chrome Web Store значила би нам много!"
+    "message": "Ако вам је NexFetch помогао, брза оцена на Chrome Web Store значила би нам много!"
   },
   "review_modal_rate": {
-    "message": "Оцени Video Downloader Plus"
+    "message": "Оцени NexFetch"
   },
   "review_modal_later": {
     "message": "Можда касније"
@@ -276,7 +276,7 @@
     "message": "Затвори"
   },
   "options_header_subtitle": {
-    "message": "Прилагодите како Video Downloader Plus открива и чува видео записе"
+    "message": "Прилагодите како NexFetch открива и чува видео записе"
   },
   "options_help_center": {
     "message": "Центар за помоћ"
@@ -288,7 +288,7 @@
     "message": "Медијски формати"
   },
   "options_formats_description": {
-    "message": "Изаберите типове фајлова које Video Downloader Plus треба да тражи"
+    "message": "Изаберите типове фајлова које NexFetch треба да тражи"
   },
   "options_formats_video_label": {
     "message": "Видео"
@@ -330,13 +330,13 @@
     "message": "Downloads/"
   },
   "options_download_placeholder": {
-    "message": "e.g., Vidow"
+    "message": "e.g., NexFetch"
   },
   "options_appearance_title": {
     "message": "Изглед"
   },
   "options_appearance_description": {
-    "message": "Изаберите како Video Downloader Plus изгледа"
+    "message": "Изаберите како NexFetch изгледа"
   },
   "options_theme_system": {
     "message": "Системски"
@@ -378,7 +378,7 @@
     "message": "Листа блокираних"
   },
   "options_website_description": {
-    "message": "Спречите Video Downloader Plus да ради на одређеним сајтовима"
+    "message": "Спречите NexFetch да ради на одређеним сајтовима"
   },
   "options_website_add_label": {
     "message": "Блокирај сајт"

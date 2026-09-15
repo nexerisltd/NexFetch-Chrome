@@ -1,18 +1,18 @@
 {
   "name": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "short_name": {
-    "message": "Vidow"
+    "message": "NexFetch"
   },
   "title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "desc": {
     "message": "即时下载和保存任何网站的视频。一个快速、简单、好用的视频下载器。"
   },
   "action_title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "unit_mb_short": {
     "message": "MB"
@@ -234,13 +234,13 @@
     "message": "开始免费试用，将任何视频投射到电视 — 无需承诺，随时取消。"
   },
   "review_modal_title": {
-    "message": "喜欢 Video Downloader Plus 吗？"
+    "message": "喜欢 NexFetch 吗？"
   },
   "review_modal_message": {
-    "message": "如果 Video Downloader Plus 对你有所帮助，在 Chrome Web Store 留下一个简短的评价对我们意义重大！"
+    "message": "如果 NexFetch 对你有所帮助，在 Chrome Web Store 留下一个简短的评价对我们意义重大！"
   },
   "review_modal_rate": {
-    "message": "评价 Video Downloader Plus"
+    "message": "评价 NexFetch"
   },
   "review_modal_later": {
     "message": "以后再说"
@@ -276,7 +276,7 @@
     "message": "关闭"
   },
   "options_header_subtitle": {
-    "message": "自定义 Video Downloader Plus 检测和保存视频的方式"
+    "message": "自定义 NexFetch 检测和保存视频的方式"
   },
   "options_help_center": {
     "message": "帮助中心"
@@ -288,7 +288,7 @@
     "message": "媒体格式"
   },
   "options_formats_description": {
-    "message": "选择 Video Downloader Plus 应搜索的文件类型"
+    "message": "选择 NexFetch 应搜索的文件类型"
   },
   "options_formats_video_label": {
     "message": "视频"
@@ -330,13 +330,13 @@
     "message": "Downloads/"
   },
   "options_download_placeholder": {
-    "message": "e.g., Vidow"
+    "message": "e.g., NexFetch"
   },
   "options_appearance_title": {
     "message": "外观"
   },
   "options_appearance_description": {
-    "message": "选择 Video Downloader Plus 的外观"
+    "message": "选择 NexFetch 的外观"
   },
   "options_theme_system": {
     "message": "跟随系统"
@@ -378,7 +378,7 @@
     "message": "网站屏蔽列表"
   },
   "options_website_description": {
-    "message": "阻止 Video Downloader Plus 在特定网站上运行"
+    "message": "阻止 NexFetch 在特定网站上运行"
   },
   "options_website_add_label": {
     "message": "屏蔽网站"

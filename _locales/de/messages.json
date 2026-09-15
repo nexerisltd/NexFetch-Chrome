@@ -1,18 +1,18 @@
 {
   "name": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "short_name": {
-    "message": "Vidow"
+    "message": "NexFetch"
   },
   "title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "desc": {
     "message": "Videos von jeder Website sofort herunterladen und speichern. Ein schneller, einfacher Video-Downloader, der einfach funktioniert."
   },
   "action_title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "unit_mb_short": {
     "message": "MB"
@@ -234,13 +234,13 @@
     "message": "Starten Sie Ihre kostenlose Testversion, um jedes Video auf Ihren Fernseher zu übertragen — keine Verpflichtung, jederzeit kündbar."
   },
   "review_modal_title": {
-    "message": "Gefällt dir Video Downloader Plus?"
+    "message": "Gefällt dir NexFetch?"
   },
   "review_modal_message": {
-    "message": "Wenn Video Downloader Plus dir geholfen hat, würde uns eine kurze Bewertung im Chrome Web Store sehr freuen!"
+    "message": "Wenn NexFetch dir geholfen hat, würde uns eine kurze Bewertung im Chrome Web Store sehr freuen!"
   },
   "review_modal_rate": {
-    "message": "Video Downloader Plus bewerten"
+    "message": "NexFetch bewerten"
   },
   "review_modal_later": {
     "message": "Vielleicht später"
@@ -276,7 +276,7 @@
     "message": "Schließen"
   },
   "options_header_subtitle": {
-    "message": "Passe an, wie Video Downloader Plus Videos erkennt und speichert"
+    "message": "Passe an, wie NexFetch Videos erkennt und speichert"
   },
   "options_help_center": {
     "message": "Hilfecenter"
@@ -288,7 +288,7 @@
     "message": "Medienformate"
   },
   "options_formats_description": {
-    "message": "Wähle die Dateitypen, nach denen Video Downloader Plus suchen soll"
+    "message": "Wähle die Dateitypen, nach denen NexFetch suchen soll"
   },
   "options_formats_video_label": {
     "message": "Video"
@@ -330,13 +330,13 @@
     "message": "Downloads/"
   },
   "options_download_placeholder": {
-    "message": "e.g., Vidow"
+    "message": "e.g., NexFetch"
   },
   "options_appearance_title": {
     "message": "Darstellung"
   },
   "options_appearance_description": {
-    "message": "Wähle das Erscheinungsbild von Video Downloader Plus"
+    "message": "Wähle das Erscheinungsbild von NexFetch"
   },
   "options_theme_system": {
     "message": "System"
@@ -378,7 +378,7 @@
     "message": "Website-Sperrliste"
   },
   "options_website_description": {
-    "message": "Video Downloader Plus auf bestimmten Websites deaktivieren"
+    "message": "NexFetch auf bestimmten Websites deaktivieren"
   },
   "options_website_add_label": {
     "message": "Website sperren"

@@ -1,18 +1,18 @@
 {
   "name": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "short_name": {
-    "message": "Vidow"
+    "message": "NexFetch"
   },
   "title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "desc": {
     "message": "Stiahnite a uložte videá z akejkoľvek stránky okamžite. Rýchly a jednoduchý nástroj na sťahovanie videí."
   },
   "action_title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "unit_mb_short": {
     "message": "MB"
@@ -234,13 +234,13 @@
     "message": "Začnite bezplatnú skúšobnú verziu a vysielajte akékoľvek video na televízor — bez záväzkov, zrušenie kedykoľvek."
   },
   "review_modal_title": {
-    "message": "Páči sa vám Video Downloader Plus?"
+    "message": "Páči sa vám NexFetch?"
   },
   "review_modal_message": {
-    "message": "Ak vám Video Downloader Plus pomohol, rýchle hodnotenie na Chrome Web Store by pre nás znamenalo veľa!"
+    "message": "Ak vám NexFetch pomohol, rýchle hodnotenie na Chrome Web Store by pre nás znamenalo veľa!"
   },
   "review_modal_rate": {
-    "message": "Ohodnotiť Video Downloader Plus"
+    "message": "Ohodnotiť NexFetch"
   },
   "review_modal_later": {
     "message": "Možno neskôr"
@@ -276,7 +276,7 @@
     "message": "Zavrieť"
   },
   "options_header_subtitle": {
-    "message": "Prispôsobte, ako Video Downloader Plus deteguje a ukladá videá"
+    "message": "Prispôsobte, ako NexFetch deteguje a ukladá videá"
   },
   "options_help_center": {
     "message": "Centrum pomoci"
@@ -288,7 +288,7 @@
     "message": "Formáty médií"
   },
   "options_formats_description": {
-    "message": "Vyberte typy súborov, ktoré má Video Downloader Plus hľadať"
+    "message": "Vyberte typy súborov, ktoré má NexFetch hľadať"
   },
   "options_formats_video_label": {
     "message": "Video"
@@ -330,13 +330,13 @@
     "message": "Downloads/"
   },
   "options_download_placeholder": {
-    "message": "e.g., Vidow"
+    "message": "e.g., NexFetch"
   },
   "options_appearance_title": {
     "message": "Vzhľad"
   },
   "options_appearance_description": {
-    "message": "Vyberte vzhľad Video Downloader Plus"
+    "message": "Vyberte vzhľad NexFetch"
   },
   "options_theme_system": {
     "message": "Systémový"
@@ -378,7 +378,7 @@
     "message": "Zoznam blokovaných"
   },
   "options_website_description": {
-    "message": "Zabráňte Video Downloader Plus v práci na konkrétnych stránkach"
+    "message": "Zabráňte NexFetch v práci na konkrétnych stránkach"
   },
   "options_website_add_label": {
     "message": "Blokovať stránku"

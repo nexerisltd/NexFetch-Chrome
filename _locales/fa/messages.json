@@ -1,18 +1,18 @@
 {
   "name": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "short_name": {
-    "message": "Vidow"
+    "message": "NexFetch"
   },
   "title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "desc": {
     "message": "ویدیوها را از هر وب‌سایتی فوراً دانلود و ذخیره کنید. دانلودر سریع و ساده ویدیو."
   },
   "action_title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "unit_mb_short": {
     "message": "MB"
@@ -234,13 +234,13 @@
     "message": "دوره آزمایشی رایگان خود را برای پخش هر ویدیویی به تلویزیونتان شروع کنید — بدون تعهد، هر زمان لغو کنید."
   },
   "review_modal_title": {
-    "message": "Video Downloader Plus را دوست دارید?"
+    "message": "NexFetch را دوست دارید?"
   },
   "review_modal_message": {
-    "message": "اگر Video Downloader Plus مفید بوده، یک نظر سریع در Chrome Web Store برای ما بسیار ارزشمند است!"
+    "message": "اگر NexFetch مفید بوده، یک نظر سریع در Chrome Web Store برای ما بسیار ارزشمند است!"
   },
   "review_modal_rate": {
-    "message": "امتیاز به Video Downloader Plus"
+    "message": "امتیاز به NexFetch"
   },
   "review_modal_later": {
     "message": "شاید بعداً"
@@ -276,7 +276,7 @@
     "message": "بستن"
   },
   "options_header_subtitle": {
-    "message": "نحوه شناسایی و ذخیره ویدیوها توسط Video Downloader Plus را سفارشی کنید"
+    "message": "نحوه شناسایی و ذخیره ویدیوها توسط NexFetch را سفارشی کنید"
   },
   "options_help_center": {
     "message": "مرکز راهنما"
@@ -288,7 +288,7 @@
     "message": "فرمت‌های رسانه"
   },
   "options_formats_description": {
-    "message": "انتخاب کنید Video Downloader Plus چه نوع فایل‌هایی جستجو کند"
+    "message": "انتخاب کنید NexFetch چه نوع فایل‌هایی جستجو کند"
   },
   "options_formats_video_label": {
     "message": "ویدیو"
@@ -330,13 +330,13 @@
     "message": "Downloads/"
   },
   "options_download_placeholder": {
-    "message": "e.g., Vidow"
+    "message": "e.g., NexFetch"
   },
   "options_appearance_title": {
     "message": "ظاهر"
   },
   "options_appearance_description": {
-    "message": "ظاهر Video Downloader Plus را انتخاب کنید"
+    "message": "ظاهر NexFetch را انتخاب کنید"
   },
   "options_theme_system": {
     "message": "سیستم"
@@ -378,7 +378,7 @@
     "message": "لیست مسدودی"
   },
   "options_website_description": {
-    "message": "جلوگیری از اجرای Video Downloader Plus در سایت‌های خاص"
+    "message": "جلوگیری از اجرای NexFetch در سایت‌های خاص"
   },
   "options_website_add_label": {
     "message": "مسدود کردن سایت"

@@ -1,18 +1,18 @@
 {
   "name": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "short_name": {
-    "message": "Vidow"
+    "message": "NexFetch"
   },
   "title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "desc": {
     "message": "எந்த வலைத்தளத்திலிருந்தும் வீடியோக்களை உடனடியாக பதிவிறக்கம் செய்து சேமிக்கவும். வேகமான, எளிய வீடியோ பதிவிறக்கி."
   },
   "action_title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "unit_mb_short": {
     "message": "MB"
@@ -234,13 +234,13 @@
     "message": "உங்கள் டிவிக்கு எந்த வீடியோவையும் காஸ்ட் செய்ய இலவச சோதனையைத் தொடங்குங்கள் — எந்த கடமையும் இல்லை, எப்போது வேண்டுமானாலும் ரத்து செய்யுங்கள்."
   },
   "review_modal_title": {
-    "message": "Video Downloader Plus பிடிக்குமா?"
+    "message": "NexFetch பிடிக்குமா?"
   },
   "review_modal_message": {
-    "message": "Video Downloader Plus உதவிகரமாக இருந்தால், Chrome Web Store-ல் விரைவான மதிப்பீடு எங்களுக்கு மிகவும் பொருள்படும்!"
+    "message": "NexFetch உதவிகரமாக இருந்தால், Chrome Web Store-ல் விரைவான மதிப்பீடு எங்களுக்கு மிகவும் பொருள்படும்!"
   },
   "review_modal_rate": {
-    "message": "Video Downloader Plus மதிப்பிடு"
+    "message": "NexFetch மதிப்பிடு"
   },
   "review_modal_later": {
     "message": "பிறகு ஒருவேளை"
@@ -276,7 +276,7 @@
     "message": "மூடு"
   },
   "options_header_subtitle": {
-    "message": "Video Downloader Plus வீடியோக்களை எவ்வாறு கண்டறிந்து சேமிக்கிறது என்பதைத் தனிப்பயனாக்கு"
+    "message": "NexFetch வீடியோக்களை எவ்வாறு கண்டறிந்து சேமிக்கிறது என்பதைத் தனிப்பயனாக்கு"
   },
   "options_help_center": {
     "message": "உதவி மையம்"
@@ -288,7 +288,7 @@
     "message": "ஊடக வடிவங்கள்"
   },
   "options_formats_description": {
-    "message": "Video Downloader Plus எந்த கோப்பு வகைகளைத் தேட வேண்டும் என்பதைத் தேர்ந்தெடுக்கவும்"
+    "message": "NexFetch எந்த கோப்பு வகைகளைத் தேட வேண்டும் என்பதைத் தேர்ந்தெடுக்கவும்"
   },
   "options_formats_video_label": {
     "message": "வீடியோ"
@@ -330,13 +330,13 @@
     "message": "Downloads/"
   },
   "options_download_placeholder": {
-    "message": "e.g., Vidow"
+    "message": "e.g., NexFetch"
   },
   "options_appearance_title": {
     "message": "தோற்றம்"
   },
   "options_appearance_description": {
-    "message": "Video Downloader Plus எப்படி தெரிய வேண்டும் என்பதைத் தேர்ந்தெடுக்கவும்"
+    "message": "NexFetch எப்படி தெரிய வேண்டும் என்பதைத் தேர்ந்தெடுக்கவும்"
   },
   "options_theme_system": {
     "message": "கணினி"
@@ -378,7 +378,7 @@
     "message": "தடுப்புப்பட்டியல்"
   },
   "options_website_description": {
-    "message": "குறிப்பிட்ட தளங்களில் Video Downloader Plus இயங்குவதைத் தடு"
+    "message": "குறிப்பிட்ட தளங்களில் NexFetch இயங்குவதைத் தடு"
   },
   "options_website_add_label": {
     "message": "தளத்தைத் தடு"

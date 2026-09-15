@@ -1,18 +1,18 @@
 {
   "name": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "short_name": {
-    "message": "Vidow"
+    "message": "NexFetch"
   },
   "title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "desc": {
     "message": "Миттєво завантажуйте та зберігайте відео з будь-якого сайту. Швидкий та простий завантажувач відео, який просто працює."
   },
   "action_title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "unit_mb_short": {
     "message": "MB"
@@ -234,13 +234,13 @@
     "message": "Почніть безкоштовний пробний період, щоб транслювати будь-яке відео на телевізор — без зобов'язань, скасуйте будь-коли."
   },
   "review_modal_title": {
-    "message": "Подобається Video Downloader Plus?"
+    "message": "Подобається NexFetch?"
   },
   "review_modal_message": {
-    "message": "Якщо Video Downloader Plus був корисним для вас, швидка оцінка в Chrome Web Store буде для нас дуже важливою!"
+    "message": "Якщо NexFetch був корисним для вас, швидка оцінка в Chrome Web Store буде для нас дуже важливою!"
   },
   "review_modal_rate": {
-    "message": "Оцінити Video Downloader Plus"
+    "message": "Оцінити NexFetch"
   },
   "review_modal_later": {
     "message": "Можливо, пізніше"
@@ -276,7 +276,7 @@
     "message": "Закрити"
   },
   "options_header_subtitle": {
-    "message": "Налаштуйте виявлення та збереження відео у Video Downloader Plus"
+    "message": "Налаштуйте виявлення та збереження відео у NexFetch"
   },
   "options_help_center": {
     "message": "Довідковий центр"
@@ -288,7 +288,7 @@
     "message": "Медіаформати"
   },
   "options_formats_description": {
-    "message": "Оберіть типи файлів, які шукатиме Video Downloader Plus"
+    "message": "Оберіть типи файлів, які шукатиме NexFetch"
   },
   "options_formats_video_label": {
     "message": "Відео"
@@ -330,13 +330,13 @@
     "message": "Downloads/"
   },
   "options_download_placeholder": {
-    "message": "e.g., Vidow"
+    "message": "e.g., NexFetch"
   },
   "options_appearance_title": {
     "message": "Зовнішній вигляд"
   },
   "options_appearance_description": {
-    "message": "Оберіть оформлення Video Downloader Plus"
+    "message": "Оберіть оформлення NexFetch"
   },
   "options_theme_system": {
     "message": "Системна"
@@ -378,7 +378,7 @@
     "message": "Чорний список сайтів"
   },
   "options_website_description": {
-    "message": "Заборонити роботу Video Downloader Plus на певних сайтах"
+    "message": "Заборонити роботу NexFetch на певних сайтах"
   },
   "options_website_add_label": {
     "message": "Заблокувати сайт"

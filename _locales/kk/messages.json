@@ -1,18 +1,18 @@
 {
   "name": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "short_name": {
-    "message": "Vidow"
+    "message": "NexFetch"
   },
   "title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "desc": {
     "message": "Кез келген веб-сайттан бейнелерді бірден жүктеп, сақтаңыз. Жылдам және қарапайым бейне жүктеуші."
   },
   "action_title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "unit_mb_short": {
     "message": "MB"
@@ -234,13 +234,13 @@
     "message": "Кез келген бейнені теледидарға жіберу үшін тегін сынақ кезеңін бастаңыз — міндеттемесіз, кез келген уақытта бас тартыңыз."
   },
   "review_modal_title": {
-    "message": "Video Downloader Plus ұнайды ма?"
+    "message": "NexFetch ұнайды ма?"
   },
   "review_modal_message": {
-    "message": "Video Downloader Plus пайдалы болса, Chrome Web Store-да жылдам пікір бізге өте маңызды!"
+    "message": "NexFetch пайдалы болса, Chrome Web Store-да жылдам пікір бізге өте маңызды!"
   },
   "review_modal_rate": {
-    "message": "Video Downloader Plus бағалау"
+    "message": "NexFetch бағалау"
   },
   "review_modal_later": {
     "message": "Мүмкін кейін"
@@ -276,7 +276,7 @@
     "message": "Жабу"
   },
   "options_header_subtitle": {
-    "message": "Video Downloader Plus бейнелерді қалай табатынын және сақтайтынын реттеңіз"
+    "message": "NexFetch бейнелерді қалай табатынын және сақтайтынын реттеңіз"
   },
   "options_help_center": {
     "message": "Анықтама орталығы"
@@ -288,7 +288,7 @@
     "message": "Медиа форматтары"
   },
   "options_formats_description": {
-    "message": "Video Downloader Plus қандай файл түрлерін іздейтінін таңдаңыз"
+    "message": "NexFetch қандай файл түрлерін іздейтінін таңдаңыз"
   },
   "options_formats_video_label": {
     "message": "Бейне"
@@ -330,13 +330,13 @@
     "message": "Downloads/"
   },
   "options_download_placeholder": {
-    "message": "e.g., Vidow"
+    "message": "e.g., NexFetch"
   },
   "options_appearance_title": {
     "message": "Көрініс"
   },
   "options_appearance_description": {
-    "message": "Video Downloader Plus қалай көрінетінін таңдаңыз"
+    "message": "NexFetch қалай көрінетінін таңдаңыз"
   },
   "options_theme_system": {
     "message": "Жүйе"
@@ -378,7 +378,7 @@
     "message": "Бұғаттау тізімі"
   },
   "options_website_description": {
-    "message": "Video Downloader Plus-дің белгілі сайттарда жұмыс істеуін болдырмау"
+    "message": "NexFetch-дің белгілі сайттарда жұмыс істеуін болдырмау"
   },
   "options_website_add_label": {
     "message": "Сайтты бұғаттау"

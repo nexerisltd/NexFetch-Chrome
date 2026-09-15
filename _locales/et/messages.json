@@ -1,18 +1,18 @@
 {
   "name": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "short_name": {
-    "message": "Vidow"
+    "message": "NexFetch"
   },
   "title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "desc": {
     "message": "Laadige ja salvestage videoid mis tahes veebisaidilt koheselt. Kiire ja lihtne video allalaadija."
   },
   "action_title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "unit_mb_short": {
     "message": "MB"
@@ -234,13 +234,13 @@
     "message": "Alustage tasuta prooviperioodi, et edastada mis tahes videot oma telerisse — ilma kohustuseta, tühistage igal ajal."
   },
   "review_modal_title": {
-    "message": "Kas teile meeldib Video Downloader Plus?"
+    "message": "Kas teile meeldib NexFetch?"
   },
   "review_modal_message": {
-    "message": "Kui Video Downloader Plus on olnud kasulik, tähendaks kiire hinnang Chrome Web Store'is meile palju!"
+    "message": "Kui NexFetch on olnud kasulik, tähendaks kiire hinnang Chrome Web Store'is meile palju!"
   },
   "review_modal_rate": {
-    "message": "Hinda Video Downloader Plus'd"
+    "message": "Hinda NexFetch'd"
   },
   "review_modal_later": {
     "message": "Võib-olla hiljem"
@@ -276,7 +276,7 @@
     "message": "Sulge"
   },
   "options_header_subtitle": {
-    "message": "Kohandage kuidas Video Downloader Plus tuvastab ja salvestab videoid"
+    "message": "Kohandage kuidas NexFetch tuvastab ja salvestab videoid"
   },
   "options_help_center": {
     "message": "Abikeskus"
@@ -288,7 +288,7 @@
     "message": "Meediavormingud"
   },
   "options_formats_description": {
-    "message": "Valige failitüübid, mida Video Downloader Plus peaks otsima"
+    "message": "Valige failitüübid, mida NexFetch peaks otsima"
   },
   "options_formats_video_label": {
     "message": "Video"
@@ -330,13 +330,13 @@
     "message": "Downloads/"
   },
   "options_download_placeholder": {
-    "message": "e.g., Vidow"
+    "message": "e.g., NexFetch"
   },
   "options_appearance_title": {
     "message": "Välimus"
   },
   "options_appearance_description": {
-    "message": "Valige kuidas Video Downloader Plus välja näeb"
+    "message": "Valige kuidas NexFetch välja näeb"
   },
   "options_theme_system": {
     "message": "Süsteemi"
@@ -378,7 +378,7 @@
     "message": "Blokeerimisloend"
   },
   "options_website_description": {
-    "message": "Takistage Video Downloader Plus töötamist kindlatel saitidel"
+    "message": "Takistage NexFetch töötamist kindlatel saitidel"
   },
   "options_website_add_label": {
     "message": "Blokeeri sait"

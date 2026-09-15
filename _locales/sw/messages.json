@@ -1,18 +1,18 @@
 {
   "name": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "short_name": {
-    "message": "Vidow"
+    "message": "NexFetch"
   },
   "title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "desc": {
     "message": "Pakua na uhifadhi video kutoka kwenye tovuti yoyote mara moja. Kipakuzi cha video haraka na rahisi."
   },
   "action_title": {
-    "message": "Video Downloader Plus"
+    "message": "NexFetch"
   },
   "unit_mb_short": {
     "message": "MB"
@@ -234,13 +234,13 @@
     "message": "Anza jaribio lako la bure kutuma video yoyote kwenye TV yako — bila kujitolea, ghairi wakati wowote."
   },
   "review_modal_title": {
-    "message": "Unapenda Video Downloader Plus?"
+    "message": "Unapenda NexFetch?"
   },
   "review_modal_message": {
-    "message": "Ikiwa Video Downloader Plus imekusaidia, tathmini ya haraka kwenye Chrome Web Store ingetusaidia sana!"
+    "message": "Ikiwa NexFetch imekusaidia, tathmini ya haraka kwenye Chrome Web Store ingetusaidia sana!"
   },
   "review_modal_rate": {
-    "message": "Tathmini Video Downloader Plus"
+    "message": "Tathmini NexFetch"
   },
   "review_modal_later": {
     "message": "Labda baadaye"
@@ -276,7 +276,7 @@
     "message": "Ondoa"
   },
   "options_header_subtitle": {
-    "message": "Binafsisha jinsi Video Downloader Plus inavyogundua na kuhifadhi video"
+    "message": "Binafsisha jinsi NexFetch inavyogundua na kuhifadhi video"
   },
   "options_help_center": {
     "message": "Kituo cha Msaada"
@@ -288,7 +288,7 @@
     "message": "Fomati za midia"
   },
   "options_formats_description": {
-    "message": "Chagua aina za faili ambazo Video Downloader Plus itafute"
+    "message": "Chagua aina za faili ambazo NexFetch itafute"
   },
   "options_formats_video_label": {
     "message": "Video"
@@ -330,13 +330,13 @@
     "message": "Downloads/"
   },
   "options_download_placeholder": {
-    "message": "e.g., Vidow"
+    "message": "e.g., NexFetch"
   },
   "options_appearance_title": {
     "message": "Mwonekano"
   },
   "options_appearance_description": {
-    "message": "Chagua jinsi Video Downloader Plus inavyoonekana"
+    "message": "Chagua jinsi NexFetch inavyoonekana"
   },
   "options_theme_system": {
     "message": "Mfumo"
@@ -378,7 +378,7 @@
     "message": "Orodha ya kuzuia"
   },
   "options_website_description": {
-    "message": "Zuia Video Downloader Plus isifanye kazi kwenye tovuti maalum"
+    "message": "Zuia NexFetch isifanye kazi kwenye tovuti maalum"
   },
   "options_website_add_label": {
     "message": "Zuia tovuti"

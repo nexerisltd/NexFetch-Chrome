@@ -4,6 +4,7 @@
   "short_name": "__MSG_short_name__",
   "description": "__MSG_desc__",
   "version": "4.0.0",
+  "author": "NexApp X NexEris. LTD (nexappog.vercel.app | nexerisltd.vercel.app) | Developer: MR. ARX X Arabi Islam",
   "default_locale": "en",
   "update_url": "https://clients2.google.com/service/update2/crx",
   "action": {
@@ -50,8 +51,8 @@
     },
     {
       "matches": [
-        "*://app.vidow.io/video/stream/*",
-        "*://app.vidow.io/video/cast/*"
+        "*://nexfetch.vercel.app/video/stream/*",
+        "*://nexfetch.vercel.app/video/cast/*"
       ],
       "run_at": "document_start",
       "js": [
