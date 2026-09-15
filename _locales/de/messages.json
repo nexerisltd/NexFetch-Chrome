@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "Videos von jeder Website sofort herunterladen und speichern. Ein schneller, einfacher Video-Downloader, der einfach funktioniert."
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "Später ansehen"
+  },
+  "popup_saved": {
+    "message": "Gespeichert"
+  },
+  "popup_my_list": {
+    "message": "Meine Liste"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 Qualitäten"
+  },
+  "popup_group_title_fallback": {
+    "message": "Video"
+  },
+  "popup_group_title_numbered": {
+    "message": "Video $1"
+  },
+  "popup_footer_settings": {
+    "message": "Einstellungen"
+  },
+  "popup_footer_reviews": {
+    "message": "Bewertungen"
+  },
+  "popup_footer_blog": {
+    "message": "Blog"
+  },
+  "popup_footer_account": {
+    "message": "Konto"
+  },
+  "popup_footer_upgrade": {
+    "message": "Upgraden"
+  },
+  "popup_play_button_label": {
+    "message": "Video abspielen"
+  },
+  "popup_cast_button_label": {
+    "message": "Auf Gerät übertragen"
+  },
+  "popup_live_label": {
+    "message": "Live"
+  },
+  "popup_download_label": {
+    "message": "Herunterladen"
+  },
+  "popup_audio_label": {
+    "message": "Audio"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "Nur Audio"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps Audio"
+  },
+  "popup_empty_state": {
+    "message": "Keine Videos gefunden."
+  },
+  "popup_report_no_video": {
+    "message": "Problem melden"
+  },
+  "popup_report_submitting": {
+    "message": "Wird gesendet..."
+  },
+  "popup_report_success": {
+    "message": "Vielen Dank für deine Meldung!"
+  },
+  "popup_report_error": {
+    "message": "Meldung konnte nicht gesendet werden. Bitte versuche es erneut."
+  },
+  "popup_site_blocked": {
+    "message": "Diese Website ist blockiert. Du kannst sie entsperren, um Videos zu erkennen."
+  },
+  "popup_unblock_site": {
+    "message": "Website entsperren"
+  },
+  "popup_toast_unblock_success": {
+    "message": "Website entsperrt! Seite wird neu geladen..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "Entsperren fehlgeschlagen"
+  },
+  "popup_block_site": {
+    "message": "Diese Website sperren"
+  },
+  "popup_toast_block_success": {
+    "message": "Website gesperrt! Seite wird neu geladen..."
+  },
+  "popup_toast_block_failed": {
+    "message": "Sperren fehlgeschlagen"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "Die sichere Download-Seite kann nicht geöffnet werden"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "Dieser sichere Download kann nicht vorbereitet werden"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "Sicherer Download wird vorbereitet…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "Der sichere Download kann nicht gestartet werden. Bitte versuche es erneut."
+  },
+  "popup_toast_open_source_failed": {
+    "message": "Dieses Video kann nicht geöffnet werden"
+  },
+  "popup_toast_identify_failed": {
+    "message": "Dieses Video kann nicht identifiziert werden"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "Von der 'Später ansehen'-Liste entfernt"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "Zur 'Später ansehen'-Liste hinzugefügt"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "'Später ansehen' kann nicht aktualisiert werden"
+  },
+  "popup_toast_settings_failed": {
+    "message": "Einstellungen können nicht geladen werden"
+  },
+  "popup_toast_videos_failed": {
+    "message": "Videos können nicht geladen werden"
+  },
+  "popup_toast_download_started": {
+    "message": "Download gestartet"
+  },
+  "popup_toast_download_failed": {
+    "message": "Download kann nicht gestartet werden"
+  },
+  "popup_toast_cast_error": {
+    "message": "Chromecast-Wiedergabe kann nicht vorbereitet werden. Bitte versuche es erneut."
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "Videos auf dieser Seite können nicht geladen werden"
+  },
+  "watch_later_error_server": {
+    "message": "Der Server kann nicht erreicht werden. Bitte versuche es erneut."
+  },
+  "watch_later_error_login": {
+    "message": "Bitte melde dich an, um 'Später ansehen'-Videos zu verwalten."
+  },
+  "watch_later_error_upgrade": {
+    "message": "Upgrade erforderlich, um 'Später ansehen' zu nutzen."
+  },
+  "watch_later_error_premium_only": {
+    "message": "Premium erforderlich, um Videos zu speichern."
+  },
+  "watch_later_error_limit": {
+    "message": "Du hast das kostenlose Speicherlimit erreicht."
+  },
+  "watch_later_error_generic": {
+    "message": "'Später ansehen' kann nicht aktualisiert werden. Bitte versuche es erneut."
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "Tab-Fingerabdruck fehlt."
+  },
+  "watch_later_error_missing_source": {
+    "message": "Diesem Video fehlt ein Quelllink."
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "'Später ansehen'-Kennung fehlt."
+  },
+  "save_premium_modal_title": {
+    "message": "Videos mit Premium speichern"
+  },
+  "save_premium_modal_message": {
+    "message": "Das Speichern von Videos in Ihrer Bibliothek ist für Premium-Mitglieder verfügbar. Upgraden Sie, um unbegrenzt Videos zu speichern."
+  },
+  "limit_modal_title": {
+    "message": "Speicherlimit erreicht"
+  },
+  "limit_modal_message": {
+    "message": "Du hast dein kostenloses Speicherlimit erreicht. Wechsel zu Premium, um unbegrenzt Videos zu speichern."
+  },
+  "limit_modal_upgrade": {
+    "message": "Premium holen"
+  },
+  "limit_modal_start_trial": {
+    "message": "Kostenlose Testversion starten"
+  },
+  "limit_modal_later": {
+    "message": "Nicht jetzt"
+  },
+  "hd_limit_modal_title": {
+    "message": "Tägliches HD-Download-Limit erreicht"
+  },
+  "hd_limit_modal_message": {
+    "message": "Du hast dein tägliches kostenloses HD-Download-Limit erreicht. Wechsel zu Premium, um Videos in voller Qualität ohne Einschränkungen herunterzuladen."
+  },
+  "download_premium_modal_title": {
+    "message": "Video-Downloads freischalten"
+  },
+  "download_premium_modal_message": {
+    "message": "Upgraden Sie auf Premium, um jedes Video in jeder Qualität herunterzuladen — unbegrenzte Downloads."
+  },
+  "cast_limit_modal_title": {
+    "message": "Tägliches Cast-Limit erreicht"
+  },
+  "cast_limit_modal_message": {
+    "message": "Du hast dein tägliches kostenloses Cast-Limit erreicht. Wechsel zu Premium, um jedes Video ohne Einschränkungen auf deinen Fernseher zu casten."
+  },
+  "cast_premium_modal_title": {
+    "message": "Mit Premium auf deinen Fernseher streamen"
+  },
+  "cast_premium_modal_message": {
+    "message": "Chromecast-Streaming ist für Premium-Mitglieder verfügbar. Wechsel zu Premium, um jedes Video ohne Einschränkungen auf deinen Fernseher zu casten."
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "Starten Sie Ihre kostenlose Testversion, um jedes Video auf Ihren Fernseher zu übertragen — keine Verpflichtung, jederzeit kündbar."
+  },
+  "review_modal_title": {
+    "message": "Gefällt dir Video Downloader Plus?"
+  },
+  "review_modal_message": {
+    "message": "Wenn Video Downloader Plus dir geholfen hat, würde uns eine kurze Bewertung im Chrome Web Store sehr freuen!"
+  },
+  "review_modal_rate": {
+    "message": "Video Downloader Plus bewerten"
+  },
+  "review_modal_later": {
+    "message": "Vielleicht später"
+  },
+  "download_limit_banner_remaining": {
+    "message": "Heute noch $1 HD-Downloads übrig"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "Tägliches HD-Download-Limit erreicht"
+  },
+  "download_limit_banner_reset": {
+    "message": "Wird in $1 zurückgesetzt"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "Upgraden Sie auf Premium — laden Sie jedes Video in jeder Qualität herunter, ohne Limits."
+  },
+  "generic_video_label": {
+    "message": "Video"
+  },
+  "popup_actions_cast": {
+    "message": "Übertragen"
+  },
+  "popup_actions_download": {
+    "message": "Herunterladen"
+  },
+  "popup_actions_premium": {
+    "message": "Premium"
+  },
+  "popup_actions_save": {
+    "message": "Speichern"
+  },
+  "toast_dismiss": {
+    "message": "Schließen"
+  },
+  "options_header_subtitle": {
+    "message": "Passe an, wie Video Downloader Plus Videos erkennt und speichert"
+  },
+  "options_help_center": {
+    "message": "Hilfecenter"
+  },
+  "options_support": {
+    "message": "Hilfe"
+  },
+  "options_formats_title": {
+    "message": "Medienformate"
+  },
+  "options_formats_description": {
+    "message": "Wähle die Dateitypen, nach denen Video Downloader Plus suchen soll"
+  },
+  "options_formats_video_label": {
+    "message": "Video"
+  },
+  "options_formats_audio_label": {
+    "message": "Audio"
+  },
+  "options_size_title": {
+    "message": "Größenschwelle"
+  },
+  "options_size_description": {
+    "message": "Dateien ignorieren, die kleiner als diese Größe sind"
+  },
+  "options_size_label": {
+    "message": "Mindestgröße"
+  },
+  "options_size_custom": {
+    "message": "Benutzerdefiniert"
+  },
+  "options_download_title": {
+    "message": "Speicherort"
+  },
+  "options_download_description": {
+    "message": "Wähle, wohin heruntergeladene Videos gespeichert werden"
+  },
+  "options_download_toggle_label": {
+    "message": "Eigener Ordner"
+  },
+  "options_download_toggle_description": {
+    "message": "Alle Downloads in einen Ordner leiten"
+  },
+  "options_download_folder_label": {
+    "message": "Ordnername"
+  },
+  "options_download_folder_description": {
+    "message": "Pfad in Downloads (leer für Stammverzeichnis)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "Darstellung"
+  },
+  "options_appearance_description": {
+    "message": "Wähle das Erscheinungsbild von Video Downloader Plus"
+  },
+  "options_theme_system": {
+    "message": "System"
+  },
+  "options_theme_light": {
+    "message": "Hell"
+  },
+  "options_theme_dark": {
+    "message": "Dunkel"
+  },
+  "options_cast_title": {
+    "message": "Auf TV streamen"
+  },
+  "options_cast_description": {
+    "message": "Videos auf Chromecast-fähige Geräte streamen"
+  },
+  "options_cast_toggle_label": {
+    "message": "Cast-Button"
+  },
+  "options_cast_toggle_description": {
+    "message": "Cast-Symbol neben unterstützten Videos anzeigen"
+  },
+  "options_badge_title": {
+    "message": "Badge"
+  },
+  "options_badge_description": {
+    "message": "Wähle, was das Badge des Symbolleisten-Icons anzeigt"
+  },
+  "options_badge_count": {
+    "message": "Anzahl"
+  },
+  "options_badge_dot": {
+    "message": "Punkt"
+  },
+  "options_badge_hidden": {
+    "message": "Versteckt"
+  },
+  "options_website_title": {
+    "message": "Website-Sperrliste"
+  },
+  "options_website_description": {
+    "message": "Video Downloader Plus auf bestimmten Websites deaktivieren"
+  },
+  "options_website_add_label": {
+    "message": "Website sperren"
+  },
+  "options_website_add_description": {
+    "message": "Akzeptierte Muster: <code>example.com</code> oder <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com oder *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "Sperren"
+  },
+  "options_website_list_label": {
+    "message": "Gesperrte Websites"
+  },
+  "options_website_empty": {
+    "message": "Noch keine Websites gesperrt"
+  },
+  "options_status_unsaved": {
+    "message": "Ungespeicherte Änderungen"
+  },
+  "options_status_saved": {
+    "message": "Einstellungen gespeichert"
+  },
+  "options_button_save": {
+    "message": "Anwenden"
+  },
+  "options_button_reset": {
+    "message": "Auf Standard zurücksetzen"
+  },
+  "options_button_reset_confirm": {
+    "message": "Bist du sicher?"
+  },
+  "options_toast_reset_success": {
+    "message": "Einstellungen auf Standard zurückgesetzt"
+  },
+  "options_toast_reset_error": {
+    "message": "Einstellungen konnten nicht zurückgesetzt werden"
+  },
+  "options_button_logout": {
+    "message": "Abmelden"
+  },
+  "options_toast_min_size": {
+    "message": "Minimum ist $1 $2"
+  },
+  "options_toast_enter_domain": {
+    "message": "Gib zuerst eine Domain ein"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "Ungültige Eingabe"
+  },
+  "options_toast_invalid_domain": {
+    "message": "Gib eine gültige Domain ein, z.B. example.com oder *.example.com"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "Ungültige Domain"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "Diese Website ist bereits in der Sperrliste"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "Bereits gesperrt"
+  },
+  "options_toast_block_limit": {
+    "message": "Du kannst bis zu $1 Websites sperren."
+  },
+  "options_toast_permission_denied": {
+    "message": "Zugriff verweigert. Aktiviere den Schalter erneut, um es noch einmal zu versuchen."
+  },
+  "options_toast_permission_title": {
+    "message": "Zugriff erforderlich"
+  },
+  "options_toast_permission_failed": {
+    "message": "Berechtigung konnte nicht angefordert werden. Versuche es erneut."
+  },
+  "options_toast_save_success": {
+    "message": "Einstellungen angewendet"
+  },
+  "options_toast_save_error": {
+    "message": "Speichern fehlgeschlagen. Bitte erneut versuchen."
+  },
+  "options_toast_logout_success": {
+    "message": "Abgemeldet"
+  },
+  "options_toast_logout_error": {
+    "message": "Abmeldung fehlgeschlagen. Bitte erneut versuchen."
+  },
+  "options_toast_load_error": {
+    "message": "Einstellungen konnten nicht geladen werden. Seite aktualisieren."
+  },
+  "options_footer_privacy": {
+    "message": "Datenschutzrichtlinie"
+  },
+  "options_footer_terms": {
+    "message": "Nutzungsbedingungen"
+  },
+  "player_modal_close": {
+    "message": "Player schließen"
+  },
+  "player_modal_error": {
+    "message": "Dieses Video kann nicht abgespielt werden"
+  },
+  "player_modal_unsupported": {
+    "message": "Dieses Format kann nicht in der Vorschau angezeigt werden. Verwende stattdessen den Download."
+  },
+  "player_modal_loading": {
+    "message": "Video wird geladen..."
+  },
+  "options_header_badge": {
+    "message": "Einstellungen"
+  },
+  "toast_viewport_label": {
+    "message": "Benachrichtigungen"
+  },
+  "popup_group_streaming_title": {
+    "message": "Streaming $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "Serverabruf $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "Direkter Download $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "Serverabruf"
+  },
+  "popup_group_merge_note": {
+    "message": "Audio und Video sind getrennt — sie werden beim Download zusammengeführt"
+  },
+  "popup_dismiss_label": {
+    "message": "Schließen"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "Stream-Wiedergabe fehlgeschlagen"
+  },
+  "player_error_hls_unsupported": {
+    "message": "HLS-Wiedergabe wird nicht unterstützt"
+  },
+  "player_error_library_failed": {
+    "message": "Streaming-Bibliothek konnte nicht geladen werden"
+  },
+  "player_error_no_url": {
+    "message": "Keine abspielbare URL verfügbar"
+  },
+  "player_error_unsupported_format": {
+    "message": "Dieses Format kann nicht in der Vorschau angezeigt werden"
+  },
+  "error_no_internet": {
+    "message": "Keine Internetverbindung"
+  },
+  "error_server_unavailable": {
+    "message": "Server vorübergehend nicht erreichbar"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "Starte deine kostenlose Testversion, um jedes Video sofort herunterzuladen — keine Verpflichtung, jederzeit kündbar."
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "Premium kostenlos testen — lade jedes Video in jeder Qualität herunter, ohne Limits."
+  }
+}

@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "Atsisiųskite ir išsaugokite vaizdo įrašus iš bet kurios svetainės akimirksniu. Greitas ir paprastas vaizdo įrašų atsisiuntimo įrankis."
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "Žiūrėti vėliau"
+  },
+  "popup_saved": {
+    "message": "Išsaugota"
+  },
+  "popup_my_list": {
+    "message": "Mano sąrašas"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 kokybės"
+  },
+  "popup_group_title_fallback": {
+    "message": "Vaizdo įrašas"
+  },
+  "popup_group_title_numbered": {
+    "message": "Vaizdo įrašas $1"
+  },
+  "popup_footer_settings": {
+    "message": "Nustatymai"
+  },
+  "popup_footer_reviews": {
+    "message": "Atsiliepimai"
+  },
+  "popup_footer_blog": {
+    "message": "Tinklaraštis"
+  },
+  "popup_footer_account": {
+    "message": "Paskyra"
+  },
+  "popup_footer_upgrade": {
+    "message": "Atnaujinti"
+  },
+  "popup_play_button_label": {
+    "message": "Leisti vaizdo įrašą"
+  },
+  "popup_cast_button_label": {
+    "message": "Perduoti į įrenginį"
+  },
+  "popup_live_label": {
+    "message": "Tiesiogiai"
+  },
+  "popup_download_label": {
+    "message": "Atsisiųsti"
+  },
+  "popup_audio_label": {
+    "message": "Garsas"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "Tik garsas"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps garsas"
+  },
+  "popup_empty_state": {
+    "message": "Vaizdo įrašų nerasta."
+  },
+  "popup_report_no_video": {
+    "message": "Pranešti apie problemą"
+  },
+  "popup_report_submitting": {
+    "message": "Siunčiama..."
+  },
+  "popup_report_success": {
+    "message": "Ačiū už pranešimą!"
+  },
+  "popup_report_error": {
+    "message": "Nepavyko išsiųsti. Bandykite dar kartą."
+  },
+  "popup_site_blocked": {
+    "message": "Ši svetainė užblokuota. Galite ją atblokuoti, kad aptiktumėte vaizdo įrašus."
+  },
+  "popup_unblock_site": {
+    "message": "Atblokuoti svetainę"
+  },
+  "popup_toast_unblock_success": {
+    "message": "Svetainė atblokuota! Perkraunama..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "Nepavyko atblokuoti"
+  },
+  "popup_block_site": {
+    "message": "Užblokuoti šią svetainę"
+  },
+  "popup_toast_block_success": {
+    "message": "Svetainė užblokuota! Perkraunama..."
+  },
+  "popup_toast_block_failed": {
+    "message": "Nepavyko užblokuoti"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "Nepavyko atidaryti saugaus atsisiuntimo puslapio"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "Nepavyko paruošti saugaus atsisiuntimo"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "Ruošiamas saugus atsisiuntimas…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "Nepavyko pradėti saugaus atsisiuntimo. Bandykite dar kartą."
+  },
+  "popup_toast_open_source_failed": {
+    "message": "Nepavyko atidaryti šio vaizdo įrašo"
+  },
+  "popup_toast_identify_failed": {
+    "message": "Nepavyko identifikuoti šio vaizdo įrašo"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "Pašalinta iš Žiūrėti vėliau sąrašo"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "Išsaugota Žiūrėti vėliau sąraše"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "Nepavyko atnaujinti Žiūrėti vėliau"
+  },
+  "popup_toast_settings_failed": {
+    "message": "Nepavyko įkelti nustatymų"
+  },
+  "popup_toast_videos_failed": {
+    "message": "Nepavyko įkelti vaizdo įrašų"
+  },
+  "popup_toast_download_started": {
+    "message": "Atsisiuntimas pradėtas"
+  },
+  "popup_toast_download_failed": {
+    "message": "Nepavyko pradėti atsisiuntimo"
+  },
+  "popup_toast_cast_error": {
+    "message": "Nepavyko paruošti Chromecast. Bandykite dar kartą."
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "Nepavyko įkelti vaizdo įrašų šiame puslapyje"
+  },
+  "watch_later_error_server": {
+    "message": "Nepavyko susisiekti su serveriu. Bandykite dar kartą."
+  },
+  "watch_later_error_login": {
+    "message": "Prisijunkite, kad tvarkytumėte Žiūrėti vėliau vaizdo įrašus."
+  },
+  "watch_later_error_upgrade": {
+    "message": "Žiūrėti vėliau reikia atnaujinimo."
+  },
+  "watch_later_error_premium_only": {
+    "message": "Vaizdo įrašams išsaugoti reikalingas Premium."
+  },
+  "watch_later_error_limit": {
+    "message": "Pasiekėte nemokamą išsaugojimo limitą."
+  },
+  "watch_later_error_generic": {
+    "message": "Nepavyko atnaujinti Žiūrėti vėliau. Bandykite dar kartą."
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "Trūksta skirtuko pirštų atspaudų."
+  },
+  "watch_later_error_missing_source": {
+    "message": "Šiam vaizdo įrašui trūksta šaltinio nuorodos."
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "Trūksta Žiūrėti vėliau identifikatoriaus."
+  },
+  "save_premium_modal_title": {
+    "message": "Išsaugokite vaizdo įrašus su Premium"
+  },
+  "save_premium_modal_message": {
+    "message": "Vaizdo įrašų išsaugojimas jūsų bibliotekoje prieinamas Premium nariams. Atnaujinkite, kad galėtumėte išsaugoti neribotai vaizdo įrašų."
+  },
+  "limit_modal_title": {
+    "message": "Pasiektas išsaugojimo limitas"
+  },
+  "limit_modal_message": {
+    "message": "Pasiekėte nemokamą išsaugojimo limitą. Atnaujinkite iki Premium, kad išsaugotumėte neribotai vaizdo įrašų."
+  },
+  "limit_modal_upgrade": {
+    "message": "Gauti Premium"
+  },
+  "limit_modal_start_trial": {
+    "message": "Pradėti nemokamą bandomąjį laikotarpį"
+  },
+  "limit_modal_later": {
+    "message": "Ne dabar"
+  },
+  "hd_limit_modal_title": {
+    "message": "Pasiektas dienos HD atsisiuntimo limitas"
+  },
+  "hd_limit_modal_message": {
+    "message": "Pasiekėte dienos nemokamą HD atsisiuntimo limitą. Atnaujinkite iki Premium, kad atsisiųstumėte vaizdo įrašus pilna kokybe be apribojimų."
+  },
+  "download_premium_modal_title": {
+    "message": "Atrakinkite vaizdo įrašų atsisiuntimus"
+  },
+  "download_premium_modal_message": {
+    "message": "Atnaujinkite iki Premium, kad galėtumėte atsisiųsti bet kokį vaizdo įrašą bet kokia kokybe — neribotas atsisiuntimas."
+  },
+  "cast_limit_modal_title": {
+    "message": "Pasiektas dienos transliavimo limitas"
+  },
+  "cast_limit_modal_message": {
+    "message": "Pasiekėte dienos nemokamą transliavimo limitą. Atnaujinkite iki Premium, kad transliuotumėte bet kokį vaizdo įrašą į TV be apribojimų."
+  },
+  "cast_premium_modal_title": {
+    "message": "Transliuokite į TV su Premium"
+  },
+  "cast_premium_modal_message": {
+    "message": "Chromecast transliavimas prieinamas Premium nariams. Atnaujinkite, kad srautintumėte bet kokį vaizdo įrašą į TV be apribojimų."
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "Pradėkite nemokamą bandomąjį laikotarpį ir transliuokite bet kokį vaizdo įrašą į televizorių — be įsipareigojimų, atšaukite bet kada."
+  },
+  "review_modal_title": {
+    "message": "Ar jums patinka Video Downloader Plus?"
+  },
+  "review_modal_message": {
+    "message": "Jei Video Downloader Plus buvo naudingas, greitas įvertinimas Chrome Web Store mums labai daug reikštų!"
+  },
+  "review_modal_rate": {
+    "message": "Įvertinti Video Downloader Plus"
+  },
+  "review_modal_later": {
+    "message": "Gal vėliau"
+  },
+  "download_limit_banner_remaining": {
+    "message": "$1 HD atsisiuntimas(-ai) liko šiandien"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "Dienos HD atsisiuntimo limitas pasiektas"
+  },
+  "download_limit_banner_reset": {
+    "message": "Atstatoma po $1"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "Atnaujinkite iki Premium — atsisiųskite bet kokį vaizdo įrašą bet kokia kokybe, be apribojimų."
+  },
+  "generic_video_label": {
+    "message": "Vaizdo įrašas"
+  },
+  "popup_actions_cast": {
+    "message": "Perduoti"
+  },
+  "popup_actions_download": {
+    "message": "Atsisiųsti"
+  },
+  "popup_actions_premium": {
+    "message": "Premium"
+  },
+  "popup_actions_save": {
+    "message": "Išsaugoti"
+  },
+  "toast_dismiss": {
+    "message": "Uždaryti"
+  },
+  "options_header_subtitle": {
+    "message": "Tinkinkite, kaip Video Downloader Plus aptinka ir saugo vaizdo įrašus"
+  },
+  "options_help_center": {
+    "message": "Pagalbos centras"
+  },
+  "options_support": {
+    "message": "Palaikymas"
+  },
+  "options_formats_title": {
+    "message": "Medijos formatai"
+  },
+  "options_formats_description": {
+    "message": "Pasirinkite failų tipus, kurių Video Downloader Plus turėtų ieškoti"
+  },
+  "options_formats_video_label": {
+    "message": "Vaizdo įrašas"
+  },
+  "options_formats_audio_label": {
+    "message": "Garsas"
+  },
+  "options_size_title": {
+    "message": "Dydžio riba"
+  },
+  "options_size_description": {
+    "message": "Ignoruoti mažesnius failus"
+  },
+  "options_size_label": {
+    "message": "Min. dydis"
+  },
+  "options_size_custom": {
+    "message": "Pasirinktinis"
+  },
+  "options_download_title": {
+    "message": "Saugojimo vieta"
+  },
+  "options_download_description": {
+    "message": "Pasirinkite, kur saugomi atsisiųsti vaizdo įrašai"
+  },
+  "options_download_toggle_label": {
+    "message": "Atskiras aplankas"
+  },
+  "options_download_toggle_description": {
+    "message": "Nukreipti visus saugojimus į vieną aplanką"
+  },
+  "options_download_folder_label": {
+    "message": "Aplanko pavadinimas"
+  },
+  "options_download_folder_description": {
+    "message": "Kelias Atsisiuntimuose (tuščias šakniai)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "Išvaizda"
+  },
+  "options_appearance_description": {
+    "message": "Pasirinkite, kaip atrodo Video Downloader Plus"
+  },
+  "options_theme_system": {
+    "message": "Sistemos"
+  },
+  "options_theme_light": {
+    "message": "Šviesus"
+  },
+  "options_theme_dark": {
+    "message": "Tamsus"
+  },
+  "options_cast_title": {
+    "message": "Perduoti į TV"
+  },
+  "options_cast_description": {
+    "message": "Transliuokite vaizdo įrašus į Chromecast įrenginius"
+  },
+  "options_cast_toggle_label": {
+    "message": "Perdavimo mygtukas"
+  },
+  "options_cast_toggle_description": {
+    "message": "Rodyti perdavimo piktogramą šalia palaikomų vaizdo įrašų"
+  },
+  "options_badge_title": {
+    "message": "Ženkliukas"
+  },
+  "options_badge_description": {
+    "message": "Pasirinkite, ką rodo įrankių juostos piktogramos ženkliukas"
+  },
+  "options_badge_count": {
+    "message": "Skaičius"
+  },
+  "options_badge_dot": {
+    "message": "Taškas"
+  },
+  "options_badge_hidden": {
+    "message": "Paslėpta"
+  },
+  "options_website_title": {
+    "message": "Blokavimo sąrašas"
+  },
+  "options_website_description": {
+    "message": "Neleiskite Video Downloader Plus veikti tam tikrose svetainėse"
+  },
+  "options_website_add_label": {
+    "message": "Blokuoti svetainę"
+  },
+  "options_website_add_description": {
+    "message": "Priimami šablonai: <code>example.com</code> arba <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com arba *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "Blokuoti"
+  },
+  "options_website_list_label": {
+    "message": "Užblokuotos svetainės"
+  },
+  "options_website_empty": {
+    "message": "Dar nėra užblokuotų svetainių"
+  },
+  "options_status_unsaved": {
+    "message": "Neišsaugoti pakeitimai"
+  },
+  "options_status_saved": {
+    "message": "Nustatymai išsaugoti"
+  },
+  "options_button_save": {
+    "message": "Taikyti"
+  },
+  "options_button_reset": {
+    "message": "Atkurti numatytuosius"
+  },
+  "options_button_reset_confirm": {
+    "message": "Ar tikrai?"
+  },
+  "options_toast_reset_success": {
+    "message": "Nustatymai atkurti į numatytuosius"
+  },
+  "options_toast_reset_error": {
+    "message": "Nepavyko atstatyti nustatymų"
+  },
+  "options_button_logout": {
+    "message": "Atsijungti"
+  },
+  "options_toast_min_size": {
+    "message": "Minimumas yra $1 $2"
+  },
+  "options_toast_enter_domain": {
+    "message": "Pirmiausia įveskite domeną"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "Neteisingas įvedimas"
+  },
+  "options_toast_invalid_domain": {
+    "message": "Įveskite tinkamą domeną, pvz., example.com arba *.example.com"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "Neteisingas domenas"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "Ši svetainė jau blokavimo sąraše"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "Jau užblokuota"
+  },
+  "options_toast_block_limit": {
+    "message": "Galite užblokuoti iki $1 svetainių."
+  },
+  "options_toast_permission_denied": {
+    "message": "Prieiga uždrausta. Perjunkite, kad bandytumėte dar kartą."
+  },
+  "options_toast_permission_title": {
+    "message": "Reikalinga prieiga"
+  },
+  "options_toast_permission_failed": {
+    "message": "Nepavyko paprašyti leidimo. Bandykite dar kartą."
+  },
+  "options_toast_save_success": {
+    "message": "Nustatymai pritaikyti"
+  },
+  "options_toast_save_error": {
+    "message": "Nepavyko išsaugoti. Bandykite dar kartą."
+  },
+  "options_toast_logout_success": {
+    "message": "Atsijungta"
+  },
+  "options_toast_logout_error": {
+    "message": "Atsijungimas nepavyko. Bandykite dar kartą."
+  },
+  "options_toast_load_error": {
+    "message": "Nepavyko įkelti nustatymų. Atnaujinkite puslapį."
+  },
+  "options_footer_privacy": {
+    "message": "Privatumo politika"
+  },
+  "options_footer_terms": {
+    "message": "Paslaugų teikimo sąlygos"
+  },
+  "player_modal_close": {
+    "message": "Uždaryti grotuvą"
+  },
+  "player_modal_error": {
+    "message": "Nepavyko paleisti šio vaizdo įrašo"
+  },
+  "player_modal_unsupported": {
+    "message": "Šio formato peržiūra negalima. Naudokite atsisiuntimą."
+  },
+  "player_modal_loading": {
+    "message": "Kraunamas vaizdo įrašas..."
+  },
+  "options_header_badge": {
+    "message": "Nustatymai"
+  },
+  "toast_viewport_label": {
+    "message": "Pranešimai"
+  },
+  "popup_group_streaming_title": {
+    "message": "Transliacija $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "Serverio gavimas $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "Tiesioginis atsisiuntimas $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "Serverio gavimas"
+  },
+  "popup_group_merge_note": {
+    "message": "Garsas ir vaizdo įrašas yra atskiri — jie bus sujungti atsisiunčiant"
+  },
+  "popup_dismiss_label": {
+    "message": "Atmesti"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "Srauto atkūrimas nepavyko"
+  },
+  "player_error_hls_unsupported": {
+    "message": "HLS atkūrimas nepalaikomas"
+  },
+  "player_error_library_failed": {
+    "message": "Nepavyko įkelti transliacijos bibliotekos"
+  },
+  "player_error_no_url": {
+    "message": "Nėra leidžiamo URL"
+  },
+  "player_error_unsupported_format": {
+    "message": "Šio formato peržiūra negalima"
+  },
+  "error_no_internet": {
+    "message": "Nėra interneto ryšio"
+  },
+  "error_server_unavailable": {
+    "message": "Serveris laikinai nepasiekiamas"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "Pradėkite nemokamą bandomąjį laikotarpį, kad iš karto atsisiųstumėte bet kokį vaizdo įrašą — jokių įsipareigojimų, atšaukite bet kada."
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "Išbandykite Premium nemokamai — atsisiųskite bet kokį vaizdo įrašą bet kokia kokybe, be apribojimų."
+  }
+}

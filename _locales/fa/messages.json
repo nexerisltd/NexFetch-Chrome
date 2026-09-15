@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "ویدیوها را از هر وب‌سایتی فوراً دانلود و ذخیره کنید. دانلودر سریع و ساده ویدیو."
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "تماشای بعدی"
+  },
+  "popup_saved": {
+    "message": "ذخیره شد"
+  },
+  "popup_my_list": {
+    "message": "لیست من"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 کیفیت"
+  },
+  "popup_group_title_fallback": {
+    "message": "ویدیو"
+  },
+  "popup_group_title_numbered": {
+    "message": "ویدیو $1"
+  },
+  "popup_footer_settings": {
+    "message": "تنظیمات"
+  },
+  "popup_footer_reviews": {
+    "message": "نظرات"
+  },
+  "popup_footer_blog": {
+    "message": "وبلاگ"
+  },
+  "popup_footer_account": {
+    "message": "حساب"
+  },
+  "popup_footer_upgrade": {
+    "message": "ارتقا"
+  },
+  "popup_play_button_label": {
+    "message": "پخش ویدیو"
+  },
+  "popup_cast_button_label": {
+    "message": "ارسال به دستگاه"
+  },
+  "popup_live_label": {
+    "message": "زنده"
+  },
+  "popup_download_label": {
+    "message": "دانلود"
+  },
+  "popup_audio_label": {
+    "message": "صوتی"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "فقط صدا"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps صدا"
+  },
+  "popup_empty_state": {
+    "message": "ویدیویی یافت نشد."
+  },
+  "popup_report_no_video": {
+    "message": "گزارش مشکل"
+  },
+  "popup_report_submitting": {
+    "message": "در حال ارسال..."
+  },
+  "popup_report_success": {
+    "message": "با تشکر از گزارش شما!"
+  },
+  "popup_report_error": {
+    "message": "ارسال ناموفق بود. دوباره تلاش کنید."
+  },
+  "popup_site_blocked": {
+    "message": "این سایت مسدود شده است. می‌توانید آن را رفع مسدودی کنید تا ویدیوها شناسایی شوند."
+  },
+  "popup_unblock_site": {
+    "message": "رفع مسدودی سایت"
+  },
+  "popup_toast_unblock_success": {
+    "message": "سایت رفع مسدودی شد! بارگذاری مجدد..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "رفع مسدودی ناموفق"
+  },
+  "popup_block_site": {
+    "message": "مسدود کردن این سایت"
+  },
+  "popup_toast_block_success": {
+    "message": "سایت مسدود شد! بارگذاری مجدد..."
+  },
+  "popup_toast_block_failed": {
+    "message": "مسدود کردن ناموفق"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "باز کردن صفحه دانلود امن ممکن نیست"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "آماده‌سازی دانلود امن ممکن نیست"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "آماده‌سازی دانلود امن…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "شروع دانلود امن ممکن نیست. دوباره تلاش کنید."
+  },
+  "popup_toast_open_source_failed": {
+    "message": "باز کردن این ویدیو ممکن نیست"
+  },
+  "popup_toast_identify_failed": {
+    "message": "شناسایی این ویدیو ممکن نیست"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "از لیست تماشای بعدی حذف شد"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "در لیست تماشای بعدی ذخیره شد"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "به‌روزرسانی تماشای بعدی ممکن نیست"
+  },
+  "popup_toast_settings_failed": {
+    "message": "بارگذاری تنظیمات ممکن نیست"
+  },
+  "popup_toast_videos_failed": {
+    "message": "بارگذاری ویدیوها ممکن نیست"
+  },
+  "popup_toast_download_started": {
+    "message": "دانلود شروع شد"
+  },
+  "popup_toast_download_failed": {
+    "message": "شروع دانلود ممکن نیست"
+  },
+  "popup_toast_cast_error": {
+    "message": "آماده‌سازی Chromecast ممکن نیست. دوباره تلاش کنید."
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "بارگذاری ویدیوها در این صفحه ممکن نیست"
+  },
+  "watch_later_error_server": {
+    "message": "اتصال به سرور ممکن نیست. دوباره تلاش کنید."
+  },
+  "watch_later_error_login": {
+    "message": "برای مدیریت ویدیوهای تماشای بعدی وارد شوید."
+  },
+  "watch_later_error_upgrade": {
+    "message": "ارتقا برای تماشای بعدی لازم است."
+  },
+  "watch_later_error_premium_only": {
+    "message": "برای ذخیره ویدیوها Premium لازم است."
+  },
+  "watch_later_error_limit": {
+    "message": "به حد ذخیره رایگان رسیده‌اید."
+  },
+  "watch_later_error_generic": {
+    "message": "به‌روزرسانی تماشای بعدی ممکن نیست. دوباره تلاش کنید."
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "اثر انگشت تب موجود نیست."
+  },
+  "watch_later_error_missing_source": {
+    "message": "این ویدیو لینک منبع ندارد."
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "شناسه تماشای بعدی موجود نیست."
+  },
+  "save_premium_modal_title": {
+    "message": "ذخیره ویدیوها با Premium"
+  },
+  "save_premium_modal_message": {
+    "message": "ذخیره ویدیوها در کتابخانه شما برای اعضای Premium در دسترس است. برای ذخیره نامحدود ویدیوها ارتقا دهید."
+  },
+  "limit_modal_title": {
+    "message": "به حد ذخیره‌سازی رسیدید"
+  },
+  "limit_modal_message": {
+    "message": "به حد ذخیره‌سازی رایگان خود رسیدید. برای ذخیره نامحدود ویدیوها به پریمیوم ارتقا دهید."
+  },
+  "limit_modal_upgrade": {
+    "message": "دریافت پریمیوم"
+  },
+  "limit_modal_start_trial": {
+    "message": "شروع دوره آزمایشی رایگان"
+  },
+  "limit_modal_later": {
+    "message": "الان نه"
+  },
+  "hd_limit_modal_title": {
+    "message": "به حد روزانه دانلود HD رسیدید"
+  },
+  "hd_limit_modal_message": {
+    "message": "به حد روزانه دانلود رایگان HD خود رسیدید. برای دانلود ویدیوها با کیفیت کامل بدون محدودیت به پریمیوم ارتقا دهید."
+  },
+  "download_premium_modal_title": {
+    "message": "دانلود ویدیوها را باز کنید"
+  },
+  "download_premium_modal_message": {
+    "message": "برای دانلود هر ویدیویی با هر کیفیتی به Premium ارتقا دهید — دانلودهای نامحدود."
+  },
+  "cast_limit_modal_title": {
+    "message": "به حد روزانه پخش رسیدید"
+  },
+  "cast_limit_modal_message": {
+    "message": "به حد روزانه پخش رایگان خود رسیدید. برای پخش هر ویدیویی روی تلویزیون بدون محدودیت به پریمیوم ارتقا دهید."
+  },
+  "cast_premium_modal_title": {
+    "message": "با پریمیوم روی تلویزیون پخش کنید"
+  },
+  "cast_premium_modal_message": {
+    "message": "پخش Chromecast برای اعضای پریمیوم در دسترس است. برای استریم هر ویدیویی روی تلویزیون بدون محدودیت ارتقا دهید."
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "دوره آزمایشی رایگان خود را برای پخش هر ویدیویی به تلویزیونتان شروع کنید — بدون تعهد، هر زمان لغو کنید."
+  },
+  "review_modal_title": {
+    "message": "Video Downloader Plus را دوست دارید?"
+  },
+  "review_modal_message": {
+    "message": "اگر Video Downloader Plus مفید بوده، یک نظر سریع در Chrome Web Store برای ما بسیار ارزشمند است!"
+  },
+  "review_modal_rate": {
+    "message": "امتیاز به Video Downloader Plus"
+  },
+  "review_modal_later": {
+    "message": "شاید بعداً"
+  },
+  "download_limit_banner_remaining": {
+    "message": "$1 دانلود HD امروز باقی مانده"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "حد روزانه دانلود HD پر شد"
+  },
+  "download_limit_banner_reset": {
+    "message": "بازنشانی در $1"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "به Premium ارتقا دهید — هر ویدیویی را با هر کیفیتی دانلود کنید، بدون محدودیت."
+  },
+  "generic_video_label": {
+    "message": "ویدیو"
+  },
+  "popup_actions_cast": {
+    "message": "ارسال"
+  },
+  "popup_actions_download": {
+    "message": "دانلود"
+  },
+  "popup_actions_premium": {
+    "message": "پریمیوم"
+  },
+  "popup_actions_save": {
+    "message": "ذخیره"
+  },
+  "toast_dismiss": {
+    "message": "بستن"
+  },
+  "options_header_subtitle": {
+    "message": "نحوه شناسایی و ذخیره ویدیوها توسط Video Downloader Plus را سفارشی کنید"
+  },
+  "options_help_center": {
+    "message": "مرکز راهنما"
+  },
+  "options_support": {
+    "message": "پشتیبانی"
+  },
+  "options_formats_title": {
+    "message": "فرمت‌های رسانه"
+  },
+  "options_formats_description": {
+    "message": "انتخاب کنید Video Downloader Plus چه نوع فایل‌هایی جستجو کند"
+  },
+  "options_formats_video_label": {
+    "message": "ویدیو"
+  },
+  "options_formats_audio_label": {
+    "message": "صوتی"
+  },
+  "options_size_title": {
+    "message": "آستانه حجم"
+  },
+  "options_size_description": {
+    "message": "نادیده گرفتن فایل‌های کوچک‌تر"
+  },
+  "options_size_label": {
+    "message": "حداقل حجم"
+  },
+  "options_size_custom": {
+    "message": "سفارشی"
+  },
+  "options_download_title": {
+    "message": "محل ذخیره"
+  },
+  "options_download_description": {
+    "message": "محل ذخیره ویدیوهای دانلود شده را انتخاب کنید"
+  },
+  "options_download_toggle_label": {
+    "message": "پوشه اختصاصی"
+  },
+  "options_download_toggle_description": {
+    "message": "همه دانلودها را به یک پوشه هدایت کنید"
+  },
+  "options_download_folder_label": {
+    "message": "نام پوشه"
+  },
+  "options_download_folder_description": {
+    "message": "مسیر در دانلودها (خالی برای ریشه)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "ظاهر"
+  },
+  "options_appearance_description": {
+    "message": "ظاهر Video Downloader Plus را انتخاب کنید"
+  },
+  "options_theme_system": {
+    "message": "سیستم"
+  },
+  "options_theme_light": {
+    "message": "روشن"
+  },
+  "options_theme_dark": {
+    "message": "تیره"
+  },
+  "options_cast_title": {
+    "message": "ارسال به تلویزیون"
+  },
+  "options_cast_description": {
+    "message": "ویدیوها را به دستگاه‌های Chromecast استریم کنید"
+  },
+  "options_cast_toggle_label": {
+    "message": "دکمه ارسال"
+  },
+  "options_cast_toggle_description": {
+    "message": "نماد ارسال را کنار ویدیوهای پشتیبانی‌شده نشان دهید"
+  },
+  "options_badge_title": {
+    "message": "نشان"
+  },
+  "options_badge_description": {
+    "message": "انتخاب کنید نشان آیکون نوار ابزار چه چیزی نشان دهد"
+  },
+  "options_badge_count": {
+    "message": "تعداد"
+  },
+  "options_badge_dot": {
+    "message": "نقطه"
+  },
+  "options_badge_hidden": {
+    "message": "پنهان"
+  },
+  "options_website_title": {
+    "message": "لیست مسدودی"
+  },
+  "options_website_description": {
+    "message": "جلوگیری از اجرای Video Downloader Plus در سایت‌های خاص"
+  },
+  "options_website_add_label": {
+    "message": "مسدود کردن سایت"
+  },
+  "options_website_add_description": {
+    "message": "الگوهای قبول‌شده: <code>example.com</code> یا <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com یا *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "مسدود"
+  },
+  "options_website_list_label": {
+    "message": "سایت‌های مسدود"
+  },
+  "options_website_empty": {
+    "message": "هنوز سایت مسدودی وجود ندارد"
+  },
+  "options_status_unsaved": {
+    "message": "تغییرات ذخیره‌نشده"
+  },
+  "options_status_saved": {
+    "message": "تنظیمات ذخیره شد"
+  },
+  "options_button_save": {
+    "message": "اعمال"
+  },
+  "options_button_reset": {
+    "message": "بازنشانی به پیش‌فرض"
+  },
+  "options_button_reset_confirm": {
+    "message": "آیا مطمئن هستید؟"
+  },
+  "options_toast_reset_success": {
+    "message": "تنظیمات به پیش‌فرض بازگردانده شد"
+  },
+  "options_toast_reset_error": {
+    "message": "بازنشانی تنظیمات ناموفق"
+  },
+  "options_button_logout": {
+    "message": "خروج"
+  },
+  "options_toast_min_size": {
+    "message": "حداقل $1 $2 است"
+  },
+  "options_toast_enter_domain": {
+    "message": "ابتدا یک دامنه وارد کنید"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "ورودی نامعتبر"
+  },
+  "options_toast_invalid_domain": {
+    "message": "یک دامنه معتبر مانند example.com یا *.example.com وارد کنید"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "دامنه نامعتبر"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "این سایت از قبل در لیست مسدودی است"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "قبلاً مسدود شده"
+  },
+  "options_toast_block_limit": {
+    "message": "می‌توانید تا $1 سایت مسدود کنید."
+  },
+  "options_toast_permission_denied": {
+    "message": "دسترسی رد شد. برای تلاش مجدد تغییر دهید."
+  },
+  "options_toast_permission_title": {
+    "message": "دسترسی لازم است"
+  },
+  "options_toast_permission_failed": {
+    "message": "درخواست مجوز ممکن نیست. دوباره تلاش کنید."
+  },
+  "options_toast_save_success": {
+    "message": "تنظیمات اعمال شد"
+  },
+  "options_toast_save_error": {
+    "message": "ذخیره ممکن نیست. دوباره تلاش کنید."
+  },
+  "options_toast_logout_success": {
+    "message": "خارج شدید"
+  },
+  "options_toast_logout_error": {
+    "message": "خروج ناموفق. دوباره تلاش کنید."
+  },
+  "options_toast_load_error": {
+    "message": "بارگذاری تنظیمات ممکن نیست. صفحه را بازخوانی کنید."
+  },
+  "options_footer_privacy": {
+    "message": "سیاست حفظ حریم خصوصی"
+  },
+  "options_footer_terms": {
+    "message": "شرایط خدمات"
+  },
+  "player_modal_close": {
+    "message": "بستن پخش‌کننده"
+  },
+  "player_modal_error": {
+    "message": "پخش این ویدیو ممکن نیست"
+  },
+  "player_modal_unsupported": {
+    "message": "پیش‌نمایش این فرمت ممکن نیست. از دانلود استفاده کنید."
+  },
+  "player_modal_loading": {
+    "message": "بارگذاری ویدیو..."
+  },
+  "options_header_badge": {
+    "message": "تنظیمات"
+  },
+  "toast_viewport_label": {
+    "message": "اعلان‌ها"
+  },
+  "popup_group_streaming_title": {
+    "message": "پخش آنلاین $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "دریافت از سرور $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "دانلود مستقیم $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "دریافت از سرور"
+  },
+  "popup_group_merge_note": {
+    "message": "صدا و تصویر جدا هستند — هنگام دانلود ادغام خواهند شد"
+  },
+  "popup_dismiss_label": {
+    "message": "رد کردن"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "پخش جریان ناموفق بود"
+  },
+  "player_error_hls_unsupported": {
+    "message": "پخش HLS پشتیبانی نمی‌شود"
+  },
+  "player_error_library_failed": {
+    "message": "بارگذاری کتابخانه پخش آنلاین ممکن نیست"
+  },
+  "player_error_no_url": {
+    "message": "URL قابل پخشی موجود نیست"
+  },
+  "player_error_unsupported_format": {
+    "message": "پیش‌نمایش این فرمت ممکن نیست"
+  },
+  "error_no_internet": {
+    "message": "اتصال اینترنت وجود ندارد"
+  },
+  "error_server_unavailable": {
+    "message": "سرور موقتاً در دسترس نیست"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "دوره آزمایشی رایگان خود را شروع کنید تا هر ویدیویی را فوراً دانلود کنید — بدون تعهد، هر زمان لغو کنید."
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "پریمیوم را رایگان امتحان کنید — هر ویدیویی را با هر کیفیتی دانلود کنید، بدون محدودیت."
+  }
+}

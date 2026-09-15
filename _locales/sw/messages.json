@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "Pakua na uhifadhi video kutoka kwenye tovuti yoyote mara moja. Kipakuzi cha video haraka na rahisi."
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "Tazama Baadaye"
+  },
+  "popup_saved": {
+    "message": "Imehifadhiwa"
+  },
+  "popup_my_list": {
+    "message": "Orodha Yangu"
+  },
+  "popup_group_quality_count": {
+    "message": "Ubora $1"
+  },
+  "popup_group_title_fallback": {
+    "message": "Video"
+  },
+  "popup_group_title_numbered": {
+    "message": "Video $1"
+  },
+  "popup_footer_settings": {
+    "message": "Mipangilio"
+  },
+  "popup_footer_reviews": {
+    "message": "Maoni"
+  },
+  "popup_footer_blog": {
+    "message": "Blogu"
+  },
+  "popup_footer_account": {
+    "message": "Akaunti"
+  },
+  "popup_footer_upgrade": {
+    "message": "Boresha"
+  },
+  "popup_play_button_label": {
+    "message": "Cheza video"
+  },
+  "popup_cast_button_label": {
+    "message": "Tuma kwenye kifaa"
+  },
+  "popup_live_label": {
+    "message": "Moja kwa moja"
+  },
+  "popup_download_label": {
+    "message": "Pakua"
+  },
+  "popup_audio_label": {
+    "message": "Sauti"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "Sauti pekee"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps sauti"
+  },
+  "popup_empty_state": {
+    "message": "Hakuna video zilizopatikana."
+  },
+  "popup_report_no_video": {
+    "message": "Ripoti tatizo"
+  },
+  "popup_report_submitting": {
+    "message": "Inatumwa..."
+  },
+  "popup_report_success": {
+    "message": "Asante kwa ripoti!"
+  },
+  "popup_report_error": {
+    "message": "Kutuma kumeshindikana. Jaribu tena."
+  },
+  "popup_site_blocked": {
+    "message": "Tovuti hii imezuiwa. Unaweza kuifungua ili kugundua video."
+  },
+  "popup_unblock_site": {
+    "message": "Fungua Tovuti"
+  },
+  "popup_toast_unblock_success": {
+    "message": "Tovuti imefunguliwa! Inapakia upya..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "Kufungua kumeshindikana"
+  },
+  "popup_block_site": {
+    "message": "Zuia tovuti hii"
+  },
+  "popup_toast_block_success": {
+    "message": "Tovuti imezuiwa! Inapakia upya..."
+  },
+  "popup_toast_block_failed": {
+    "message": "Kuzuia kumeshindikana"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "Haiwezi kufungua ukurasa wa kupakua salama"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "Haiwezi kuandaa upakuaji salama"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "Inaandaa upakuaji salama…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "Haiwezi kuanza upakuaji salama. Jaribu tena."
+  },
+  "popup_toast_open_source_failed": {
+    "message": "Haiwezi kufungua video hii"
+  },
+  "popup_toast_identify_failed": {
+    "message": "Haiwezi kutambua video hii"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "Imeondolewa kwenye orodha ya Tazama Baadaye"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "Imehifadhiwa kwenye orodha ya Tazama Baadaye"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "Haiwezi kusasisha Tazama Baadaye"
+  },
+  "popup_toast_settings_failed": {
+    "message": "Haiwezi kupakia mipangilio"
+  },
+  "popup_toast_videos_failed": {
+    "message": "Haiwezi kupakia video"
+  },
+  "popup_toast_download_started": {
+    "message": "Upakuaji umeanza"
+  },
+  "popup_toast_download_failed": {
+    "message": "Haiwezi kuanza upakuaji"
+  },
+  "popup_toast_cast_error": {
+    "message": "Haiwezi kuandaa Chromecast. Jaribu tena."
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "Haiwezi kupakia video kwenye ukurasa huu"
+  },
+  "watch_later_error_server": {
+    "message": "Haiwezi kuunganisha na seva. Jaribu tena."
+  },
+  "watch_later_error_login": {
+    "message": "Ingia ili kudhibiti video za Tazama Baadaye."
+  },
+  "watch_later_error_upgrade": {
+    "message": "Kuboresha kunahitajika kwa Tazama Baadaye."
+  },
+  "watch_later_error_premium_only": {
+    "message": "Premium inahitajika ili kuhifadhi video."
+  },
+  "watch_later_error_limit": {
+    "message": "Umefika kikomo cha kuhifadhi bure."
+  },
+  "watch_later_error_generic": {
+    "message": "Haiwezi kusasisha Tazama Baadaye. Jaribu tena."
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "Alama ya kidole ya kichupo haipo."
+  },
+  "watch_later_error_missing_source": {
+    "message": "Video hii haina kiungo cha chanzo."
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "Kitambulisho cha Tazama Baadaye hakipo."
+  },
+  "save_premium_modal_title": {
+    "message": "Hifadhi video na Premium"
+  },
+  "save_premium_modal_message": {
+    "message": "Kuhifadhi video kwenye maktaba yako kunapatikana kwa wanachama wa Premium. Boresha ili kuhifadhi video zisizo na kikomo."
+  },
+  "limit_modal_title": {
+    "message": "Kikomo cha kuhifadhi kimefikiwa"
+  },
+  "limit_modal_message": {
+    "message": "Umefika kikomo chako cha kuhifadhi bure. Boresha hadi Premium ili kuhifadhi video zisizo na kikomo."
+  },
+  "limit_modal_upgrade": {
+    "message": "Pata Premium"
+  },
+  "limit_modal_start_trial": {
+    "message": "Anza jaribio la bure"
+  },
+  "limit_modal_later": {
+    "message": "Si sasa"
+  },
+  "hd_limit_modal_title": {
+    "message": "Kikomo cha kupakua HD cha kila siku kimefikiwa"
+  },
+  "hd_limit_modal_message": {
+    "message": "Umefika kikomo chako cha kupakua HD bure cha kila siku. Boresha hadi Premium ili kupakua video kwa ubora kamili bila vikomo."
+  },
+  "download_premium_modal_title": {
+    "message": "Fungua upakuaji wa video"
+  },
+  "download_premium_modal_message": {
+    "message": "Boresha hadi Premium ili kupakua video yoyote kwa ubora wowote — upakuaji usio na kikomo."
+  },
+  "cast_limit_modal_title": {
+    "message": "Kikomo cha kutuma cha kila siku kimefikiwa"
+  },
+  "cast_limit_modal_message": {
+    "message": "Umefika kikomo chako cha kutuma bure cha kila siku. Boresha hadi Premium ili kutuma video yoyote kwenye TV yako bila vikomo."
+  },
+  "cast_premium_modal_title": {
+    "message": "Tuma kwenye TV yako na Premium"
+  },
+  "cast_premium_modal_message": {
+    "message": "Utumaji wa Chromecast unapatikana kwa wanachama wa Premium. Boresha ili kutiririkisha video yoyote kwenye TV yako bila vikomo."
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "Anza jaribio lako la bure kutuma video yoyote kwenye TV yako — bila kujitolea, ghairi wakati wowote."
+  },
+  "review_modal_title": {
+    "message": "Unapenda Video Downloader Plus?"
+  },
+  "review_modal_message": {
+    "message": "Ikiwa Video Downloader Plus imekusaidia, tathmini ya haraka kwenye Chrome Web Store ingetusaidia sana!"
+  },
+  "review_modal_rate": {
+    "message": "Tathmini Video Downloader Plus"
+  },
+  "review_modal_later": {
+    "message": "Labda baadaye"
+  },
+  "download_limit_banner_remaining": {
+    "message": "Upakuaji $1 wa HD umebaki leo"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "Kikomo cha kupakua HD kila siku kimefikiwa"
+  },
+  "download_limit_banner_reset": {
+    "message": "Inawekwa upya katika $1"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "Boresha hadi Premium — pakua video yoyote kwa ubora wowote, bila vikomo."
+  },
+  "generic_video_label": {
+    "message": "Video"
+  },
+  "popup_actions_cast": {
+    "message": "Tuma"
+  },
+  "popup_actions_download": {
+    "message": "Pakua"
+  },
+  "popup_actions_premium": {
+    "message": "Premium"
+  },
+  "popup_actions_save": {
+    "message": "Hifadhi"
+  },
+  "toast_dismiss": {
+    "message": "Ondoa"
+  },
+  "options_header_subtitle": {
+    "message": "Binafsisha jinsi Video Downloader Plus inavyogundua na kuhifadhi video"
+  },
+  "options_help_center": {
+    "message": "Kituo cha Msaada"
+  },
+  "options_support": {
+    "message": "Msaada"
+  },
+  "options_formats_title": {
+    "message": "Fomati za midia"
+  },
+  "options_formats_description": {
+    "message": "Chagua aina za faili ambazo Video Downloader Plus itafute"
+  },
+  "options_formats_video_label": {
+    "message": "Video"
+  },
+  "options_formats_audio_label": {
+    "message": "Sauti"
+  },
+  "options_size_title": {
+    "message": "Kiwango cha ukubwa"
+  },
+  "options_size_description": {
+    "message": "Puuza faili ndogo"
+  },
+  "options_size_label": {
+    "message": "Ukubwa wa chini"
+  },
+  "options_size_custom": {
+    "message": "Maalum"
+  },
+  "options_download_title": {
+    "message": "Mahali pa kuhifadhi"
+  },
+  "options_download_description": {
+    "message": "Chagua mahali ambapo video zilizopakuwa zitahifadhiwa"
+  },
+  "options_download_toggle_label": {
+    "message": "Folda maalum"
+  },
+  "options_download_toggle_description": {
+    "message": "Elekeza upakuaji wote kwenye folda moja"
+  },
+  "options_download_folder_label": {
+    "message": "Jina la folda"
+  },
+  "options_download_folder_description": {
+    "message": "Njia katika Upakuaji (tupu kwa mzizi)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "Mwonekano"
+  },
+  "options_appearance_description": {
+    "message": "Chagua jinsi Video Downloader Plus inavyoonekana"
+  },
+  "options_theme_system": {
+    "message": "Mfumo"
+  },
+  "options_theme_light": {
+    "message": "Angavu"
+  },
+  "options_theme_dark": {
+    "message": "Giza"
+  },
+  "options_cast_title": {
+    "message": "Tuma kwenye TV"
+  },
+  "options_cast_description": {
+    "message": "Tiririsha video kwenye vifaa vya Chromecast"
+  },
+  "options_cast_toggle_label": {
+    "message": "Kitufe cha kutuma"
+  },
+  "options_cast_toggle_description": {
+    "message": "Onyesha ikoni ya kutuma karibu na video zinazotumika"
+  },
+  "options_badge_title": {
+    "message": "Beji"
+  },
+  "options_badge_description": {
+    "message": "Chagua kinachoonyeshwa na beji ya ikoni kwenye upau wa zana"
+  },
+  "options_badge_count": {
+    "message": "Hesabu"
+  },
+  "options_badge_dot": {
+    "message": "Nukta"
+  },
+  "options_badge_hidden": {
+    "message": "Imefichwa"
+  },
+  "options_website_title": {
+    "message": "Orodha ya kuzuia"
+  },
+  "options_website_description": {
+    "message": "Zuia Video Downloader Plus isifanye kazi kwenye tovuti maalum"
+  },
+  "options_website_add_label": {
+    "message": "Zuia tovuti"
+  },
+  "options_website_add_description": {
+    "message": "Mifumo inayokubaliwa: <code>example.com</code> au <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com au *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "Zuia"
+  },
+  "options_website_list_label": {
+    "message": "Tovuti zilizozuiwa"
+  },
+  "options_website_empty": {
+    "message": "Bado hakuna tovuti zilizozuiwa"
+  },
+  "options_status_unsaved": {
+    "message": "Mabadiliko ambayo hayajahifadhiwa"
+  },
+  "options_status_saved": {
+    "message": "Mipangilio imehifadhiwa"
+  },
+  "options_button_save": {
+    "message": "Tumia"
+  },
+  "options_button_reset": {
+    "message": "Rejesha chaguo-msingi"
+  },
+  "options_button_reset_confirm": {
+    "message": "Una uhakika?"
+  },
+  "options_toast_reset_success": {
+    "message": "Mipangilio imerejeshwa kwa chaguo-msingi"
+  },
+  "options_toast_reset_error": {
+    "message": "Imeshindwa kurejesha mipangilio"
+  },
+  "options_button_logout": {
+    "message": "Ondoka"
+  },
+  "options_toast_min_size": {
+    "message": "Kiwango cha chini ni $1 $2"
+  },
+  "options_toast_enter_domain": {
+    "message": "Ingiza kikoa kwanza"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "Ingizo batili"
+  },
+  "options_toast_invalid_domain": {
+    "message": "Ingiza kikoa halali kama example.com au *.example.com"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "Kikoa batili"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "Tovuti hii tayari iko kwenye orodha ya kuzuia"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "Tayari imezuiwa"
+  },
+  "options_toast_block_limit": {
+    "message": "Unaweza kuzuia hadi tovuti $1."
+  },
+  "options_toast_permission_denied": {
+    "message": "Ufikiaji umekataliwa. Badili ili kujaribu tena."
+  },
+  "options_toast_permission_title": {
+    "message": "Ufikiaji unahitajika"
+  },
+  "options_toast_permission_failed": {
+    "message": "Haiwezi kuomba ruhusa. Jaribu tena."
+  },
+  "options_toast_save_success": {
+    "message": "Mipangilio imetumika"
+  },
+  "options_toast_save_error": {
+    "message": "Haiwezi kuhifadhi. Jaribu tena."
+  },
+  "options_toast_logout_success": {
+    "message": "Umetoka"
+  },
+  "options_toast_logout_error": {
+    "message": "Kutoka kumeshindikana. Jaribu tena."
+  },
+  "options_toast_load_error": {
+    "message": "Haiwezi kupakia mipangilio. Pakia upya ukurasa."
+  },
+  "options_footer_privacy": {
+    "message": "Sera ya Faragha"
+  },
+  "options_footer_terms": {
+    "message": "Masharti ya Huduma"
+  },
+  "player_modal_close": {
+    "message": "Funga kichezaji"
+  },
+  "player_modal_error": {
+    "message": "Haiwezi kucheza video hii"
+  },
+  "player_modal_unsupported": {
+    "message": "Fomati hii haiwezi kuonyeshwa awali. Tumia upakuaji."
+  },
+  "player_modal_loading": {
+    "message": "Inapakia video..."
+  },
+  "options_header_badge": {
+    "message": "Mipangilio"
+  },
+  "toast_viewport_label": {
+    "message": "Arifa"
+  },
+  "popup_group_streaming_title": {
+    "message": "Utiririshaji $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "Kuleta kutoka Seva $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "Upakuaji wa Moja kwa Moja $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "Kuleta kutoka Seva"
+  },
+  "popup_group_merge_note": {
+    "message": "Sauti na video zimetengana — zitaunganishwa wakati wa kupakua"
+  },
+  "popup_dismiss_label": {
+    "message": "Funga"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "Uchezaji wa mtiririko umeshindwa"
+  },
+  "player_error_hls_unsupported": {
+    "message": "Uchezaji wa HLS hauauniwi"
+  },
+  "player_error_library_failed": {
+    "message": "Imeshindwa kupakia maktaba ya utiririshaji"
+  },
+  "player_error_no_url": {
+    "message": "Hakuna URL inayoweza kuchezwa"
+  },
+  "player_error_unsupported_format": {
+    "message": "Fomati hii haiwezi kuonyeshwa awali"
+  },
+  "error_no_internet": {
+    "message": "Hakuna muunganisho wa mtandao"
+  },
+  "error_server_unavailable": {
+    "message": "Seva haipatikani kwa muda"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "Anza jaribio lako la bure kupakua video yoyote mara moja — bila ahadi, ghairi wakati wowote."
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "Jaribu Premium bure — pakua video yoyote kwa ubora wowote, bila vikwazo."
+  }
+}

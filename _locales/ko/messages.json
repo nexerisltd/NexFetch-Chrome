@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "모든 웹사이트에서 동영상을 즉시 다운로드하고 저장하세요. 빠르고 간단한 동영상 다운로더."
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "나중에 보기"
+  },
+  "popup_saved": {
+    "message": "저장됨"
+  },
+  "popup_my_list": {
+    "message": "내 목록"
+  },
+  "popup_group_quality_count": {
+    "message": "$1개 화질"
+  },
+  "popup_group_title_fallback": {
+    "message": "영상"
+  },
+  "popup_group_title_numbered": {
+    "message": "영상 $1"
+  },
+  "popup_footer_settings": {
+    "message": "설정"
+  },
+  "popup_footer_reviews": {
+    "message": "리뷰"
+  },
+  "popup_footer_blog": {
+    "message": "블로그"
+  },
+  "popup_footer_account": {
+    "message": "계정"
+  },
+  "popup_footer_upgrade": {
+    "message": "업그레이드"
+  },
+  "popup_play_button_label": {
+    "message": "동영상 재생"
+  },
+  "popup_cast_button_label": {
+    "message": "기기로 전송"
+  },
+  "popup_live_label": {
+    "message": "라이브"
+  },
+  "popup_download_label": {
+    "message": "다운로드"
+  },
+  "popup_audio_label": {
+    "message": "오디오"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "오디오만"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps 오디오"
+  },
+  "popup_empty_state": {
+    "message": "동영상을 찾을 수 없습니다."
+  },
+  "popup_report_no_video": {
+    "message": "문제 신고"
+  },
+  "popup_report_submitting": {
+    "message": "제출 중..."
+  },
+  "popup_report_success": {
+    "message": "신고해 주셔서 감사합니다!"
+  },
+  "popup_report_error": {
+    "message": "제출에 실패했습니다. 다시 시도해 주세요."
+  },
+  "popup_site_blocked": {
+    "message": "이 사이트는 차단되어 있습니다. 동영상을 감지하려면 차단을 해제하세요."
+  },
+  "popup_unblock_site": {
+    "message": "사이트 차단 해제"
+  },
+  "popup_toast_unblock_success": {
+    "message": "사이트 차단 해제됨! 새로고침 중..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "차단 해제 실패"
+  },
+  "popup_block_site": {
+    "message": "이 사이트 차단"
+  },
+  "popup_toast_block_success": {
+    "message": "사이트 차단됨! 새로고침 중..."
+  },
+  "popup_toast_block_failed": {
+    "message": "차단 실패"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "보안 다운로드 페이지를 열 수 없습니다"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "이 보안 다운로드를 준비할 수 없습니다"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "보안 다운로드 준비 중…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "보안 다운로드를 시작할 수 없습니다. 다시 시도해 주세요."
+  },
+  "popup_toast_open_source_failed": {
+    "message": "이 동영상을 열 수 없습니다"
+  },
+  "popup_toast_identify_failed": {
+    "message": "이 동영상을 식별할 수 없습니다"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "나중에 보기 목록에서 삭제됨"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "나중에 보기 목록에 저장됨"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "나중에 보기를 업데이트할 수 없습니다"
+  },
+  "popup_toast_settings_failed": {
+    "message": "설정을 불러올 수 없습니다"
+  },
+  "popup_toast_videos_failed": {
+    "message": "동영상을 불러올 수 없습니다"
+  },
+  "popup_toast_download_started": {
+    "message": "다운로드 시작됨"
+  },
+  "popup_toast_download_failed": {
+    "message": "다운로드를 시작할 수 없습니다"
+  },
+  "popup_toast_cast_error": {
+    "message": "Chromecast 재생을 준비할 수 없습니다. 다시 시도해 주세요."
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "이 페이지의 동영상을 불러올 수 없습니다"
+  },
+  "watch_later_error_server": {
+    "message": "서버에 연결할 수 없습니다. 다시 시도해 주세요."
+  },
+  "watch_later_error_login": {
+    "message": "나중에 보기 동영상을 관리하려면 로그인하세요."
+  },
+  "watch_later_error_upgrade": {
+    "message": "나중에 보기를 사용하려면 업그레이드가 필요합니다."
+  },
+  "watch_later_error_premium_only": {
+    "message": "동영상을 저장하려면 Premium이 필요합니다."
+  },
+  "watch_later_error_limit": {
+    "message": "무료 저장 한도에 도달했습니다."
+  },
+  "watch_later_error_generic": {
+    "message": "나중에 보기를 업데이트할 수 없습니다. 다시 시도해 주세요."
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "탭 핑거프린트가 없습니다."
+  },
+  "watch_later_error_missing_source": {
+    "message": "이 동영상에 소스 링크가 없습니다."
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "나중에 보기 식별자가 없습니다."
+  },
+  "save_premium_modal_title": {
+    "message": "Premium으로 동영상 저장"
+  },
+  "save_premium_modal_message": {
+    "message": "라이브러리에 동영상 저장은 Premium 회원만 이용할 수 있습니다. 무제한 동영상을 저장하려면 업그레이드하세요."
+  },
+  "limit_modal_title": {
+    "message": "저장 한도에 도달했습니다"
+  },
+  "limit_modal_message": {
+    "message": "무료 저장 한도에 도달했습니다. Premium으로 업그레이드하여 무제한 동영상을 저장하세요."
+  },
+  "limit_modal_upgrade": {
+    "message": "Premium 받기"
+  },
+  "limit_modal_start_trial": {
+    "message": "무료 체험 시작"
+  },
+  "limit_modal_later": {
+    "message": "나중에"
+  },
+  "hd_limit_modal_title": {
+    "message": "일일 HD 다운로드 한도에 도달했습니다"
+  },
+  "hd_limit_modal_message": {
+    "message": "일일 무료 HD 다운로드 한도에 도달했습니다. Premium으로 업그레이드하여 제한 없이 최고 화질로 동영상을 다운로드하세요."
+  },
+  "download_premium_modal_title": {
+    "message": "동영상 다운로드 잠금 해제"
+  },
+  "download_premium_modal_message": {
+    "message": "모든 동영상을 모든 화질로 다운로드하려면 Premium으로 업그레이드하세요 — 무제한 다운로드."
+  },
+  "cast_limit_modal_title": {
+    "message": "일일 전송 한도에 도달했습니다"
+  },
+  "cast_limit_modal_message": {
+    "message": "일일 무료 전송 한도에 도달했습니다. Premium으로 업그레이드하여 제한 없이 모든 동영상을 TV로 전송하세요."
+  },
+  "cast_premium_modal_title": {
+    "message": "Premium으로 TV에 전송"
+  },
+  "cast_premium_modal_message": {
+    "message": "Chromecast 캐스팅은 Premium 회원에게 제공됩니다. 업그레이드하여 제한 없이 모든 동영상을 TV로 캐스트하세요."
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "무료 체험을 시작하여 모든 동영상을 TV로 캐스트하세요 — 약정 없음, 언제든지 취소 가능."
+  },
+  "review_modal_title": {
+    "message": "Video Downloader Plus가 마음에 드시나요?"
+  },
+  "review_modal_message": {
+    "message": "Video Downloader Plus가 도움이 되셨다면, Chrome Web Store에서 간단한 평가를 남겨 주시면 큰 힘이 됩니다!"
+  },
+  "review_modal_rate": {
+    "message": "Video Downloader Plus 평가하기"
+  },
+  "review_modal_later": {
+    "message": "나중에"
+  },
+  "download_limit_banner_remaining": {
+    "message": "오늘 HD 다운로드 $1회 남음"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "일일 HD 다운로드 한도 도달"
+  },
+  "download_limit_banner_reset": {
+    "message": "$1 후 초기화"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "Premium으로 업그레이드 — 모든 동영상을 모든 화질로, 제한 없이 다운로드."
+  },
+  "generic_video_label": {
+    "message": "영상"
+  },
+  "popup_actions_cast": {
+    "message": "전송"
+  },
+  "popup_actions_download": {
+    "message": "다운로드"
+  },
+  "popup_actions_premium": {
+    "message": "프리미엄"
+  },
+  "popup_actions_save": {
+    "message": "저장"
+  },
+  "toast_dismiss": {
+    "message": "닫기"
+  },
+  "options_header_subtitle": {
+    "message": "Video Downloader Plus의 동영상 감지 및 저장 방법을 맞춤 설정"
+  },
+  "options_help_center": {
+    "message": "고객센터"
+  },
+  "options_support": {
+    "message": "지원"
+  },
+  "options_formats_title": {
+    "message": "미디어 형식"
+  },
+  "options_formats_description": {
+    "message": "Video Downloader Plus가 검색할 파일 유형을 선택하세요"
+  },
+  "options_formats_video_label": {
+    "message": "영상"
+  },
+  "options_formats_audio_label": {
+    "message": "오디오"
+  },
+  "options_size_title": {
+    "message": "크기 임계값"
+  },
+  "options_size_description": {
+    "message": "이 크기보다 작은 파일 무시"
+  },
+  "options_size_label": {
+    "message": "최소 크기"
+  },
+  "options_size_custom": {
+    "message": "사용자 지정"
+  },
+  "options_download_title": {
+    "message": "저장 위치"
+  },
+  "options_download_description": {
+    "message": "다운로드한 동영상 저장 위치 선택"
+  },
+  "options_download_toggle_label": {
+    "message": "전용 폴더"
+  },
+  "options_download_toggle_description": {
+    "message": "모든 다운로드를 하나의 폴더로 저장"
+  },
+  "options_download_folder_label": {
+    "message": "폴더 이름"
+  },
+  "options_download_folder_description": {
+    "message": "다운로드 내 경로 (비워두면 루트)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "외관"
+  },
+  "options_appearance_description": {
+    "message": "Video Downloader Plus의 모양을 선택하세요"
+  },
+  "options_theme_system": {
+    "message": "시스템"
+  },
+  "options_theme_light": {
+    "message": "라이트"
+  },
+  "options_theme_dark": {
+    "message": "다크"
+  },
+  "options_cast_title": {
+    "message": "TV로 전송"
+  },
+  "options_cast_description": {
+    "message": "Chromecast 지원 기기로 동영상 스트리밍"
+  },
+  "options_cast_toggle_label": {
+    "message": "전송 버튼"
+  },
+  "options_cast_toggle_description": {
+    "message": "지원되는 동영상 옆에 전송 아이콘 표시"
+  },
+  "options_badge_title": {
+    "message": "배지"
+  },
+  "options_badge_description": {
+    "message": "도구 모음 아이콘 배지에 표시할 내용을 선택하세요"
+  },
+  "options_badge_count": {
+    "message": "개수"
+  },
+  "options_badge_dot": {
+    "message": "점"
+  },
+  "options_badge_hidden": {
+    "message": "숨김"
+  },
+  "options_website_title": {
+    "message": "사이트 차단 목록"
+  },
+  "options_website_description": {
+    "message": "특정 사이트에서 Video Downloader Plus 실행 방지"
+  },
+  "options_website_add_label": {
+    "message": "사이트 차단"
+  },
+  "options_website_add_description": {
+    "message": "허용 패턴: <code>example.com</code> 또는 <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com 또는 *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "차단"
+  },
+  "options_website_list_label": {
+    "message": "차단된 사이트"
+  },
+  "options_website_empty": {
+    "message": "아직 차단된 사이트가 없습니다"
+  },
+  "options_status_unsaved": {
+    "message": "저장되지 않은 변경사항"
+  },
+  "options_status_saved": {
+    "message": "설정 저장됨"
+  },
+  "options_button_save": {
+    "message": "적용"
+  },
+  "options_button_reset": {
+    "message": "기본값으로 재설정"
+  },
+  "options_button_reset_confirm": {
+    "message": "정말로 재설정하시겠습니까?"
+  },
+  "options_toast_reset_success": {
+    "message": "설정이 기본값으로 복원되었습니다"
+  },
+  "options_toast_reset_error": {
+    "message": "설정 재설정에 실패했습니다"
+  },
+  "options_button_logout": {
+    "message": "로그아웃"
+  },
+  "options_toast_min_size": {
+    "message": "최소값은 $1 $2입니다"
+  },
+  "options_toast_enter_domain": {
+    "message": "먼저 도메인을 입력하세요"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "잘못된 입력"
+  },
+  "options_toast_invalid_domain": {
+    "message": "example.com 또는 *.example.com 같은 유효한 도메인을 입력하세요"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "잘못된 도메인"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "해당 사이트는 이미 차단 목록에 있습니다"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "이미 차단됨"
+  },
+  "options_toast_block_limit": {
+    "message": "최대 $1개 사이트를 차단할 수 있습니다."
+  },
+  "options_toast_permission_denied": {
+    "message": "접근이 거부되었습니다. 토글을 전환하여 다시 시도하세요."
+  },
+  "options_toast_permission_title": {
+    "message": "접근 필요"
+  },
+  "options_toast_permission_failed": {
+    "message": "권한을 요청할 수 없습니다. 다시 시도하세요."
+  },
+  "options_toast_save_success": {
+    "message": "설정이 적용되었습니다"
+  },
+  "options_toast_save_error": {
+    "message": "저장할 수 없습니다. 다시 시도하세요."
+  },
+  "options_toast_logout_success": {
+    "message": "로그아웃됨"
+  },
+  "options_toast_logout_error": {
+    "message": "로그아웃 실패. 다시 시도하세요."
+  },
+  "options_toast_load_error": {
+    "message": "설정을 불러올 수 없습니다. 페이지를 새로고침하세요."
+  },
+  "options_footer_privacy": {
+    "message": "개인정보 처리방침"
+  },
+  "options_footer_terms": {
+    "message": "서비스 약관"
+  },
+  "player_modal_close": {
+    "message": "플레이어 닫기"
+  },
+  "player_modal_error": {
+    "message": "이 동영상을 재생할 수 없습니다"
+  },
+  "player_modal_unsupported": {
+    "message": "이 형식은 미리보기할 수 없습니다. 대신 다운로드를 사용하세요."
+  },
+  "player_modal_loading": {
+    "message": "동영상 로드 중..."
+  },
+  "options_header_badge": {
+    "message": "설정"
+  },
+  "toast_viewport_label": {
+    "message": "알림"
+  },
+  "popup_group_streaming_title": {
+    "message": "스트리밍 $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "서버 다운로드 $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "직접 다운로드 $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "서버 다운로드"
+  },
+  "popup_group_merge_note": {
+    "message": "오디오와 비디오는 별개입니다 — 다운로드 중에 병합됩니다"
+  },
+  "popup_dismiss_label": {
+    "message": "닫기"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "스트림 재생 실패"
+  },
+  "player_error_hls_unsupported": {
+    "message": "HLS 재생이 지원되지 않습니다"
+  },
+  "player_error_library_failed": {
+    "message": "스트리밍 라이브러리를 불러올 수 없습니다"
+  },
+  "player_error_no_url": {
+    "message": "재생 가능한 URL이 없습니다"
+  },
+  "player_error_unsupported_format": {
+    "message": "이 형식은 미리보기할 수 없습니다"
+  },
+  "error_no_internet": {
+    "message": "인터넷 연결 없음"
+  },
+  "error_server_unavailable": {
+    "message": "서버를 일시적으로 사용할 수 없습니다"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "무료 체험을 시작하여 모든 동영상을 즉시 다운로드하세요 — 약정 없음, 언제든지 취소 가능."
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "Premium을 무료로 사용해 보세요 — 모든 품질의 동영상을 제한 없이 다운로드."
+  }
+}

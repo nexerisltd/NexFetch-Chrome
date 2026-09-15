@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "ಯಾವುದೇ ವೆಬ್‌ಸೈಟ್‌ನಿಂದ ವೀಡಿಯೊಗಳನ್ನು ತಕ್ಷಣವೇ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ ಮತ್ತು ಉಳಿಸಿ. ವೇಗವಾದ ಮತ್ತು ಸರಳ ವೀಡಿಯೊ ಡೌನ್‌ಲೋಡರ್."
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "ನಂತರ ನೋಡಿ"
+  },
+  "popup_saved": {
+    "message": "ಉಳಿಸಲಾಗಿದೆ"
+  },
+  "popup_my_list": {
+    "message": "ನನ್ನ ಪಟ್ಟಿ"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 ಗುಣಮಟ್ಟ"
+  },
+  "popup_group_title_fallback": {
+    "message": "ವೀಡಿಯೊ"
+  },
+  "popup_group_title_numbered": {
+    "message": "ವೀಡಿಯೊ $1"
+  },
+  "popup_footer_settings": {
+    "message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
+  },
+  "popup_footer_reviews": {
+    "message": "ವಿಮರ್ಶೆಗಳು"
+  },
+  "popup_footer_blog": {
+    "message": "ಬ್ಲಾಗ್"
+  },
+  "popup_footer_account": {
+    "message": "ಖಾತೆ"
+  },
+  "popup_footer_upgrade": {
+    "message": "ಅಪ್‌ಗ್ರೇಡ್"
+  },
+  "popup_play_button_label": {
+    "message": "ವೀಡಿಯೊ ಪ್ಲೇ ಮಾಡಿ"
+  },
+  "popup_cast_button_label": {
+    "message": "ಸಾಧನಕ್ಕೆ ಕಾಸ್ಟ್ ಮಾಡಿ"
+  },
+  "popup_live_label": {
+    "message": "ಲೈವ್"
+  },
+  "popup_download_label": {
+    "message": "ಡೌನ್‌ಲೋಡ್"
+  },
+  "popup_audio_label": {
+    "message": "ಆಡಿಯೊ"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "ಆಡಿಯೊ ಮಾತ್ರ"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps ಆಡಿಯೊ"
+  },
+  "popup_empty_state": {
+    "message": "ಯಾವುದೇ ವೀಡಿಯೊಗಳು ಕಂಡುಬಂದಿಲ್ಲ."
+  },
+  "popup_report_no_video": {
+    "message": "ಸಮಸ್ಯೆ ವರದಿ ಮಾಡಿ"
+  },
+  "popup_report_submitting": {
+    "message": "ಸಲ್ಲಿಸುತ್ತಿದೆ..."
+  },
+  "popup_report_success": {
+    "message": "ವರದಿಗೆ ಧನ್ಯವಾದಗಳು!"
+  },
+  "popup_report_error": {
+    "message": "ಸಲ್ಲಿಕೆ ವಿಫಲ. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+  },
+  "popup_site_blocked": {
+    "message": "ಈ ಸೈಟ್ ಬ್ಲಾಕ್ ಆಗಿದೆ. ವೀಡಿಯೊಗಳನ್ನು ಕಂಡುಹಿಡಿಯಲು ಅನ್‌ಬ್ಲಾಕ್ ಮಾಡಿ."
+  },
+  "popup_unblock_site": {
+    "message": "ಸೈಟ್ ಅನ್‌ಬ್ಲಾಕ್ ಮಾಡಿ"
+  },
+  "popup_toast_unblock_success": {
+    "message": "ಸೈಟ್ ಅನ್‌ಬ್ಲಾಕ್! ರೀಲೋಡ್ ಆಗುತ್ತಿದೆ..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "ಅನ್‌ಬ್ಲಾಕ್ ವಿಫಲ"
+  },
+  "popup_block_site": {
+    "message": "ಈ ಸೈಟ್ ಬ್ಲಾಕ್ ಮಾಡಿ"
+  },
+  "popup_toast_block_success": {
+    "message": "ಸೈಟ್ ಬ್ಲಾಕ್! ರೀಲೋಡ್ ಆಗುತ್ತಿದೆ..."
+  },
+  "popup_toast_block_failed": {
+    "message": "ಬ್ಲಾಕ್ ವಿಫಲ"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "ಸುರಕ್ಷಿತ ಡೌನ್‌ಲೋಡ್ ಪುಟ ತೆರೆಯಲಾಗಲಿಲ್ಲ"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "ಸುರಕ್ಷಿತ ಡೌನ್‌ಲೋಡ್ ತಯಾರಿಸಲಾಗಲಿಲ್ಲ"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "ಸುರಕ್ಷಿತ ಡೌನ್‌ಲೋಡ್ ತಯಾರಾಗುತ್ತಿದೆ…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "ಸುರಕ್ಷಿತ ಡೌನ್‌ಲೋಡ್ ಪ್ರಾರಂಭಿಸಲಾಗಲಿಲ್ಲ. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+  },
+  "popup_toast_open_source_failed": {
+    "message": "ಈ ವೀಡಿಯೊ ತೆರೆಯಲಾಗಲಿಲ್ಲ"
+  },
+  "popup_toast_identify_failed": {
+    "message": "ಈ ವೀಡಿಯೊ ಗುರುತಿಸಲಾಗಲಿಲ್ಲ"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "ನಂತರ ನೋಡಿ ಪಟ್ಟಿಯಿಂದ ತೆಗೆದುಹಾಕಲಾಗಿದೆ"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "ನಂತರ ನೋಡಿ ಪಟ್ಟಿಗೆ ಉಳಿಸಲಾಗಿದೆ"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "ನಂತರ ನೋಡಿ ನವೀಕರಿಸಲಾಗಲಿಲ್ಲ"
+  },
+  "popup_toast_settings_failed": {
+    "message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಲೋಡ್ ಮಾಡಲಾಗಲಿಲ್ಲ"
+  },
+  "popup_toast_videos_failed": {
+    "message": "ವೀಡಿಯೊಗಳನ್ನು ಲೋಡ್ ಮಾಡಲಾಗಲಿಲ್ಲ"
+  },
+  "popup_toast_download_started": {
+    "message": "ಡೌನ್‌ಲೋಡ್ ಪ್ರಾರಂಭವಾಯಿತು"
+  },
+  "popup_toast_download_failed": {
+    "message": "ಡೌನ್‌ಲೋಡ್ ಪ್ರಾರಂಭಿಸಲಾಗಲಿಲ್ಲ"
+  },
+  "popup_toast_cast_error": {
+    "message": "Chromecast ತಯಾರಿಸಲಾಗಲಿಲ್ಲ. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "ಈ ಪುಟದಲ್ಲಿ ವೀಡಿಯೊಗಳನ್ನು ಲೋಡ್ ಮಾಡಲಾಗಲಿಲ್ಲ"
+  },
+  "watch_later_error_server": {
+    "message": "ಸರ್ವರ್‌ಗೆ ಸಂಪರ್ಕಿಸಲಾಗಲಿಲ್ಲ. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+  },
+  "watch_later_error_login": {
+    "message": "ನಂತರ ನೋಡಿ ವೀಡಿಯೊಗಳನ್ನು ನಿರ್ವಹಿಸಲು ಲಾಗಿನ್ ಮಾಡಿ."
+  },
+  "watch_later_error_upgrade": {
+    "message": "ನಂತರ ನೋಡಿಗೆ ಅಪ್‌ಗ್ರೇಡ್ ಅಗತ್ಯ."
+  },
+  "watch_later_error_premium_only": {
+    "message": "ವೀಡಿಯೊಗಳನ್ನು ಉಳಿಸಲು Premium ಅಗತ್ಯವಿದೆ."
+  },
+  "watch_later_error_limit": {
+    "message": "ಉಚಿತ ಉಳಿಸುವ ಮಿತಿ ತಲುಪಿದೆ."
+  },
+  "watch_later_error_generic": {
+    "message": "ನಂತರ ನೋಡಿ ನವೀಕರಿಸಲಾಗಲಿಲ್ಲ. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "ಟ್ಯಾಬ್ ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಕಾಣೆಯಾಗಿದೆ."
+  },
+  "watch_later_error_missing_source": {
+    "message": "ಈ ವೀಡಿಯೊಗೆ ಮೂಲ ಲಿಂಕ್ ಇಲ್ಲ."
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "ನಂತರ ನೋಡಿ ಗುರುತಿಸುವಿಕೆ ಕಾಣೆಯಾಗಿದೆ."
+  },
+  "save_premium_modal_title": {
+    "message": "Premium ನೊಂದಿಗೆ ವೀಡಿಯೊಗಳನ್ನು ಉಳಿಸಿ"
+  },
+  "save_premium_modal_message": {
+    "message": "ನಿಮ್ಮ ಲೈಬ್ರರಿಗೆ ವೀಡಿಯೊಗಳನ್ನು ಉಳಿಸುವುದು Premium ಸದಸ್ಯರಿಗೆ ಲಭ್ಯವಿದೆ. ಅನಿಯಮಿತ ವೀಡಿಯೊಗಳನ್ನು ಉಳಿಸಲು ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ."
+  },
+  "limit_modal_title": {
+    "message": "ಉಳಿಸುವ ಮಿತಿ ತಲುಪಿದೆ"
+  },
+  "limit_modal_message": {
+    "message": "ನಿಮ್ಮ ಉಚಿತ ಉಳಿಸುವ ಮಿತಿಯನ್ನು ತಲುಪಿದ್ದೀರಿ. ಅಪರಿಮಿತ ವೀಡಿಯೊಗಳನ್ನು ಉಳಿಸಲು Premium ಗೆ ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ."
+  },
+  "limit_modal_upgrade": {
+    "message": "Premium ಪಡೆಯಿರಿ"
+  },
+  "limit_modal_start_trial": {
+    "message": "ಉಚಿತ ಪ್ರಯೋಗ ಪ್ರಾರಂಭಿಸಿ"
+  },
+  "limit_modal_later": {
+    "message": "ಈಗ ಬೇಡ"
+  },
+  "hd_limit_modal_title": {
+    "message": "ದೈನಂದಿನ HD ಡೌನ್‌ಲೋಡ್ ಮಿತಿ ತಲುಪಿದೆ"
+  },
+  "hd_limit_modal_message": {
+    "message": "ನಿಮ್ಮ ದೈನಂದಿನ ಉಚಿತ HD ಡೌನ್‌ಲೋಡ್ ಮಿತಿಯನ್ನು ತಲುಪಿದ್ದೀರಿ. ಮಿತಿಯಿಲ್ಲದೆ ಪೂರ್ಣ ಗುಣಮಟ್ಟದಲ್ಲಿ ವೀಡಿಯೊಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು Premium ಗೆ ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ."
+  },
+  "download_premium_modal_title": {
+    "message": "ವೀಡಿಯೊ ಡೌನ್‌ಲೋಡ್‌ಗಳನ್ನು ಅನ್‌ಲಾಕ್ ಮಾಡಿ"
+  },
+  "download_premium_modal_message": {
+    "message": "ಯಾವುದೇ ವೀಡಿಯೊವನ್ನು ಯಾವುದೇ ಗುಣಮಟ್ಟದಲ್ಲಿ ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು Premium ಗೆ ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ — ಅನಿಯಮಿತ ಡೌನ್‌ಲೋಡ್‌ಗಳು."
+  },
+  "cast_limit_modal_title": {
+    "message": "ದೈನಂದಿನ ಕಾಸ್ಟ್ ಮಿತಿ ತಲುಪಿದೆ"
+  },
+  "cast_limit_modal_message": {
+    "message": "ನಿಮ್ಮ ದೈನಂದಿನ ಉಚಿತ ಕಾಸ್ಟ್ ಮಿತಿಯನ್ನು ತಲುಪಿದ್ದೀರಿ. ಮಿತಿಯಿಲ್ಲದೆ ಯಾವುದೇ ವೀಡಿಯೊವನ್ನು ನಿಮ್ಮ TV ಗೆ ಕಾಸ್ಟ್ ಮಾಡಲು Premium ಗೆ ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ."
+  },
+  "cast_premium_modal_title": {
+    "message": "Premium ನೊಂದಿಗೆ ನಿಮ್ಮ TV ಗೆ ಕಾಸ್ಟ್ ಮಾಡಿ"
+  },
+  "cast_premium_modal_message": {
+    "message": "Chromecast ಕಾಸ್ಟಿಂಗ್ Premium ಸದಸ್ಯರಿಗೆ ಲಭ್ಯವಿದೆ. ಮಿತಿಯಿಲ್ಲದೆ ಯಾವುದೇ ವೀಡಿಯೊವನ್ನು ನಿಮ್ಮ TV ಗೆ ಸ್ಟ್ರೀಮ್ ಮಾಡಲು ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ."
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "ನಿಮ್ಮ ಟಿವಿಗೆ ಯಾವುದೇ ವೀಡಿಯೊವನ್ನು ಕಾಸ್ಟ್ ಮಾಡಲು ಉಚಿತ ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸಿ — ಬದ್ಧತೆ ಇಲ್ಲ, ಯಾವುದೇ ಸಮಯದಲ್ಲಿ ರದ್ದುಮಾಡಿ."
+  },
+  "review_modal_title": {
+    "message": "Video Downloader Plus ಇಷ್ಟವಾಯಿತೇ?"
+  },
+  "review_modal_message": {
+    "message": "Video Downloader Plus ಸಹಾಯಕವಾಗಿದ್ದರೆ Chrome Web Store ನಲ್ಲಿ ತ್ವರಿತ ವಿಮರ್ಶೆ ನಮಗೆ ತುಂಬಾ ಸಹಾಯಕ!"
+  },
+  "review_modal_rate": {
+    "message": "Video Downloader Plus ರೇಟ್ ಮಾಡಿ"
+  },
+  "review_modal_later": {
+    "message": "ಬಹುಶಃ ನಂತರ"
+  },
+  "download_limit_banner_remaining": {
+    "message": "ಇಂದು $1 HD ಡೌನ್‌ಲೋಡ್ ಉಳಿದಿದೆ"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "ದೈನಂದಿನ HD ಡೌನ್‌ಲೋಡ್ ಮಿತಿ ತಲುಪಿದೆ"
+  },
+  "download_limit_banner_reset": {
+    "message": "$1 ನಲ್ಲಿ ರೀಸೆಟ್"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "Premium ಗೆ ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ — ಯಾವುದೇ ವೀಡಿಯೊವನ್ನು ಯಾವುದೇ ಗುಣಮಟ್ಟದಲ್ಲಿ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ, ಮಿತಿಯಿಲ್ಲ."
+  },
+  "generic_video_label": {
+    "message": "ವೀಡಿಯೊ"
+  },
+  "popup_actions_cast": {
+    "message": "ಕಾಸ್ಟ್"
+  },
+  "popup_actions_download": {
+    "message": "ಡೌನ್‌ಲೋಡ್"
+  },
+  "popup_actions_premium": {
+    "message": "ಪ್ರೀಮಿಯಂ"
+  },
+  "popup_actions_save": {
+    "message": "ಉಳಿಸಿ"
+  },
+  "toast_dismiss": {
+    "message": "ಮುಚ್ಚಿ"
+  },
+  "options_header_subtitle": {
+    "message": "Video Downloader Plus ವೀಡಿಯೊಗಳನ್ನು ಹೇಗೆ ಕಂಡುಹಿಡಿಯುತ್ತದೆ ಮತ್ತು ಉಳಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ಕಸ್ಟಮೈಸ್ ಮಾಡಿ"
+  },
+  "options_help_center": {
+    "message": "ಸಹಾಯ ಕೇಂದ್ರ"
+  },
+  "options_support": {
+    "message": "ಬೆಂಬಲ"
+  },
+  "options_formats_title": {
+    "message": "ಮಾಧ್ಯಮ ಫಾರ್ಮ್ಯಾಟ್‌ಗಳು"
+  },
+  "options_formats_description": {
+    "message": "Video Downloader Plus ಯಾವ ಫೈಲ್ ಪ್ರಕಾರಗಳನ್ನು ಹುಡುಕಬೇಕೆಂದು ಆಯ್ಕೆಮಾಡಿ"
+  },
+  "options_formats_video_label": {
+    "message": "ವೀಡಿಯೊ"
+  },
+  "options_formats_audio_label": {
+    "message": "ಆಡಿಯೊ"
+  },
+  "options_size_title": {
+    "message": "ಗಾತ್ರ ಮಿತಿ"
+  },
+  "options_size_description": {
+    "message": "ಚಿಕ್ಕ ಫೈಲ್‌ಗಳನ್ನು ನಿರ್ಲಕ್ಷಿಸಿ"
+  },
+  "options_size_label": {
+    "message": "ಕನಿಷ್ಠ ಗಾತ್ರ"
+  },
+  "options_size_custom": {
+    "message": "ಕಸ್ಟಮ್"
+  },
+  "options_download_title": {
+    "message": "ಉಳಿಸುವ ಸ್ಥಳ"
+  },
+  "options_download_description": {
+    "message": "ಡೌನ್‌ಲೋಡ್ ಮಾಡಿದ ವೀಡಿಯೊಗಳು ಎಲ್ಲಿ ಉಳಿಸಲ್ಪಡುತ್ತವೆ ಎಂಬುದನ್ನು ಆಯ್ಕೆಮಾಡಿ"
+  },
+  "options_download_toggle_label": {
+    "message": "ಮೀಸಲಿಟ್ಟ ಫೋಲ್ಡರ್"
+  },
+  "options_download_toggle_description": {
+    "message": "ಎಲ್ಲಾ ಡೌನ್‌ಲೋಡ್‌ಗಳನ್ನು ಒಂದು ಫೋಲ್ಡರ್‌ಗೆ ನಿರ್ದೇಶಿಸಿ"
+  },
+  "options_download_folder_label": {
+    "message": "ಫೋಲ್ಡರ್ ಹೆಸರು"
+  },
+  "options_download_folder_description": {
+    "message": "ಡೌನ್‌ಲೋಡ್‌ಗಳಲ್ಲಿ ಮಾರ್ಗ (ಮೂಲಕ್ಕೆ ಖಾಲಿ)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "ನೋಟ"
+  },
+  "options_appearance_description": {
+    "message": "Video Downloader Plus ಹೇಗೆ ಕಾಣಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ಆಯ್ಕೆಮಾಡಿ"
+  },
+  "options_theme_system": {
+    "message": "ಸಿಸ್ಟಮ್"
+  },
+  "options_theme_light": {
+    "message": "ಹಗುರ"
+  },
+  "options_theme_dark": {
+    "message": "ಗಾಢ"
+  },
+  "options_cast_title": {
+    "message": "TV ಗೆ ಕಾಸ್ಟ್ ಮಾಡಿ"
+  },
+  "options_cast_description": {
+    "message": "Chromecast ಸಾಧನಗಳಿಗೆ ವೀಡಿಯೊಗಳನ್ನು ಸ್ಟ್ರೀಮ್ ಮಾಡಿ"
+  },
+  "options_cast_toggle_label": {
+    "message": "ಕಾಸ್ಟ್ ಬಟನ್"
+  },
+  "options_cast_toggle_description": {
+    "message": "ಬೆಂಬಲಿತ ವೀಡಿಯೊಗಳ ಪಕ್ಕದಲ್ಲಿ ಕಾಸ್ಟ್ ಐಕಾನ್ ತೋರಿಸಿ"
+  },
+  "options_badge_title": {
+    "message": "ಬ್ಯಾಡ್ಜ್"
+  },
+  "options_badge_description": {
+    "message": "ಟೂಲ್‌ಬಾರ್ ಐಕಾನ್ ಬ್ಯಾಡ್ಜ್ ಏನು ತೋರಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ಆಯ್ಕೆಮಾಡಿ"
+  },
+  "options_badge_count": {
+    "message": "ಎಣಿಕೆ"
+  },
+  "options_badge_dot": {
+    "message": "ಚುಕ್ಕೆ"
+  },
+  "options_badge_hidden": {
+    "message": "ಅಡಗಿಸಲಾಗಿದೆ"
+  },
+  "options_website_title": {
+    "message": "ಬ್ಲಾಕ್‌ಲಿಸ್ಟ್"
+  },
+  "options_website_description": {
+    "message": "ನಿರ್ದಿಷ್ಟ ಸೈಟ್‌ಗಳಲ್ಲಿ Video Downloader Plus ರನ್ ಆಗದಂತೆ ತಡೆಯಿರಿ"
+  },
+  "options_website_add_label": {
+    "message": "ಸೈಟ್ ಬ್ಲಾಕ್ ಮಾಡಿ"
+  },
+  "options_website_add_description": {
+    "message": "ಸ್ವೀಕಾರಾರ್ಹ ಮಾದರಿಗಳು: <code>example.com</code> ಅಥವಾ <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com ಅಥವಾ *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "ಬ್ಲಾಕ್"
+  },
+  "options_website_list_label": {
+    "message": "ಬ್ಲಾಕ್ ಮಾಡಿದ ಸೈಟ್‌ಗಳು"
+  },
+  "options_website_empty": {
+    "message": "ಇನ್ನೂ ಯಾವುದೇ ಬ್ಲಾಕ್ ಮಾಡಿದ ಸೈಟ್ ಇಲ್ಲ"
+  },
+  "options_status_unsaved": {
+    "message": "ಉಳಿಸದ ಬದಲಾವಣೆಗಳು"
+  },
+  "options_status_saved": {
+    "message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಉಳಿಸಲಾಗಿದೆ"
+  },
+  "options_button_save": {
+    "message": "ಅನ್ವಯಿಸಿ"
+  },
+  "options_button_reset": {
+    "message": "ಡೀಫಾಲ್ಟ್‌ಗಳಿಗೆ ಮರುಹೊಂದಿಸಿ"
+  },
+  "options_button_reset_confirm": {
+    "message": "ನೀವು ಖಚಿತವಾಗಿದ್ದೀರಾ?"
+  },
+  "options_toast_reset_success": {
+    "message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಡೀಫಾಲ್ಟ್‌ಗಳಿಗೆ ಮರುಸ್ಥಾಪಿಸಲಾಗಿದೆ"
+  },
+  "options_toast_reset_error": {
+    "message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಮರುಹೊಂದಿಸಲು ವಿಫಲವಾಗಿದೆ"
+  },
+  "options_button_logout": {
+    "message": "ಲಾಗ್ ಔಟ್"
+  },
+  "options_toast_min_size": {
+    "message": "ಕನಿಷ್ಠ $1 $2"
+  },
+  "options_toast_enter_domain": {
+    "message": "ಮೊದಲು ಡೊಮೇನ್ ನಮೂದಿಸಿ"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "ಅಮಾನ್ಯ ಇನ್‌ಪುಟ್"
+  },
+  "options_toast_invalid_domain": {
+    "message": "example.com ಅಥವಾ *.example.com ನಂತಹ ಮಾನ್ಯ ಡೊಮೇನ್ ನಮೂದಿಸಿ"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "ಅಮಾನ್ಯ ಡೊಮೇನ್"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "ಈ ಸೈಟ್ ಈಗಾಗಲೇ ಬ್ಲಾಕ್‌ಲಿಸ್ಟ್‌ನಲ್ಲಿದೆ"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "ಈಗಾಗಲೇ ಬ್ಲಾಕ್ ಆಗಿದೆ"
+  },
+  "options_toast_block_limit": {
+    "message": "$1 ಸೈಟ್‌ಗಳವರೆಗೆ ಬ್ಲಾಕ್ ಮಾಡಬಹುದು."
+  },
+  "options_toast_permission_denied": {
+    "message": "ಪ್ರವೇಶ ನಿರಾಕರಿಸಲಾಗಿದೆ. ಮರುಪ್ರಯತ್ನಕ್ಕೆ ಟಾಗಲ್ ಮಾಡಿ."
+  },
+  "options_toast_permission_title": {
+    "message": "ಪ್ರವೇಶ ಅಗತ್ಯ"
+  },
+  "options_toast_permission_failed": {
+    "message": "ಅನುಮತಿ ಕೋರಲಾಗಲಿಲ್ಲ. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+  },
+  "options_toast_save_success": {
+    "message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಅನ್ವಯಿಸಲಾಗಿದೆ"
+  },
+  "options_toast_save_error": {
+    "message": "ಉಳಿಸಲಾಗಲಿಲ್ಲ. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+  },
+  "options_toast_logout_success": {
+    "message": "ಲಾಗ್ ಔಟ್ ಆಗಿದೆ"
+  },
+  "options_toast_logout_error": {
+    "message": "ಲಾಗ್ ಔಟ್ ವಿಫಲ. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+  },
+  "options_toast_load_error": {
+    "message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಲೋಡ್ ಮಾಡಲಾಗಲಿಲ್ಲ. ಪುಟ ರಿಫ್ರೆಶ್ ಮಾಡಿ."
+  },
+  "options_footer_privacy": {
+    "message": "ಗೌಪ್ಯತಾ ನೀತಿ"
+  },
+  "options_footer_terms": {
+    "message": "ಸೇವಾ ನಿಯಮಗಳು"
+  },
+  "player_modal_close": {
+    "message": "ಪ್ಲೇಯರ್ ಮುಚ್ಚಿ"
+  },
+  "player_modal_error": {
+    "message": "ಈ ವೀಡಿಯೊ ಪ್ಲೇ ಮಾಡಲಾಗಲಿಲ್ಲ"
+  },
+  "player_modal_unsupported": {
+    "message": "ಈ ಫಾರ್ಮ್ಯಾಟ್ ಪೂರ್ವವೀಕ್ಷಣೆ ಮಾಡಲಾಗುವುದಿಲ್ಲ. ಡೌನ್‌ಲೋಡ್ ಬಳಸಿ."
+  },
+  "player_modal_loading": {
+    "message": "ವೀಡಿಯೊ ಲೋಡ್ ಆಗುತ್ತಿದೆ..."
+  },
+  "options_header_badge": {
+    "message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
+  },
+  "toast_viewport_label": {
+    "message": "ಅಧಿಸೂಚನೆಗಳು"
+  },
+  "popup_group_streaming_title": {
+    "message": "ಸ್ಟ್ರೀಮಿಂಗ್ $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "ಸರ್ವರ್ ಫೆಚ್ $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "ನೇರ ಡೌನ್‌ಲೋಡ್ $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "ಸರ್ವರ್ ಫೆಚ್"
+  },
+  "popup_group_merge_note": {
+    "message": "ಆಡಿಯೋ ಮತ್ತು ವೀಡಿಯೊ ಪ್ರತ್ಯೇಕವಾಗಿವೆ — ಡೌನ್‌ಲೋಡ್ ಸಮಯದಲ್ಲಿ ವಿಲೀನಗೊಳ್ಳುತ್ತವೆ"
+  },
+  "popup_dismiss_label": {
+    "message": "ವಜಾಗೊಳಿಸಿ"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "ಸ್ಟ್ರೀಮ್ ಪ್ಲೇಬ್ಯಾಕ್ ವಿಫಲವಾಯಿತು"
+  },
+  "player_error_hls_unsupported": {
+    "message": "HLS ಪ್ಲೇಬ್ಯಾಕ್ ಬೆಂಬಲಿತವಲ್ಲ"
+  },
+  "player_error_library_failed": {
+    "message": "ಸ್ಟ್ರೀಮಿಂಗ್ ಲೈಬ್ರರಿ ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಯಿತು"
+  },
+  "player_error_no_url": {
+    "message": "ಪ್ಲೇ ಮಾಡಬಹುದಾದ URL ಲಭ್ಯವಿಲ್ಲ"
+  },
+  "player_error_unsupported_format": {
+    "message": "ಈ ಫಾರ್ಮ್ಯಾಟ್ ಪೂರ್ವವೀಕ್ಷಣೆ ಮಾಡಲಾಗುವುದಿಲ್ಲ"
+  },
+  "error_no_internet": {
+    "message": "ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕವಿಲ್ಲ"
+  },
+  "error_server_unavailable": {
+    "message": "ಸರ್ವರ್ ತಾತ್ಕಾಲಿಕವಾಗಿ ಲಭ್ಯವಿಲ್ಲ"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "ಯಾವುದೇ ವೀಡಿಯೊವನ್ನು ತಕ್ಷಣ ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ನಿಮ್ಮ ಉಚಿತ ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸಿ — ಯಾವುದೇ ಬದ್ಧತೆ ಇಲ್ಲ, ಯಾವಾಗ ಬೇಕಾದರೂ ರದ್ದುಮಾಡಿ."
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "Premium ಅನ್ನು ಉಚಿತವಾಗಿ ಪ್ರಯತ್ನಿಸಿ — ಯಾವುದೇ ಗುಣಮಟ್ಟದಲ್ಲಿ ಯಾವುದೇ ವೀಡಿಯೊವನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ, ಮಿತಿಗಳಿಲ್ಲ."
+  }
+}

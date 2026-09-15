@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "Laadige ja salvestage videoid mis tahes veebisaidilt koheselt. Kiire ja lihtne video allalaadija."
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "Vaata hiljem"
+  },
+  "popup_saved": {
+    "message": "Salvestatud"
+  },
+  "popup_my_list": {
+    "message": "Minu nimekiri"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 kvaliteeti"
+  },
+  "popup_group_title_fallback": {
+    "message": "Video"
+  },
+  "popup_group_title_numbered": {
+    "message": "Video $1"
+  },
+  "popup_footer_settings": {
+    "message": "Seaded"
+  },
+  "popup_footer_reviews": {
+    "message": "Arvustused"
+  },
+  "popup_footer_blog": {
+    "message": "Blogi"
+  },
+  "popup_footer_account": {
+    "message": "Konto"
+  },
+  "popup_footer_upgrade": {
+    "message": "Täienda"
+  },
+  "popup_play_button_label": {
+    "message": "Esita video"
+  },
+  "popup_cast_button_label": {
+    "message": "Edasta seadmesse"
+  },
+  "popup_live_label": {
+    "message": "Otse"
+  },
+  "popup_download_label": {
+    "message": "Laadi alla"
+  },
+  "popup_audio_label": {
+    "message": "Heli"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "Ainult heli"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps heli"
+  },
+  "popup_empty_state": {
+    "message": "Videoid ei leitud."
+  },
+  "popup_report_no_video": {
+    "message": "Teata probleemist"
+  },
+  "popup_report_submitting": {
+    "message": "Saatmine..."
+  },
+  "popup_report_success": {
+    "message": "Täname teatamise eest!"
+  },
+  "popup_report_error": {
+    "message": "Saatmine ebaõnnestus. Proovige uuesti."
+  },
+  "popup_site_blocked": {
+    "message": "See sait on blokeeritud. Saate selle deblokeerida videote tuvastamiseks."
+  },
+  "popup_unblock_site": {
+    "message": "Deblokeeri sait"
+  },
+  "popup_toast_unblock_success": {
+    "message": "Sait deblokeeritud! Laadib uuesti..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "Deblokeerimine ebaõnnestus"
+  },
+  "popup_block_site": {
+    "message": "Blokeeri see sait"
+  },
+  "popup_toast_block_success": {
+    "message": "Sait blokeeritud! Laadib uuesti..."
+  },
+  "popup_toast_block_failed": {
+    "message": "Blokeerimine ebaõnnestus"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "Turvalise allalaadimise lehte ei saa avada"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "Turvalist allalaadimist ei saa ette valmistada"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "Turvalise allalaadimise ettevalmistamine…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "Turvalist allalaadimist ei saa alustada. Proovige uuesti."
+  },
+  "popup_toast_open_source_failed": {
+    "message": "Seda videot ei saa avada"
+  },
+  "popup_toast_identify_failed": {
+    "message": "Seda videot ei saa tuvastada"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "Eemaldatud Vaata hiljem nimekirjast"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "Salvestatud Vaata hiljem nimekirja"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "Vaata hiljem uuendamine ebaõnnestus"
+  },
+  "popup_toast_settings_failed": {
+    "message": "Seadeid ei saa laadida"
+  },
+  "popup_toast_videos_failed": {
+    "message": "Videoid ei saa laadida"
+  },
+  "popup_toast_download_started": {
+    "message": "Allalaadimine alustatud"
+  },
+  "popup_toast_download_failed": {
+    "message": "Allalaadimist ei saa alustada"
+  },
+  "popup_toast_cast_error": {
+    "message": "Chromecasti ei saa ette valmistada. Proovige uuesti."
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "Sellel lehel ei saa videoid laadida"
+  },
+  "watch_later_error_server": {
+    "message": "Serveriga ei saa ühendust. Proovige uuesti."
+  },
+  "watch_later_error_login": {
+    "message": "Logige sisse Vaata hiljem videote haldamiseks."
+  },
+  "watch_later_error_upgrade": {
+    "message": "Vaata hiljem kasutamiseks on vaja täiendust."
+  },
+  "watch_later_error_premium_only": {
+    "message": "Videote salvestamiseks on vajalik Premium."
+  },
+  "watch_later_error_limit": {
+    "message": "Olete saavutanud tasuta salvestamise limiidi."
+  },
+  "watch_later_error_generic": {
+    "message": "Vaata hiljem uuendamine ebaõnnestus. Proovige uuesti."
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "Vahelehe sõrmejälg puudub."
+  },
+  "watch_later_error_missing_source": {
+    "message": "Sellel videol puudub allika link."
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "Vaata hiljem identifikaator puudub."
+  },
+  "save_premium_modal_title": {
+    "message": "Salvesta videoid Premiumiga"
+  },
+  "save_premium_modal_message": {
+    "message": "Videote salvestamine teie teeki on saadaval Premium liikmetele. Uuendage, et salvestada piiramatult videoid."
+  },
+  "limit_modal_title": {
+    "message": "Salvestamise limiit saavutatud"
+  },
+  "limit_modal_message": {
+    "message": "Oled saavutanud tasuta salvestamise limiidi. Uuenda Premiumile, et salvestada piiramatult videoid."
+  },
+  "limit_modal_upgrade": {
+    "message": "Hangi Premium"
+  },
+  "limit_modal_start_trial": {
+    "message": "Alusta tasuta prooviperioodi"
+  },
+  "limit_modal_later": {
+    "message": "Mitte praegu"
+  },
+  "hd_limit_modal_title": {
+    "message": "Päevane HD allalaadimise limiit saavutatud"
+  },
+  "hd_limit_modal_message": {
+    "message": "Oled saavutanud päevase tasuta HD allalaadimise limiidi. Uuenda Premiumile, et laadida alla videoid täiskvaliteedis ilma piiranguteta."
+  },
+  "download_premium_modal_title": {
+    "message": "Ava videote allalaadimine"
+  },
+  "download_premium_modal_message": {
+    "message": "Uuendage Premiumiks, et laadida alla mis tahes videot mis tahes kvaliteedis — piiramatult allalaadimisi."
+  },
+  "cast_limit_modal_title": {
+    "message": "Päevane ülekande limiit saavutatud"
+  },
+  "cast_limit_modal_message": {
+    "message": "Oled saavutanud päevase tasuta ülekande limiidi. Uuenda Premiumile, et edastada ükskõik millist videot oma telerile ilma piiranguteta."
+  },
+  "cast_premium_modal_title": {
+    "message": "Edasta oma telerile Premiumiga"
+  },
+  "cast_premium_modal_message": {
+    "message": "Chromecast ülekanne on saadaval Premium liikmetele. Uuenda, et voogedastada ükskõik millist videot oma telerile ilma piiranguteta."
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "Alustage tasuta prooviperioodi, et edastada mis tahes videot oma telerisse — ilma kohustuseta, tühistage igal ajal."
+  },
+  "review_modal_title": {
+    "message": "Kas teile meeldib Video Downloader Plus?"
+  },
+  "review_modal_message": {
+    "message": "Kui Video Downloader Plus on olnud kasulik, tähendaks kiire hinnang Chrome Web Store'is meile palju!"
+  },
+  "review_modal_rate": {
+    "message": "Hinda Video Downloader Plus'd"
+  },
+  "review_modal_later": {
+    "message": "Võib-olla hiljem"
+  },
+  "download_limit_banner_remaining": {
+    "message": "$1 HD allalaadimine(t) jäänud täna"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "Päevane HD allalaadimise limiit saavutatud"
+  },
+  "download_limit_banner_reset": {
+    "message": "Lähtestub $1 pärast"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "Uuendage Premiumiks — laadige alla mis tahes video mis tahes kvaliteedis, piiranguteta."
+  },
+  "generic_video_label": {
+    "message": "Video"
+  },
+  "popup_actions_cast": {
+    "message": "Edasta"
+  },
+  "popup_actions_download": {
+    "message": "Laadi alla"
+  },
+  "popup_actions_premium": {
+    "message": "Premium"
+  },
+  "popup_actions_save": {
+    "message": "Salvesta"
+  },
+  "toast_dismiss": {
+    "message": "Sulge"
+  },
+  "options_header_subtitle": {
+    "message": "Kohandage kuidas Video Downloader Plus tuvastab ja salvestab videoid"
+  },
+  "options_help_center": {
+    "message": "Abikeskus"
+  },
+  "options_support": {
+    "message": "Tugi"
+  },
+  "options_formats_title": {
+    "message": "Meediavormingud"
+  },
+  "options_formats_description": {
+    "message": "Valige failitüübid, mida Video Downloader Plus peaks otsima"
+  },
+  "options_formats_video_label": {
+    "message": "Video"
+  },
+  "options_formats_audio_label": {
+    "message": "Heli"
+  },
+  "options_size_title": {
+    "message": "Suuruse lävi"
+  },
+  "options_size_description": {
+    "message": "Ignoreeri sellest väiksemaid faile"
+  },
+  "options_size_label": {
+    "message": "Min. suurus"
+  },
+  "options_size_custom": {
+    "message": "Kohandatud"
+  },
+  "options_download_title": {
+    "message": "Salvestamise asukoht"
+  },
+  "options_download_description": {
+    "message": "Valige kuhu allalaaditud videod salvestatakse"
+  },
+  "options_download_toggle_label": {
+    "message": "Eraldi kaust"
+  },
+  "options_download_toggle_description": {
+    "message": "Suuna kõik salvestused ühte kausta"
+  },
+  "options_download_folder_label": {
+    "message": "Kausta nimi"
+  },
+  "options_download_folder_description": {
+    "message": "Tee Allalaadimistes (tühi juure jaoks)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "Välimus"
+  },
+  "options_appearance_description": {
+    "message": "Valige kuidas Video Downloader Plus välja näeb"
+  },
+  "options_theme_system": {
+    "message": "Süsteemi"
+  },
+  "options_theme_light": {
+    "message": "Hele"
+  },
+  "options_theme_dark": {
+    "message": "Tume"
+  },
+  "options_cast_title": {
+    "message": "Edasta telerisse"
+  },
+  "options_cast_description": {
+    "message": "Voogedastage videoid Chromecasti seadmetesse"
+  },
+  "options_cast_toggle_label": {
+    "message": "Edastuse nupp"
+  },
+  "options_cast_toggle_description": {
+    "message": "Kuva edastuse ikoon toetatud videote kõrval"
+  },
+  "options_badge_title": {
+    "message": "Märgis"
+  },
+  "options_badge_description": {
+    "message": "Valige, mida tööriistariba ikooni märgis näitab"
+  },
+  "options_badge_count": {
+    "message": "Arv"
+  },
+  "options_badge_dot": {
+    "message": "Täpp"
+  },
+  "options_badge_hidden": {
+    "message": "Peidetud"
+  },
+  "options_website_title": {
+    "message": "Blokeerimisloend"
+  },
+  "options_website_description": {
+    "message": "Takistage Video Downloader Plus töötamist kindlatel saitidel"
+  },
+  "options_website_add_label": {
+    "message": "Blokeeri sait"
+  },
+  "options_website_add_description": {
+    "message": "Lubatud mustrid: <code>example.com</code> või <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com või *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "Blokeeri"
+  },
+  "options_website_list_label": {
+    "message": "Blokeeritud saidid"
+  },
+  "options_website_empty": {
+    "message": "Blokeeritud saite pole veel"
+  },
+  "options_status_unsaved": {
+    "message": "Salvestamata muudatused"
+  },
+  "options_status_saved": {
+    "message": "Seaded salvestatud"
+  },
+  "options_button_save": {
+    "message": "Rakenda"
+  },
+  "options_button_reset": {
+    "message": "Lähtesta vaikeseaded"
+  },
+  "options_button_reset_confirm": {
+    "message": "Kas olete kindel?"
+  },
+  "options_toast_reset_success": {
+    "message": "Seaded taastatud vaikeseadetele"
+  },
+  "options_toast_reset_error": {
+    "message": "Seadete lähtestamine ebaõnnestus"
+  },
+  "options_button_logout": {
+    "message": "Logi välja"
+  },
+  "options_toast_min_size": {
+    "message": "Miinimum on $1 $2"
+  },
+  "options_toast_enter_domain": {
+    "message": "Sisestage esmalt domeen"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "Vigane sisend"
+  },
+  "options_toast_invalid_domain": {
+    "message": "Sisestage kehtiv domeen nagu example.com või *.example.com"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "Vigane domeen"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "See sait on juba blokeerimisloendis"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "Juba blokeeritud"
+  },
+  "options_toast_block_limit": {
+    "message": "Saate blokeerida kuni $1 saiti."
+  },
+  "options_toast_permission_denied": {
+    "message": "Juurdepääs keelatud. Lülitage uuesti proovimiseks."
+  },
+  "options_toast_permission_title": {
+    "message": "Juurdepääs vajalik"
+  },
+  "options_toast_permission_failed": {
+    "message": "Luba küsimine ebaõnnestus. Proovige uuesti."
+  },
+  "options_toast_save_success": {
+    "message": "Seaded rakendatud"
+  },
+  "options_toast_save_error": {
+    "message": "Salvestamine ebaõnnestus. Proovige uuesti."
+  },
+  "options_toast_logout_success": {
+    "message": "Välja logitud"
+  },
+  "options_toast_logout_error": {
+    "message": "Väljalogimine ebaõnnestus. Proovige uuesti."
+  },
+  "options_toast_load_error": {
+    "message": "Seadeid ei saa laadida. Värskendage lehte."
+  },
+  "options_footer_privacy": {
+    "message": "Privaatsuspoliitika"
+  },
+  "options_footer_terms": {
+    "message": "Teenuse tingimused"
+  },
+  "player_modal_close": {
+    "message": "Sulge mängija"
+  },
+  "player_modal_error": {
+    "message": "Seda videot ei saa esitada"
+  },
+  "player_modal_unsupported": {
+    "message": "Seda vormingut ei saa eelvaadata. Kasutage allalaadimist."
+  },
+  "player_modal_loading": {
+    "message": "Video laadimine..."
+  },
+  "options_header_badge": {
+    "message": "Seaded"
+  },
+  "toast_viewport_label": {
+    "message": "Teavitused"
+  },
+  "popup_group_streaming_title": {
+    "message": "Voogedastus $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "Serverist tõmbamine $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "Otseallalaadimine $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "Serverist tõmbamine"
+  },
+  "popup_group_merge_note": {
+    "message": "Heli ja video on eraldi — need liidetakse allalaadimisel"
+  },
+  "popup_dismiss_label": {
+    "message": "Sulge"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "Voo esitamine ebaõnnestus"
+  },
+  "player_error_hls_unsupported": {
+    "message": "HLS esitamine ei ole toetatud"
+  },
+  "player_error_library_failed": {
+    "message": "Voogedastuse teeki laadimine ebaõnnestus"
+  },
+  "player_error_no_url": {
+    "message": "Esitatavat URL-i pole saadaval"
+  },
+  "player_error_unsupported_format": {
+    "message": "Seda vormingut ei saa eelvaadata"
+  },
+  "error_no_internet": {
+    "message": "Internetiühendus puudub"
+  },
+  "error_server_unavailable": {
+    "message": "Server on ajutiselt kättesaamatu"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "Alusta tasuta prooviperioodi, et laadida alla mis tahes video kohe — ilma kohustuseta, tühista igal ajal."
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "Proovi Premiumi tasuta — laadi alla mis tahes video mis tahes kvaliteediga, piiranguteta."
+  }
+}

@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "Κατεβάστε και αποθηκεύστε βίντεο από οποιαδήποτε ιστοσελίδα αμέσως. Ένα γρήγορο και απλό εργαλείο λήψης βίντεο."
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "Παρακολούθηση αργότερα"
+  },
+  "popup_saved": {
+    "message": "Αποθηκεύτηκε"
+  },
+  "popup_my_list": {
+    "message": "Η λίστα μου"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 ποιότητες"
+  },
+  "popup_group_title_fallback": {
+    "message": "Βίντεο"
+  },
+  "popup_group_title_numbered": {
+    "message": "Βίντεο $1"
+  },
+  "popup_footer_settings": {
+    "message": "Ρυθμίσεις"
+  },
+  "popup_footer_reviews": {
+    "message": "Κριτικές"
+  },
+  "popup_footer_blog": {
+    "message": "Ιστολόγιο"
+  },
+  "popup_footer_account": {
+    "message": "Λογαριασμός"
+  },
+  "popup_footer_upgrade": {
+    "message": "Αναβάθμιση"
+  },
+  "popup_play_button_label": {
+    "message": "Αναπαραγωγή βίντεο"
+  },
+  "popup_cast_button_label": {
+    "message": "Μετάδοση σε συσκευή"
+  },
+  "popup_live_label": {
+    "message": "Ζωντανά"
+  },
+  "popup_download_label": {
+    "message": "Λήψη"
+  },
+  "popup_audio_label": {
+    "message": "Ήχος"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "Μόνο ήχος"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps ήχος"
+  },
+  "popup_empty_state": {
+    "message": "Δεν βρέθηκαν βίντεο."
+  },
+  "popup_report_no_video": {
+    "message": "Αναφορά προβλήματος"
+  },
+  "popup_report_submitting": {
+    "message": "Υποβολή..."
+  },
+  "popup_report_success": {
+    "message": "Ευχαριστούμε για την αναφορά!"
+  },
+  "popup_report_error": {
+    "message": "Αποτυχία υποβολής. Δοκιμάστε ξανά."
+  },
+  "popup_site_blocked": {
+    "message": "Αυτός ο ιστότοπος είναι αποκλεισμένος. Μπορείτε να τον ξεμπλοκάρετε για εντοπισμό βίντεο."
+  },
+  "popup_unblock_site": {
+    "message": "Ξεμπλοκάρισμα"
+  },
+  "popup_toast_unblock_success": {
+    "message": "Ξεμπλοκαρίστηκε! Επαναφόρτωση..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "Αποτυχία ξεμπλοκαρίσματος"
+  },
+  "popup_block_site": {
+    "message": "Αποκλεισμός ιστότοπου"
+  },
+  "popup_toast_block_success": {
+    "message": "Αποκλείστηκε! Επαναφόρτωση..."
+  },
+  "popup_toast_block_failed": {
+    "message": "Αποτυχία αποκλεισμού"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "Δεν είναι δυνατό το άνοιγμα της σελίδας ασφαλούς λήψης"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "Δεν είναι δυνατή η προετοιμασία ασφαλούς λήψης"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "Προετοιμασία ασφαλούς λήψης…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "Δεν είναι δυνατή η έναρξη ασφαλούς λήψης. Δοκιμάστε ξανά."
+  },
+  "popup_toast_open_source_failed": {
+    "message": "Δεν είναι δυνατό το άνοιγμα αυτού του βίντεο"
+  },
+  "popup_toast_identify_failed": {
+    "message": "Δεν είναι δυνατή η αναγνώριση αυτού του βίντεο"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "Αφαιρέθηκε από τη λίστα Παρακολούθηση αργότερα"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "Αποθηκεύτηκε στη λίστα Παρακολούθηση αργότερα"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "Δεν είναι δυνατή η ενημέρωση Παρακολούθηση αργότερα"
+  },
+  "popup_toast_settings_failed": {
+    "message": "Δεν είναι δυνατή η φόρτωση ρυθμίσεων"
+  },
+  "popup_toast_videos_failed": {
+    "message": "Δεν είναι δυνατή η φόρτωση βίντεο"
+  },
+  "popup_toast_download_started": {
+    "message": "Η λήψη ξεκίνησε"
+  },
+  "popup_toast_download_failed": {
+    "message": "Δεν είναι δυνατή η έναρξη λήψης"
+  },
+  "popup_toast_cast_error": {
+    "message": "Δεν είναι δυνατή η προετοιμασία Chromecast. Δοκιμάστε ξανά."
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "Δεν είναι δυνατή η φόρτωση βίντεο σε αυτή τη σελίδα"
+  },
+  "watch_later_error_server": {
+    "message": "Δεν είναι δυνατή η επικοινωνία με τον διακομιστή. Δοκιμάστε ξανά."
+  },
+  "watch_later_error_login": {
+    "message": "Συνδεθείτε για διαχείριση βίντεο Παρακολούθηση αργότερα."
+  },
+  "watch_later_error_upgrade": {
+    "message": "Απαιτείται αναβάθμιση για Παρακολούθηση αργότερα."
+  },
+  "watch_later_error_premium_only": {
+    "message": "Απαιτείται Premium για αποθήκευση βίντεο."
+  },
+  "watch_later_error_limit": {
+    "message": "Φτάσατε το όριο δωρεάν αποθήκευσης."
+  },
+  "watch_later_error_generic": {
+    "message": "Δεν είναι δυνατή η ενημέρωση. Δοκιμάστε ξανά."
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "Λείπει το αποτύπωμα καρτέλας."
+  },
+  "watch_later_error_missing_source": {
+    "message": "Αυτό το βίντεο δεν έχει σύνδεσμο πηγής."
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "Λείπει αναγνωριστικό Παρακολούθηση αργότερα."
+  },
+  "save_premium_modal_title": {
+    "message": "Αποθηκεύστε βίντεο με Premium"
+  },
+  "save_premium_modal_message": {
+    "message": "Η αποθήκευση βίντεο στη βιβλιοθήκη σας είναι διαθέσιμη για μέλη Premium. Αναβαθμίστε για να αποθηκεύσετε απεριόριστα βίντεο."
+  },
+  "limit_modal_title": {
+    "message": "Το όριο αποθήκευσης επιτεύχθηκε"
+  },
+  "limit_modal_message": {
+    "message": "Φτάσατε το δωρεάν όριο αποθήκευσης. Αναβαθμίστε σε Premium για απεριόριστη αποθήκευση βίντεο."
+  },
+  "limit_modal_upgrade": {
+    "message": "Αποκτήστε Premium"
+  },
+  "limit_modal_start_trial": {
+    "message": "Ξεκινήστε δωρεάν δοκιμή"
+  },
+  "limit_modal_later": {
+    "message": "Όχι τώρα"
+  },
+  "hd_limit_modal_title": {
+    "message": "Το ημερήσιο όριο λήψης HD επιτεύχθηκε"
+  },
+  "hd_limit_modal_message": {
+    "message": "Φτάσατε το ημερήσιο δωρεάν όριο λήψης HD. Αναβαθμίστε σε Premium για λήψη βίντεο σε πλήρη ποιότητα χωρίς όρια."
+  },
+  "download_premium_modal_title": {
+    "message": "Ξεκλειδώστε τις λήψεις βίντεο"
+  },
+  "download_premium_modal_message": {
+    "message": "Αναβαθμίστε σε Premium για να κατεβάζετε οποιοδήποτε βίντεο σε οποιαδήποτε ποιότητα — απεριόριστες λήψεις."
+  },
+  "cast_limit_modal_title": {
+    "message": "Το ημερήσιο όριο μετάδοσης επιτεύχθηκε"
+  },
+  "cast_limit_modal_message": {
+    "message": "Φτάσατε το ημερήσιο δωρεάν όριο μετάδοσης. Αναβαθμίστε σε Premium για μετάδοση οποιουδήποτε βίντεο στην τηλεόρασή σας χωρίς όρια."
+  },
+  "cast_premium_modal_title": {
+    "message": "Μετάδοση στην τηλεόρασή σας με Premium"
+  },
+  "cast_premium_modal_message": {
+    "message": "Η μετάδοση Chromecast είναι διαθέσιμη για μέλη Premium. Αναβαθμίστε για streaming οποιουδήποτε βίντεο στην τηλεόρασή σας χωρίς όρια."
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "Ξεκινήστε τη δωρεάν δοκιμαστική περίοδο για να μεταδώσετε οποιοδήποτε βίντεο στην τηλεόρασή σας — χωρίς δέσμευση, ακύρωση ανά πάσα στιγμή."
+  },
+  "review_modal_title": {
+    "message": "Σας αρέσει το Video Downloader Plus;"
+  },
+  "review_modal_message": {
+    "message": "Αν το Video Downloader Plus σας βοήθησε, μια γρήγορη βαθμολογία στο Chrome Web Store θα σήμαινε πολλά!"
+  },
+  "review_modal_rate": {
+    "message": "Βαθμολογήστε το Video Downloader Plus"
+  },
+  "review_modal_later": {
+    "message": "Ίσως αργότερα"
+  },
+  "download_limit_banner_remaining": {
+    "message": "$1 HD λήψη(εις) απομένουν σήμερα"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "Ημερήσιο όριο HD λήψεων"
+  },
+  "download_limit_banner_reset": {
+    "message": "Επαναφορά σε $1"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "Αναβαθμίστε σε Premium — κατεβάστε οποιοδήποτε βίντεο σε οποιαδήποτε ποιότητα, χωρίς όρια."
+  },
+  "generic_video_label": {
+    "message": "Βίντεο"
+  },
+  "popup_actions_cast": {
+    "message": "Μετάδοση"
+  },
+  "popup_actions_download": {
+    "message": "Λήψη"
+  },
+  "popup_actions_premium": {
+    "message": "Premium"
+  },
+  "popup_actions_save": {
+    "message": "Αποθήκευση"
+  },
+  "toast_dismiss": {
+    "message": "Κλείσιμο"
+  },
+  "options_header_subtitle": {
+    "message": "Προσαρμόστε πώς το Video Downloader Plus εντοπίζει και αποθηκεύει βίντεο"
+  },
+  "options_help_center": {
+    "message": "Κέντρο βοήθειας"
+  },
+  "options_support": {
+    "message": "Υποστήριξη"
+  },
+  "options_formats_title": {
+    "message": "Μορφές πολυμέσων"
+  },
+  "options_formats_description": {
+    "message": "Επιλέξτε τους τύπους αρχείων που θα αναζητά το Video Downloader Plus"
+  },
+  "options_formats_video_label": {
+    "message": "Βίντεο"
+  },
+  "options_formats_audio_label": {
+    "message": "Ήχος"
+  },
+  "options_size_title": {
+    "message": "Όριο μεγέθους"
+  },
+  "options_size_description": {
+    "message": "Αγνόηση αρχείων μικρότερων από αυτό το μέγεθος"
+  },
+  "options_size_label": {
+    "message": "Ελάχ. μέγεθος"
+  },
+  "options_size_custom": {
+    "message": "Προσαρμοσμένο"
+  },
+  "options_download_title": {
+    "message": "Τοποθεσία αποθήκευσης"
+  },
+  "options_download_description": {
+    "message": "Επιλέξτε πού αποθηκεύονται τα βίντεο"
+  },
+  "options_download_toggle_label": {
+    "message": "Αποκλειστικός φάκελος"
+  },
+  "options_download_toggle_description": {
+    "message": "Αποθήκευση όλων σε έναν φάκελο"
+  },
+  "options_download_folder_label": {
+    "message": "Όνομα φακέλου"
+  },
+  "options_download_folder_description": {
+    "message": "Διαδρομή στις Λήψεις (κενό για ρίζα)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "Εμφάνιση"
+  },
+  "options_appearance_description": {
+    "message": "Επιλέξτε πώς φαίνεται το Video Downloader Plus"
+  },
+  "options_theme_system": {
+    "message": "Σύστημα"
+  },
+  "options_theme_light": {
+    "message": "Φωτεινό"
+  },
+  "options_theme_dark": {
+    "message": "Σκοτεινό"
+  },
+  "options_cast_title": {
+    "message": "Μετάδοση σε TV"
+  },
+  "options_cast_description": {
+    "message": "Μετάδοση βίντεο σε συσκευές Chromecast"
+  },
+  "options_cast_toggle_label": {
+    "message": "Κουμπί μετάδοσης"
+  },
+  "options_cast_toggle_description": {
+    "message": "Εμφάνιση εικονιδίου μετάδοσης δίπλα στα υποστηριζόμενα βίντεο"
+  },
+  "options_badge_title": {
+    "message": "Σήμα"
+  },
+  "options_badge_description": {
+    "message": "Επιλέξτε τι εμφανίζει το σήμα του εικονιδίου της γραμμής εργαλείων"
+  },
+  "options_badge_count": {
+    "message": "Αριθμός"
+  },
+  "options_badge_dot": {
+    "message": "Τελεία"
+  },
+  "options_badge_hidden": {
+    "message": "Κρυφό"
+  },
+  "options_website_title": {
+    "message": "Λίστα αποκλεισμού"
+  },
+  "options_website_description": {
+    "message": "Αποτρέψτε το Video Downloader Plus από εκτέλεση σε συγκεκριμένους ιστότοπους"
+  },
+  "options_website_add_label": {
+    "message": "Αποκλεισμός ιστότοπου"
+  },
+  "options_website_add_description": {
+    "message": "Αποδεκτά μοτίβα: <code>example.com</code> ή <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com ή *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "Αποκλεισμός"
+  },
+  "options_website_list_label": {
+    "message": "Αποκλεισμένοι ιστότοποι"
+  },
+  "options_website_empty": {
+    "message": "Δεν υπάρχουν αποκλεισμένοι ιστότοποι"
+  },
+  "options_status_unsaved": {
+    "message": "Μη αποθηκευμένες αλλαγές"
+  },
+  "options_status_saved": {
+    "message": "Ρυθμίσεις αποθηκεύτηκαν"
+  },
+  "options_button_save": {
+    "message": "Εφαρμογή"
+  },
+  "options_button_reset": {
+    "message": "Επαναφορά προεπιλογών"
+  },
+  "options_button_reset_confirm": {
+    "message": "Είστε σίγουροι;"
+  },
+  "options_toast_reset_success": {
+    "message": "Οι ρυθμίσεις επαναφέρθηκαν στις προεπιλογές"
+  },
+  "options_toast_reset_error": {
+    "message": "Αποτυχία επαναφοράς ρυθμίσεων"
+  },
+  "options_button_logout": {
+    "message": "Αποσύνδεση"
+  },
+  "options_toast_min_size": {
+    "message": "Το ελάχιστο είναι $1 $2"
+  },
+  "options_toast_enter_domain": {
+    "message": "Εισάγετε πρώτα ένα domain"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "Μη έγκυρη εισαγωγή"
+  },
+  "options_toast_invalid_domain": {
+    "message": "Εισάγετε έγκυρο domain όπως example.com ή *.example.com"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "Μη έγκυρο domain"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "Αυτός ο ιστότοπος είναι ήδη στη λίστα αποκλεισμού"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "Ήδη αποκλεισμένο"
+  },
+  "options_toast_block_limit": {
+    "message": "Μπορείτε να αποκλείσετε έως $1 ιστότοπους."
+  },
+  "options_toast_permission_denied": {
+    "message": "Πρόσβαση αρνήθηκε. Ενεργοποιήστε για νέα δοκιμή."
+  },
+  "options_toast_permission_title": {
+    "message": "Απαιτείται πρόσβαση"
+  },
+  "options_toast_permission_failed": {
+    "message": "Δεν ήταν δυνατό το αίτημα άδειας. Δοκιμάστε ξανά."
+  },
+  "options_toast_save_success": {
+    "message": "Ρυθμίσεις εφαρμόστηκαν"
+  },
+  "options_toast_save_error": {
+    "message": "Δεν ήταν δυνατή η αποθήκευση. Δοκιμάστε ξανά."
+  },
+  "options_toast_logout_success": {
+    "message": "Αποσυνδεθήκατε"
+  },
+  "options_toast_logout_error": {
+    "message": "Αποτυχία αποσύνδεσης. Δοκιμάστε ξανά."
+  },
+  "options_toast_load_error": {
+    "message": "Δεν ήταν δυνατή η φόρτωση ρυθμίσεων. Ανανεώστε τη σελίδα."
+  },
+  "options_footer_privacy": {
+    "message": "Πολιτική απορρήτου"
+  },
+  "options_footer_terms": {
+    "message": "Όροι χρήσης"
+  },
+  "player_modal_close": {
+    "message": "Κλείσιμο αναπαραγωγέα"
+  },
+  "player_modal_error": {
+    "message": "Δεν είναι δυνατή η αναπαραγωγή"
+  },
+  "player_modal_unsupported": {
+    "message": "Αυτή η μορφή δεν μπορεί να προεπισκοπηθεί. Χρησιμοποιήστε λήψη."
+  },
+  "player_modal_loading": {
+    "message": "Φόρτωση βίντεο..."
+  },
+  "options_header_badge": {
+    "message": "Ρυθμίσεις"
+  },
+  "toast_viewport_label": {
+    "message": "Ειδοποιήσεις"
+  },
+  "popup_group_streaming_title": {
+    "message": "Ροή $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "Λήψη από διακομιστή $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "Απευθείας λήψη $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "Λήψη από διακομιστή"
+  },
+  "popup_group_merge_note": {
+    "message": "Ο ήχος και το βίντεο είναι χωριστά — θα συγχωνευτούν κατά τη λήψη"
+  },
+  "popup_dismiss_label": {
+    "message": "Κλείσιμο"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "Η αναπαραγωγή ροής απέτυχε"
+  },
+  "player_error_hls_unsupported": {
+    "message": "Η αναπαραγωγή HLS δεν υποστηρίζεται"
+  },
+  "player_error_library_failed": {
+    "message": "Αποτυχία φόρτωσης βιβλιοθήκης ροής"
+  },
+  "player_error_no_url": {
+    "message": "Δεν υπάρχει διαθέσιμο URL αναπαραγωγής"
+  },
+  "player_error_unsupported_format": {
+    "message": "Αυτή η μορφή δεν μπορεί να προεπισκοπηθεί"
+  },
+  "error_no_internet": {
+    "message": "Δεν υπάρχει σύνδεση στο διαδίκτυο"
+  },
+  "error_server_unavailable": {
+    "message": "Ο διακομιστής δεν είναι προσωρινά διαθέσιμος"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "Ξεκινήστε τη δωρεάν δοκιμή σας για να κατεβάσετε οποιοδήποτε βίντεο αμέσως — χωρίς δέσμευση, ακύρωση ανά πάσα στιγμή."
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "Δοκιμάστε το Premium δωρεάν — κατεβάστε οποιοδήποτε βίντεο σε οποιαδήποτε ποιότητα, χωρίς όρια."
+  }
+}

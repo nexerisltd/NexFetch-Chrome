@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "Unduh dan simpan video dari situs web mana pun secara instan. Pengunduh video yang cepat, sederhana, dan langsung berfungsi."
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "Tonton Nanti"
+  },
+  "popup_saved": {
+    "message": "Tersimpan"
+  },
+  "popup_my_list": {
+    "message": "Daftar Saya"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 Kualitas"
+  },
+  "popup_group_title_fallback": {
+    "message": "Video"
+  },
+  "popup_group_title_numbered": {
+    "message": "Video $1"
+  },
+  "popup_footer_settings": {
+    "message": "Pengaturan"
+  },
+  "popup_footer_reviews": {
+    "message": "Ulasan"
+  },
+  "popup_footer_blog": {
+    "message": "Blog"
+  },
+  "popup_footer_account": {
+    "message": "Akun"
+  },
+  "popup_footer_upgrade": {
+    "message": "Tingkatkan"
+  },
+  "popup_play_button_label": {
+    "message": "Putar video"
+  },
+  "popup_cast_button_label": {
+    "message": "Kirim ke perangkat"
+  },
+  "popup_live_label": {
+    "message": "Siaran Langsung"
+  },
+  "popup_download_label": {
+    "message": "Unduh"
+  },
+  "popup_audio_label": {
+    "message": "Audio"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "Hanya audio"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps audio"
+  },
+  "popup_empty_state": {
+    "message": "Tidak ada video ditemukan."
+  },
+  "popup_report_no_video": {
+    "message": "Laporkan Masalah"
+  },
+  "popup_report_submitting": {
+    "message": "Mengirim..."
+  },
+  "popup_report_success": {
+    "message": "Terima kasih atas laporan Anda!"
+  },
+  "popup_report_error": {
+    "message": "Gagal mengirim laporan. Silakan coba lagi."
+  },
+  "popup_site_blocked": {
+    "message": "Situs ini diblokir. Anda dapat membuka blokirnya untuk mendeteksi video."
+  },
+  "popup_unblock_site": {
+    "message": "Buka Blokir Situs"
+  },
+  "popup_toast_unblock_success": {
+    "message": "Situs dibuka blokirnya! Memuat ulang..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "Gagal membuka blokir"
+  },
+  "popup_block_site": {
+    "message": "Blokir situs ini"
+  },
+  "popup_toast_block_success": {
+    "message": "Situs diblokir! Memuat ulang..."
+  },
+  "popup_toast_block_failed": {
+    "message": "Gagal memblokir"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "Tidak dapat membuka halaman unduhan aman"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "Tidak dapat menyiapkan unduhan aman ini"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "Menyiapkan unduhan aman…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "Tidak dapat memulai unduhan aman. Silakan coba lagi."
+  },
+  "popup_toast_open_source_failed": {
+    "message": "Tidak dapat membuka video ini"
+  },
+  "popup_toast_identify_failed": {
+    "message": "Tidak dapat mengidentifikasi video ini"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "Dihapus dari daftar Tonton Nanti"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "Disimpan ke daftar Tonton Nanti"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "Tidak dapat memperbarui Tonton Nanti"
+  },
+  "popup_toast_settings_failed": {
+    "message": "Tidak dapat memuat pengaturan"
+  },
+  "popup_toast_videos_failed": {
+    "message": "Tidak dapat memuat video"
+  },
+  "popup_toast_download_started": {
+    "message": "Unduhan dimulai"
+  },
+  "popup_toast_download_failed": {
+    "message": "Tidak dapat memulai unduhan"
+  },
+  "popup_toast_cast_error": {
+    "message": "Tidak dapat menyiapkan pemutaran Chromecast. Silakan coba lagi."
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "Tidak dapat memuat video di halaman ini"
+  },
+  "watch_later_error_server": {
+    "message": "Tidak dapat menghubungi server. Silakan coba lagi."
+  },
+  "watch_later_error_login": {
+    "message": "Silakan masuk untuk mengelola video Tonton Nanti."
+  },
+  "watch_later_error_upgrade": {
+    "message": "Diperlukan peningkatan untuk menggunakan Tonton Nanti."
+  },
+  "watch_later_error_premium_only": {
+    "message": "Premium diperlukan untuk menyimpan video."
+  },
+  "watch_later_error_limit": {
+    "message": "Anda telah mencapai batas penyimpanan gratis."
+  },
+  "watch_later_error_generic": {
+    "message": "Tidak dapat memperbarui Tonton Nanti. Silakan coba lagi."
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "Sidik jari tab tidak ditemukan."
+  },
+  "watch_later_error_missing_source": {
+    "message": "Video ini tidak memiliki tautan sumber."
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "Pengenal Tonton Nanti tidak ditemukan."
+  },
+  "save_premium_modal_title": {
+    "message": "Simpan video dengan Premium"
+  },
+  "save_premium_modal_message": {
+    "message": "Menyimpan video ke perpustakaan Anda tersedia untuk anggota Premium. Upgrade untuk menyimpan video tanpa batas."
+  },
+  "limit_modal_title": {
+    "message": "Batas penyimpanan tercapai"
+  },
+  "limit_modal_message": {
+    "message": "Anda telah mencapai batas penyimpanan gratis. Upgrade ke Premium untuk menyimpan video tanpa batas."
+  },
+  "limit_modal_upgrade": {
+    "message": "Dapatkan Premium"
+  },
+  "limit_modal_start_trial": {
+    "message": "Mulai uji coba gratis"
+  },
+  "limit_modal_later": {
+    "message": "Nanti saja"
+  },
+  "hd_limit_modal_title": {
+    "message": "Batas unduhan HD harian tercapai"
+  },
+  "hd_limit_modal_message": {
+    "message": "Anda telah mencapai batas unduhan HD gratis harian. Upgrade ke Premium untuk mengunduh video dalam kualitas penuh tanpa batas."
+  },
+  "download_premium_modal_title": {
+    "message": "Buka unduhan video"
+  },
+  "download_premium_modal_message": {
+    "message": "Upgrade ke Premium untuk mengunduh video apa pun dalam kualitas apa pun — unduhan tanpa batas."
+  },
+  "cast_limit_modal_title": {
+    "message": "Batas cast harian tercapai"
+  },
+  "cast_limit_modal_message": {
+    "message": "Anda telah mencapai batas cast gratis harian. Upgrade ke Premium untuk cast video apa pun ke TV Anda tanpa batas."
+  },
+  "cast_premium_modal_title": {
+    "message": "Cast ke TV Anda dengan Premium"
+  },
+  "cast_premium_modal_message": {
+    "message": "Chromecast casting tersedia untuk anggota Premium. Upgrade untuk streaming video apa pun ke TV Anda tanpa batas."
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "Mulai uji coba gratis Anda untuk mentransmisikan video apa pun ke TV — tanpa komitmen, batalkan kapan saja."
+  },
+  "review_modal_title": {
+    "message": "Suka Video Downloader Plus?"
+  },
+  "review_modal_message": {
+    "message": "Jika Video Downloader Plus bermanfaat bagi Anda, penilaian cepat di Chrome Web Store akan sangat berarti bagi kami!"
+  },
+  "review_modal_rate": {
+    "message": "Nilai Video Downloader Plus"
+  },
+  "review_modal_later": {
+    "message": "Nanti saja"
+  },
+  "download_limit_banner_remaining": {
+    "message": "$1 unduhan HD tersisa hari ini"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "Batas unduhan HD harian tercapai"
+  },
+  "download_limit_banner_reset": {
+    "message": "Direset dalam $1"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "Upgrade ke Premium — unduh video apa pun dalam kualitas apa pun, tanpa batas."
+  },
+  "generic_video_label": {
+    "message": "Video"
+  },
+  "popup_actions_cast": {
+    "message": "Kirim"
+  },
+  "popup_actions_download": {
+    "message": "Unduh"
+  },
+  "popup_actions_premium": {
+    "message": "Premium"
+  },
+  "popup_actions_save": {
+    "message": "Simpan"
+  },
+  "toast_dismiss": {
+    "message": "Tutup"
+  },
+  "options_header_subtitle": {
+    "message": "Sesuaikan cara Video Downloader Plus mendeteksi dan menyimpan video"
+  },
+  "options_help_center": {
+    "message": "Pusat Bantuan"
+  },
+  "options_support": {
+    "message": "Dukungan"
+  },
+  "options_formats_title": {
+    "message": "Format media"
+  },
+  "options_formats_description": {
+    "message": "Pilih jenis file yang harus dicari Video Downloader Plus"
+  },
+  "options_formats_video_label": {
+    "message": "Video"
+  },
+  "options_formats_audio_label": {
+    "message": "Audio"
+  },
+  "options_size_title": {
+    "message": "Batas ukuran"
+  },
+  "options_size_description": {
+    "message": "Abaikan file yang lebih kecil dari ukuran ini"
+  },
+  "options_size_label": {
+    "message": "Ukuran min."
+  },
+  "options_size_custom": {
+    "message": "Kustom"
+  },
+  "options_download_title": {
+    "message": "Lokasi penyimpanan"
+  },
+  "options_download_description": {
+    "message": "Pilih tempat penyimpanan video yang diunduh"
+  },
+  "options_download_toggle_label": {
+    "message": "Folder khusus"
+  },
+  "options_download_toggle_description": {
+    "message": "Arahkan semua unduhan ke satu folder"
+  },
+  "options_download_folder_label": {
+    "message": "Nama folder"
+  },
+  "options_download_folder_description": {
+    "message": "Jalur di dalam Unduhan (kosongkan untuk root)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "Tampilan"
+  },
+  "options_appearance_description": {
+    "message": "Pilih tampilan Video Downloader Plus"
+  },
+  "options_theme_system": {
+    "message": "Sistem"
+  },
+  "options_theme_light": {
+    "message": "Terang"
+  },
+  "options_theme_dark": {
+    "message": "Gelap"
+  },
+  "options_cast_title": {
+    "message": "Cast ke TV"
+  },
+  "options_cast_description": {
+    "message": "Streaming video ke perangkat yang mendukung Chromecast"
+  },
+  "options_cast_toggle_label": {
+    "message": "Tombol Cast"
+  },
+  "options_cast_toggle_description": {
+    "message": "Tampilkan ikon Cast di samping video yang didukung"
+  },
+  "options_badge_title": {
+    "message": "Lencana"
+  },
+  "options_badge_description": {
+    "message": "Pilih apa yang ditampilkan lencana ikon toolbar"
+  },
+  "options_badge_count": {
+    "message": "Jumlah"
+  },
+  "options_badge_dot": {
+    "message": "Titik"
+  },
+  "options_badge_hidden": {
+    "message": "Tersembunyi"
+  },
+  "options_website_title": {
+    "message": "Daftar situs diblokir"
+  },
+  "options_website_description": {
+    "message": "Cegah Video Downloader Plus berjalan di situs tertentu"
+  },
+  "options_website_add_label": {
+    "message": "Blokir situs"
+  },
+  "options_website_add_description": {
+    "message": "Pola yang diterima: <code>example.com</code> atau <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com atau *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "Blokir"
+  },
+  "options_website_list_label": {
+    "message": "Situs yang diblokir"
+  },
+  "options_website_empty": {
+    "message": "Belum ada situs yang diblokir"
+  },
+  "options_status_unsaved": {
+    "message": "Perubahan belum disimpan"
+  },
+  "options_status_saved": {
+    "message": "Pengaturan disimpan"
+  },
+  "options_button_save": {
+    "message": "Terapkan"
+  },
+  "options_button_reset": {
+    "message": "Kembalikan ke default"
+  },
+  "options_button_reset_confirm": {
+    "message": "Apakah Anda yakin?"
+  },
+  "options_toast_reset_success": {
+    "message": "Pengaturan dikembalikan ke default"
+  },
+  "options_toast_reset_error": {
+    "message": "Gagal mereset pengaturan"
+  },
+  "options_button_logout": {
+    "message": "Keluar"
+  },
+  "options_toast_min_size": {
+    "message": "Minimum adalah $1 $2"
+  },
+  "options_toast_enter_domain": {
+    "message": "Masukkan domain terlebih dahulu"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "Input salah"
+  },
+  "options_toast_invalid_domain": {
+    "message": "Masukkan domain yang valid seperti example.com atau *.example.com"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "Domain tidak valid"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "Situs itu sudah ada di daftar blokir"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "Sudah diblokir"
+  },
+  "options_toast_block_limit": {
+    "message": "Anda dapat memblokir hingga $1 situs."
+  },
+  "options_toast_permission_denied": {
+    "message": "Akses ditolak. Aktifkan toggle untuk mencoba lagi."
+  },
+  "options_toast_permission_title": {
+    "message": "Akses diperlukan"
+  },
+  "options_toast_permission_failed": {
+    "message": "Tidak dapat meminta izin. Coba lagi."
+  },
+  "options_toast_save_success": {
+    "message": "Pengaturan diterapkan"
+  },
+  "options_toast_save_error": {
+    "message": "Tidak dapat menyimpan. Silakan coba lagi."
+  },
+  "options_toast_logout_success": {
+    "message": "Berhasil keluar"
+  },
+  "options_toast_logout_error": {
+    "message": "Gagal keluar. Silakan coba lagi."
+  },
+  "options_toast_load_error": {
+    "message": "Tidak dapat memuat pengaturan. Segarkan halaman."
+  },
+  "options_footer_privacy": {
+    "message": "Kebijakan Privasi"
+  },
+  "options_footer_terms": {
+    "message": "Ketentuan Layanan"
+  },
+  "player_modal_close": {
+    "message": "Tutup pemutar"
+  },
+  "player_modal_error": {
+    "message": "Tidak dapat memutar video ini"
+  },
+  "player_modal_unsupported": {
+    "message": "Format ini tidak dapat dipratinjau. Gunakan unduhan sebagai gantinya."
+  },
+  "player_modal_loading": {
+    "message": "Memuat video..."
+  },
+  "options_header_badge": {
+    "message": "Pengaturan"
+  },
+  "toast_viewport_label": {
+    "message": "Notifikasi"
+  },
+  "popup_group_streaming_title": {
+    "message": "Streaming $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "Pengambilan Server $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "Unduhan Langsung $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "Pengambilan Server"
+  },
+  "popup_group_merge_note": {
+    "message": "Audio dan video terpisah — keduanya akan digabungkan saat mengunduh"
+  },
+  "popup_dismiss_label": {
+    "message": "Tutup"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "Pemutaran stream gagal"
+  },
+  "player_error_hls_unsupported": {
+    "message": "Pemutaran HLS tidak didukung"
+  },
+  "player_error_library_failed": {
+    "message": "Gagal memuat pustaka streaming"
+  },
+  "player_error_no_url": {
+    "message": "Tidak ada URL yang dapat diputar"
+  },
+  "player_error_unsupported_format": {
+    "message": "Format ini tidak dapat dipratinjau"
+  },
+  "error_no_internet": {
+    "message": "Tidak ada koneksi internet"
+  },
+  "error_server_unavailable": {
+    "message": "Server sementara tidak tersedia"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "Mulai uji coba gratis Anda untuk mengunduh video apa pun secara instan — tanpa komitmen, batalkan kapan saja."
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "Coba Premium gratis — unduh video apa pun dalam kualitas apa pun, tanpa batas."
+  }
+}

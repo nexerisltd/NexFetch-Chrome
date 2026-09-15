@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "Muat turun dan simpan video daripada mana-mana laman web dengan serta-merta. Pemuat turun video yang pantas, mudah dan berkesan."
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "Tonton Kemudian"
+  },
+  "popup_saved": {
+    "message": "Disimpan"
+  },
+  "popup_my_list": {
+    "message": "Senarai Saya"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 Kualiti"
+  },
+  "popup_group_title_fallback": {
+    "message": "Video"
+  },
+  "popup_group_title_numbered": {
+    "message": "Video $1"
+  },
+  "popup_footer_settings": {
+    "message": "Tetapan"
+  },
+  "popup_footer_reviews": {
+    "message": "Ulasan"
+  },
+  "popup_footer_blog": {
+    "message": "Blog"
+  },
+  "popup_footer_account": {
+    "message": "Akaun"
+  },
+  "popup_footer_upgrade": {
+    "message": "Naik Taraf"
+  },
+  "popup_play_button_label": {
+    "message": "Main video"
+  },
+  "popup_cast_button_label": {
+    "message": "Hantar ke peranti"
+  },
+  "popup_live_label": {
+    "message": "Langsung"
+  },
+  "popup_download_label": {
+    "message": "Muat Turun"
+  },
+  "popup_audio_label": {
+    "message": "Audio"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "Audio sahaja"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps audio"
+  },
+  "popup_empty_state": {
+    "message": "Tiada video ditemui."
+  },
+  "popup_report_no_video": {
+    "message": "Laporkan Masalah"
+  },
+  "popup_report_submitting": {
+    "message": "Menghantar..."
+  },
+  "popup_report_success": {
+    "message": "Terima kasih atas laporan anda!"
+  },
+  "popup_report_error": {
+    "message": "Gagal menghantar laporan. Sila cuba lagi."
+  },
+  "popup_site_blocked": {
+    "message": "Laman ini disekat. Anda boleh menyahsekat untuk mengesan video."
+  },
+  "popup_unblock_site": {
+    "message": "Nyahsekat Laman"
+  },
+  "popup_toast_unblock_success": {
+    "message": "Laman dinyahsekat! Memuat semula..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "Gagal menyahsekat"
+  },
+  "popup_block_site": {
+    "message": "Sekat laman ini"
+  },
+  "popup_toast_block_success": {
+    "message": "Laman disekat! Memuat semula..."
+  },
+  "popup_toast_block_failed": {
+    "message": "Gagal menyekat"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "Tidak dapat membuka halaman muat turun selamat"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "Tidak dapat menyediakan muat turun selamat ini"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "Menyediakan muat turun selamat…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "Tidak dapat memulakan muat turun selamat. Sila cuba lagi."
+  },
+  "popup_toast_open_source_failed": {
+    "message": "Tidak dapat membuka video ini"
+  },
+  "popup_toast_identify_failed": {
+    "message": "Tidak dapat mengenal pasti video ini"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "Dialih keluar dari senarai Tonton Kemudian"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "Disimpan ke senarai Tonton Kemudian"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "Tidak dapat mengemas kini Tonton Kemudian"
+  },
+  "popup_toast_settings_failed": {
+    "message": "Tidak dapat memuatkan tetapan"
+  },
+  "popup_toast_videos_failed": {
+    "message": "Tidak dapat memuatkan video"
+  },
+  "popup_toast_download_started": {
+    "message": "Muat turun bermula"
+  },
+  "popup_toast_download_failed": {
+    "message": "Tidak dapat memulakan muat turun"
+  },
+  "popup_toast_cast_error": {
+    "message": "Tidak dapat menyediakan main balik Chromecast. Sila cuba lagi."
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "Tidak dapat memuatkan video di halaman ini"
+  },
+  "watch_later_error_server": {
+    "message": "Tidak dapat menghubungi pelayan. Sila cuba lagi."
+  },
+  "watch_later_error_login": {
+    "message": "Sila log masuk untuk mengurus video Tonton Kemudian."
+  },
+  "watch_later_error_upgrade": {
+    "message": "Naik taraf diperlukan untuk menggunakan Tonton Kemudian."
+  },
+  "watch_later_error_premium_only": {
+    "message": "Premium diperlukan untuk menyimpan video."
+  },
+  "watch_later_error_limit": {
+    "message": "Anda telah mencapai had simpanan percuma."
+  },
+  "watch_later_error_generic": {
+    "message": "Tidak dapat mengemas kini Tonton Kemudian. Sila cuba lagi."
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "Cap jari tab tiada."
+  },
+  "watch_later_error_missing_source": {
+    "message": "Video ini tiada pautan sumber."
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "Pengecam Tonton Kemudian tiada."
+  },
+  "save_premium_modal_title": {
+    "message": "Simpan video dengan Premium"
+  },
+  "save_premium_modal_message": {
+    "message": "Menyimpan video ke perpustakaan anda tersedia untuk ahli Premium. Naik taraf untuk menyimpan video tanpa had."
+  },
+  "limit_modal_title": {
+    "message": "Had simpanan dicapai"
+  },
+  "limit_modal_message": {
+    "message": "Anda telah mencapai had simpanan percuma. Naik taraf ke Premium untuk menyimpan video tanpa had."
+  },
+  "limit_modal_upgrade": {
+    "message": "Dapatkan Premium"
+  },
+  "limit_modal_start_trial": {
+    "message": "Mulakan percubaan percuma"
+  },
+  "limit_modal_later": {
+    "message": "Bukan sekarang"
+  },
+  "hd_limit_modal_title": {
+    "message": "Had muat turun HD harian dicapai"
+  },
+  "hd_limit_modal_message": {
+    "message": "Anda telah mencapai had muat turun HD percuma harian. Naik taraf ke Premium untuk memuat turun video dalam kualiti penuh tanpa had."
+  },
+  "download_premium_modal_title": {
+    "message": "Buka kunci muat turun video"
+  },
+  "download_premium_modal_message": {
+    "message": "Naik taraf ke Premium untuk memuat turun sebarang video dalam sebarang kualiti — muat turun tanpa had."
+  },
+  "cast_limit_modal_title": {
+    "message": "Had cast harian dicapai"
+  },
+  "cast_limit_modal_message": {
+    "message": "Anda telah mencapai had cast percuma harian. Naik taraf ke Premium untuk cast sebarang video ke TV anda tanpa had."
+  },
+  "cast_premium_modal_title": {
+    "message": "Cast ke TV anda dengan Premium"
+  },
+  "cast_premium_modal_message": {
+    "message": "Chromecast casting tersedia untuk ahli Premium. Naik taraf untuk strim sebarang video ke TV anda tanpa had."
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "Mulakan percubaan percuma anda untuk menghantar sebarang video ke TV anda — tanpa komitmen, batalkan bila-bila masa."
+  },
+  "review_modal_title": {
+    "message": "Suka Video Downloader Plus?"
+  },
+  "review_modal_message": {
+    "message": "Jika Video Downloader Plus telah membantu anda, penilaian pantas di Chrome Web Store amat bermakna bagi kami!"
+  },
+  "review_modal_rate": {
+    "message": "Nilai Video Downloader Plus"
+  },
+  "review_modal_later": {
+    "message": "Mungkin nanti"
+  },
+  "download_limit_banner_remaining": {
+    "message": "$1 muat turun HD tinggal hari ini"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "Had muat turun HD harian dicapai"
+  },
+  "download_limit_banner_reset": {
+    "message": "Ditetapkan semula dalam $1"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "Naik taraf ke Premium — muat turun sebarang video dalam sebarang kualiti, tiada had."
+  },
+  "generic_video_label": {
+    "message": "Video"
+  },
+  "popup_actions_cast": {
+    "message": "Hantar"
+  },
+  "popup_actions_download": {
+    "message": "Muat Turun"
+  },
+  "popup_actions_premium": {
+    "message": "Premium"
+  },
+  "popup_actions_save": {
+    "message": "Simpan"
+  },
+  "toast_dismiss": {
+    "message": "Tutup"
+  },
+  "options_header_subtitle": {
+    "message": "Sesuaikan cara Video Downloader Plus mengesan dan menyimpan video"
+  },
+  "options_help_center": {
+    "message": "Pusat Bantuan"
+  },
+  "options_support": {
+    "message": "Sokongan"
+  },
+  "options_formats_title": {
+    "message": "Format media"
+  },
+  "options_formats_description": {
+    "message": "Pilih jenis fail yang perlu dicari oleh Video Downloader Plus"
+  },
+  "options_formats_video_label": {
+    "message": "Video"
+  },
+  "options_formats_audio_label": {
+    "message": "Audio"
+  },
+  "options_size_title": {
+    "message": "Had saiz"
+  },
+  "options_size_description": {
+    "message": "Abaikan fail yang lebih kecil daripada saiz ini"
+  },
+  "options_size_label": {
+    "message": "Saiz min."
+  },
+  "options_size_custom": {
+    "message": "Tersuai"
+  },
+  "options_download_title": {
+    "message": "Lokasi simpanan"
+  },
+  "options_download_description": {
+    "message": "Pilih tempat video yang dimuat turun disimpan"
+  },
+  "options_download_toggle_label": {
+    "message": "Folder khusus"
+  },
+  "options_download_toggle_description": {
+    "message": "Halakan semua muat turun ke satu folder"
+  },
+  "options_download_folder_label": {
+    "message": "Nama folder"
+  },
+  "options_download_folder_description": {
+    "message": "Laluan dalam Muat Turun (kosongkan untuk root)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "Penampilan"
+  },
+  "options_appearance_description": {
+    "message": "Pilih rupa Video Downloader Plus"
+  },
+  "options_theme_system": {
+    "message": "Sistem"
+  },
+  "options_theme_light": {
+    "message": "Cerah"
+  },
+  "options_theme_dark": {
+    "message": "Gelap"
+  },
+  "options_cast_title": {
+    "message": "Cast ke TV"
+  },
+  "options_cast_description": {
+    "message": "Strim video ke peranti yang menyokong Chromecast"
+  },
+  "options_cast_toggle_label": {
+    "message": "Butang Cast"
+  },
+  "options_cast_toggle_description": {
+    "message": "Paparkan ikon Cast di sebelah video yang disokong"
+  },
+  "options_badge_title": {
+    "message": "Lencana"
+  },
+  "options_badge_description": {
+    "message": "Pilih apa yang ditunjukkan oleh lencana ikon bar alat"
+  },
+  "options_badge_count": {
+    "message": "Kiraan"
+  },
+  "options_badge_dot": {
+    "message": "Titik"
+  },
+  "options_badge_hidden": {
+    "message": "Tersembunyi"
+  },
+  "options_website_title": {
+    "message": "Senarai sekat tapak"
+  },
+  "options_website_description": {
+    "message": "Halang Video Downloader Plus daripada berjalan di tapak tertentu"
+  },
+  "options_website_add_label": {
+    "message": "Sekat tapak"
+  },
+  "options_website_add_description": {
+    "message": "Corak yang diterima: <code>example.com</code> atau <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com atau *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "Sekat"
+  },
+  "options_website_list_label": {
+    "message": "Tapak yang disekat"
+  },
+  "options_website_empty": {
+    "message": "Tiada tapak disekat lagi"
+  },
+  "options_status_unsaved": {
+    "message": "Perubahan belum disimpan"
+  },
+  "options_status_saved": {
+    "message": "Tetapan disimpan"
+  },
+  "options_button_save": {
+    "message": "Guna"
+  },
+  "options_button_reset": {
+    "message": "Tetapkan semula ke lalai"
+  },
+  "options_button_reset_confirm": {
+    "message": "Adakah anda pasti?"
+  },
+  "options_toast_reset_success": {
+    "message": "Tetapan dipulihkan ke lalai"
+  },
+  "options_toast_reset_error": {
+    "message": "Gagal menetapkan semula tetapan"
+  },
+  "options_button_logout": {
+    "message": "Log keluar"
+  },
+  "options_toast_min_size": {
+    "message": "Minimum ialah $1 $2"
+  },
+  "options_toast_enter_domain": {
+    "message": "Masukkan domain dahulu"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "Input tidak sah"
+  },
+  "options_toast_invalid_domain": {
+    "message": "Masukkan domain yang sah seperti example.com atau *.example.com"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "Domain tidak sah"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "Tapak itu sudah ada dalam senarai sekat"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "Sudah disekat"
+  },
+  "options_toast_block_limit": {
+    "message": "Anda boleh menyekat sehingga $1 tapak."
+  },
+  "options_toast_permission_denied": {
+    "message": "Akses ditolak. Togol suis untuk mencuba semula."
+  },
+  "options_toast_permission_title": {
+    "message": "Akses diperlukan"
+  },
+  "options_toast_permission_failed": {
+    "message": "Tidak dapat meminta kebenaran. Cuba lagi."
+  },
+  "options_toast_save_success": {
+    "message": "Tetapan digunakan"
+  },
+  "options_toast_save_error": {
+    "message": "Tidak dapat menyimpan. Sila cuba lagi."
+  },
+  "options_toast_logout_success": {
+    "message": "Telah log keluar"
+  },
+  "options_toast_logout_error": {
+    "message": "Log keluar gagal. Sila cuba lagi."
+  },
+  "options_toast_load_error": {
+    "message": "Tidak dapat memuatkan tetapan. Segarkan halaman."
+  },
+  "options_footer_privacy": {
+    "message": "Dasar Privasi"
+  },
+  "options_footer_terms": {
+    "message": "Syarat Perkhidmatan"
+  },
+  "player_modal_close": {
+    "message": "Tutup pemain"
+  },
+  "player_modal_error": {
+    "message": "Tidak dapat memainkan video ini"
+  },
+  "player_modal_unsupported": {
+    "message": "Format ini tidak boleh dipratonton. Gunakan muat turun sebaliknya."
+  },
+  "player_modal_loading": {
+    "message": "Memuatkan video..."
+  },
+  "options_header_badge": {
+    "message": "Tetapan"
+  },
+  "toast_viewport_label": {
+    "message": "Pemberitahuan"
+  },
+  "popup_group_streaming_title": {
+    "message": "Penstriman $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "Muat Turun Pelayan $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "Muat Turun Terus $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "Muat Turun Pelayan"
+  },
+  "popup_group_merge_note": {
+    "message": "Audio dan video terpisah — akan digabungkan semasa muat turun"
+  },
+  "popup_dismiss_label": {
+    "message": "Tutup"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "Main balik strim gagal"
+  },
+  "player_error_hls_unsupported": {
+    "message": "Main balik HLS tidak disokong"
+  },
+  "player_error_library_failed": {
+    "message": "Gagal memuatkan pustaka penstriman"
+  },
+  "player_error_no_url": {
+    "message": "Tiada URL yang boleh dimainkan"
+  },
+  "player_error_unsupported_format": {
+    "message": "Format ini tidak boleh dipratonton"
+  },
+  "error_no_internet": {
+    "message": "Tiada sambungan internet"
+  },
+  "error_server_unavailable": {
+    "message": "Pelayan tidak tersedia buat sementara waktu"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "Mulakan percubaan percuma anda untuk memuat turun sebarang video serta-merta — tiada komitmen, batal bila-bila masa."
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "Cuba Premium percuma — muat turun sebarang video dalam sebarang kualiti, tiada had."
+  }
+}

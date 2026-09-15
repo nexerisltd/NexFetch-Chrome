@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "Преузмите и сачувајте видео записе са било ког сајта тренутно. Брз и једноставан алат за преузимање видеа."
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "Погледај касније"
+  },
+  "popup_saved": {
+    "message": "Сачувано"
+  },
+  "popup_my_list": {
+    "message": "Моја листа"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 квалитета"
+  },
+  "popup_group_title_fallback": {
+    "message": "Видео"
+  },
+  "popup_group_title_numbered": {
+    "message": "Видео $1"
+  },
+  "popup_footer_settings": {
+    "message": "Подешавања"
+  },
+  "popup_footer_reviews": {
+    "message": "Рецензије"
+  },
+  "popup_footer_blog": {
+    "message": "Блог"
+  },
+  "popup_footer_account": {
+    "message": "Налог"
+  },
+  "popup_footer_upgrade": {
+    "message": "Надоградња"
+  },
+  "popup_play_button_label": {
+    "message": "Пусти видео"
+  },
+  "popup_cast_button_label": {
+    "message": "Емитуј на уређај"
+  },
+  "popup_live_label": {
+    "message": "Уживо"
+  },
+  "popup_download_label": {
+    "message": "Преузми"
+  },
+  "popup_audio_label": {
+    "message": "Звук"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "Само звук"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps звук"
+  },
+  "popup_empty_state": {
+    "message": "Нису пронађени видео записи."
+  },
+  "popup_report_no_video": {
+    "message": "Пријави проблем"
+  },
+  "popup_report_submitting": {
+    "message": "Слање..."
+  },
+  "popup_report_success": {
+    "message": "Хвала на пријави!"
+  },
+  "popup_report_error": {
+    "message": "Слање није успело. Покушајте поново."
+  },
+  "popup_site_blocked": {
+    "message": "Овај сајт је блокиран. Можете га одблокирати за откривање видеа."
+  },
+  "popup_unblock_site": {
+    "message": "Одблокирај сајт"
+  },
+  "popup_toast_unblock_success": {
+    "message": "Сајт одблокиран! Учитавање..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "Одблокирање није успело"
+  },
+  "popup_block_site": {
+    "message": "Блокирај овај сајт"
+  },
+  "popup_toast_block_success": {
+    "message": "Сајт блокиран! Учитавање..."
+  },
+  "popup_toast_block_failed": {
+    "message": "Блокирање није успело"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "Не може се отворити страница за безбедно преузимање"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "Не може се припремити безбедно преузимање"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "Припрема безбедног преузимања…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "Не може се покренути безбедно преузимање. Покушајте поново."
+  },
+  "popup_toast_open_source_failed": {
+    "message": "Не може се отворити овај видео"
+  },
+  "popup_toast_identify_failed": {
+    "message": "Не може се идентификовати овај видео"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "Уклоњено са листе Погледај касније"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "Сачувано на листу Погледај касније"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "Не може се ажурирати Погледај касније"
+  },
+  "popup_toast_settings_failed": {
+    "message": "Не могу се учитати подешавања"
+  },
+  "popup_toast_videos_failed": {
+    "message": "Не могу се учитати видео записи"
+  },
+  "popup_toast_download_started": {
+    "message": "Преузимање започето"
+  },
+  "popup_toast_download_failed": {
+    "message": "Не може се покренути преузимање"
+  },
+  "popup_toast_cast_error": {
+    "message": "Не може се припремити Chromecast. Покушајте поново."
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "Не могу се учитати видео записи на овој страници"
+  },
+  "watch_later_error_server": {
+    "message": "Не може се контактирати сервер. Покушајте поново."
+  },
+  "watch_later_error_login": {
+    "message": "Пријавите се за управљање видеима Погледај касније."
+  },
+  "watch_later_error_upgrade": {
+    "message": "Потребна је надоградња за Погледај касније."
+  },
+  "watch_later_error_premium_only": {
+    "message": "За чување видео снимака потребан је Premium."
+  },
+  "watch_later_error_limit": {
+    "message": "Достигли сте бесплатни лимит чувања."
+  },
+  "watch_later_error_generic": {
+    "message": "Не може се ажурирати Погледај касније. Покушајте поново."
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "Недостаје отисак картице."
+  },
+  "watch_later_error_missing_source": {
+    "message": "Овај видео нема изворну везу."
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "Недостаје идентификатор Погледај касније."
+  },
+  "save_premium_modal_title": {
+    "message": "Сачувајте видео снимке са Premium"
+  },
+  "save_premium_modal_message": {
+    "message": "Чување видео снимака у вашу библиотеку је доступно за Premium чланове. Надоградите да бисте сачували неограничен број видео снимака."
+  },
+  "limit_modal_title": {
+    "message": "Ограничење чувања достигнуто"
+  },
+  "limit_modal_message": {
+    "message": "Достигли сте ограничење бесплатног чувања. Надоградите на Premium за неограничено чување видео записа."
+  },
+  "limit_modal_upgrade": {
+    "message": "Набавите Premium"
+  },
+  "limit_modal_start_trial": {
+    "message": "Покрени бесплатну пробну верзију"
+  },
+  "limit_modal_later": {
+    "message": "Не сада"
+  },
+  "hd_limit_modal_title": {
+    "message": "Дневно ограничење HD преузимања достигнуто"
+  },
+  "hd_limit_modal_message": {
+    "message": "Достигли сте дневно ограничење бесплатног HD преузимања. Надоградите на Premium за преузимање видео записа у пуном квалитету без ограничења."
+  },
+  "download_premium_modal_title": {
+    "message": "Откључајте преузимања видеа"
+  },
+  "download_premium_modal_message": {
+    "message": "Надоградите на Premium да преузимате било који видео у било ком квалитету — неограничена преузимања."
+  },
+  "cast_limit_modal_title": {
+    "message": "Дневно ограничење емитовања достигнуто"
+  },
+  "cast_limit_modal_message": {
+    "message": "Достигли сте дневно ограничење бесплатног емитовања. Надоградите на Premium за емитовање било ког видео записа на ТВ без ограничења."
+  },
+  "cast_premium_modal_title": {
+    "message": "Емитујте на ТВ са Premium"
+  },
+  "cast_premium_modal_message": {
+    "message": "Chromecast емитовање је доступно за Premium чланове. Надоградите за стримовање било ког видео записа на ТВ без ограничења."
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "Започните бесплатни пробни период да емитујете било који видео на телевизор — без обавеза, откажите у било ком тренутку."
+  },
+  "review_modal_title": {
+    "message": "Да ли вам се допада Video Downloader Plus?"
+  },
+  "review_modal_message": {
+    "message": "Ако вам је Video Downloader Plus помогао, брза оцена на Chrome Web Store значила би нам много!"
+  },
+  "review_modal_rate": {
+    "message": "Оцени Video Downloader Plus"
+  },
+  "review_modal_later": {
+    "message": "Можда касније"
+  },
+  "download_limit_banner_remaining": {
+    "message": "$1 HD преузимање(а) преостало данас"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "Дневни HD лимит преузимања достигнут"
+  },
+  "download_limit_banner_reset": {
+    "message": "Ресетује се за $1"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "Надоградите на Premium — преузимајте било који видео у било ком квалитету, без ограничења."
+  },
+  "generic_video_label": {
+    "message": "Видео"
+  },
+  "popup_actions_cast": {
+    "message": "Емитуј"
+  },
+  "popup_actions_download": {
+    "message": "Преузми"
+  },
+  "popup_actions_premium": {
+    "message": "Premium"
+  },
+  "popup_actions_save": {
+    "message": "Сачувај"
+  },
+  "toast_dismiss": {
+    "message": "Затвори"
+  },
+  "options_header_subtitle": {
+    "message": "Прилагодите како Video Downloader Plus открива и чува видео записе"
+  },
+  "options_help_center": {
+    "message": "Центар за помоћ"
+  },
+  "options_support": {
+    "message": "Подршка"
+  },
+  "options_formats_title": {
+    "message": "Медијски формати"
+  },
+  "options_formats_description": {
+    "message": "Изаберите типове фајлова које Video Downloader Plus треба да тражи"
+  },
+  "options_formats_video_label": {
+    "message": "Видео"
+  },
+  "options_formats_audio_label": {
+    "message": "Звук"
+  },
+  "options_size_title": {
+    "message": "Праг величине"
+  },
+  "options_size_description": {
+    "message": "Игнориши мање фајлове"
+  },
+  "options_size_label": {
+    "message": "Мін. величина"
+  },
+  "options_size_custom": {
+    "message": "Прилагођено"
+  },
+  "options_download_title": {
+    "message": "Локација чувања"
+  },
+  "options_download_description": {
+    "message": "Изаберите где се чувају преузети видео записи"
+  },
+  "options_download_toggle_label": {
+    "message": "Посебан фолдер"
+  },
+  "options_download_toggle_description": {
+    "message": "Усмери сва чувања у један фолдер"
+  },
+  "options_download_folder_label": {
+    "message": "Назив фолдера"
+  },
+  "options_download_folder_description": {
+    "message": "Путања у Преузимањима (празно за корен)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "Изглед"
+  },
+  "options_appearance_description": {
+    "message": "Изаберите како Video Downloader Plus изгледа"
+  },
+  "options_theme_system": {
+    "message": "Системски"
+  },
+  "options_theme_light": {
+    "message": "Светла"
+  },
+  "options_theme_dark": {
+    "message": "Тамна"
+  },
+  "options_cast_title": {
+    "message": "Емитуј на ТВ"
+  },
+  "options_cast_description": {
+    "message": "Стримујте видео записе на Chromecast уређаје"
+  },
+  "options_cast_toggle_label": {
+    "message": "Дугме за емитовање"
+  },
+  "options_cast_toggle_description": {
+    "message": "Прикажи икону емитовања поред подржаних видеа"
+  },
+  "options_badge_title": {
+    "message": "Значка"
+  },
+  "options_badge_description": {
+    "message": "Изаберите шта приказује значка иконе на траци са алатима"
+  },
+  "options_badge_count": {
+    "message": "Број"
+  },
+  "options_badge_dot": {
+    "message": "Тачка"
+  },
+  "options_badge_hidden": {
+    "message": "Скривена"
+  },
+  "options_website_title": {
+    "message": "Листа блокираних"
+  },
+  "options_website_description": {
+    "message": "Спречите Video Downloader Plus да ради на одређеним сајтовима"
+  },
+  "options_website_add_label": {
+    "message": "Блокирај сајт"
+  },
+  "options_website_add_description": {
+    "message": "Прихваћени обрасци: <code>example.com</code> или <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com или *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "Блокирај"
+  },
+  "options_website_list_label": {
+    "message": "Блокирани сајтови"
+  },
+  "options_website_empty": {
+    "message": "Још нема блокираних сајтова"
+  },
+  "options_status_unsaved": {
+    "message": "Несачуване измене"
+  },
+  "options_status_saved": {
+    "message": "Подешавања сачувана"
+  },
+  "options_button_save": {
+    "message": "Примени"
+  },
+  "options_button_reset": {
+    "message": "Врати на подразумевано"
+  },
+  "options_button_reset_confirm": {
+    "message": "Да ли сте сигурни?"
+  },
+  "options_toast_reset_success": {
+    "message": "Подешавања враћена на подразумевана"
+  },
+  "options_toast_reset_error": {
+    "message": "Ресетовање подешавања није успело"
+  },
+  "options_button_logout": {
+    "message": "Одјава"
+  },
+  "options_toast_min_size": {
+    "message": "Минимум је $1 $2"
+  },
+  "options_toast_enter_domain": {
+    "message": "Прво унесите домен"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "Неважећи унос"
+  },
+  "options_toast_invalid_domain": {
+    "message": "Унесите важећи домен као example.com или *.example.com"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "Неважећи домен"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "Овај сајт је већ на листи блокираних"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "Већ блокирано"
+  },
+  "options_toast_block_limit": {
+    "message": "Можете блокирати до $1 сајтова."
+  },
+  "options_toast_permission_denied": {
+    "message": "Приступ одбијен. Пребаците за поновни покушај."
+  },
+  "options_toast_permission_title": {
+    "message": "Потребан приступ"
+  },
+  "options_toast_permission_failed": {
+    "message": "Не може се затражити дозвола. Покушајте поново."
+  },
+  "options_toast_save_success": {
+    "message": "Подешавања примењена"
+  },
+  "options_toast_save_error": {
+    "message": "Не може се сачувати. Покушајте поново."
+  },
+  "options_toast_logout_success": {
+    "message": "Одјављени"
+  },
+  "options_toast_logout_error": {
+    "message": "Одјава није успела. Покушајте поново."
+  },
+  "options_toast_load_error": {
+    "message": "Не могу се учитати подешавања. Освежите страницу."
+  },
+  "options_footer_privacy": {
+    "message": "Политика приватности"
+  },
+  "options_footer_terms": {
+    "message": "Услови коришћења"
+  },
+  "player_modal_close": {
+    "message": "Затвори плејер"
+  },
+  "player_modal_error": {
+    "message": "Не може се пустити овај видео"
+  },
+  "player_modal_unsupported": {
+    "message": "Овај формат не може бити прегледан. Користите преузимање."
+  },
+  "player_modal_loading": {
+    "message": "Учитавање видеа..."
+  },
+  "options_header_badge": {
+    "message": "Подешавања"
+  },
+  "toast_viewport_label": {
+    "message": "Обавештења"
+  },
+  "popup_group_streaming_title": {
+    "message": "Стримовање $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "Преузимање са сервера $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "Директно преузимање $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "Преузимање са сервера"
+  },
+  "popup_group_merge_note": {
+    "message": "Аудио и видео су одвојени — биће спојени током преузимања"
+  },
+  "popup_dismiss_label": {
+    "message": "Одбаци"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "Репродукција стрима није успела"
+  },
+  "player_error_hls_unsupported": {
+    "message": "HLS репродукција није подржана"
+  },
+  "player_error_library_failed": {
+    "message": "Није могуће учитати библиотеку за стримовање"
+  },
+  "player_error_no_url": {
+    "message": "Нема доступног URL за репродукцију"
+  },
+  "player_error_unsupported_format": {
+    "message": "Овај формат не може бити прегледан"
+  },
+  "error_no_internet": {
+    "message": "Нема интернет везе"
+  },
+  "error_server_unavailable": {
+    "message": "Сервер тренутно није доступан"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "Покрените бесплатну пробну верзију да бисте одмах преузели било који видео — без обавеза, откажите у било ком тренутку."
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "Испробајте Premium бесплатно — преузмите било који видео у било ком квалитету, без ограничења."
+  }
+}

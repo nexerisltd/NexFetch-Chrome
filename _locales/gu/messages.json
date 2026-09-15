@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "કોઈપણ વેબસાઈટ પરથી તરત જ વીડિયો ડાઉનલોડ અને સાચવો. ઝડપી અને સરળ વીડિયો ડાઉનલોડર."
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "પછી જુઓ"
+  },
+  "popup_saved": {
+    "message": "સાચવ્યું"
+  },
+  "popup_my_list": {
+    "message": "મારી યાદી"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 ગુણવત્તા"
+  },
+  "popup_group_title_fallback": {
+    "message": "વીડિયો"
+  },
+  "popup_group_title_numbered": {
+    "message": "વીડિયો $1"
+  },
+  "popup_footer_settings": {
+    "message": "સેટિંગ્સ"
+  },
+  "popup_footer_reviews": {
+    "message": "સમીક્ષાઓ"
+  },
+  "popup_footer_blog": {
+    "message": "બ્લૉગ"
+  },
+  "popup_footer_account": {
+    "message": "એકાઉન્ટ"
+  },
+  "popup_footer_upgrade": {
+    "message": "અપગ્રેડ"
+  },
+  "popup_play_button_label": {
+    "message": "વીડિયો ચલાવો"
+  },
+  "popup_cast_button_label": {
+    "message": "ઉપકરણ પર કાસ્ટ કરો"
+  },
+  "popup_live_label": {
+    "message": "લાઈવ"
+  },
+  "popup_download_label": {
+    "message": "ડાઉનલોડ"
+  },
+  "popup_audio_label": {
+    "message": "ઑડિયો"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "ફક્ત ઑડિયો"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps ઑડિયો"
+  },
+  "popup_empty_state": {
+    "message": "કોઈ વીડિયો મળ્યા નથી."
+  },
+  "popup_report_no_video": {
+    "message": "સમસ્યા જાણ કરો"
+  },
+  "popup_report_submitting": {
+    "message": "મોકલી રહ્યા છીએ..."
+  },
+  "popup_report_success": {
+    "message": "જાણ કરવા બદલ આભાર!"
+  },
+  "popup_report_error": {
+    "message": "મોકલી શકાયું નહીં. ફરી પ્રયાસ કરો."
+  },
+  "popup_site_blocked": {
+    "message": "આ સાઈટ બ્લૉક છે. વીડિયો શોધવા માટે અનબ્લૉક કરો."
+  },
+  "popup_unblock_site": {
+    "message": "સાઈટ અનબ્લૉક કરો"
+  },
+  "popup_toast_unblock_success": {
+    "message": "સાઈટ અનબ્લૉક! રીલોડ થઈ રહ્યું છે..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "અનબ્લૉક નિષ્ફળ"
+  },
+  "popup_block_site": {
+    "message": "આ સાઈટ બ્લૉક કરો"
+  },
+  "popup_toast_block_success": {
+    "message": "સાઈટ બ્લૉક! રીલોડ થઈ રહ્યું છે..."
+  },
+  "popup_toast_block_failed": {
+    "message": "બ્લૉક નિષ્ફળ"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "સુરક્ષિત ડાઉનલોડ પેજ ખોલી શકાયું નહીં"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "સુરક્ષિત ડાઉનલોડ તૈયાર કરી શકાયું નહીં"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "સુરક્ષિત ડાઉનલોડ તૈયાર થઈ રહ્યું છે…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "સુરક્ષિત ડાઉનલોડ શરૂ કરી શકાયું નહીં. ફરી પ્રયાસ કરો."
+  },
+  "popup_toast_open_source_failed": {
+    "message": "આ વીડિયો ખોલી શકાયો નહીં"
+  },
+  "popup_toast_identify_failed": {
+    "message": "આ વીડિયો ઓળખી શકાયો નહીં"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "પછી જુઓ યાદીમાંથી દૂર કર્યું"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "પછી જુઓ યાદીમાં સાચવ્યું"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "પછી જુઓ અપડેટ કરી શકાયું નહીં"
+  },
+  "popup_toast_settings_failed": {
+    "message": "સેટિંગ્સ લોડ કરી શકાયા નહીં"
+  },
+  "popup_toast_videos_failed": {
+    "message": "વીડિયો લોડ કરી શકાયા નહીં"
+  },
+  "popup_toast_download_started": {
+    "message": "ડાઉનલોડ શરૂ થયું"
+  },
+  "popup_toast_download_failed": {
+    "message": "ડાઉનલોડ શરૂ કરી શકાયું નહીં"
+  },
+  "popup_toast_cast_error": {
+    "message": "Chromecast તૈયાર કરી શકાયું નહીં. ફરી પ્રયાસ કરો."
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "આ પેજ પર વીડિયો લોડ કરી શકાયા નહીં"
+  },
+  "watch_later_error_server": {
+    "message": "સર્વર સાથે જોડાઈ શકાયું નહીં. ફરી પ્રયાસ કરો."
+  },
+  "watch_later_error_login": {
+    "message": "પછી જુઓ વીડિયો મેનેજ કરવા લૉગ ઇન કરો."
+  },
+  "watch_later_error_upgrade": {
+    "message": "પછી જુઓ માટે અપગ્રેડ જરૂરી."
+  },
+  "watch_later_error_premium_only": {
+    "message": "વિડિઓ સાચવવા માટે Premium જરૂરી છે."
+  },
+  "watch_later_error_limit": {
+    "message": "મફત સાચવણી મર્યાદા પૂરી."
+  },
+  "watch_later_error_generic": {
+    "message": "પછી જુઓ અપડેટ કરી શકાયું નહીં. ફરી પ્રયાસ કરો."
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "ટેબ ફિંગરપ્રિન્ટ ગેરહાજર."
+  },
+  "watch_later_error_missing_source": {
+    "message": "આ વીડિયોમાં સ્રોત લિંક નથી."
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "પછી જુઓ ઓળખકર્તા ગેરહાજર."
+  },
+  "save_premium_modal_title": {
+    "message": "Premium સાથે વિડિઓ સાચવો"
+  },
+  "save_premium_modal_message": {
+    "message": "તમારી લાઇબ્રેરીમાં વિડિઓ સાચવવું Premium સભ્યો માટે ઉપલબ્ધ છે. અમર્યાદિત વિડિઓ સાચવવા અપગ્રેડ કરો."
+  },
+  "limit_modal_title": {
+    "message": "સેવ મર્યાદા પહોંચી ગઈ"
+  },
+  "limit_modal_message": {
+    "message": "તમે તમારી મફત સેવ મર્યાદા પર પહોંચી ગયા છો. અમર્યાદિત વિડિઓ સેવ કરવા માટે Premium પર અપગ્રેડ કરો."
+  },
+  "limit_modal_upgrade": {
+    "message": "Premium મેળવો"
+  },
+  "limit_modal_start_trial": {
+    "message": "ફ્રી ટ્રાયલ શરૂ કરો"
+  },
+  "limit_modal_later": {
+    "message": "હમણાં નહીં"
+  },
+  "hd_limit_modal_title": {
+    "message": "દૈનિક HD ડાઉનલોડ મર્યાદા પહોંચી ગઈ"
+  },
+  "hd_limit_modal_message": {
+    "message": "તમે તમારી દૈનિક મફત HD ડાઉનલોડ મર્યાદા પર પહોંચી ગયા છો. કોઈ મર્યાદા વિના પૂર્ણ ગુણવત્તામાં વિડિઓ ડાઉનલોડ કરવા માટે Premium પર અપગ્રેડ કરો."
+  },
+  "download_premium_modal_title": {
+    "message": "વિડિઓ ડાઉનલોડ્સ અનલૉક કરો"
+  },
+  "download_premium_modal_message": {
+    "message": "કોઈપણ વિડિઓ કોઈપણ ગુણવત્તામાં ડાઉનલોડ કરવા Premium માં અપગ્રેડ કરો — અમર્યાદિત ડાઉનલોડ્સ."
+  },
+  "cast_limit_modal_title": {
+    "message": "દૈનિક કાસ્ટ મર્યાદા પહોંચી ગઈ"
+  },
+  "cast_limit_modal_message": {
+    "message": "તમે તમારી દૈનિક મફત કાસ્ટ મર્યાદા પર પહોંચી ગયા છો. કોઈ મર્યાદા વિના કોઈપણ વિડિઓ તમારા TV પર કાસ્ટ કરવા માટે Premium પર અપગ્રેડ કરો."
+  },
+  "cast_premium_modal_title": {
+    "message": "Premium સાથે તમારા TV પર કાસ્ટ કરો"
+  },
+  "cast_premium_modal_message": {
+    "message": "Chromecast કાસ્ટિંગ Premium સભ્યો માટે ઉપલબ્ધ છે. કોઈ મર્યાદા વિના કોઈપણ વિડિઓ તમારા TV પર સ્ટ્રીમ કરવા માટે અપગ્રેડ કરો."
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "તમારા ટીવી પર કોઈપણ વિડિઓ કાસ્ટ કરવા માટે મફત ટ્રાયલ શરૂ કરો — કોઈ બંધન નથી, ગમે ત્યારે રદ કરો."
+  },
+  "review_modal_title": {
+    "message": "Video Downloader Plus ગમે છે?"
+  },
+  "review_modal_message": {
+    "message": "Video Downloader Plus ઉપયોગી હોય તો Chrome Web Store પર ઝડપી સમીક્ષા અમારા માટે ઘણું મહત્વ ધરાવે!"
+  },
+  "review_modal_rate": {
+    "message": "Video Downloader Plus રેટ કરો"
+  },
+  "review_modal_later": {
+    "message": "કદાચ પછી"
+  },
+  "download_limit_banner_remaining": {
+    "message": "આજે $1 HD ડાઉનલોડ બાકી"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "દૈનિક HD ડાઉનલોડ મર્યાદા પૂરી"
+  },
+  "download_limit_banner_reset": {
+    "message": "$1 માં રીસેટ"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "Premium માં અપગ્રેડ કરો — કોઈપણ વિડિઓ કોઈપણ ગુણવત્તામાં ડાઉનલોડ કરો, કોઈ મર્યાદા નહીં."
+  },
+  "generic_video_label": {
+    "message": "વીડિયો"
+  },
+  "popup_actions_cast": {
+    "message": "કાસ્ટ"
+  },
+  "popup_actions_download": {
+    "message": "ડાઉનલોડ"
+  },
+  "popup_actions_premium": {
+    "message": "પ્રીમિયમ"
+  },
+  "popup_actions_save": {
+    "message": "સાચવો"
+  },
+  "toast_dismiss": {
+    "message": "બંધ"
+  },
+  "options_header_subtitle": {
+    "message": "Video Downloader Plus વીડિયો કેવી રીતે શોધે અને સાચવે તે કસ્ટમાઈઝ કરો"
+  },
+  "options_help_center": {
+    "message": "સહાય કેન્દ્ર"
+  },
+  "options_support": {
+    "message": "સહાય"
+  },
+  "options_formats_title": {
+    "message": "મીડિયા ફોર્મેટ"
+  },
+  "options_formats_description": {
+    "message": "Video Downloader Plus કયા ફાઈલ પ્રકાર શોધે તે પસંદ કરો"
+  },
+  "options_formats_video_label": {
+    "message": "વીડિયો"
+  },
+  "options_formats_audio_label": {
+    "message": "ઑડિયો"
+  },
+  "options_size_title": {
+    "message": "કદ મર્યાદા"
+  },
+  "options_size_description": {
+    "message": "નાની ફાઈલો અવગણો"
+  },
+  "options_size_label": {
+    "message": "ન્યૂન. કદ"
+  },
+  "options_size_custom": {
+    "message": "કસ્ટમ"
+  },
+  "options_download_title": {
+    "message": "સાચવણી સ્થાન"
+  },
+  "options_download_description": {
+    "message": "ડાઉનલોડ વીડિયો ક્યાં સાચવાય તે પસંદ કરો"
+  },
+  "options_download_toggle_label": {
+    "message": "ખાસ ફોલ્ડર"
+  },
+  "options_download_toggle_description": {
+    "message": "બધા ડાઉનલોડ એક ફોલ્ડરમાં મોકલો"
+  },
+  "options_download_folder_label": {
+    "message": "ફોલ્ડર નામ"
+  },
+  "options_download_folder_description": {
+    "message": "ડાઉનલોડ્સમાં પાથ (મૂળ માટે ખાલી)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "દેખાવ"
+  },
+  "options_appearance_description": {
+    "message": "Video Downloader Plus કેવું દેખાય તે પસંદ કરો"
+  },
+  "options_theme_system": {
+    "message": "સિસ્ટમ"
+  },
+  "options_theme_light": {
+    "message": "લાઈટ"
+  },
+  "options_theme_dark": {
+    "message": "ડાર્ક"
+  },
+  "options_cast_title": {
+    "message": "TV પર કાસ્ટ કરો"
+  },
+  "options_cast_description": {
+    "message": "Chromecast ઉપકરણો પર વીડિયો સ્ટ્રીમ કરો"
+  },
+  "options_cast_toggle_label": {
+    "message": "કાસ્ટ બટન"
+  },
+  "options_cast_toggle_description": {
+    "message": "સમર્થિત વીડિયો પાસે કાસ્ટ આઈકન બતાવો"
+  },
+  "options_badge_title": {
+    "message": "બેજ"
+  },
+  "options_badge_description": {
+    "message": "ટૂલબાર આઈકન બેજ શું બતાવે તે પસંદ કરો"
+  },
+  "options_badge_count": {
+    "message": "ગણતરી"
+  },
+  "options_badge_dot": {
+    "message": "ટપકું"
+  },
+  "options_badge_hidden": {
+    "message": "છુપાયેલ"
+  },
+  "options_website_title": {
+    "message": "બ્લૉકલિસ્ટ"
+  },
+  "options_website_description": {
+    "message": "ચોક્કસ સાઈટ્સ પર Video Downloader Plus ચાલતું અટકાવો"
+  },
+  "options_website_add_label": {
+    "message": "સાઈટ બ્લૉક કરો"
+  },
+  "options_website_add_description": {
+    "message": "સ્વીકાર્ય પેટર્ન: <code>example.com</code> અથવા <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com અથવા *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "બ્લૉક"
+  },
+  "options_website_list_label": {
+    "message": "બ્લૉક કરેલી સાઈટ્સ"
+  },
+  "options_website_empty": {
+    "message": "હજી કોઈ બ્લૉક કરેલી સાઈટ નથી"
+  },
+  "options_status_unsaved": {
+    "message": "સાચવ્યા વિનાના ફેરફારો"
+  },
+  "options_status_saved": {
+    "message": "સેટિંગ્સ સાચવ્યા"
+  },
+  "options_button_save": {
+    "message": "લાગુ કરો"
+  },
+  "options_button_reset": {
+    "message": "ડિફૉલ્ટ પર રીસેટ કરો"
+  },
+  "options_button_reset_confirm": {
+    "message": "શું તમને ખાતરી છે?"
+  },
+  "options_toast_reset_success": {
+    "message": "સેટિંગ્સ ડિફૉલ્ટ પર પુનઃસ્થાપિત"
+  },
+  "options_toast_reset_error": {
+    "message": "સેટિંગ્સ રીસેટ કરવામાં નિષ્ફળ"
+  },
+  "options_button_logout": {
+    "message": "લૉગ આઉટ"
+  },
+  "options_toast_min_size": {
+    "message": "ન્યૂનતમ $1 $2 છે"
+  },
+  "options_toast_enter_domain": {
+    "message": "પહેલા ડોમેઈન દાખલ કરો"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "અમાન્ય ઈનપુટ"
+  },
+  "options_toast_invalid_domain": {
+    "message": "example.com અથવા *.example.com જેવું માન્ય ડોમેઈન દાખલ કરો"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "અમાન્ય ડોમેઈન"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "આ સાઈટ પહેલેથી બ્લૉકલિસ્ટમાં છે"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "પહેલેથી બ્લૉક"
+  },
+  "options_toast_block_limit": {
+    "message": "તમે $1 સાઈટ્સ સુધી બ્લૉક કરી શકો."
+  },
+  "options_toast_permission_denied": {
+    "message": "ઍક્સેસ નામંજૂર. ફરી પ્રયાસ માટે ટૉગલ કરો."
+  },
+  "options_toast_permission_title": {
+    "message": "ઍક્સેસ જરૂરી"
+  },
+  "options_toast_permission_failed": {
+    "message": "પરવાનગી માંગી શકાઈ નહીં. ફરી પ્રયાસ કરો."
+  },
+  "options_toast_save_success": {
+    "message": "સેટિંગ્સ લાગુ"
+  },
+  "options_toast_save_error": {
+    "message": "સાચવી શકાયું નહીં. ફરી પ્રયાસ કરો."
+  },
+  "options_toast_logout_success": {
+    "message": "લૉગ આઉટ થયા"
+  },
+  "options_toast_logout_error": {
+    "message": "લૉગ આઉટ નિષ્ફળ. ફરી પ્રયાસ કરો."
+  },
+  "options_toast_load_error": {
+    "message": "સેટિંગ્સ લોડ કરી શકાયા નહીં. પેજ રીફ્રેશ કરો."
+  },
+  "options_footer_privacy": {
+    "message": "ગોપનીયતા નીતિ"
+  },
+  "options_footer_terms": {
+    "message": "સેવાની શરતો"
+  },
+  "player_modal_close": {
+    "message": "પ્લેયર બંધ કરો"
+  },
+  "player_modal_error": {
+    "message": "આ વીડિયો ચલાવી શકાયો નહીં"
+  },
+  "player_modal_unsupported": {
+    "message": "આ ફોર્મેટ પ્રીવ્યૂ કરી શકાતું નથી. ડાઉનલોડ વાપરો."
+  },
+  "player_modal_loading": {
+    "message": "વીડિયો લોડ થઈ રહ્યો છે..."
+  },
+  "options_header_badge": {
+    "message": "સેટિંગ્સ"
+  },
+  "toast_viewport_label": {
+    "message": "સૂચનાઓ"
+  },
+  "popup_group_streaming_title": {
+    "message": "સ્ટ્રીમિંગ $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "સર્વર ફેચ $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "ડાયરેક્ટ ડાઉનલોડ $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "સર્વર ફેચ"
+  },
+  "popup_group_merge_note": {
+    "message": "ઓડિયો અને વીડિયો અલગ છે — ડાઉનલોડ દરમિયાન તેમને મર્જ કરવામાં આવશે"
+  },
+  "popup_dismiss_label": {
+    "message": "કાઢી નાખો"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "સ્ટ્રીમ પ્લેબેક નિષ્ફળ"
+  },
+  "player_error_hls_unsupported": {
+    "message": "HLS પ્લેબેક સમર્થિત નથી"
+  },
+  "player_error_library_failed": {
+    "message": "સ્ટ્રીમિંગ લાઈબ્રેરી લોડ કરવામાં નિષ્ફળ"
+  },
+  "player_error_no_url": {
+    "message": "કોઈ પ્લે કરી શકાય તેવું URL ઉપલબ્ધ નથી"
+  },
+  "player_error_unsupported_format": {
+    "message": "આ ફોર્મેટ પ્રીવ્યૂ કરી શકાતું નથી"
+  },
+  "error_no_internet": {
+    "message": "ઇન્ટરનેટ કનેક્શન નથી"
+  },
+  "error_server_unavailable": {
+    "message": "સર્વર અસ્થાયી રૂપે ઉપલબ્ધ નથી"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "કોઈપણ વિડિઓ તરત ડાઉનલોડ કરવા માટે તમારો ફ્રી ટ્રાયલ શરૂ કરો — કોઈ બંધન નથી, ગમે ત્યારે રદ કરો."
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "Premium મફત અજમાવો — કોઈપણ ગુણવત્તામાં કોઈપણ વિડિઓ ડાઉનલોડ કરો, કોઈ મર્યાદા નથી."
+  }
+}

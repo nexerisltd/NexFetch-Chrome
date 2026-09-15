@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "Mag-download at mag-save ng mga video mula sa anumang website kaagad. Isang mabilis at simpleng video downloader."
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "Panoorin Mamaya"
+  },
+  "popup_saved": {
+    "message": "Naka-save"
+  },
+  "popup_my_list": {
+    "message": "Aking Listahan"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 Kalidad"
+  },
+  "popup_group_title_fallback": {
+    "message": "Video"
+  },
+  "popup_group_title_numbered": {
+    "message": "Video $1"
+  },
+  "popup_footer_settings": {
+    "message": "Mga Setting"
+  },
+  "popup_footer_reviews": {
+    "message": "Mga Review"
+  },
+  "popup_footer_blog": {
+    "message": "Blog"
+  },
+  "popup_footer_account": {
+    "message": "Account"
+  },
+  "popup_footer_upgrade": {
+    "message": "Mag-upgrade"
+  },
+  "popup_play_button_label": {
+    "message": "I-play ang video"
+  },
+  "popup_cast_button_label": {
+    "message": "I-cast sa device"
+  },
+  "popup_live_label": {
+    "message": "Live"
+  },
+  "popup_download_label": {
+    "message": "I-download"
+  },
+  "popup_audio_label": {
+    "message": "Audio"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "Audio lang"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps audio"
+  },
+  "popup_empty_state": {
+    "message": "Walang nakitang video."
+  },
+  "popup_report_no_video": {
+    "message": "Mag-report ng Issue"
+  },
+  "popup_report_submitting": {
+    "message": "Isinusumite..."
+  },
+  "popup_report_success": {
+    "message": "Salamat sa iyong report!"
+  },
+  "popup_report_error": {
+    "message": "Hindi naisumite. Subukan muli."
+  },
+  "popup_site_blocked": {
+    "message": "Naka-block ang site na ito. Maaari mo itong i-unblock para madetect ang mga video."
+  },
+  "popup_unblock_site": {
+    "message": "I-unblock ang Site"
+  },
+  "popup_toast_unblock_success": {
+    "message": "Na-unblock ang site! Nire-reload..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "Hindi na-unblock"
+  },
+  "popup_block_site": {
+    "message": "I-block ang site na ito"
+  },
+  "popup_toast_block_success": {
+    "message": "Na-block ang site! Nire-reload..."
+  },
+  "popup_toast_block_failed": {
+    "message": "Hindi na-block"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "Hindi mabuksan ang secure download page"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "Hindi maihanda ang secure download"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "Inihahanda ang secure download…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "Hindi masimulang ang secure download. Subukan muli."
+  },
+  "popup_toast_open_source_failed": {
+    "message": "Hindi mabuksan ang video na ito"
+  },
+  "popup_toast_identify_failed": {
+    "message": "Hindi makilala ang video na ito"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "Inalis sa Panoorin Mamaya"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "Na-save sa Panoorin Mamaya"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "Hindi ma-update ang Panoorin Mamaya"
+  },
+  "popup_toast_settings_failed": {
+    "message": "Hindi mai-load ang mga setting"
+  },
+  "popup_toast_videos_failed": {
+    "message": "Hindi mai-load ang mga video"
+  },
+  "popup_toast_download_started": {
+    "message": "Nagsimula na ang download"
+  },
+  "popup_toast_download_failed": {
+    "message": "Hindi masimulang ang download"
+  },
+  "popup_toast_cast_error": {
+    "message": "Hindi maihanda ang Chromecast. Subukan muli."
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "Hindi mai-load ang mga video sa page na ito"
+  },
+  "watch_later_error_server": {
+    "message": "Hindi makontak ang server. Subukan muli."
+  },
+  "watch_later_error_login": {
+    "message": "Mag-log in para pamahalaan ang Panoorin Mamaya."
+  },
+  "watch_later_error_upgrade": {
+    "message": "Kailangan ng upgrade para sa Panoorin Mamaya."
+  },
+  "watch_later_error_premium_only": {
+    "message": "Kailangan ng Premium para mag-save ng mga video."
+  },
+  "watch_later_error_limit": {
+    "message": "Naabot mo na ang libreng save limit."
+  },
+  "watch_later_error_generic": {
+    "message": "Hindi ma-update ang Panoorin Mamaya. Subukan muli."
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "Nawawalang tab fingerprint."
+  },
+  "watch_later_error_missing_source": {
+    "message": "Walang source link ang video na ito."
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "Nawawalang Panoorin Mamaya identifier."
+  },
+  "save_premium_modal_title": {
+    "message": "Mag-save ng mga video gamit ang Premium"
+  },
+  "save_premium_modal_message": {
+    "message": "Ang pag-save ng mga video sa iyong library ay available para sa Premium members. Mag-upgrade para mag-save ng walang limitasyong mga video."
+  },
+  "limit_modal_title": {
+    "message": "Naabot na ang limitasyon sa pag-save"
+  },
+  "limit_modal_message": {
+    "message": "Naabot mo na ang iyong libreng limitasyon sa pag-save. Mag-upgrade sa Premium para mag-save ng walang limitasyong video."
+  },
+  "limit_modal_upgrade": {
+    "message": "Kumuha ng Premium"
+  },
+  "limit_modal_start_trial": {
+    "message": "Simulan ang libreng pagsubok"
+  },
+  "limit_modal_later": {
+    "message": "Hindi ngayon"
+  },
+  "hd_limit_modal_title": {
+    "message": "Naabot na ang araw-araw na HD download limit"
+  },
+  "hd_limit_modal_message": {
+    "message": "Naabot mo na ang iyong araw-araw na libreng HD download limit. Mag-upgrade sa Premium para mag-download ng mga video sa buong kalidad nang walang limitasyon."
+  },
+  "download_premium_modal_title": {
+    "message": "I-unlock ang mga video download"
+  },
+  "download_premium_modal_message": {
+    "message": "Mag-upgrade sa Premium para mag-download ng anumang video sa anumang quality — walang limitasyong mga download."
+  },
+  "cast_limit_modal_title": {
+    "message": "Naabot na ang araw-araw na cast limit"
+  },
+  "cast_limit_modal_message": {
+    "message": "Naabot mo na ang iyong araw-araw na libreng cast limit. Mag-upgrade sa Premium para mag-cast ng kahit anong video sa iyong TV nang walang limitasyon."
+  },
+  "cast_premium_modal_title": {
+    "message": "Mag-cast sa iyong TV gamit ang Premium"
+  },
+  "cast_premium_modal_message": {
+    "message": "Ang Chromecast casting ay available para sa mga Premium na miyembro. Mag-upgrade para mag-stream ng kahit anong video sa iyong TV nang walang limitasyon."
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "Simulan ang iyong libreng trial para mag-cast ng anumang video sa iyong TV — walang commitment, mag-cancel anumang oras."
+  },
+  "review_modal_title": {
+    "message": "Nagustuhan mo ba ang Video Downloader Plus?"
+  },
+  "review_modal_message": {
+    "message": "Kung nakatulong ang Video Downloader Plus, malaking bagay para sa amin ang mabilisang rating sa Chrome Web Store!"
+  },
+  "review_modal_rate": {
+    "message": "I-rate ang Video Downloader Plus"
+  },
+  "review_modal_later": {
+    "message": "Mamaya Na Lang"
+  },
+  "download_limit_banner_remaining": {
+    "message": "$1 HD download ang natitira ngayon"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "Naabot na ang araw-araw na HD download limit"
+  },
+  "download_limit_banner_reset": {
+    "message": "Mare-reset sa $1"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "Mag-upgrade sa Premium — mag-download ng anumang video sa anumang quality, walang limitasyon."
+  },
+  "generic_video_label": {
+    "message": "Video"
+  },
+  "popup_actions_cast": {
+    "message": "I-cast"
+  },
+  "popup_actions_download": {
+    "message": "I-download"
+  },
+  "popup_actions_premium": {
+    "message": "Premium"
+  },
+  "popup_actions_save": {
+    "message": "I-save"
+  },
+  "toast_dismiss": {
+    "message": "Isara"
+  },
+  "options_header_subtitle": {
+    "message": "I-customize kung paano nagde-detect at nagse-save ng video ang Video Downloader Plus"
+  },
+  "options_help_center": {
+    "message": "Sentro ng Tulong"
+  },
+  "options_support": {
+    "message": "Suporta"
+  },
+  "options_formats_title": {
+    "message": "Mga Media Format"
+  },
+  "options_formats_description": {
+    "message": "Piliin ang mga uri ng file na hahanapin ng Video Downloader Plus"
+  },
+  "options_formats_video_label": {
+    "message": "Video"
+  },
+  "options_formats_audio_label": {
+    "message": "Audio"
+  },
+  "options_size_title": {
+    "message": "Limitasyon sa Laki"
+  },
+  "options_size_description": {
+    "message": "Huwag pansinin ang mga file na mas maliit dito"
+  },
+  "options_size_label": {
+    "message": "Min. Laki"
+  },
+  "options_size_custom": {
+    "message": "Pasadya"
+  },
+  "options_download_title": {
+    "message": "Lokasyon ng Save"
+  },
+  "options_download_description": {
+    "message": "Piliin kung saan ilalagay ang mga na-download na video"
+  },
+  "options_download_toggle_label": {
+    "message": "Nakalaang Folder"
+  },
+  "options_download_toggle_description": {
+    "message": "Ilagay lahat ng save sa isang folder"
+  },
+  "options_download_folder_label": {
+    "message": "Pangalan ng Folder"
+  },
+  "options_download_folder_description": {
+    "message": "Path sa loob ng Downloads (blangko para sa root)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "Hitsura"
+  },
+  "options_appearance_description": {
+    "message": "Piliin kung paano ang hitsura ng Video Downloader Plus"
+  },
+  "options_theme_system": {
+    "message": "System"
+  },
+  "options_theme_light": {
+    "message": "Maliwanag"
+  },
+  "options_theme_dark": {
+    "message": "Madilim"
+  },
+  "options_cast_title": {
+    "message": "I-cast sa TV"
+  },
+  "options_cast_description": {
+    "message": "Mag-stream ng mga video sa mga Chromecast device"
+  },
+  "options_cast_toggle_label": {
+    "message": "Buton ng Cast"
+  },
+  "options_cast_toggle_description": {
+    "message": "Ipakita ang cast icon sa tabi ng mga suportadong video"
+  },
+  "options_badge_title": {
+    "message": "Badge"
+  },
+  "options_badge_description": {
+    "message": "Piliin kung ano ang ipapakita ng toolbar icon badge"
+  },
+  "options_badge_count": {
+    "message": "Bilang"
+  },
+  "options_badge_dot": {
+    "message": "Tuldok"
+  },
+  "options_badge_hidden": {
+    "message": "Nakatago"
+  },
+  "options_website_title": {
+    "message": "Blocklist"
+  },
+  "options_website_description": {
+    "message": "Pigilan ang Video Downloader Plus na tumakbo sa mga partikular na site"
+  },
+  "options_website_add_label": {
+    "message": "I-block ang Site"
+  },
+  "options_website_add_description": {
+    "message": "Mga tinatanggap na pattern: <code>example.com</code> o <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com o *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "I-block"
+  },
+  "options_website_list_label": {
+    "message": "Mga Naka-block na Site"
+  },
+  "options_website_empty": {
+    "message": "Wala pang naka-block na site"
+  },
+  "options_status_unsaved": {
+    "message": "Hindi pa nase-save na mga pagbabago"
+  },
+  "options_status_saved": {
+    "message": "Na-save na ang mga setting"
+  },
+  "options_button_save": {
+    "message": "I-apply"
+  },
+  "options_button_reset": {
+    "message": "Ibalik sa default"
+  },
+  "options_button_reset_confirm": {
+    "message": "Sigurado ka ba?"
+  },
+  "options_toast_reset_success": {
+    "message": "Naibalik ang mga setting sa default"
+  },
+  "options_toast_reset_error": {
+    "message": "Hindi nai-reset ang mga setting"
+  },
+  "options_button_logout": {
+    "message": "Mag-sign Out"
+  },
+  "options_toast_min_size": {
+    "message": "Minimum ay $1 $2"
+  },
+  "options_toast_enter_domain": {
+    "message": "Maglagay muna ng domain"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "Di-wastong Input"
+  },
+  "options_toast_invalid_domain": {
+    "message": "Maglagay ng wastong domain gaya ng example.com o *.example.com"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "Di-wastong Domain"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "Nasa blocklist na ang site na ito"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "Naka-block Na"
+  },
+  "options_toast_block_limit": {
+    "message": "Maaari kang mag-block ng hanggang $1 na site."
+  },
+  "options_toast_permission_denied": {
+    "message": "Tinanggihan ang access. I-toggle para subukan muli."
+  },
+  "options_toast_permission_title": {
+    "message": "Kailangan ng Access"
+  },
+  "options_toast_permission_failed": {
+    "message": "Hindi mahingi ang permission. Subukan muli."
+  },
+  "options_toast_save_success": {
+    "message": "Na-apply na ang mga setting"
+  },
+  "options_toast_save_error": {
+    "message": "Hindi ma-save. Subukan muli."
+  },
+  "options_toast_logout_success": {
+    "message": "Naka-sign out na"
+  },
+  "options_toast_logout_error": {
+    "message": "Hindi naka-sign out. Subukan muli."
+  },
+  "options_toast_load_error": {
+    "message": "Hindi mai-load ang mga setting. I-refresh ang page."
+  },
+  "options_footer_privacy": {
+    "message": "Patakaran sa Privacy"
+  },
+  "options_footer_terms": {
+    "message": "Mga Tuntunin ng Serbisyo"
+  },
+  "player_modal_close": {
+    "message": "Isara ang player"
+  },
+  "player_modal_error": {
+    "message": "Hindi ma-play ang video na ito"
+  },
+  "player_modal_unsupported": {
+    "message": "Hindi ma-preview ang format na ito. Gamitin ang download."
+  },
+  "player_modal_loading": {
+    "message": "Nilo-load ang video..."
+  },
+  "options_header_badge": {
+    "message": "Mga Setting"
+  },
+  "toast_viewport_label": {
+    "message": "Mga Notifikasyon"
+  },
+  "popup_group_streaming_title": {
+    "message": "Streaming $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "Server Fetch $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "Direktang Download $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "Server Fetch"
+  },
+  "popup_group_merge_note": {
+    "message": "Hiwalay ang audio at video — pagsasamahin ang mga ito habang nagda-download"
+  },
+  "popup_dismiss_label": {
+    "message": "I-dismiss"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "Nabigo ang pag-play ng stream"
+  },
+  "player_error_hls_unsupported": {
+    "message": "Hindi suportado ang HLS playback"
+  },
+  "player_error_library_failed": {
+    "message": "Hindi nai-load ang streaming library"
+  },
+  "player_error_no_url": {
+    "message": "Walang available na mai-play na URL"
+  },
+  "player_error_unsupported_format": {
+    "message": "Hindi ma-preview ang format na ito"
+  },
+  "error_no_internet": {
+    "message": "Walang koneksyon sa internet"
+  },
+  "error_server_unavailable": {
+    "message": "Pansamantalang hindi available ang server"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "Simulan ang iyong libreng pagsubok para mag-download ng anumang video agad — walang obligasyon, kanselahin anumang oras."
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "Subukan ang Premium nang libre — mag-download ng anumang video sa anumang kalidad, walang limitasyon."
+  }
+}

@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "Descărcați și salvați videoclipuri de pe orice site web instant. Un instrument rapid și simplu de descărcare video."
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "Vizionează mai târziu"
+  },
+  "popup_saved": {
+    "message": "Salvat"
+  },
+  "popup_my_list": {
+    "message": "Lista mea"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 calități"
+  },
+  "popup_group_title_fallback": {
+    "message": "Video"
+  },
+  "popup_group_title_numbered": {
+    "message": "Video $1"
+  },
+  "popup_footer_settings": {
+    "message": "Setări"
+  },
+  "popup_footer_reviews": {
+    "message": "Recenzii"
+  },
+  "popup_footer_blog": {
+    "message": "Blog"
+  },
+  "popup_footer_account": {
+    "message": "Cont"
+  },
+  "popup_footer_upgrade": {
+    "message": "Actualizare"
+  },
+  "popup_play_button_label": {
+    "message": "Redă video"
+  },
+  "popup_cast_button_label": {
+    "message": "Transmite pe dispozitiv"
+  },
+  "popup_live_label": {
+    "message": "Live"
+  },
+  "popup_download_label": {
+    "message": "Descarcă"
+  },
+  "popup_audio_label": {
+    "message": "Audio"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "Doar audio"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps audio"
+  },
+  "popup_empty_state": {
+    "message": "Nu s-au găsit videoclipuri."
+  },
+  "popup_report_no_video": {
+    "message": "Raportează problemă"
+  },
+  "popup_report_submitting": {
+    "message": "Se trimite..."
+  },
+  "popup_report_success": {
+    "message": "Mulțumim pentru raport!"
+  },
+  "popup_report_error": {
+    "message": "Trimiterea a eșuat. Încercați din nou."
+  },
+  "popup_site_blocked": {
+    "message": "Acest site este blocat. Îl puteți debloca pentru a detecta videoclipuri."
+  },
+  "popup_unblock_site": {
+    "message": "Deblochează site-ul"
+  },
+  "popup_toast_unblock_success": {
+    "message": "Site deblocat! Se reîncarcă..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "Deblocarea a eșuat"
+  },
+  "popup_block_site": {
+    "message": "Blochează acest site"
+  },
+  "popup_toast_block_success": {
+    "message": "Site blocat! Se reîncarcă..."
+  },
+  "popup_toast_block_failed": {
+    "message": "Blocarea a eșuat"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "Nu se poate deschide pagina de descărcare securizată"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "Nu se poate pregăti descărcarea securizată"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "Se pregătește descărcarea securizată…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "Nu se poate porni descărcarea securizată. Încercați din nou."
+  },
+  "popup_toast_open_source_failed": {
+    "message": "Nu se poate deschide acest video"
+  },
+  "popup_toast_identify_failed": {
+    "message": "Nu se poate identifica acest video"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "Eliminat din lista Vizionează mai târziu"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "Salvat în lista Vizionează mai târziu"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "Nu se poate actualiza Vizionează mai târziu"
+  },
+  "popup_toast_settings_failed": {
+    "message": "Nu se pot încărca setările"
+  },
+  "popup_toast_videos_failed": {
+    "message": "Nu se pot încărca videoclipurile"
+  },
+  "popup_toast_download_started": {
+    "message": "Descărcare pornită"
+  },
+  "popup_toast_download_failed": {
+    "message": "Nu se poate porni descărcarea"
+  },
+  "popup_toast_cast_error": {
+    "message": "Nu se poate pregăti Chromecast. Încercați din nou."
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "Nu se pot încărca videoclipuri pe această pagină"
+  },
+  "watch_later_error_server": {
+    "message": "Nu se poate contacta serverul. Încercați din nou."
+  },
+  "watch_later_error_login": {
+    "message": "Conectați-vă pentru a gestiona videoclipurile Vizionează mai târziu."
+  },
+  "watch_later_error_upgrade": {
+    "message": "Upgrade necesar pentru Vizionează mai târziu."
+  },
+  "watch_later_error_premium_only": {
+    "message": "Premium necesar pentru a salva videoclipuri."
+  },
+  "watch_later_error_limit": {
+    "message": "Ați atins limita de salvări gratuite."
+  },
+  "watch_later_error_generic": {
+    "message": "Nu se poate actualiza Vizionează mai târziu. Încercați din nou."
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "Amprentă tab lipsă."
+  },
+  "watch_later_error_missing_source": {
+    "message": "Acest video nu are link sursă."
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "Identificator Vizionează mai târziu lipsă."
+  },
+  "save_premium_modal_title": {
+    "message": "Salvați videoclipuri cu Premium"
+  },
+  "save_premium_modal_message": {
+    "message": "Salvarea videoclipurilor în biblioteca dvs. este disponibilă pentru membrii Premium. Faceți upgrade pentru a salva videoclipuri nelimitate."
+  },
+  "limit_modal_title": {
+    "message": "Limita de salvare atinsă"
+  },
+  "limit_modal_message": {
+    "message": "Ai atins limita de salvare gratuită. Fă upgrade la Premium pentru a salva videoclipuri nelimitate."
+  },
+  "limit_modal_upgrade": {
+    "message": "Obține Premium"
+  },
+  "limit_modal_start_trial": {
+    "message": "Începe perioada de probă gratuită"
+  },
+  "limit_modal_later": {
+    "message": "Nu acum"
+  },
+  "hd_limit_modal_title": {
+    "message": "Limita zilnică de descărcare HD atinsă"
+  },
+  "hd_limit_modal_message": {
+    "message": "Ai atins limita zilnică de descărcare HD gratuită. Fă upgrade la Premium pentru a descărca videoclipuri la calitate maximă fără limite."
+  },
+  "download_premium_modal_title": {
+    "message": "Deblocați descărcările video"
+  },
+  "download_premium_modal_message": {
+    "message": "Faceți upgrade la Premium pentru a descărca orice video în orice calitate — descărcări nelimitate."
+  },
+  "cast_limit_modal_title": {
+    "message": "Limita zilnică de transmisie atinsă"
+  },
+  "cast_limit_modal_message": {
+    "message": "Ai atins limita zilnică de transmisie gratuită. Fă upgrade la Premium pentru a transmite orice videoclip pe TV-ul tău fără limite."
+  },
+  "cast_premium_modal_title": {
+    "message": "Transmite pe TV-ul tău cu Premium"
+  },
+  "cast_premium_modal_message": {
+    "message": "Transmisia Chromecast este disponibilă pentru membrii Premium. Fă upgrade pentru a transmite orice videoclip pe TV-ul tău fără limite."
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "Începeți perioada de probă gratuită pentru a transmite orice video pe televizor — fără angajament, anulați oricând."
+  },
+  "review_modal_title": {
+    "message": "Vă place Video Downloader Plus?"
+  },
+  "review_modal_message": {
+    "message": "Dacă Video Downloader Plus v-a fost util, o evaluare rapidă pe Chrome Web Store ar însemna mult pentru noi!"
+  },
+  "review_modal_rate": {
+    "message": "Evaluează Video Downloader Plus"
+  },
+  "review_modal_later": {
+    "message": "Poate mai târziu"
+  },
+  "download_limit_banner_remaining": {
+    "message": "$1 descărcare(i) HD rămase azi"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "Limită zilnică descărcări HD atinsă"
+  },
+  "download_limit_banner_reset": {
+    "message": "Se resetează în $1"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "Faceți upgrade la Premium — descărcați orice video în orice calitate, fără limite."
+  },
+  "generic_video_label": {
+    "message": "Video"
+  },
+  "popup_actions_cast": {
+    "message": "Transmite"
+  },
+  "popup_actions_download": {
+    "message": "Descarcă"
+  },
+  "popup_actions_premium": {
+    "message": "Premium"
+  },
+  "popup_actions_save": {
+    "message": "Salvează"
+  },
+  "toast_dismiss": {
+    "message": "Închide"
+  },
+  "options_header_subtitle": {
+    "message": "Personalizați cum Video Downloader Plus detectează și salvează videoclipuri"
+  },
+  "options_help_center": {
+    "message": "Centru de ajutor"
+  },
+  "options_support": {
+    "message": "Suport"
+  },
+  "options_formats_title": {
+    "message": "Formate media"
+  },
+  "options_formats_description": {
+    "message": "Alegeți tipurile de fișiere pe care Video Downloader Plus să le caute"
+  },
+  "options_formats_video_label": {
+    "message": "Video"
+  },
+  "options_formats_audio_label": {
+    "message": "Audio"
+  },
+  "options_size_title": {
+    "message": "Prag dimensiune"
+  },
+  "options_size_description": {
+    "message": "Ignoră fișierele mai mici"
+  },
+  "options_size_label": {
+    "message": "Dim. min."
+  },
+  "options_size_custom": {
+    "message": "Personalizat"
+  },
+  "options_download_title": {
+    "message": "Locație salvare"
+  },
+  "options_download_description": {
+    "message": "Alegeți unde se salvează videoclipurile descărcate"
+  },
+  "options_download_toggle_label": {
+    "message": "Folder dedicat"
+  },
+  "options_download_toggle_description": {
+    "message": "Dirijează toate salvările într-un folder"
+  },
+  "options_download_folder_label": {
+    "message": "Nume folder"
+  },
+  "options_download_folder_description": {
+    "message": "Cale în Descărcări (gol pentru rădăcină)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "Aspect"
+  },
+  "options_appearance_description": {
+    "message": "Alegeți cum arată Video Downloader Plus"
+  },
+  "options_theme_system": {
+    "message": "Sistem"
+  },
+  "options_theme_light": {
+    "message": "Deschis"
+  },
+  "options_theme_dark": {
+    "message": "Întunecat"
+  },
+  "options_cast_title": {
+    "message": "Transmite pe TV"
+  },
+  "options_cast_description": {
+    "message": "Transmiteți videoclipuri pe dispozitive Chromecast"
+  },
+  "options_cast_toggle_label": {
+    "message": "Buton transmisie"
+  },
+  "options_cast_toggle_description": {
+    "message": "Afișează pictograma de transmisie lângă videoclipurile suportate"
+  },
+  "options_badge_title": {
+    "message": "Insignă"
+  },
+  "options_badge_description": {
+    "message": "Alegeți ce afișează insigna pictogramei din bara de instrumente"
+  },
+  "options_badge_count": {
+    "message": "Număr"
+  },
+  "options_badge_dot": {
+    "message": "Punct"
+  },
+  "options_badge_hidden": {
+    "message": "Ascuns"
+  },
+  "options_website_title": {
+    "message": "Listă de blocare"
+  },
+  "options_website_description": {
+    "message": "Împiedicați Video Downloader Plus să funcționeze pe anumite site-uri"
+  },
+  "options_website_add_label": {
+    "message": "Blochează un site"
+  },
+  "options_website_add_description": {
+    "message": "Modele acceptate: <code>example.com</code> sau <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com sau *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "Blochează"
+  },
+  "options_website_list_label": {
+    "message": "Site-uri blocate"
+  },
+  "options_website_empty": {
+    "message": "Niciun site blocat încă"
+  },
+  "options_status_unsaved": {
+    "message": "Modificări nesalvate"
+  },
+  "options_status_saved": {
+    "message": "Setări salvate"
+  },
+  "options_button_save": {
+    "message": "Aplică"
+  },
+  "options_button_reset": {
+    "message": "Resetare la valori implicite"
+  },
+  "options_button_reset_confirm": {
+    "message": "Sunteți sigur?"
+  },
+  "options_toast_reset_success": {
+    "message": "Setări restaurate la valorile implicite"
+  },
+  "options_toast_reset_error": {
+    "message": "Nu s-au putut reseta setările"
+  },
+  "options_button_logout": {
+    "message": "Deconectare"
+  },
+  "options_toast_min_size": {
+    "message": "Minimul este $1 $2"
+  },
+  "options_toast_enter_domain": {
+    "message": "Introduceți mai întâi un domeniu"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "Intrare invalidă"
+  },
+  "options_toast_invalid_domain": {
+    "message": "Introduceți un domeniu valid precum example.com sau *.example.com"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "Domeniu invalid"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "Acest site este deja pe lista de blocare"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "Deja blocat"
+  },
+  "options_toast_block_limit": {
+    "message": "Puteți bloca până la $1 site-uri."
+  },
+  "options_toast_permission_denied": {
+    "message": "Acces refuzat. Comutați pentru a reîncerca."
+  },
+  "options_toast_permission_title": {
+    "message": "Acces necesar"
+  },
+  "options_toast_permission_failed": {
+    "message": "Nu s-a putut solicita permisiunea. Încercați din nou."
+  },
+  "options_toast_save_success": {
+    "message": "Setări aplicate"
+  },
+  "options_toast_save_error": {
+    "message": "Nu s-a putut salva. Încercați din nou."
+  },
+  "options_toast_logout_success": {
+    "message": "Deconectat"
+  },
+  "options_toast_logout_error": {
+    "message": "Deconectarea a eșuat. Încercați din nou."
+  },
+  "options_toast_load_error": {
+    "message": "Nu se pot încărca setările. Reîmprospătați pagina."
+  },
+  "options_footer_privacy": {
+    "message": "Politica de confidențialitate"
+  },
+  "options_footer_terms": {
+    "message": "Termenii serviciului"
+  },
+  "player_modal_close": {
+    "message": "Închide playerul"
+  },
+  "player_modal_error": {
+    "message": "Nu se poate reda acest video"
+  },
+  "player_modal_unsupported": {
+    "message": "Acest format nu poate fi previzualizat. Folosiți descărcarea."
+  },
+  "player_modal_loading": {
+    "message": "Se încarcă videoclipul..."
+  },
+  "options_header_badge": {
+    "message": "Setări"
+  },
+  "toast_viewport_label": {
+    "message": "Notificări"
+  },
+  "popup_group_streaming_title": {
+    "message": "Streaming $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "Preluare de pe server $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "Descărcare directă $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "Preluare de pe server"
+  },
+  "popup_group_merge_note": {
+    "message": "Audio și video sunt separate — vor fi fuzionate în timpul descărcării"
+  },
+  "popup_dismiss_label": {
+    "message": "Închide"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "Redarea streamului a eșuat"
+  },
+  "player_error_hls_unsupported": {
+    "message": "Redarea HLS nu este suportată"
+  },
+  "player_error_library_failed": {
+    "message": "Nu s-a putut încărca biblioteca de streaming"
+  },
+  "player_error_no_url": {
+    "message": "Niciun URL redabil disponibil"
+  },
+  "player_error_unsupported_format": {
+    "message": "Acest format nu poate fi previzualizat"
+  },
+  "error_no_internet": {
+    "message": "Fără conexiune la internet"
+  },
+  "error_server_unavailable": {
+    "message": "Server temporar indisponibil"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "Începeți perioada de probă gratuită pentru a descărca orice videoclip instantaneu — fără angajament, anulați oricând."
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "Încercați Premium gratuit — descărcați orice videoclip în orice calitate, fără limite."
+  }
+}

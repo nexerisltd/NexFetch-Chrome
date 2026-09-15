@@ -1,43 +1,66 @@
 {
   "manifest_version": 3,
-  "name": "NexFetch",
-  "version": "0.1.0",
-  "description": "Detect, download, and convert video streams (m3u8/mp4/webm/DASH) directly from your browser — built for large files, safely.",
-  "author": "NexApp",
-  "homepage_url": "https://nexfetch.vercel.app",
-  "icons": {
-    "16": "icons/icon16.png",
-    "48": "icons/icon48.png",
-    "128": "icons/icon128.png"
-  },
+  "name": "__MSG_name__",
+  "short_name": "__MSG_short_name__",
+  "description": "__MSG_desc__",
+  "version": "4.0.0",
+  "default_locale": "en",
+  "update_url": "https://clients2.google.com/service/update2/crx",
   "action": {
-    "default_popup": "popup.html",
-    "default_icon": {
-      "16": "icons/icon16.png",
-      "48": "icons/icon48.png",
-      "128": "icons/icon128.png"
-    }
+    "default_icon": "icons/icon_inactive.png",
+    "default_popup": "src/popup/index.html",
+    "default_title": "__MSG_action_title__"
   },
   "background": {
-    "service_worker": "background.js",
+    "service_worker": "background/service_worker.js",
     "type": "module"
   },
+  "icons": {
+    "16": "icons/16.png",
+    "19": "icons/19.png",
+    "38": "icons/38.png",
+    "48": "icons/48.png",
+    "128": "icons/128.png"
+  },
   "permissions": [
-    "webRequest",
-    "webNavigation",
-    "storage",
-    "downloads",
-    "unlimitedStorage",
     "tabs",
-    "declarativeNetRequest"
+    "webRequest",
+    "declarativeNetRequest",
+    "storage"
+  ],
+  "optional_permissions": [
+    "downloads"
   ],
   "host_permissions": [
     "<all_urls>"
   ],
-  "web_accessible_resources": [
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self';"
+  },
+  "content_scripts": [
     {
-      "resources": ["download.html", "download.js", "ffmpeg/*"],
-      "matches": ["<all_urls>"]
+      "matches": [
+        "*://*/*"
+      ],
+      "all_frames": true,
+      "run_at": "document_end",
+      "js": [
+        "content_scripts/content_script.js"
+      ]
+    },
+    {
+      "matches": [
+        "*://app.vidow.io/video/stream/*",
+        "*://app.vidow.io/video/cast/*"
+      ],
+      "run_at": "document_start",
+      "js": [
+        "content_scripts/bridge.js"
+      ]
     }
-  ]
+  ],
+  "options_ui": {
+    "page": "src/options/index.html",
+    "open_in_tab": true
+  }
 }

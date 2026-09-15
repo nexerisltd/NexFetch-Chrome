@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "ดาวน์โหลดและบันทึกวิดีโอจากเว็บไซต์ใดก็ได้ทันที ตัวดาวน์โหลดวิดีโอที่รวดเร็ว เรียบง่าย และใช้งานได้จริง"
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "ดูภายหลัง"
+  },
+  "popup_saved": {
+    "message": "บันทึกแล้ว"
+  },
+  "popup_my_list": {
+    "message": "รายการของฉัน"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 คุณภาพ"
+  },
+  "popup_group_title_fallback": {
+    "message": "วิดีโอ"
+  },
+  "popup_group_title_numbered": {
+    "message": "วิดีโอ $1"
+  },
+  "popup_footer_settings": {
+    "message": "ตั้งค่า"
+  },
+  "popup_footer_reviews": {
+    "message": "รีวิว"
+  },
+  "popup_footer_blog": {
+    "message": "บล็อก"
+  },
+  "popup_footer_account": {
+    "message": "บัญชี"
+  },
+  "popup_footer_upgrade": {
+    "message": "อัปเกรด"
+  },
+  "popup_play_button_label": {
+    "message": "เล่นวิดีโอ"
+  },
+  "popup_cast_button_label": {
+    "message": "แคสต์ไปยังอุปกรณ์"
+  },
+  "popup_live_label": {
+    "message": "สด"
+  },
+  "popup_download_label": {
+    "message": "ดาวน์โหลด"
+  },
+  "popup_audio_label": {
+    "message": "เสียง"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "เสียงเท่านั้น"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps เสียง"
+  },
+  "popup_empty_state": {
+    "message": "ไม่พบวิดีโอ"
+  },
+  "popup_report_no_video": {
+    "message": "รายงานปัญหา"
+  },
+  "popup_report_submitting": {
+    "message": "กำลังส่ง..."
+  },
+  "popup_report_success": {
+    "message": "ขอบคุณสำหรับรายงานของคุณ!"
+  },
+  "popup_report_error": {
+    "message": "ส่งรายงานไม่สำเร็จ กรุณาลองอีกครั้ง"
+  },
+  "popup_site_blocked": {
+    "message": "เว็บไซต์นี้ถูกบล็อก คุณสามารถปลดบล็อกเพื่อตรวจจับวิดีโอได้"
+  },
+  "popup_unblock_site": {
+    "message": "ปลดบล็อกเว็บไซต์"
+  },
+  "popup_toast_unblock_success": {
+    "message": "ปลดบล็อกเว็บไซต์แล้ว! กำลังโหลดใหม่..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "ปลดบล็อกไม่สำเร็จ"
+  },
+  "popup_block_site": {
+    "message": "บล็อกเว็บไซต์นี้"
+  },
+  "popup_toast_block_success": {
+    "message": "บล็อกเว็บไซต์แล้ว! กำลังโหลดใหม่..."
+  },
+  "popup_toast_block_failed": {
+    "message": "บล็อกไม่สำเร็จ"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "ไม่สามารถเปิดหน้าดาวน์โหลดที่ปลอดภัย"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "ไม่สามารถเตรียมการดาวน์โหลดที่ปลอดภัยนี้"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "กำลังเตรียมการดาวน์โหลดที่ปลอดภัย…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "ไม่สามารถเริ่มการดาวน์โหลดที่ปลอดภัย กรุณาลองอีกครั้ง"
+  },
+  "popup_toast_open_source_failed": {
+    "message": "ไม่สามารถเปิดวิดีโอนี้"
+  },
+  "popup_toast_identify_failed": {
+    "message": "ไม่สามารถระบุวิดีโอนี้"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "ลบออกจากรายการดูภายหลัง"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "บันทึกลงในรายการดูภายหลัง"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "ไม่สามารถอัปเดตดูภายหลัง"
+  },
+  "popup_toast_settings_failed": {
+    "message": "ไม่สามารถโหลดการตั้งค่า"
+  },
+  "popup_toast_videos_failed": {
+    "message": "ไม่สามารถโหลดวิดีโอ"
+  },
+  "popup_toast_download_started": {
+    "message": "เริ่มดาวน์โหลดแล้ว"
+  },
+  "popup_toast_download_failed": {
+    "message": "ไม่สามารถเริ่มดาวน์โหลด"
+  },
+  "popup_toast_cast_error": {
+    "message": "ไม่สามารถเตรียมการเล่น Chromecast กรุณาลองอีกครั้ง"
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "ไม่สามารถโหลดวิดีโอบนหน้านี้"
+  },
+  "watch_later_error_server": {
+    "message": "ไม่สามารถติดต่อเซิร์ฟเวอร์ กรุณาลองอีกครั้ง"
+  },
+  "watch_later_error_login": {
+    "message": "กรุณาเข้าสู่ระบบเพื่อจัดการวิดีโอดูภายหลัง"
+  },
+  "watch_later_error_upgrade": {
+    "message": "ต้องอัปเกรดเพื่อใช้ดูภายหลัง"
+  },
+  "watch_later_error_premium_only": {
+    "message": "ต้องใช้ Premium เพื่อบันทึกวิดีโอ"
+  },
+  "watch_later_error_limit": {
+    "message": "คุณถึงขีดจำกัดการบันทึกฟรีแล้ว"
+  },
+  "watch_later_error_generic": {
+    "message": "ไม่สามารถอัปเดตดูภายหลัง กรุณาลองอีกครั้ง"
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "ไม่พบลายนิ้วมือแท็บ"
+  },
+  "watch_later_error_missing_source": {
+    "message": "วิดีโอนี้ไม่มีลิงก์แหล่งที่มา"
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "ไม่พบตัวระบุดูภายหลัง"
+  },
+  "save_premium_modal_title": {
+    "message": "บันทึกวิดีโอด้วย Premium"
+  },
+  "save_premium_modal_message": {
+    "message": "การบันทึกวิดีโอไปยังคลังของคุณมีให้สำหรับสมาชิก Premium อัปเกรดเพื่อบันทึกวิดีโอไม่จำกัด"
+  },
+  "limit_modal_title": {
+    "message": "ถึงขีดจำกัดการบันทึกแล้ว"
+  },
+  "limit_modal_message": {
+    "message": "คุณถึงขีดจำกัดการบันทึกฟรีแล้ว อัปเกรดเป็น Premium เพื่อบันทึกวิดีโอไม่จำกัด"
+  },
+  "limit_modal_upgrade": {
+    "message": "รับ Premium"
+  },
+  "limit_modal_start_trial": {
+    "message": "เริ่มทดลองใช้ฟรี"
+  },
+  "limit_modal_later": {
+    "message": "ไม่ใช่ตอนนี้"
+  },
+  "hd_limit_modal_title": {
+    "message": "ถึงขีดจำกัดดาวน์โหลด HD รายวันแล้ว"
+  },
+  "hd_limit_modal_message": {
+    "message": "คุณถึงขีดจำกัดดาวน์โหลด HD ฟรีรายวันแล้ว อัปเกรดเป็น Premium เพื่อดาวน์โหลดวิดีโอคุณภาพเต็มไม่จำกัด"
+  },
+  "download_premium_modal_title": {
+    "message": "ปลดล็อกการดาวน์โหลดวิดีโอ"
+  },
+  "download_premium_modal_message": {
+    "message": "อัปเกรดเป็น Premium เพื่อดาวน์โหลดวิดีโอใด ๆ ในคุณภาพใด ๆ — ดาวน์โหลดไม่จำกัด"
+  },
+  "cast_limit_modal_title": {
+    "message": "ถึงขีดจำกัดการแคสต์รายวันแล้ว"
+  },
+  "cast_limit_modal_message": {
+    "message": "คุณถึงขีดจำกัดการแคสต์ฟรีรายวันแล้ว อัปเกรดเป็น Premium เพื่อแคสต์วิดีโอใดก็ได้ไปยังทีวีของคุณไม่จำกัด"
+  },
+  "cast_premium_modal_title": {
+    "message": "แคสต์ไปยังทีวีด้วย Premium"
+  },
+  "cast_premium_modal_message": {
+    "message": "การแคสต์ Chromecast มีให้สำหรับสมาชิก Premium อัปเกรดเพื่อแคสต์วิดีโอใดก็ได้ไปยังทีวีของคุณไม่จำกัด"
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "เริ่มทดลองใช้ฟรีเพื่อแคสต์วิดีโอใด ๆ ไปยังทีวีของคุณ — ไม่มีข้อผูกมัด ยกเลิกได้ทุกเมื่อ"
+  },
+  "review_modal_title": {
+    "message": "ชอบ Video Downloader Plus ไหม?"
+  },
+  "review_modal_message": {
+    "message": "หาก Video Downloader Plus เป็นประโยชน์กับคุณ การให้คะแนนสั้นๆ บน Chrome Web Store จะมีความหมายมากสำหรับเรา!"
+  },
+  "review_modal_rate": {
+    "message": "ให้คะแนน Video Downloader Plus"
+  },
+  "review_modal_later": {
+    "message": "ไว้ทีหลัง"
+  },
+  "download_limit_banner_remaining": {
+    "message": "เหลือ $1 ครั้งดาวน์โหลด HD วันนี้"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "ถึงขีดจำกัดดาวน์โหลด HD ต่อวันแล้ว"
+  },
+  "download_limit_banner_reset": {
+    "message": "รีเซ็ตใน $1"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "อัปเกรดเป็น Premium — ดาวน์โหลดวิดีโอใด ๆ ในคุณภาพใด ๆ ไม่จำกัด"
+  },
+  "generic_video_label": {
+    "message": "วิดีโอ"
+  },
+  "popup_actions_cast": {
+    "message": "แคสต์"
+  },
+  "popup_actions_download": {
+    "message": "ดาวน์โหลด"
+  },
+  "popup_actions_premium": {
+    "message": "พรีเมียม"
+  },
+  "popup_actions_save": {
+    "message": "บันทึก"
+  },
+  "toast_dismiss": {
+    "message": "ปิด"
+  },
+  "options_header_subtitle": {
+    "message": "ปรับแต่งวิธีที่ Video Downloader Plus ตรวจจับและบันทึกวิดีโอ"
+  },
+  "options_help_center": {
+    "message": "ศูนย์ช่วยเหลือ"
+  },
+  "options_support": {
+    "message": "การสนับสนุน"
+  },
+  "options_formats_title": {
+    "message": "รูปแบบสื่อ"
+  },
+  "options_formats_description": {
+    "message": "เลือกประเภทไฟล์ที่ Video Downloader Plus ควรค้นหา"
+  },
+  "options_formats_video_label": {
+    "message": "วิดีโอ"
+  },
+  "options_formats_audio_label": {
+    "message": "เสียง"
+  },
+  "options_size_title": {
+    "message": "เกณฑ์ขนาด"
+  },
+  "options_size_description": {
+    "message": "ข้ามไฟล์ที่เล็กกว่าขนาดนี้"
+  },
+  "options_size_label": {
+    "message": "ขนาดขั้นต่ำ"
+  },
+  "options_size_custom": {
+    "message": "กำหนดเอง"
+  },
+  "options_download_title": {
+    "message": "ตำแหน่งบันทึก"
+  },
+  "options_download_description": {
+    "message": "เลือกตำแหน่งที่จะบันทึกวิดีโอที่ดาวน์โหลด"
+  },
+  "options_download_toggle_label": {
+    "message": "โฟลเดอร์เฉพาะ"
+  },
+  "options_download_toggle_description": {
+    "message": "ส่งการดาวน์โหลดทั้งหมดไปยังโฟลเดอร์เดียว"
+  },
+  "options_download_folder_label": {
+    "message": "ชื่อโฟลเดอร์"
+  },
+  "options_download_folder_description": {
+    "message": "เส้นทางในดาวน์โหลด (เว้นว่างสำหรับรูท)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "รูปลักษณ์"
+  },
+  "options_appearance_description": {
+    "message": "เลือกรูปลักษณ์ของ Video Downloader Plus"
+  },
+  "options_theme_system": {
+    "message": "ระบบ"
+  },
+  "options_theme_light": {
+    "message": "สว่าง"
+  },
+  "options_theme_dark": {
+    "message": "มืด"
+  },
+  "options_cast_title": {
+    "message": "แคสต์ไปยังทีวี"
+  },
+  "options_cast_description": {
+    "message": "สตรีมวิดีโอไปยังอุปกรณ์ที่รองรับ Chromecast"
+  },
+  "options_cast_toggle_label": {
+    "message": "ปุ่มแคสต์"
+  },
+  "options_cast_toggle_description": {
+    "message": "แสดงไอคอนแคสต์ข้างวิดีโอที่รองรับ"
+  },
+  "options_badge_title": {
+    "message": "ป้าย"
+  },
+  "options_badge_description": {
+    "message": "เลือกสิ่งที่ป้ายไอคอนแถบเครื่องมือแสดง"
+  },
+  "options_badge_count": {
+    "message": "จำนวน"
+  },
+  "options_badge_dot": {
+    "message": "จุด"
+  },
+  "options_badge_hidden": {
+    "message": "ซ่อน"
+  },
+  "options_website_title": {
+    "message": "รายการบล็อกเว็บไซต์"
+  },
+  "options_website_description": {
+    "message": "ป้องกัน Video Downloader Plus จากการทำงานบนเว็บไซต์ที่กำหนด"
+  },
+  "options_website_add_label": {
+    "message": "บล็อกเว็บไซต์"
+  },
+  "options_website_add_description": {
+    "message": "รูปแบบที่ยอมรับ: <code>example.com</code> หรือ <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com หรือ *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "บล็อก"
+  },
+  "options_website_list_label": {
+    "message": "เว็บไซต์ที่ถูกบล็อก"
+  },
+  "options_website_empty": {
+    "message": "ยังไม่มีเว็บไซต์ที่ถูกบล็อก"
+  },
+  "options_status_unsaved": {
+    "message": "การเปลี่ยนแปลงยังไม่ได้บันทึก"
+  },
+  "options_status_saved": {
+    "message": "บันทึกการตั้งค่าแล้ว"
+  },
+  "options_button_save": {
+    "message": "ใช้งาน"
+  },
+  "options_button_reset": {
+    "message": "รีเซ็ตเป็นค่าเริ่มต้น"
+  },
+  "options_button_reset_confirm": {
+    "message": "คุณแน่ใจหรือไม่?"
+  },
+  "options_toast_reset_success": {
+    "message": "คืนค่าการตั้งค่าเป็นค่าเริ่มต้นแล้ว"
+  },
+  "options_toast_reset_error": {
+    "message": "ไม่สามารถรีเซ็ตการตั้งค่าได้"
+  },
+  "options_button_logout": {
+    "message": "ออกจากระบบ"
+  },
+  "options_toast_min_size": {
+    "message": "ขั้นต่ำคือ $1 $2"
+  },
+  "options_toast_enter_domain": {
+    "message": "กรุณาป้อนโดเมนก่อน"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "ข้อมูลไม่ถูกต้อง"
+  },
+  "options_toast_invalid_domain": {
+    "message": "ป้อนโดเมนที่ถูกต้อง เช่น example.com หรือ *.example.com"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "โดเมนไม่ถูกต้อง"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "เว็บไซต์นั้นอยู่ในรายการบล็อกแล้ว"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "ถูกบล็อกแล้ว"
+  },
+  "options_toast_block_limit": {
+    "message": "คุณสามารถบล็อกได้สูงสุด $1 เว็บไซต์"
+  },
+  "options_toast_permission_denied": {
+    "message": "การเข้าถึงถูกปฏิเสธ สลับปุ่มเพื่อลองอีกครั้ง"
+  },
+  "options_toast_permission_title": {
+    "message": "ต้องการการเข้าถึง"
+  },
+  "options_toast_permission_failed": {
+    "message": "ไม่สามารถขออนุญาตได้ ลองอีกครั้ง"
+  },
+  "options_toast_save_success": {
+    "message": "ใช้การตั้งค่าแล้ว"
+  },
+  "options_toast_save_error": {
+    "message": "ไม่สามารถบันทึกได้ กรุณาลองอีกครั้ง"
+  },
+  "options_toast_logout_success": {
+    "message": "ออกจากระบบแล้ว"
+  },
+  "options_toast_logout_error": {
+    "message": "ออกจากระบบล้มเหลว กรุณาลองอีกครั้ง"
+  },
+  "options_toast_load_error": {
+    "message": "ไม่สามารถโหลดการตั้งค่าได้ รีเฟรชหน้า"
+  },
+  "options_footer_privacy": {
+    "message": "นโยบายความเป็นส่วนตัว"
+  },
+  "options_footer_terms": {
+    "message": "ข้อกำหนดในการให้บริการ"
+  },
+  "player_modal_close": {
+    "message": "ปิดเครื่องเล่น"
+  },
+  "player_modal_error": {
+    "message": "ไม่สามารถเล่นวิดีโอนี้ได้"
+  },
+  "player_modal_unsupported": {
+    "message": "ไม่สามารถดูตัวอย่างรูปแบบนี้ได้ ใช้การดาวน์โหลดแทน"
+  },
+  "player_modal_loading": {
+    "message": "กำลังโหลดวิดีโอ..."
+  },
+  "options_header_badge": {
+    "message": "การตั้งค่า"
+  },
+  "toast_viewport_label": {
+    "message": "การแจ้งเตือน"
+  },
+  "popup_group_streaming_title": {
+    "message": "สตรีมมิง $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "ดึงจากเซิร์ฟเวอร์ $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "ดาวน์โหลดโดยตรง $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "ดึงจากเซิร์ฟเวอร์"
+  },
+  "popup_group_merge_note": {
+    "message": "เสียงและวิดีโอแยกกัน — จะถูกรวมกันระหว่างการดาวน์โหลด"
+  },
+  "popup_dismiss_label": {
+    "message": "ปิด"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "การเล่นสตรีมล้มเหลว"
+  },
+  "player_error_hls_unsupported": {
+    "message": "ไม่รองรับการเล่น HLS"
+  },
+  "player_error_library_failed": {
+    "message": "ไม่สามารถโหลดไลบรารีสตรีมมิงได้"
+  },
+  "player_error_no_url": {
+    "message": "ไม่มี URL ที่เล่นได้"
+  },
+  "player_error_unsupported_format": {
+    "message": "ไม่สามารถแสดงตัวอย่างรูปแบบนี้ได้"
+  },
+  "error_no_internet": {
+    "message": "ไม่มีการเชื่อมต่ออินเทอร์เน็ต"
+  },
+  "error_server_unavailable": {
+    "message": "เซิร์ฟเวอร์ไม่พร้อมใช้งานชั่วคราว"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "เริ่มทดลองใช้ฟรีเพื่อดาวน์โหลดวิดีโอใดก็ได้ทันที — ไม่มีข้อผูกมัด ยกเลิกเมื่อไหร่ก็ได้"
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "ลอง Premium ฟรี — ดาวน์โหลดวิดีโอใดก็ได้ในคุณภาพใดก็ได้ ไม่จำกัด"
+  }
+}

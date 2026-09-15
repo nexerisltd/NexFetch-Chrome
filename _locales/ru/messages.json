@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "Мгновенно скачивайте и сохраняйте видео с любого сайта. Быстрый и простой загрузчик видео, который просто работает."
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "Смотреть позже"
+  },
+  "popup_saved": {
+    "message": "Сохранено"
+  },
+  "popup_my_list": {
+    "message": "Мой список"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 вариантов качества"
+  },
+  "popup_group_title_fallback": {
+    "message": "Видео"
+  },
+  "popup_group_title_numbered": {
+    "message": "Видео $1"
+  },
+  "popup_footer_settings": {
+    "message": "Настройки"
+  },
+  "popup_footer_reviews": {
+    "message": "Отзывы"
+  },
+  "popup_footer_blog": {
+    "message": "Блог"
+  },
+  "popup_footer_account": {
+    "message": "Аккаунт"
+  },
+  "popup_footer_upgrade": {
+    "message": "Обновить"
+  },
+  "popup_play_button_label": {
+    "message": "Воспроизвести видео"
+  },
+  "popup_cast_button_label": {
+    "message": "Транслировать на устройство"
+  },
+  "popup_live_label": {
+    "message": "Прямой эфир"
+  },
+  "popup_download_label": {
+    "message": "Скачать"
+  },
+  "popup_audio_label": {
+    "message": "Аудио"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "Только аудио"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 кбит/с аудио"
+  },
+  "popup_empty_state": {
+    "message": "Видео не найдены."
+  },
+  "popup_report_no_video": {
+    "message": "Сообщить о проблеме"
+  },
+  "popup_report_submitting": {
+    "message": "Отправка..."
+  },
+  "popup_report_success": {
+    "message": "Спасибо за ваше сообщение!"
+  },
+  "popup_report_error": {
+    "message": "Не удалось отправить сообщение. Попробуйте ещё раз."
+  },
+  "popup_site_blocked": {
+    "message": "Этот сайт заблокирован. Вы можете разблокировать его для обнаружения видео."
+  },
+  "popup_unblock_site": {
+    "message": "Разблокировать сайт"
+  },
+  "popup_toast_unblock_success": {
+    "message": "Сайт разблокирован! Перезагрузка..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "Не удалось разблокировать"
+  },
+  "popup_block_site": {
+    "message": "Заблокировать этот сайт"
+  },
+  "popup_toast_block_success": {
+    "message": "Сайт заблокирован! Перезагрузка..."
+  },
+  "popup_toast_block_failed": {
+    "message": "Не удалось заблокировать"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "Не удалось открыть страницу безопасной загрузки"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "Не удалось подготовить безопасную загрузку"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "Подготовка безопасной загрузки…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "Не удалось начать безопасную загрузку. Попробуйте ещё раз."
+  },
+  "popup_toast_open_source_failed": {
+    "message": "Не удалось открыть это видео"
+  },
+  "popup_toast_identify_failed": {
+    "message": "Не удалось определить это видео"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "Удалено из списка «Смотреть позже»"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "Сохранено в список «Смотреть позже»"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "Не удалось обновить «Смотреть позже»"
+  },
+  "popup_toast_settings_failed": {
+    "message": "Не удалось загрузить настройки"
+  },
+  "popup_toast_videos_failed": {
+    "message": "Не удалось загрузить видео"
+  },
+  "popup_toast_download_started": {
+    "message": "Загрузка начата"
+  },
+  "popup_toast_download_failed": {
+    "message": "Не удалось начать загрузку"
+  },
+  "popup_toast_cast_error": {
+    "message": "Не удалось подготовить воспроизведение Chromecast. Попробуйте ещё раз."
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "Не удалось загрузить видео на этой странице"
+  },
+  "watch_later_error_server": {
+    "message": "Не удалось связаться с сервером. Попробуйте ещё раз."
+  },
+  "watch_later_error_login": {
+    "message": "Войдите, чтобы управлять видео «Смотреть позже»."
+  },
+  "watch_later_error_upgrade": {
+    "message": "Для использования «Смотреть позже» требуется обновление."
+  },
+  "watch_later_error_premium_only": {
+    "message": "Для сохранения видео требуется Premium."
+  },
+  "watch_later_error_limit": {
+    "message": "Вы достигли лимита бесплатных сохранений."
+  },
+  "watch_later_error_generic": {
+    "message": "Не удалось обновить «Смотреть позже». Попробуйте ещё раз."
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "Отпечаток вкладки отсутствует."
+  },
+  "watch_later_error_missing_source": {
+    "message": "У этого видео отсутствует ссылка на источник."
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "Идентификатор «Смотреть позже» отсутствует."
+  },
+  "save_premium_modal_title": {
+    "message": "Сохраняйте видео с Premium"
+  },
+  "save_premium_modal_message": {
+    "message": "Сохранение видео в библиотеку доступно для участников Premium. Обновитесь, чтобы сохранять неограниченное количество видео."
+  },
+  "limit_modal_title": {
+    "message": "Лимит сохранений достигнут"
+  },
+  "limit_modal_message": {
+    "message": "Вы достигли лимита бесплатных сохранений. Перейдите на Premium для сохранения неограниченного количества видео."
+  },
+  "limit_modal_upgrade": {
+    "message": "Получить Premium"
+  },
+  "limit_modal_start_trial": {
+    "message": "Начать бесплатный пробный период"
+  },
+  "limit_modal_later": {
+    "message": "Не сейчас"
+  },
+  "hd_limit_modal_title": {
+    "message": "Дневной лимит HD-загрузок достигнут"
+  },
+  "hd_limit_modal_message": {
+    "message": "Вы достигли дневного лимита бесплатных HD-загрузок. Перейдите на Premium для загрузки видео в полном качестве без ограничений."
+  },
+  "download_premium_modal_title": {
+    "message": "Разблокируйте загрузки видео"
+  },
+  "download_premium_modal_message": {
+    "message": "Обновитесь до Premium, чтобы скачивать любое видео в любом качестве — неограниченные загрузки."
+  },
+  "cast_limit_modal_title": {
+    "message": "Дневной лимит трансляций достигнут"
+  },
+  "cast_limit_modal_message": {
+    "message": "Вы достигли дневного лимита бесплатных трансляций. Перейдите на Premium для трансляции любого видео на ваш ТВ без ограничений."
+  },
+  "cast_premium_modal_title": {
+    "message": "Транслируйте на ТВ с Premium"
+  },
+  "cast_premium_modal_message": {
+    "message": "Трансляция Chromecast доступна для пользователей Premium. Перейдите на Premium для трансляции любого видео на ваш ТВ без ограничений."
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "Начните бесплатную пробную версию, чтобы транслировать любое видео на телевизор — без обязательств, отмена в любое время."
+  },
+  "review_modal_title": {
+    "message": "Нравится Video Downloader Plus?"
+  },
+  "review_modal_message": {
+    "message": "Если Video Downloader Plus был вам полезен, быстрая оценка в Chrome Web Store будет много значить для нас!"
+  },
+  "review_modal_rate": {
+    "message": "Оценить Video Downloader Plus"
+  },
+  "review_modal_later": {
+    "message": "Может позже"
+  },
+  "download_limit_banner_remaining": {
+    "message": "Осталось $1 HD-загрузок на сегодня"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "Дневной лимит HD-загрузок достигнут"
+  },
+  "download_limit_banner_reset": {
+    "message": "Сброс через $1"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "Обновитесь до Premium — скачивайте любое видео в любом качестве, без ограничений."
+  },
+  "generic_video_label": {
+    "message": "Видео"
+  },
+  "popup_actions_cast": {
+    "message": "Транслировать"
+  },
+  "popup_actions_download": {
+    "message": "Скачать"
+  },
+  "popup_actions_premium": {
+    "message": "Премиум"
+  },
+  "popup_actions_save": {
+    "message": "Сохранить"
+  },
+  "toast_dismiss": {
+    "message": "Закрыть"
+  },
+  "options_header_subtitle": {
+    "message": "Настройте обнаружение и сохранение видео в Video Downloader Plus"
+  },
+  "options_help_center": {
+    "message": "Справочный центр"
+  },
+  "options_support": {
+    "message": "Поддержка"
+  },
+  "options_formats_title": {
+    "message": "Медиаформаты"
+  },
+  "options_formats_description": {
+    "message": "Выберите типы файлов, которые будет искать Video Downloader Plus"
+  },
+  "options_formats_video_label": {
+    "message": "Видео"
+  },
+  "options_formats_audio_label": {
+    "message": "Аудио"
+  },
+  "options_size_title": {
+    "message": "Порог размера"
+  },
+  "options_size_description": {
+    "message": "Игнорировать файлы меньше этого размера"
+  },
+  "options_size_label": {
+    "message": "Мин. размер"
+  },
+  "options_size_custom": {
+    "message": "Пользовательский"
+  },
+  "options_download_title": {
+    "message": "Место сохранения"
+  },
+  "options_download_description": {
+    "message": "Выберите, куда сохранять загруженные видео"
+  },
+  "options_download_toggle_label": {
+    "message": "Отдельная папка"
+  },
+  "options_download_toggle_description": {
+    "message": "Направлять все загрузки в одну папку"
+  },
+  "options_download_folder_label": {
+    "message": "Имя папки"
+  },
+  "options_download_folder_description": {
+    "message": "Путь в Загрузках (пусто для корня)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "Оформление"
+  },
+  "options_appearance_description": {
+    "message": "Выберите оформление Video Downloader Plus"
+  },
+  "options_theme_system": {
+    "message": "Системная"
+  },
+  "options_theme_light": {
+    "message": "Светлая"
+  },
+  "options_theme_dark": {
+    "message": "Тёмная"
+  },
+  "options_cast_title": {
+    "message": "Трансляция на ТВ"
+  },
+  "options_cast_description": {
+    "message": "Транслировать видео на устройства с Chromecast"
+  },
+  "options_cast_toggle_label": {
+    "message": "Кнопка Cast"
+  },
+  "options_cast_toggle_description": {
+    "message": "Показывать значок Cast рядом с поддерживаемыми видео"
+  },
+  "options_badge_title": {
+    "message": "Значок"
+  },
+  "options_badge_description": {
+    "message": "Выберите, что отображает значок на панели инструментов"
+  },
+  "options_badge_count": {
+    "message": "Счётчик"
+  },
+  "options_badge_dot": {
+    "message": "Точка"
+  },
+  "options_badge_hidden": {
+    "message": "Скрыт"
+  },
+  "options_website_title": {
+    "message": "Чёрный список сайтов"
+  },
+  "options_website_description": {
+    "message": "Запретить работу Video Downloader Plus на определённых сайтах"
+  },
+  "options_website_add_label": {
+    "message": "Заблокировать сайт"
+  },
+  "options_website_add_description": {
+    "message": "Допустимые шаблоны: <code>example.com</code> или <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com или *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "Заблокировать"
+  },
+  "options_website_list_label": {
+    "message": "Заблокированные сайты"
+  },
+  "options_website_empty": {
+    "message": "Нет заблокированных сайтов"
+  },
+  "options_status_unsaved": {
+    "message": "Несохранённые изменения"
+  },
+  "options_status_saved": {
+    "message": "Настройки сохранены"
+  },
+  "options_button_save": {
+    "message": "Применить"
+  },
+  "options_button_reset": {
+    "message": "Сбросить к настройкам по умолчанию"
+  },
+  "options_button_reset_confirm": {
+    "message": "Вы уверены?"
+  },
+  "options_toast_reset_success": {
+    "message": "Настройки восстановлены по умолчанию"
+  },
+  "options_toast_reset_error": {
+    "message": "Не удалось сбросить настройки"
+  },
+  "options_button_logout": {
+    "message": "Выйти"
+  },
+  "options_toast_min_size": {
+    "message": "Минимум — $1 $2"
+  },
+  "options_toast_enter_domain": {
+    "message": "Сначала введите домен"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "Неверный ввод"
+  },
+  "options_toast_invalid_domain": {
+    "message": "Введите действительный домен, например example.com или *.example.com"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "Неверный домен"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "Этот сайт уже в чёрном списке"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "Уже заблокирован"
+  },
+  "options_toast_block_limit": {
+    "message": "Можно заблокировать до $1 сайтов."
+  },
+  "options_toast_permission_denied": {
+    "message": "Доступ запрещён. Переключите тумблер для повторной попытки."
+  },
+  "options_toast_permission_title": {
+    "message": "Требуется доступ"
+  },
+  "options_toast_permission_failed": {
+    "message": "Не удалось запросить разрешение. Попробуйте снова."
+  },
+  "options_toast_save_success": {
+    "message": "Настройки применены"
+  },
+  "options_toast_save_error": {
+    "message": "Не удалось сохранить. Попробуйте снова."
+  },
+  "options_toast_logout_success": {
+    "message": "Вы вышли"
+  },
+  "options_toast_logout_error": {
+    "message": "Не удалось выйти. Попробуйте снова."
+  },
+  "options_toast_load_error": {
+    "message": "Не удалось загрузить настройки. Обновите страницу."
+  },
+  "options_footer_privacy": {
+    "message": "Политика конфиденциальности"
+  },
+  "options_footer_terms": {
+    "message": "Условия использования"
+  },
+  "player_modal_close": {
+    "message": "Закрыть плеер"
+  },
+  "player_modal_error": {
+    "message": "Не удалось воспроизвести это видео"
+  },
+  "player_modal_unsupported": {
+    "message": "Этот формат нельзя просмотреть. Используйте загрузку."
+  },
+  "player_modal_loading": {
+    "message": "Загрузка видео..."
+  },
+  "options_header_badge": {
+    "message": "Настройки"
+  },
+  "toast_viewport_label": {
+    "message": "Уведомления"
+  },
+  "popup_group_streaming_title": {
+    "message": "Потоковое видео $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "Загрузка с сервера $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "Прямая загрузка $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "Загрузка с сервера"
+  },
+  "popup_group_merge_note": {
+    "message": "Аудио и видео отделены — они будут объединены при загрузке"
+  },
+  "popup_dismiss_label": {
+    "message": "Закрыть"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "Воспроизведение потока не удалось"
+  },
+  "player_error_hls_unsupported": {
+    "message": "Воспроизведение HLS не поддерживается"
+  },
+  "player_error_library_failed": {
+    "message": "Не удалось загрузить библиотеку потокового воспроизведения"
+  },
+  "player_error_no_url": {
+    "message": "Нет доступного URL для воспроизведения"
+  },
+  "player_error_unsupported_format": {
+    "message": "Этот формат нельзя просмотреть"
+  },
+  "error_no_internet": {
+    "message": "Нет подключения к интернету"
+  },
+  "error_server_unavailable": {
+    "message": "Сервер временно недоступен"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "Начните бесплатный пробный период, чтобы мгновенно скачивать любые видео — без обязательств, отмена в любое время."
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "Попробуйте Premium бесплатно — скачивайте любое видео в любом качестве, без ограничений."
+  }
+}

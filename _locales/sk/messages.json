@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "Stiahnite a uložte videá z akejkoľvek stránky okamžite. Rýchly a jednoduchý nástroj na sťahovanie videí."
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "Pozrieť neskôr"
+  },
+  "popup_saved": {
+    "message": "Uložené"
+  },
+  "popup_my_list": {
+    "message": "Môj zoznam"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 kvalít"
+  },
+  "popup_group_title_fallback": {
+    "message": "Video"
+  },
+  "popup_group_title_numbered": {
+    "message": "Video $1"
+  },
+  "popup_footer_settings": {
+    "message": "Nastavenia"
+  },
+  "popup_footer_reviews": {
+    "message": "Recenzie"
+  },
+  "popup_footer_blog": {
+    "message": "Blog"
+  },
+  "popup_footer_account": {
+    "message": "Účet"
+  },
+  "popup_footer_upgrade": {
+    "message": "Vylepšiť"
+  },
+  "popup_play_button_label": {
+    "message": "Prehrať video"
+  },
+  "popup_cast_button_label": {
+    "message": "Odoslať na zariadenie"
+  },
+  "popup_live_label": {
+    "message": "Naživo"
+  },
+  "popup_download_label": {
+    "message": "Stiahnuť"
+  },
+  "popup_audio_label": {
+    "message": "Zvuk"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "Iba zvuk"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps zvuk"
+  },
+  "popup_empty_state": {
+    "message": "Nenašli sa žiadne videá."
+  },
+  "popup_report_no_video": {
+    "message": "Nahlásiť problém"
+  },
+  "popup_report_submitting": {
+    "message": "Odosielanie..."
+  },
+  "popup_report_success": {
+    "message": "Ďakujeme za nahlásenie!"
+  },
+  "popup_report_error": {
+    "message": "Odoslanie zlyhalo. Skúste znova."
+  },
+  "popup_site_blocked": {
+    "message": "Táto stránka je blokovaná. Môžete ju odblokovať na detekciu videí."
+  },
+  "popup_unblock_site": {
+    "message": "Odblokovať stránku"
+  },
+  "popup_toast_unblock_success": {
+    "message": "Stránka odblokovaná! Načítava sa..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "Odblokovanie zlyhalo"
+  },
+  "popup_block_site": {
+    "message": "Blokovať túto stránku"
+  },
+  "popup_toast_block_success": {
+    "message": "Stránka blokovaná! Načítava sa..."
+  },
+  "popup_toast_block_failed": {
+    "message": "Blokovanie zlyhalo"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "Nemožno otvoriť stránku bezpečného stiahnutia"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "Nemožno pripraviť bezpečné stiahnutie"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "Príprava bezpečného stiahnutia…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "Nemožno spustiť bezpečné stiahnutie. Skúste znova."
+  },
+  "popup_toast_open_source_failed": {
+    "message": "Nemožno otvoriť toto video"
+  },
+  "popup_toast_identify_failed": {
+    "message": "Nemožno identifikovať toto video"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "Odstránené zo zoznamu Pozrieť neskôr"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "Uložené do zoznamu Pozrieť neskôr"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "Nemožno aktualizovať Pozrieť neskôr"
+  },
+  "popup_toast_settings_failed": {
+    "message": "Nemožno načítať nastavenia"
+  },
+  "popup_toast_videos_failed": {
+    "message": "Nemožno načítať videá"
+  },
+  "popup_toast_download_started": {
+    "message": "Sťahovanie začalo"
+  },
+  "popup_toast_download_failed": {
+    "message": "Nemožno spustiť sťahovanie"
+  },
+  "popup_toast_cast_error": {
+    "message": "Nemožno pripraviť Chromecast. Skúste znova."
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "Nemožno načítať videá na tejto stránke"
+  },
+  "watch_later_error_server": {
+    "message": "Nemožno kontaktovať server. Skúste znova."
+  },
+  "watch_later_error_login": {
+    "message": "Prihláste sa na správu videí Pozrieť neskôr."
+  },
+  "watch_later_error_upgrade": {
+    "message": "Na Pozrieť neskôr je potrebné vylepšenie."
+  },
+  "watch_later_error_premium_only": {
+    "message": "Na ukladanie videí je potrebný Premium."
+  },
+  "watch_later_error_limit": {
+    "message": "Dosiahli ste limit bezplatného ukladania."
+  },
+  "watch_later_error_generic": {
+    "message": "Nemožno aktualizovať Pozrieť neskôr. Skúste znova."
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "Chýbajúci odtlačok karty."
+  },
+  "watch_later_error_missing_source": {
+    "message": "Toto video nemá odkaz na zdroj."
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "Chýbajúci identifikátor Pozrieť neskôr."
+  },
+  "save_premium_modal_title": {
+    "message": "Ukladajte videá s Premium"
+  },
+  "save_premium_modal_message": {
+    "message": "Ukladanie videí do vašej knižnice je dostupné pre členov Premium. Inovujte na ukladanie neobmedzeného počtu videí."
+  },
+  "limit_modal_title": {
+    "message": "Dosiahnutý limit ukladania"
+  },
+  "limit_modal_message": {
+    "message": "Dosiahli ste limit bezplatného ukladania. Inovujte na Premium pre neobmedzené ukladanie videí."
+  },
+  "limit_modal_upgrade": {
+    "message": "Získať Premium"
+  },
+  "limit_modal_start_trial": {
+    "message": "Začať bezplatnú skúšobnú verziu"
+  },
+  "limit_modal_later": {
+    "message": "Teraz nie"
+  },
+  "hd_limit_modal_title": {
+    "message": "Dosiahnutý denný limit HD sťahovania"
+  },
+  "hd_limit_modal_message": {
+    "message": "Dosiahli ste denný limit bezplatného HD sťahovania. Inovujte na Premium pre sťahovanie videí v plnej kvalite bez obmedzení."
+  },
+  "download_premium_modal_title": {
+    "message": "Odomknite sťahovanie videí"
+  },
+  "download_premium_modal_message": {
+    "message": "Inovujte na Premium a sťahujte akékoľvek video v akejkoľvek kvalite — neobmedzené sťahovanie."
+  },
+  "cast_limit_modal_title": {
+    "message": "Dosiahnutý denný limit vysielania"
+  },
+  "cast_limit_modal_message": {
+    "message": "Dosiahli ste denný limit bezplatného vysielania. Inovujte na Premium pre vysielanie akéhokoľvek videa na TV bez obmedzení."
+  },
+  "cast_premium_modal_title": {
+    "message": "Vysielajte na TV s Premium"
+  },
+  "cast_premium_modal_message": {
+    "message": "Chromecast vysielanie je dostupné pre členov Premium. Inovujte pre streamovanie akéhokoľvek videa na TV bez obmedzení."
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "Začnite bezplatnú skúšobnú verziu a vysielajte akékoľvek video na televízor — bez záväzkov, zrušenie kedykoľvek."
+  },
+  "review_modal_title": {
+    "message": "Páči sa vám Video Downloader Plus?"
+  },
+  "review_modal_message": {
+    "message": "Ak vám Video Downloader Plus pomohol, rýchle hodnotenie na Chrome Web Store by pre nás znamenalo veľa!"
+  },
+  "review_modal_rate": {
+    "message": "Ohodnotiť Video Downloader Plus"
+  },
+  "review_modal_later": {
+    "message": "Možno neskôr"
+  },
+  "download_limit_banner_remaining": {
+    "message": "$1 HD stiahnutie(-ia) zostáva dnes"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "Denný limit HD sťahovania dosiahnutý"
+  },
+  "download_limit_banner_reset": {
+    "message": "Obnovenie za $1"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "Inovujte na Premium — sťahujte akékoľvek video v akejkoľvek kvalite, bez limitov."
+  },
+  "generic_video_label": {
+    "message": "Video"
+  },
+  "popup_actions_cast": {
+    "message": "Odoslať"
+  },
+  "popup_actions_download": {
+    "message": "Stiahnuť"
+  },
+  "popup_actions_premium": {
+    "message": "Premium"
+  },
+  "popup_actions_save": {
+    "message": "Uložiť"
+  },
+  "toast_dismiss": {
+    "message": "Zavrieť"
+  },
+  "options_header_subtitle": {
+    "message": "Prispôsobte, ako Video Downloader Plus deteguje a ukladá videá"
+  },
+  "options_help_center": {
+    "message": "Centrum pomoci"
+  },
+  "options_support": {
+    "message": "Podpora"
+  },
+  "options_formats_title": {
+    "message": "Formáty médií"
+  },
+  "options_formats_description": {
+    "message": "Vyberte typy súborov, ktoré má Video Downloader Plus hľadať"
+  },
+  "options_formats_video_label": {
+    "message": "Video"
+  },
+  "options_formats_audio_label": {
+    "message": "Zvuk"
+  },
+  "options_size_title": {
+    "message": "Prah veľkosti"
+  },
+  "options_size_description": {
+    "message": "Ignorovať menšie súbory"
+  },
+  "options_size_label": {
+    "message": "Min. veľkosť"
+  },
+  "options_size_custom": {
+    "message": "Vlastné"
+  },
+  "options_download_title": {
+    "message": "Miesto uloženia"
+  },
+  "options_download_description": {
+    "message": "Vyberte kam sa ukladajú stiahnuté videá"
+  },
+  "options_download_toggle_label": {
+    "message": "Vyhradený priečinok"
+  },
+  "options_download_toggle_description": {
+    "message": "Smerovať všetko do jedného priečinka"
+  },
+  "options_download_folder_label": {
+    "message": "Názov priečinka"
+  },
+  "options_download_folder_description": {
+    "message": "Cesta v Stiahnutých (prázdne pre koreň)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "Vzhľad"
+  },
+  "options_appearance_description": {
+    "message": "Vyberte vzhľad Video Downloader Plus"
+  },
+  "options_theme_system": {
+    "message": "Systémový"
+  },
+  "options_theme_light": {
+    "message": "Svetlý"
+  },
+  "options_theme_dark": {
+    "message": "Tmavý"
+  },
+  "options_cast_title": {
+    "message": "Odoslať na TV"
+  },
+  "options_cast_description": {
+    "message": "Streamujte videá na zariadenia Chromecast"
+  },
+  "options_cast_toggle_label": {
+    "message": "Tlačidlo odosielania"
+  },
+  "options_cast_toggle_description": {
+    "message": "Zobraziť ikonu odosielania pri podporovaných videách"
+  },
+  "options_badge_title": {
+    "message": "Odznak"
+  },
+  "options_badge_description": {
+    "message": "Vyberte, čo zobrazuje odznak ikony na paneli nástrojov"
+  },
+  "options_badge_count": {
+    "message": "Počet"
+  },
+  "options_badge_dot": {
+    "message": "Bodka"
+  },
+  "options_badge_hidden": {
+    "message": "Skrytý"
+  },
+  "options_website_title": {
+    "message": "Zoznam blokovaných"
+  },
+  "options_website_description": {
+    "message": "Zabráňte Video Downloader Plus v práci na konkrétnych stránkach"
+  },
+  "options_website_add_label": {
+    "message": "Blokovať stránku"
+  },
+  "options_website_add_description": {
+    "message": "Prijaté vzory: <code>example.com</code> alebo <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com alebo *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "Blokovať"
+  },
+  "options_website_list_label": {
+    "message": "Blokované stránky"
+  },
+  "options_website_empty": {
+    "message": "Zatiaľ žiadne blokované stránky"
+  },
+  "options_status_unsaved": {
+    "message": "Neuložené zmeny"
+  },
+  "options_status_saved": {
+    "message": "Nastavenia uložené"
+  },
+  "options_button_save": {
+    "message": "Použiť"
+  },
+  "options_button_reset": {
+    "message": "Obnoviť predvolené"
+  },
+  "options_button_reset_confirm": {
+    "message": "Ste si istý?"
+  },
+  "options_toast_reset_success": {
+    "message": "Nastavenia obnovené na predvolené"
+  },
+  "options_toast_reset_error": {
+    "message": "Nepodarilo sa obnoviť nastavenia"
+  },
+  "options_button_logout": {
+    "message": "Odhlásiť sa"
+  },
+  "options_toast_min_size": {
+    "message": "Minimum je $1 $2"
+  },
+  "options_toast_enter_domain": {
+    "message": "Najprv zadajte doménu"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "Neplatný vstup"
+  },
+  "options_toast_invalid_domain": {
+    "message": "Zadajte platnú doménu ako example.com alebo *.example.com"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "Neplatná doména"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "Táto stránka je už v zozname blokovaných"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "Už blokované"
+  },
+  "options_toast_block_limit": {
+    "message": "Môžete blokovať až $1 stránok."
+  },
+  "options_toast_permission_denied": {
+    "message": "Prístup zamietnutý. Prepnite na opakovanie."
+  },
+  "options_toast_permission_title": {
+    "message": "Potrebný prístup"
+  },
+  "options_toast_permission_failed": {
+    "message": "Nemožno požiadať o povolenie. Skúste znova."
+  },
+  "options_toast_save_success": {
+    "message": "Nastavenia použité"
+  },
+  "options_toast_save_error": {
+    "message": "Nemožno uložiť. Skúste znova."
+  },
+  "options_toast_logout_success": {
+    "message": "Odhlásené"
+  },
+  "options_toast_logout_error": {
+    "message": "Odhlásenie zlyhalo. Skúste znova."
+  },
+  "options_toast_load_error": {
+    "message": "Nemožno načítať nastavenia. Obnovte stránku."
+  },
+  "options_footer_privacy": {
+    "message": "Zásady ochrany osobných údajov"
+  },
+  "options_footer_terms": {
+    "message": "Podmienky služby"
+  },
+  "player_modal_close": {
+    "message": "Zavrieť prehrávač"
+  },
+  "player_modal_error": {
+    "message": "Nemožno prehrať toto video"
+  },
+  "player_modal_unsupported": {
+    "message": "Tento formát nemožno zobraziť. Použite stiahnutie."
+  },
+  "player_modal_loading": {
+    "message": "Načítava sa video..."
+  },
+  "options_header_badge": {
+    "message": "Nastavenia"
+  },
+  "toast_viewport_label": {
+    "message": "Oznámenia"
+  },
+  "popup_group_streaming_title": {
+    "message": "Streamovanie $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "Stiahnutie zo servera $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "Priame stiahnutie $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "Stiahnutie zo servera"
+  },
+  "popup_group_merge_note": {
+    "message": "Zvuk a video sú oddelené — budú zlúčené počas stiahnutia"
+  },
+  "popup_dismiss_label": {
+    "message": "Zavrieť"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "Prehrávanie streamu zlyhalo"
+  },
+  "player_error_hls_unsupported": {
+    "message": "Prehrávanie HLS nie je podporované"
+  },
+  "player_error_library_failed": {
+    "message": "Nepodarilo sa načítať streamovaciu knižnicu"
+  },
+  "player_error_no_url": {
+    "message": "Žiadna prehrateľná URL nie je k dispozícii"
+  },
+  "player_error_unsupported_format": {
+    "message": "Tento formát nemožno zobraziť"
+  },
+  "error_no_internet": {
+    "message": "Žiadne pripojenie k internetu"
+  },
+  "error_server_unavailable": {
+    "message": "Server je dočasne nedostupný"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "Začnite bezplatnú skúšobnú verziu na okamžité sťahovanie akéhokoľvek videa — bez záväzkov, zrušenie kedykoľvek."
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "Vyskúšajte Premium zadarmo — stiahnite akékoľvek video v akejkoľvek kvalite, bez limitov."
+  }
+}

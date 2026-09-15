@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "あらゆるウェブサイトから動画を瞬時にダウンロード・保存。速くてシンプルな動画ダウンローダー。"
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "後で見る"
+  },
+  "popup_saved": {
+    "message": "保存済み"
+  },
+  "popup_my_list": {
+    "message": "マイリスト"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 画質"
+  },
+  "popup_group_title_fallback": {
+    "message": "動画"
+  },
+  "popup_group_title_numbered": {
+    "message": "動画 $1"
+  },
+  "popup_footer_settings": {
+    "message": "設定"
+  },
+  "popup_footer_reviews": {
+    "message": "レビュー"
+  },
+  "popup_footer_blog": {
+    "message": "ブログ"
+  },
+  "popup_footer_account": {
+    "message": "アカウント"
+  },
+  "popup_footer_upgrade": {
+    "message": "アップグレード"
+  },
+  "popup_play_button_label": {
+    "message": "動画を再生"
+  },
+  "popup_cast_button_label": {
+    "message": "デバイスにキャスト"
+  },
+  "popup_live_label": {
+    "message": "ライブ"
+  },
+  "popup_download_label": {
+    "message": "ダウンロード"
+  },
+  "popup_audio_label": {
+    "message": "オーディオ"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "音声のみ"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps 音声"
+  },
+  "popup_empty_state": {
+    "message": "動画が見つかりませんでした。"
+  },
+  "popup_report_no_video": {
+    "message": "問題を報告"
+  },
+  "popup_report_submitting": {
+    "message": "送信中..."
+  },
+  "popup_report_success": {
+    "message": "ご報告ありがとうございます！"
+  },
+  "popup_report_error": {
+    "message": "送信に失敗しました。もう一度お試しください。"
+  },
+  "popup_site_blocked": {
+    "message": "このサイトはブロックされています。動画を検出するにはブロックを解除してください。"
+  },
+  "popup_unblock_site": {
+    "message": "サイトのブロック解除"
+  },
+  "popup_toast_unblock_success": {
+    "message": "サイトのブロックを解除しました！再読み込み中..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "ブロック解除に失敗しました"
+  },
+  "popup_block_site": {
+    "message": "このサイトをブロック"
+  },
+  "popup_toast_block_success": {
+    "message": "サイトをブロックしました！再読み込み中..."
+  },
+  "popup_toast_block_failed": {
+    "message": "ブロックに失敗しました"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "安全なダウンロードページを開けません"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "この安全なダウンロードを準備できません"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "安全なダウンロードを準備中…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "安全なダウンロードを開始できません。もう一度お試しください。"
+  },
+  "popup_toast_open_source_failed": {
+    "message": "この動画を開けません"
+  },
+  "popup_toast_identify_failed": {
+    "message": "この動画を識別できません"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "「後で見る」リストから削除しました"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "「後で見る」リストに保存しました"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "「後で見る」を更新できません"
+  },
+  "popup_toast_settings_failed": {
+    "message": "設定を読み込めません"
+  },
+  "popup_toast_videos_failed": {
+    "message": "動画を読み込めません"
+  },
+  "popup_toast_download_started": {
+    "message": "ダウンロードを開始しました"
+  },
+  "popup_toast_download_failed": {
+    "message": "ダウンロードを開始できません"
+  },
+  "popup_toast_cast_error": {
+    "message": "Chromecast の再生を準備できません。もう一度お試しください。"
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "このページの動画を読み込めません"
+  },
+  "watch_later_error_server": {
+    "message": "サーバーに接続できません。もう一度お試しください。"
+  },
+  "watch_later_error_login": {
+    "message": "「後で見る」を管理するにはログインしてください。"
+  },
+  "watch_later_error_upgrade": {
+    "message": "「後で見る」を使用するにはアップグレードが必要です。"
+  },
+  "watch_later_error_premium_only": {
+    "message": "動画を保存するにはPremiumが必要です。"
+  },
+  "watch_later_error_limit": {
+    "message": "無料保存の上限に達しました。"
+  },
+  "watch_later_error_generic": {
+    "message": "「後で見る」を更新できません。もう一度お試しください。"
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "タブのフィンガープリントがありません。"
+  },
+  "watch_later_error_missing_source": {
+    "message": "この動画にはソースリンクがありません。"
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "「後で見る」の識別子がありません。"
+  },
+  "save_premium_modal_title": {
+    "message": "Premiumで動画を保存"
+  },
+  "save_premium_modal_message": {
+    "message": "ライブラリへの動画保存はPremiumメンバー限定です。アップグレードして無制限に動画を保存しましょう。"
+  },
+  "limit_modal_title": {
+    "message": "保存上限に達しました"
+  },
+  "limit_modal_message": {
+    "message": "無料の保存上限に達しました。Premiumにアップグレードすると、動画を無制限に保存できます。"
+  },
+  "limit_modal_upgrade": {
+    "message": "Premiumにアップグレード"
+  },
+  "limit_modal_start_trial": {
+    "message": "無料トライアルを開始"
+  },
+  "limit_modal_later": {
+    "message": "今はしない"
+  },
+  "hd_limit_modal_title": {
+    "message": "1日のHDダウンロード上限に達しました"
+  },
+  "hd_limit_modal_message": {
+    "message": "1日の無料HDダウンロード上限に達しました。Premiumにアップグレードすると、フル画質の動画を制限なくダウンロードできます。"
+  },
+  "download_premium_modal_title": {
+    "message": "動画ダウンロードのロックを解除"
+  },
+  "download_premium_modal_message": {
+    "message": "Premiumにアップグレードして、あらゆる動画をあらゆる画質でダウンロード — 無制限のダウンロード。"
+  },
+  "cast_limit_modal_title": {
+    "message": "1日のキャスト上限に達しました"
+  },
+  "cast_limit_modal_message": {
+    "message": "1日の無料キャスト上限に達しました。Premiumにアップグレードすると、動画を制限なくテレビにキャストできます。"
+  },
+  "cast_premium_modal_title": {
+    "message": "Premiumでテレビにキャスト"
+  },
+  "cast_premium_modal_message": {
+    "message": "ChromecastへのキャストはPremium機能です。アップグレードすると、動画を制限なくテレビにキャストできます。"
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "無料トライアルを開始して、あらゆる動画をテレビにキャスト — 制約なし、いつでもキャンセル可能。"
+  },
+  "review_modal_title": {
+    "message": "Video Downloader Plusを気に入っていますか？"
+  },
+  "review_modal_message": {
+    "message": "Video Downloader Plusがお役に立てたなら、Chrome Web Storeでの簡単な評価をいただけると大変嬉しいです！"
+  },
+  "review_modal_rate": {
+    "message": "Video Downloader Plusを評価する"
+  },
+  "review_modal_later": {
+    "message": "後で"
+  },
+  "download_limit_banner_remaining": {
+    "message": "本日残り $1 回のHDダウンロード"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "1日のHDダウンロード上限に達しました"
+  },
+  "download_limit_banner_reset": {
+    "message": "$1 後にリセット"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "Premiumにアップグレード — あらゆる動画をあらゆる画質で、制限なくダウンロード。"
+  },
+  "generic_video_label": {
+    "message": "動画"
+  },
+  "popup_actions_cast": {
+    "message": "キャスト"
+  },
+  "popup_actions_download": {
+    "message": "ダウンロード"
+  },
+  "popup_actions_premium": {
+    "message": "Premium"
+  },
+  "popup_actions_save": {
+    "message": "保存"
+  },
+  "toast_dismiss": {
+    "message": "閉じる"
+  },
+  "options_header_subtitle": {
+    "message": "Video Downloader Plusの動画検出と保存方法をカスタマイズ"
+  },
+  "options_help_center": {
+    "message": "ヘルプセンター"
+  },
+  "options_support": {
+    "message": "サポート"
+  },
+  "options_formats_title": {
+    "message": "メディア形式"
+  },
+  "options_formats_description": {
+    "message": "Video Downloader Plusが検索するファイルタイプを選択"
+  },
+  "options_formats_video_label": {
+    "message": "動画"
+  },
+  "options_formats_audio_label": {
+    "message": "オーディオ"
+  },
+  "options_size_title": {
+    "message": "サイズしきい値"
+  },
+  "options_size_description": {
+    "message": "このサイズより小さいファイルを無視"
+  },
+  "options_size_label": {
+    "message": "最小サイズ"
+  },
+  "options_size_custom": {
+    "message": "カスタム"
+  },
+  "options_download_title": {
+    "message": "保存先"
+  },
+  "options_download_description": {
+    "message": "ダウンロードした動画の保存先を選択"
+  },
+  "options_download_toggle_label": {
+    "message": "専用フォルダ"
+  },
+  "options_download_toggle_description": {
+    "message": "すべてのダウンロードを1つのフォルダに保存"
+  },
+  "options_download_folder_label": {
+    "message": "フォルダ名"
+  },
+  "options_download_folder_description": {
+    "message": "ダウンロード内のパス（空欄でルート）"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "外観"
+  },
+  "options_appearance_description": {
+    "message": "Video Downloader Plusの外観を選択"
+  },
+  "options_theme_system": {
+    "message": "システム"
+  },
+  "options_theme_light": {
+    "message": "ライト"
+  },
+  "options_theme_dark": {
+    "message": "ダーク"
+  },
+  "options_cast_title": {
+    "message": "TVにキャスト"
+  },
+  "options_cast_description": {
+    "message": "Chromecast対応デバイスに動画をストリーミング"
+  },
+  "options_cast_toggle_label": {
+    "message": "キャストボタン"
+  },
+  "options_cast_toggle_description": {
+    "message": "対応動画の横にキャストアイコンを表示"
+  },
+  "options_badge_title": {
+    "message": "バッジ"
+  },
+  "options_badge_description": {
+    "message": "ツールバーアイコンのバッジに表示する内容を選択"
+  },
+  "options_badge_count": {
+    "message": "カウント"
+  },
+  "options_badge_dot": {
+    "message": "ドット"
+  },
+  "options_badge_hidden": {
+    "message": "非表示"
+  },
+  "options_website_title": {
+    "message": "サイトブロックリスト"
+  },
+  "options_website_description": {
+    "message": "特定のサイトでVideo Downloader Plusを無効にする"
+  },
+  "options_website_add_label": {
+    "message": "サイトをブロック"
+  },
+  "options_website_add_description": {
+    "message": "使用可能なパターン: <code>example.com</code> または <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com または *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "ブロック"
+  },
+  "options_website_list_label": {
+    "message": "ブロック済みサイト"
+  },
+  "options_website_empty": {
+    "message": "ブロックされたサイトはありません"
+  },
+  "options_status_unsaved": {
+    "message": "未保存の変更"
+  },
+  "options_status_saved": {
+    "message": "設定を保存しました"
+  },
+  "options_button_save": {
+    "message": "適用"
+  },
+  "options_button_reset": {
+    "message": "デフォルトに戻す"
+  },
+  "options_button_reset_confirm": {
+    "message": "よろしいですか？"
+  },
+  "options_toast_reset_success": {
+    "message": "設定をデフォルトに復元しました"
+  },
+  "options_toast_reset_error": {
+    "message": "設定のリセットに失敗しました"
+  },
+  "options_button_logout": {
+    "message": "ログアウト"
+  },
+  "options_toast_min_size": {
+    "message": "最小値は $1 $2 です"
+  },
+  "options_toast_enter_domain": {
+    "message": "先にドメインを入力してください"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "無効な入力"
+  },
+  "options_toast_invalid_domain": {
+    "message": "example.com や *.example.com のような有効なドメインを入力してください"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "無効なドメイン"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "そのサイトは既にブロックリストにあります"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "既にブロック済み"
+  },
+  "options_toast_block_limit": {
+    "message": "最大 $1 サイトまでブロックできます。"
+  },
+  "options_toast_permission_denied": {
+    "message": "アクセスが拒否されました。トグルを切り替えて再試行してください。"
+  },
+  "options_toast_permission_title": {
+    "message": "アクセスが必要"
+  },
+  "options_toast_permission_failed": {
+    "message": "権限をリクエストできませんでした。再試行してください。"
+  },
+  "options_toast_save_success": {
+    "message": "設定を適用しました"
+  },
+  "options_toast_save_error": {
+    "message": "保存できませんでした。再試行してください。"
+  },
+  "options_toast_logout_success": {
+    "message": "ログアウトしました"
+  },
+  "options_toast_logout_error": {
+    "message": "ログアウトに失敗しました。再試行してください。"
+  },
+  "options_toast_load_error": {
+    "message": "設定を読み込めませんでした。ページを更新してください。"
+  },
+  "options_footer_privacy": {
+    "message": "プライバシーポリシー"
+  },
+  "options_footer_terms": {
+    "message": "利用規約"
+  },
+  "player_modal_close": {
+    "message": "プレーヤーを閉じる"
+  },
+  "player_modal_error": {
+    "message": "この動画を再生できません"
+  },
+  "player_modal_unsupported": {
+    "message": "この形式はプレビューできません。代わりにダウンロードしてください。"
+  },
+  "player_modal_loading": {
+    "message": "動画を読み込み中..."
+  },
+  "options_header_badge": {
+    "message": "設定"
+  },
+  "toast_viewport_label": {
+    "message": "通知"
+  },
+  "popup_group_streaming_title": {
+    "message": "ストリーミング $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "サーバー取得 $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "ダイレクトダウンロード $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "サーバー取得"
+  },
+  "popup_group_merge_note": {
+    "message": "音声と映像は別々です ― ダウンロード時に自動で結合されます"
+  },
+  "popup_dismiss_label": {
+    "message": "閉じる"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "ストリーム再生に失敗しました"
+  },
+  "player_error_hls_unsupported": {
+    "message": "HLS再生はサポートされていません"
+  },
+  "player_error_library_failed": {
+    "message": "ストリーミングライブラリの読み込みに失敗しました"
+  },
+  "player_error_no_url": {
+    "message": "再生可能なURLがありません"
+  },
+  "player_error_unsupported_format": {
+    "message": "この形式はプレビューできません"
+  },
+  "error_no_internet": {
+    "message": "インターネット接続がありません"
+  },
+  "error_server_unavailable": {
+    "message": "サーバーが一時的に利用できません"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "無料トライアルを開始して、あらゆる動画を即座にダウンロード — 契約義務なし、いつでもキャンセル可能。"
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "Premiumを無料でお試し — あらゆる品質で動画をダウンロード、制限なし。"
+  }
+}

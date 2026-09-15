@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "הורד ושמור סרטונים מכל אתר באופן מיידי. מוריד סרטונים מהיר ופשוט שפשוט עובד."
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "צפה מאוחר יותר"
+  },
+  "popup_saved": {
+    "message": "נשמר"
+  },
+  "popup_my_list": {
+    "message": "הרשימה שלי"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 איכויות"
+  },
+  "popup_group_title_fallback": {
+    "message": "וידאו"
+  },
+  "popup_group_title_numbered": {
+    "message": "וידאו $1"
+  },
+  "popup_footer_settings": {
+    "message": "הגדרות"
+  },
+  "popup_footer_reviews": {
+    "message": "ביקורות"
+  },
+  "popup_footer_blog": {
+    "message": "בלוג"
+  },
+  "popup_footer_account": {
+    "message": "חשבון"
+  },
+  "popup_footer_upgrade": {
+    "message": "שדרוג"
+  },
+  "popup_play_button_label": {
+    "message": "נגן סרטון"
+  },
+  "popup_cast_button_label": {
+    "message": "שדר למכשיר"
+  },
+  "popup_live_label": {
+    "message": "שידור חי"
+  },
+  "popup_download_label": {
+    "message": "הורדה"
+  },
+  "popup_audio_label": {
+    "message": "שמע"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "שמע בלבד"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps שמע"
+  },
+  "popup_empty_state": {
+    "message": "לא נמצאו סרטונים."
+  },
+  "popup_report_no_video": {
+    "message": "דווח על בעיה"
+  },
+  "popup_report_submitting": {
+    "message": "שולח..."
+  },
+  "popup_report_success": {
+    "message": "תודה על הדיווח!"
+  },
+  "popup_report_error": {
+    "message": "השליחה נכשלה. נסו שנית."
+  },
+  "popup_site_blocked": {
+    "message": "אתר זה חסום. ניתן לבטל חסימה כדי לזהות סרטונים."
+  },
+  "popup_unblock_site": {
+    "message": "בטל חסימת אתר"
+  },
+  "popup_toast_unblock_success": {
+    "message": "אתר נפתח! טוען מחדש..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "ביטול חסימה נכשל"
+  },
+  "popup_block_site": {
+    "message": "חסום אתר זה"
+  },
+  "popup_toast_block_success": {
+    "message": "אתר נחסם! טוען מחדש..."
+  },
+  "popup_toast_block_failed": {
+    "message": "חסימה נכשלה"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "לא ניתן לפתוח דף הורדה מאובטח"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "לא ניתן להכין הורדה מאובטחת"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "מכין הורדה מאובטחת…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "לא ניתן להתחיל הורדה מאובטחת. נסו שנית."
+  },
+  "popup_toast_open_source_failed": {
+    "message": "לא ניתן לפתוח סרטון זה"
+  },
+  "popup_toast_identify_failed": {
+    "message": "לא ניתן לזהות סרטון זה"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "הוסר מרשימת צפה מאוחר יותר"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "נשמר ברשימת צפה מאוחר יותר"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "לא ניתן לעדכן צפה מאוחר יותר"
+  },
+  "popup_toast_settings_failed": {
+    "message": "לא ניתן לטעון הגדרות"
+  },
+  "popup_toast_videos_failed": {
+    "message": "לא ניתן לטעון סרטונים"
+  },
+  "popup_toast_download_started": {
+    "message": "ההורדה החלה"
+  },
+  "popup_toast_download_failed": {
+    "message": "לא ניתן להתחיל הורדה"
+  },
+  "popup_toast_cast_error": {
+    "message": "לא ניתן להכין Chromecast. נסו שנית."
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "לא ניתן לטעון סרטונים בדף זה"
+  },
+  "watch_later_error_server": {
+    "message": "לא ניתן להתחבר לשרת. נסו שנית."
+  },
+  "watch_later_error_login": {
+    "message": "התחברו כדי לנהל סרטוני צפה מאוחר יותר."
+  },
+  "watch_later_error_upgrade": {
+    "message": "נדרש שדרוג לצפה מאוחר יותר."
+  },
+  "watch_later_error_premium_only": {
+    "message": "נדרש Premium כדי לשמור סרטונים."
+  },
+  "watch_later_error_limit": {
+    "message": "הגעת למגבלת שמירה חינמית."
+  },
+  "watch_later_error_generic": {
+    "message": "לא ניתן לעדכן צפה מאוחר יותר. נסו שנית."
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "טביעת אצבע של כרטיסייה חסרה."
+  },
+  "watch_later_error_missing_source": {
+    "message": "לסרטון זה אין קישור מקור."
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "מזהה צפה מאוחר יותר חסר."
+  },
+  "save_premium_modal_title": {
+    "message": "שמור סרטונים עם Premium"
+  },
+  "save_premium_modal_message": {
+    "message": "שמירת סרטונים לספרייה שלך זמינה לחברי Premium. שדרג כדי לשמור סרטונים ללא הגבלה."
+  },
+  "limit_modal_title": {
+    "message": "הגעת למגבלת השמירה"
+  },
+  "limit_modal_message": {
+    "message": "הגעת למגבלת השמירה החינמית שלך. כדי לשמור סרטונים ללא הגבלה, יש לשדרג לפרימיום."
+  },
+  "limit_modal_upgrade": {
+    "message": "קבל פרימיום"
+  },
+  "limit_modal_start_trial": {
+    "message": "התחל ניסיון חינם"
+  },
+  "limit_modal_later": {
+    "message": "לא עכשיו"
+  },
+  "hd_limit_modal_title": {
+    "message": "הגעת למגבלת הורדות HD היומית"
+  },
+  "hd_limit_modal_message": {
+    "message": "הגעת למגבלת הורדות ה-HD היומית החינמית שלך. כדי להוריד סרטונים באיכות מלאה ללא הגבלה, יש לשדרג לפרימיום."
+  },
+  "download_premium_modal_title": {
+    "message": "פתח הורדות וידאו"
+  },
+  "download_premium_modal_message": {
+    "message": "שדרג ל-Premium כדי להוריד כל סרטון בכל איכות — הורדות ללא הגבלה."
+  },
+  "cast_limit_modal_title": {
+    "message": "הגעת למגבלת השידור היומית"
+  },
+  "cast_limit_modal_message": {
+    "message": "הגעת למגבלת השידור היומית החינמית שלך. כדי לשדר כל סרטון לטלוויזיה שלך ללא הגבלה, יש לשדרג לפרימיום."
+  },
+  "cast_premium_modal_title": {
+    "message": "שדר לטלוויזיה שלך עם פרימיום"
+  },
+  "cast_premium_modal_message": {
+    "message": "שידור Chromecast זמין לחברי פרימיום. כדי להזרים כל סרטון לטלוויזיה שלך ללא הגבלה, יש לשדרג לפרימיום."
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "התחל את תקופת הניסיון החינמית כדי לשדר כל סרטון לטלוויזיה שלך — ללא התחייבות, בטל בכל עת."
+  },
+  "review_modal_title": {
+    "message": "נהנים מ-Video Downloader Plus?"
+  },
+  "review_modal_message": {
+    "message": "אם Video Downloader Plus עזר לך, ביקורת מהירה ב-Chrome Web Store תעזור לנו מאוד!"
+  },
+  "review_modal_rate": {
+    "message": "דרג את Video Downloader Plus"
+  },
+  "review_modal_later": {
+    "message": "אולי מאוחר יותר"
+  },
+  "download_limit_banner_remaining": {
+    "message": "$1 הורדות HD נותרו היום"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "מגבלת הורדות HD יומית הושגה"
+  },
+  "download_limit_banner_reset": {
+    "message": "איפוס בעוד $1"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "שדרג ל-Premium — הורד כל סרטון בכל איכות, ללא הגבלות."
+  },
+  "generic_video_label": {
+    "message": "וידאו"
+  },
+  "popup_actions_cast": {
+    "message": "שדר"
+  },
+  "popup_actions_download": {
+    "message": "הורד"
+  },
+  "popup_actions_premium": {
+    "message": "פרימיום"
+  },
+  "popup_actions_save": {
+    "message": "שמור"
+  },
+  "toast_dismiss": {
+    "message": "סגור"
+  },
+  "options_header_subtitle": {
+    "message": "התאם איך Video Downloader Plus מזהה ושומר סרטונים"
+  },
+  "options_help_center": {
+    "message": "מרכז עזרה"
+  },
+  "options_support": {
+    "message": "תמיכה"
+  },
+  "options_formats_title": {
+    "message": "פורמטי מדיה"
+  },
+  "options_formats_description": {
+    "message": "בחר סוגי קבצים ש-Video Downloader Plus יחפש"
+  },
+  "options_formats_video_label": {
+    "message": "וידאו"
+  },
+  "options_formats_audio_label": {
+    "message": "שמע"
+  },
+  "options_size_title": {
+    "message": "סף גודל"
+  },
+  "options_size_description": {
+    "message": "התעלם מקבצים קטנים יותר"
+  },
+  "options_size_label": {
+    "message": "גודל מינימלי"
+  },
+  "options_size_custom": {
+    "message": "מותאם"
+  },
+  "options_download_title": {
+    "message": "מיקום שמירה"
+  },
+  "options_download_description": {
+    "message": "בחר היכן יישמרו סרטונים שהורדו"
+  },
+  "options_download_toggle_label": {
+    "message": "תיקייה ייעודית"
+  },
+  "options_download_toggle_description": {
+    "message": "הפנה את כל ההורדות לתיקייה אחת"
+  },
+  "options_download_folder_label": {
+    "message": "שם תיקייה"
+  },
+  "options_download_folder_description": {
+    "message": "נתיב בהורדות (ריק עבור שורש)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "מראה"
+  },
+  "options_appearance_description": {
+    "message": "בחר איך Video Downloader Plus נראה"
+  },
+  "options_theme_system": {
+    "message": "מערכת"
+  },
+  "options_theme_light": {
+    "message": "בהיר"
+  },
+  "options_theme_dark": {
+    "message": "כהה"
+  },
+  "options_cast_title": {
+    "message": "שדר לטלוויזיה"
+  },
+  "options_cast_description": {
+    "message": "הזרם סרטונים למכשירי Chromecast"
+  },
+  "options_cast_toggle_label": {
+    "message": "כפתור שידור"
+  },
+  "options_cast_toggle_description": {
+    "message": "הצג סמל שידור ליד סרטונים נתמכים"
+  },
+  "options_badge_title": {
+    "message": "תג"
+  },
+  "options_badge_description": {
+    "message": "בחר מה תג סמל סרגל הכלים מציג"
+  },
+  "options_badge_count": {
+    "message": "מספר"
+  },
+  "options_badge_dot": {
+    "message": "נקודה"
+  },
+  "options_badge_hidden": {
+    "message": "מוסתר"
+  },
+  "options_website_title": {
+    "message": "רשימת חסימה"
+  },
+  "options_website_description": {
+    "message": "מנע מ-Video Downloader Plus לפעול באתרים מסוימים"
+  },
+  "options_website_add_label": {
+    "message": "חסום אתר"
+  },
+  "options_website_add_description": {
+    "message": "דפוסים מקובלים: <code>example.com</code> או <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com או *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "חסום"
+  },
+  "options_website_list_label": {
+    "message": "אתרים חסומים"
+  },
+  "options_website_empty": {
+    "message": "אין עדיין אתרים חסומים"
+  },
+  "options_status_unsaved": {
+    "message": "שינויים שלא נשמרו"
+  },
+  "options_status_saved": {
+    "message": "הגדרות נשמרו"
+  },
+  "options_button_save": {
+    "message": "החל"
+  },
+  "options_button_reset": {
+    "message": "אפס לברירת מחדל"
+  },
+  "options_button_reset_confirm": {
+    "message": "האם את/ה בטוח/ה?"
+  },
+  "options_toast_reset_success": {
+    "message": "ההגדרות שוחזרו לברירת מחדל"
+  },
+  "options_toast_reset_error": {
+    "message": "איפוס ההגדרות נכשל"
+  },
+  "options_button_logout": {
+    "message": "התנתק"
+  },
+  "options_toast_min_size": {
+    "message": "המינימום הוא $1 $2"
+  },
+  "options_toast_enter_domain": {
+    "message": "הזן דומיין תחילה"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "קלט לא חוקי"
+  },
+  "options_toast_invalid_domain": {
+    "message": "הזן דומיין חוקי כגון example.com או *.example.com"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "דומיין לא חוקי"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "אתר זה כבר ברשימת החסימה"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "כבר חסום"
+  },
+  "options_toast_block_limit": {
+    "message": "ניתן לחסום עד $1 אתרים."
+  },
+  "options_toast_permission_denied": {
+    "message": "גישה נדחתה. החלף כדי לנסות שנית."
+  },
+  "options_toast_permission_title": {
+    "message": "נדרשת גישה"
+  },
+  "options_toast_permission_failed": {
+    "message": "לא ניתן לבקש הרשאה. נסו שנית."
+  },
+  "options_toast_save_success": {
+    "message": "הגדרות הוחלו"
+  },
+  "options_toast_save_error": {
+    "message": "לא ניתן לשמור. נסו שנית."
+  },
+  "options_toast_logout_success": {
+    "message": "התנתקת"
+  },
+  "options_toast_logout_error": {
+    "message": "התנתקות נכשלה. נסו שנית."
+  },
+  "options_toast_load_error": {
+    "message": "לא ניתן לטעון הגדרות. רעננו את הדף."
+  },
+  "options_footer_privacy": {
+    "message": "מדיניות פרטיות"
+  },
+  "options_footer_terms": {
+    "message": "תנאי שימוש"
+  },
+  "player_modal_close": {
+    "message": "סגור נגן"
+  },
+  "player_modal_error": {
+    "message": "לא ניתן לנגן סרטון זה"
+  },
+  "player_modal_unsupported": {
+    "message": "לא ניתן לצפות בתצוגה מקדימה בפורמט זה. השתמש בהורדה."
+  },
+  "player_modal_loading": {
+    "message": "טוען סרטון..."
+  },
+  "options_header_badge": {
+    "message": "הגדרות"
+  },
+  "toast_viewport_label": {
+    "message": "התראות"
+  },
+  "popup_group_streaming_title": {
+    "message": "סטרימינג $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "שליפה מהשרת $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "הורדה ישירה $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "שליפה מהשרת"
+  },
+  "popup_group_merge_note": {
+    "message": "האודיו והווידאו נפרדים — הם ימוזגו במהלך ההורדה"
+  },
+  "popup_dismiss_label": {
+    "message": "סגור"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "ניגון הזרם נכשל"
+  },
+  "player_error_hls_unsupported": {
+    "message": "ניגון HLS אינו נתמך"
+  },
+  "player_error_library_failed": {
+    "message": "טעינת ספריית הסטרימינג נכשלה"
+  },
+  "player_error_no_url": {
+    "message": "אין URL זמין להפעלה"
+  },
+  "player_error_unsupported_format": {
+    "message": "לא ניתן לצפות בתצוגה מקדימה בפורמט זה"
+  },
+  "error_no_internet": {
+    "message": "אין חיבור לאינטרנט"
+  },
+  "error_server_unavailable": {
+    "message": "השרת אינו זמין זמנית"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "התחל את תקופת הניסיון החינמית שלך כדי להוריד כל סרטון מיד — ללא התחייבות, בטל בכל עת."
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "נסה Premium בחינם — הורד כל סרטון בכל איכות, ללא הגבלות."
+  }
+}

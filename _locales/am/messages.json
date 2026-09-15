@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "ከማንኛውም ድረ-ገጽ ቪዲዮዎችን ወዲያውኑ ያውርዱ እና ያስቀምጡ። ፈጣን እና ቀላል የቪዲዮ አውራጅ።"
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "በኋላ ተመልከት"
+  },
+  "popup_saved": {
+    "message": "ተቀምጧል"
+  },
+  "popup_my_list": {
+    "message": "ዝርዝሬ"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 ጥራቶች"
+  },
+  "popup_group_title_fallback": {
+    "message": "ቪዲዮ"
+  },
+  "popup_group_title_numbered": {
+    "message": "ቪዲዮ $1"
+  },
+  "popup_footer_settings": {
+    "message": "ቅንብሮች"
+  },
+  "popup_footer_reviews": {
+    "message": "ግምገማዎች"
+  },
+  "popup_footer_blog": {
+    "message": "ብሎግ"
+  },
+  "popup_footer_account": {
+    "message": "መለያ"
+  },
+  "popup_footer_upgrade": {
+    "message": "አሻሽል"
+  },
+  "popup_play_button_label": {
+    "message": "ቪዲዮ አጫውት"
+  },
+  "popup_cast_button_label": {
+    "message": "ወደ መሣሪያ ስደድ"
+  },
+  "popup_live_label": {
+    "message": "ቀጥታ"
+  },
+  "popup_download_label": {
+    "message": "አውርድ"
+  },
+  "popup_audio_label": {
+    "message": "ኦዲዮ"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "ኦዲዮ ብቻ"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps ኦዲዮ"
+  },
+  "popup_empty_state": {
+    "message": "ቪዲዮዎች አልተገኙም።"
+  },
+  "popup_report_no_video": {
+    "message": "ችግር ሪፖርት አድርግ"
+  },
+  "popup_report_submitting": {
+    "message": "በመላክ ላይ..."
+  },
+  "popup_report_success": {
+    "message": "ስለ ሪፖርትዎ እናመሰግናለን!"
+  },
+  "popup_report_error": {
+    "message": "መላክ አልተሳካም። እባክዎ እንደገና ይሞክሩ።"
+  },
+  "popup_site_blocked": {
+    "message": "ይህ ጣቢያ ታግዷል። ቪዲዮዎችን ለማግኘት ማገድን ማስወገድ ይችላሉ።"
+  },
+  "popup_unblock_site": {
+    "message": "ጣቢያ ክፈት"
+  },
+  "popup_toast_unblock_success": {
+    "message": "ጣቢያ ተከፈተ! እየተጫነ..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "መክፈት አልተሳካም"
+  },
+  "popup_block_site": {
+    "message": "ይህን ጣቢያ አግድ"
+  },
+  "popup_toast_block_success": {
+    "message": "ጣቢያ ታግዷል! እየተጫነ..."
+  },
+  "popup_toast_block_failed": {
+    "message": "ማገድ አልተሳካም"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "ደህንነቱ የተጠበቀ ማውረጃ ገጽ መክፈት አልተቻለም"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "ደህንነቱ የተጠበቀ ማውረድ ማዘጋጀት አልተቻለም"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "ደህንነቱ የተጠበቀ ማውረድ በማዘጋጀት ላይ…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "ደህንነቱ የተጠበቀ ማውረድ መጀመር አልተቻለም። እንደገና ይሞክሩ።"
+  },
+  "popup_toast_open_source_failed": {
+    "message": "ይህን ቪዲዮ መክፈት አልተቻለም"
+  },
+  "popup_toast_identify_failed": {
+    "message": "ይህን ቪዲዮ መለየት አልተቻለም"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "ከበኋላ ተመልከት ዝርዝር ተወገደ"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "በበኋላ ተመልከት ዝርዝር ውስጥ ተቀምጧል"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "በኋላ ተመልከት ማዘመን አልተቻለም"
+  },
+  "popup_toast_settings_failed": {
+    "message": "ቅንብሮችን መጫን አልተቻለም"
+  },
+  "popup_toast_videos_failed": {
+    "message": "ቪዲዮዎችን መጫን አልተቻለም"
+  },
+  "popup_toast_download_started": {
+    "message": "ማውረድ ተጀመረ"
+  },
+  "popup_toast_download_failed": {
+    "message": "ማውረድ መጀመር አልተቻለም"
+  },
+  "popup_toast_cast_error": {
+    "message": "Chromecast ማዘጋጀት አልተቻለም። እንደገና ይሞክሩ።"
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "በዚህ ገጽ ላይ ቪዲዮዎችን መጫን አልተቻለም"
+  },
+  "watch_later_error_server": {
+    "message": "ከአገልጋይ ጋር መገናኘት አልተቻለም። እንደገና ይሞክሩ።"
+  },
+  "watch_later_error_login": {
+    "message": "በኋላ ተመልከት ቪዲዮዎችን ለማስተዳደር ይግቡ።"
+  },
+  "watch_later_error_upgrade": {
+    "message": "ለበኋላ ተመልከት ማሻሻያ ያስፈልጋል።"
+  },
+  "watch_later_error_premium_only": {
+    "message": "ቪዲዮዎችን ለማስቀመጥ ፕሪሚየም ያስፈልጋል።"
+  },
+  "watch_later_error_limit": {
+    "message": "የነጻ ማቆያ ገደብ ደርሰዋል።"
+  },
+  "watch_later_error_generic": {
+    "message": "በኋላ ተመልከት ማዘመን አልተቻለም። እንደገና ይሞክሩ።"
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "የትር ጣት አሻራ ይጎድላል።"
+  },
+  "watch_later_error_missing_source": {
+    "message": "ይህ ቪዲዮ ምንጭ ማገናኛ የለውም።"
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "የበኋላ ተመልከት መለያ ይጎድላል።"
+  },
+  "save_premium_modal_title": {
+    "message": "ቪዲዮዎችን በፕሪሚየም ያስቀምጡ"
+  },
+  "save_premium_modal_message": {
+    "message": "ቪዲዮዎችን ወደ ቤተ-መጻሕፍትዎ ማስቀመጥ ለፕሪሚየም አባላት ብቻ ነው። ያልተገደቡ ቪዲዮዎችን ለማስቀመጥ ያሻሽሉ።"
+  },
+  "limit_modal_title": {
+    "message": "የማስቀመጫ ገደብ ደርሷል"
+  },
+  "limit_modal_message": {
+    "message": "የነጻ ማስቀመጫ ገደብዎ ደርሷል። ያልተገደበ ቪዲዮ ለማስቀመጥ ወደ ፕሪሚየም ያሻሽሉ።"
+  },
+  "limit_modal_upgrade": {
+    "message": "ፕሪሚየም ያግኙ"
+  },
+  "limit_modal_start_trial": {
+    "message": "ነጻ ሙከራ ጀምር"
+  },
+  "limit_modal_later": {
+    "message": "አሁን አይደለም"
+  },
+  "hd_limit_modal_title": {
+    "message": "የዕለታዊ HD ማውረጃ ገደብ ደርሷል"
+  },
+  "hd_limit_modal_message": {
+    "message": "የዕለታዊ ነጻ HD ማውረጃ ገደብዎ ደርሷል። ያልተገደበ ሙሉ ጥራት ቪዲዮ ለማውረድ ወደ ፕሪሚየም ያሻሽሉ።"
+  },
+  "download_premium_modal_title": {
+    "message": "የቪዲዮ ማውረዶችን ይክፈቱ"
+  },
+  "download_premium_modal_message": {
+    "message": "ማንኛውንም ቪዲዮ በማንኛውም ጥራት ለማውረድ ወደ Premium ያሻሽሉ — ያልተገደቡ ውርዶች።"
+  },
+  "cast_limit_modal_title": {
+    "message": "የዕለታዊ ካስት ገደብ ደርሷል"
+  },
+  "cast_limit_modal_message": {
+    "message": "የዕለታዊ ነጻ ካስት ገደብዎ ደርሷል። ማንኛውንም ቪዲዮ ያልተገደበ ወደ ቲቪዎ ለመላክ ወደ ፕሪሚየም ያሻሽሉ።"
+  },
+  "cast_premium_modal_title": {
+    "message": "በፕሪሚየም ወደ ቲቪዎ ያሰራጩ"
+  },
+  "cast_premium_modal_message": {
+    "message": "Chromecast ማሰራጨት ለፕሪሚየም አባላት ይገኛል። ማንኛውንም ቪዲዮ ያልተገደበ ወደ ቲቪዎ ለማሰራጨት ያሻሽሉ።"
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "ማንኛውንም ቪዲዮ ወደ ቲቪዎ ለመላክ ነፃ ሙከራዎን ይጀምሩ — ምንም ቁርጠኝነት የለም፣ በማንኛውም ጊዜ ይሰርዙ።"
+  },
+  "review_modal_title": {
+    "message": "Video Downloader Plus ይወዳሉ?"
+  },
+  "review_modal_message": {
+    "message": "Video Downloader Plus ጠቃሚ ከሆነ በChrome Web Store ላይ ፈጣን ደረጃ መስጠት ለኛ ብዙ ይረዳል!"
+  },
+  "review_modal_rate": {
+    "message": "Video Downloader Plus ደረጃ ስጥ"
+  },
+  "review_modal_later": {
+    "message": "ምናልባት በኋላ"
+  },
+  "download_limit_banner_remaining": {
+    "message": "$1 HD ማውረድ(ዎች) ዛሬ ቀርተዋል"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "ዕለታዊ HD ማውረድ ገደብ ደርሷል"
+  },
+  "download_limit_banner_reset": {
+    "message": "በ$1 ውስጥ ይታደሳል"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "ወደ Premium ያሻሽሉ — ማንኛውንም ቪዲዮ በማንኛውም ጥራት ያውርዱ፣ ያልተገደበ።"
+  },
+  "generic_video_label": {
+    "message": "ቪዲዮ"
+  },
+  "popup_actions_cast": {
+    "message": "ስደድ"
+  },
+  "popup_actions_download": {
+    "message": "አውርድ"
+  },
+  "popup_actions_premium": {
+    "message": "ፕሪሚየም"
+  },
+  "popup_actions_save": {
+    "message": "አስቀምጥ"
+  },
+  "toast_dismiss": {
+    "message": "ዝጋ"
+  },
+  "options_header_subtitle": {
+    "message": "Video Downloader Plus ቪዲዮዎችን እንዴት እንደሚያገኝ እና እንደሚያስቀምጥ ያስተካክሉ"
+  },
+  "options_help_center": {
+    "message": "የእርዳታ ማዕከል"
+  },
+  "options_support": {
+    "message": "ድጋፍ"
+  },
+  "options_formats_title": {
+    "message": "የሚዲያ ቅርጸቶች"
+  },
+  "options_formats_description": {
+    "message": "Video Downloader Plus ሊፈልጋቸው የሚገባቸውን የፋይል ዓይነቶች ይምረጡ"
+  },
+  "options_formats_video_label": {
+    "message": "ቪዲዮ"
+  },
+  "options_formats_audio_label": {
+    "message": "ኦዲዮ"
+  },
+  "options_size_title": {
+    "message": "የመጠን ገደብ"
+  },
+  "options_size_description": {
+    "message": "ከዚህ ያነሱ ፋይሎችን ችላ በል"
+  },
+  "options_size_label": {
+    "message": "ዝቅ. መጠን"
+  },
+  "options_size_custom": {
+    "message": "ብጁ"
+  },
+  "options_download_title": {
+    "message": "የማስቀመጫ ቦታ"
+  },
+  "options_download_description": {
+    "message": "የወረዱ ቪዲዮዎች የት እንደሚቀመጡ ይምረጡ"
+  },
+  "options_download_toggle_label": {
+    "message": "ልዩ አቃፊ"
+  },
+  "options_download_toggle_description": {
+    "message": "ሁሉንም ወደ አንድ አቃፊ አዛውር"
+  },
+  "options_download_folder_label": {
+    "message": "የአቃፊ ስም"
+  },
+  "options_download_folder_description": {
+    "message": "በውርዶች ውስጥ ያለ ዱካ (ለስር ባዶ)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "መልክ"
+  },
+  "options_appearance_description": {
+    "message": "Video Downloader Plus እንዴት እንደሚታይ ይምረጡ"
+  },
+  "options_theme_system": {
+    "message": "ሥርዓት"
+  },
+  "options_theme_light": {
+    "message": "ብሩህ"
+  },
+  "options_theme_dark": {
+    "message": "ጨለማ"
+  },
+  "options_cast_title": {
+    "message": "ወደ ቲቪ ስደድ"
+  },
+  "options_cast_description": {
+    "message": "ቪዲዮዎችን ወደ Chromecast መሣሪያዎች ስርጭት"
+  },
+  "options_cast_toggle_label": {
+    "message": "የመላኪያ ቁልፍ"
+  },
+  "options_cast_toggle_description": {
+    "message": "ከሚደገፉ ቪዲዮዎች ጎን የመላኪያ አዶ አሳይ"
+  },
+  "options_badge_title": {
+    "message": "ባጅ"
+  },
+  "options_badge_description": {
+    "message": "የመሣሪያ አሞሌ አዶ ባጅ ምን እንደሚያሳይ ይምረጡ"
+  },
+  "options_badge_count": {
+    "message": "ቆጠራ"
+  },
+  "options_badge_dot": {
+    "message": "ነጥብ"
+  },
+  "options_badge_hidden": {
+    "message": "ተደብቋል"
+  },
+  "options_website_title": {
+    "message": "የማገጃ ዝርዝር"
+  },
+  "options_website_description": {
+    "message": "Video Downloader Plus በተወሰኑ ጣቢያዎች ላይ እንዳይሰራ ይከልክሉ"
+  },
+  "options_website_add_label": {
+    "message": "ጣቢያ አግድ"
+  },
+  "options_website_add_description": {
+    "message": "ተቀባይ ቅጦች: <code>example.com</code> ወይም <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com ወይም *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "አግድ"
+  },
+  "options_website_list_label": {
+    "message": "የታገዱ ጣቢያዎች"
+  },
+  "options_website_empty": {
+    "message": "እስካሁን ምንም የታገዱ ጣቢያዎች የሉም"
+  },
+  "options_status_unsaved": {
+    "message": "ያልተቀመጡ ለውጦች"
+  },
+  "options_status_saved": {
+    "message": "ቅንብሮች ተቀምጠዋል"
+  },
+  "options_button_save": {
+    "message": "ተግብር"
+  },
+  "options_button_reset": {
+    "message": "ወደ ነባሪ መልስ"
+  },
+  "options_button_reset_confirm": {
+    "message": "እርግጠኛ ነዎት?"
+  },
+  "options_toast_reset_success": {
+    "message": "ቅንብሮች ወደ ነባሪ ተመልሰዋል"
+  },
+  "options_toast_reset_error": {
+    "message": "ቅንብሮችን መመለስ አልተቻለም"
+  },
+  "options_button_logout": {
+    "message": "ውጣ"
+  },
+  "options_toast_min_size": {
+    "message": "ዝቅተኛው $1 $2 ነው"
+  },
+  "options_toast_enter_domain": {
+    "message": "መጀመሪያ ዶሜይን ያስገቡ"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "ልክ ያልሆነ ግብዓት"
+  },
+  "options_toast_invalid_domain": {
+    "message": "እንደ example.com ወይም *.example.com ያለ ትክክለኛ ዶሜይን ያስገቡ"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "ልክ ያልሆነ ዶሜይን"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "ይህ ጣቢያ ቀድሞ በማገጃ ዝርዝሩ ውስጥ ነው"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "ቀድሞ ታግዷል"
+  },
+  "options_toast_block_limit": {
+    "message": "እስከ $1 ጣቢያዎች ማገድ ይችላሉ።"
+  },
+  "options_toast_permission_denied": {
+    "message": "መዳረሻ ተከልክሏል። ለድጋሚ ሙከራ ያቀያይሩ።"
+  },
+  "options_toast_permission_title": {
+    "message": "መዳረሻ ያስፈልጋል"
+  },
+  "options_toast_permission_failed": {
+    "message": "ፈቃድ መጠየቅ አልተቻለም። እንደገና ይሞክሩ።"
+  },
+  "options_toast_save_success": {
+    "message": "ቅንብሮች ተተግብረዋል"
+  },
+  "options_toast_save_error": {
+    "message": "ማቆየት አልተቻለም። እንደገና ይሞክሩ።"
+  },
+  "options_toast_logout_success": {
+    "message": "ወጥተዋል"
+  },
+  "options_toast_logout_error": {
+    "message": "መውጣት አልተሳካም። እንደገና ይሞክሩ።"
+  },
+  "options_toast_load_error": {
+    "message": "ቅንብሮችን መጫን አልተቻለም። ገጹን ያድሱ።"
+  },
+  "options_footer_privacy": {
+    "message": "የግላዊነት ፖሊሲ"
+  },
+  "options_footer_terms": {
+    "message": "የአገልግሎት ውል"
+  },
+  "player_modal_close": {
+    "message": "አጫዋቹን ዝጋ"
+  },
+  "player_modal_error": {
+    "message": "ይህን ቪዲዮ ማጫወት አልተቻለም"
+  },
+  "player_modal_unsupported": {
+    "message": "ይህ ቅርጸት ቅድመ-እይታ ሊደረግ አይችልም። ማውረድ ይጠቀሙ።"
+  },
+  "player_modal_loading": {
+    "message": "ቪዲዮ በመጫን ላይ..."
+  },
+  "options_header_badge": {
+    "message": "ቅንብሮች"
+  },
+  "toast_viewport_label": {
+    "message": "ማሳወቂያዎች"
+  },
+  "popup_group_streaming_title": {
+    "message": "ስትሪሚንግ $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "ከአገልጋይ ማግኘት $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "ቀጥተኛ ማውረድ $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "ከአገልጋይ ማግኘት"
+  },
+  "popup_group_merge_note": {
+    "message": "ኦዲዮ እና ቪዲዮ ለየብቻ ናቸው — በማውረድ ጊዜ ይዋሃዳሉ"
+  },
+  "popup_dismiss_label": {
+    "message": "ዝግጅ"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "የስትሪም ማጫወት አልተሳካም"
+  },
+  "player_error_hls_unsupported": {
+    "message": "HLS ማጫወት አይደገፍም"
+  },
+  "player_error_library_failed": {
+    "message": "የስትሪሚንግ ቤተ-መጽሐፍት መጫን አልተቻለም"
+  },
+  "player_error_no_url": {
+    "message": "ሊጫወት የሚችል URL የለም"
+  },
+  "player_error_unsupported_format": {
+    "message": "ይህ ቅርጸት ቅድመ-እይታ ሊደረግ አይችልም"
+  },
+  "error_no_internet": {
+    "message": "የበይነመረብ ግንኙነት የለም"
+  },
+  "error_server_unavailable": {
+    "message": "አገልጋዩ ለጊዜው አይገኝም"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "ማንኛውንም ቪዲዮ ወዲያውኑ ለማውረድ ነጻ ሙከራዎን ይጀምሩ — ምንም ግዴታ የለም፣ በማንኛውም ጊዜ ይሰርዙ።"
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "ፕሪሚየምን ነጻ ይሞክሩ — ማንኛውንም ቪዲዮ በማንኛውም ጥራት ያውርዱ፣ ገደብ የለም።"
+  }
+}

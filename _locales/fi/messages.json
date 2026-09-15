@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "Lataa ja tallenna videoita miltä tahansa verkkosivustolta välittömästi. Nopea ja yksinkertainen videoiden lataaja."
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "Katso myöhemmin"
+  },
+  "popup_saved": {
+    "message": "Tallennettu"
+  },
+  "popup_my_list": {
+    "message": "Oma lista"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 laatua"
+  },
+  "popup_group_title_fallback": {
+    "message": "Video"
+  },
+  "popup_group_title_numbered": {
+    "message": "Video $1"
+  },
+  "popup_footer_settings": {
+    "message": "Asetukset"
+  },
+  "popup_footer_reviews": {
+    "message": "Arvostelut"
+  },
+  "popup_footer_blog": {
+    "message": "Blogi"
+  },
+  "popup_footer_account": {
+    "message": "Tili"
+  },
+  "popup_footer_upgrade": {
+    "message": "Päivitä"
+  },
+  "popup_play_button_label": {
+    "message": "Toista video"
+  },
+  "popup_cast_button_label": {
+    "message": "Lähetä laitteeseen"
+  },
+  "popup_live_label": {
+    "message": "Live"
+  },
+  "popup_download_label": {
+    "message": "Lataa"
+  },
+  "popup_audio_label": {
+    "message": "Ääni"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "Vain ääni"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps ääni"
+  },
+  "popup_empty_state": {
+    "message": "Videoita ei löytynyt."
+  },
+  "popup_report_no_video": {
+    "message": "Ilmoita ongelma"
+  },
+  "popup_report_submitting": {
+    "message": "Lähetetään..."
+  },
+  "popup_report_success": {
+    "message": "Kiitos ilmoituksesta!"
+  },
+  "popup_report_error": {
+    "message": "Lähetys epäonnistui. Yritä uudelleen."
+  },
+  "popup_site_blocked": {
+    "message": "Tämä sivusto on estetty. Voit poistaa eston videoiden tunnistamiseksi."
+  },
+  "popup_unblock_site": {
+    "message": "Poista esto"
+  },
+  "popup_toast_unblock_success": {
+    "message": "Esto poistettu! Ladataan uudelleen..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "Eston poisto epäonnistui"
+  },
+  "popup_block_site": {
+    "message": "Estä tämä sivusto"
+  },
+  "popup_toast_block_success": {
+    "message": "Sivusto estetty! Ladataan uudelleen..."
+  },
+  "popup_toast_block_failed": {
+    "message": "Estäminen epäonnistui"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "Suojattua lataussivua ei voi avata"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "Suojattua latausta ei voi valmistella"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "Valmistellaan suojattua latausta…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "Suojattua latausta ei voi aloittaa. Yritä uudelleen."
+  },
+  "popup_toast_open_source_failed": {
+    "message": "Tätä videota ei voi avata"
+  },
+  "popup_toast_identify_failed": {
+    "message": "Tätä videota ei voi tunnistaa"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "Poistettu Katso myöhemmin -listalta"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "Tallennettu Katso myöhemmin -listalle"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "Katso myöhemmin -päivitys epäonnistui"
+  },
+  "popup_toast_settings_failed": {
+    "message": "Asetuksia ei voi ladata"
+  },
+  "popup_toast_videos_failed": {
+    "message": "Videoita ei voi ladata"
+  },
+  "popup_toast_download_started": {
+    "message": "Lataus aloitettu"
+  },
+  "popup_toast_download_failed": {
+    "message": "Latausta ei voi aloittaa"
+  },
+  "popup_toast_cast_error": {
+    "message": "Chromecastia ei voi valmistella. Yritä uudelleen."
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "Videoita ei voi ladata tällä sivulla"
+  },
+  "watch_later_error_server": {
+    "message": "Palvelimeen ei saada yhteyttä. Yritä uudelleen."
+  },
+  "watch_later_error_login": {
+    "message": "Kirjaudu sisään hallitaksesi Katso myöhemmin -videoita."
+  },
+  "watch_later_error_upgrade": {
+    "message": "Päivitys vaaditaan Katso myöhemmin -toimintoon."
+  },
+  "watch_later_error_premium_only": {
+    "message": "Premium vaaditaan videoiden tallentamiseen."
+  },
+  "watch_later_error_limit": {
+    "message": "Olet saavuttanut ilmaisen tallennusrajan."
+  },
+  "watch_later_error_generic": {
+    "message": "Katso myöhemmin -päivitys epäonnistui. Yritä uudelleen."
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "Välilehden sormenjälki puuttuu."
+  },
+  "watch_later_error_missing_source": {
+    "message": "Tästä videosta puuttuu lähdelinkki."
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "Katso myöhemmin -tunniste puuttuu."
+  },
+  "save_premium_modal_title": {
+    "message": "Tallenna videoita Premiumilla"
+  },
+  "save_premium_modal_message": {
+    "message": "Videoiden tallentaminen kirjastoosi on saatavilla Premium-jäsenille. Päivitä tallentaaksesi rajattomasti videoita."
+  },
+  "limit_modal_title": {
+    "message": "Tallennusraja saavutettu"
+  },
+  "limit_modal_message": {
+    "message": "Olet saavuttanut ilmaisen tallennusrajan. Päivitä Premiumiin tallentaaksesi rajattomasti videoita."
+  },
+  "limit_modal_upgrade": {
+    "message": "Hanki Premium"
+  },
+  "limit_modal_start_trial": {
+    "message": "Aloita ilmainen kokeilu"
+  },
+  "limit_modal_later": {
+    "message": "Ei nyt"
+  },
+  "hd_limit_modal_title": {
+    "message": "Päivittäinen HD-latausraja saavutettu"
+  },
+  "hd_limit_modal_message": {
+    "message": "Olet saavuttanut päivittäisen ilmaisen HD-latausrajan. Päivitä Premiumiin ladataksesi videoita täydellä laadulla ilman rajoja."
+  },
+  "download_premium_modal_title": {
+    "message": "Avaa videoiden lataukset"
+  },
+  "download_premium_modal_message": {
+    "message": "Päivitä Premiumiin ladataksesi minkä tahansa videon missä tahansa laadussa — rajattomat lataukset."
+  },
+  "cast_limit_modal_title": {
+    "message": "Päivittäinen lähetysraja saavutettu"
+  },
+  "cast_limit_modal_message": {
+    "message": "Olet saavuttanut päivittäisen ilmaisen lähetysrajan. Päivitä Premiumiin lähettääksesi minkä tahansa videon televisioosi ilman rajoja."
+  },
+  "cast_premium_modal_title": {
+    "message": "Lähetä televisioosi Premiumilla"
+  },
+  "cast_premium_modal_message": {
+    "message": "Chromecast-lähetys on saatavilla Premium-jäsenille. Päivitä striimataksesi minkä tahansa videon televisioosi ilman rajoja."
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "Aloita ilmainen kokeilujakso lähettääksesi minkä tahansa videon televisioon — ei sitoumusta, peruuta milloin tahansa."
+  },
+  "review_modal_title": {
+    "message": "Pidätkö Video Downloader Plussta?"
+  },
+  "review_modal_message": {
+    "message": "Jos Video Downloader Plus on ollut hyödyllinen, nopea arvostelu Chrome Web Storessa merkitsisi meille paljon!"
+  },
+  "review_modal_rate": {
+    "message": "Arvostele Video Downloader Plus"
+  },
+  "review_modal_later": {
+    "message": "Ehkä myöhemmin"
+  },
+  "download_limit_banner_remaining": {
+    "message": "$1 HD-latausta jäljellä tänään"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "Päivittäinen HD-latausraja saavutettu"
+  },
+  "download_limit_banner_reset": {
+    "message": "Nollautuu $1 kuluttua"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "Päivitä Premiumiin — lataa mikä tahansa video missä tahansa laadussa, ei rajoituksia."
+  },
+  "generic_video_label": {
+    "message": "Video"
+  },
+  "popup_actions_cast": {
+    "message": "Lähetä"
+  },
+  "popup_actions_download": {
+    "message": "Lataa"
+  },
+  "popup_actions_premium": {
+    "message": "Premium"
+  },
+  "popup_actions_save": {
+    "message": "Tallenna"
+  },
+  "toast_dismiss": {
+    "message": "Sulje"
+  },
+  "options_header_subtitle": {
+    "message": "Mukauta miten Video Downloader Plus tunnistaa ja tallentaa videoita"
+  },
+  "options_help_center": {
+    "message": "Ohjekeskus"
+  },
+  "options_support": {
+    "message": "Tuki"
+  },
+  "options_formats_title": {
+    "message": "Mediamuodot"
+  },
+  "options_formats_description": {
+    "message": "Valitse tiedostotyypit joita Video Downloader Plus etsii"
+  },
+  "options_formats_video_label": {
+    "message": "Video"
+  },
+  "options_formats_audio_label": {
+    "message": "Ääni"
+  },
+  "options_size_title": {
+    "message": "Kokoraja"
+  },
+  "options_size_description": {
+    "message": "Ohita tätä pienemmät tiedostot"
+  },
+  "options_size_label": {
+    "message": "Min. koko"
+  },
+  "options_size_custom": {
+    "message": "Mukautettu"
+  },
+  "options_download_title": {
+    "message": "Tallennuspaikka"
+  },
+  "options_download_description": {
+    "message": "Valitse mihin ladatut videot tallennetaan"
+  },
+  "options_download_toggle_label": {
+    "message": "Oma kansio"
+  },
+  "options_download_toggle_description": {
+    "message": "Ohjaa kaikki tallennukset yhteen kansioon"
+  },
+  "options_download_folder_label": {
+    "message": "Kansion nimi"
+  },
+  "options_download_folder_description": {
+    "message": "Polku Latauksissa (tyhjä juureen)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "Ulkoasu"
+  },
+  "options_appearance_description": {
+    "message": "Valitse miltä Video Downloader Plus näyttää"
+  },
+  "options_theme_system": {
+    "message": "Järjestelmä"
+  },
+  "options_theme_light": {
+    "message": "Vaalea"
+  },
+  "options_theme_dark": {
+    "message": "Tumma"
+  },
+  "options_cast_title": {
+    "message": "Lähetä TV:hen"
+  },
+  "options_cast_description": {
+    "message": "Suoratoista videoita Chromecast-laitteisiin"
+  },
+  "options_cast_toggle_label": {
+    "message": "Lähetä-painike"
+  },
+  "options_cast_toggle_description": {
+    "message": "Näytä lähetysikoni tuettujen videoiden vieressä"
+  },
+  "options_badge_title": {
+    "message": "Merkki"
+  },
+  "options_badge_description": {
+    "message": "Valitse mitä työkalupalkin kuvakkeen merkki näyttää"
+  },
+  "options_badge_count": {
+    "message": "Lukumäärä"
+  },
+  "options_badge_dot": {
+    "message": "Piste"
+  },
+  "options_badge_hidden": {
+    "message": "Piilotettu"
+  },
+  "options_website_title": {
+    "message": "Estolista"
+  },
+  "options_website_description": {
+    "message": "Estä Video Downloader Plus toimimasta tietyillä sivustoilla"
+  },
+  "options_website_add_label": {
+    "message": "Estä sivusto"
+  },
+  "options_website_add_description": {
+    "message": "Hyväksytyt mallit: <code>example.com</code> tai <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com tai *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "Estä"
+  },
+  "options_website_list_label": {
+    "message": "Estetyt sivustot"
+  },
+  "options_website_empty": {
+    "message": "Ei vielä estettyjä sivustoja"
+  },
+  "options_status_unsaved": {
+    "message": "Tallentamattomia muutoksia"
+  },
+  "options_status_saved": {
+    "message": "Asetukset tallennettu"
+  },
+  "options_button_save": {
+    "message": "Käytä"
+  },
+  "options_button_reset": {
+    "message": "Palauta oletukset"
+  },
+  "options_button_reset_confirm": {
+    "message": "Oletko varma?"
+  },
+  "options_toast_reset_success": {
+    "message": "Asetukset palautettu oletuksiin"
+  },
+  "options_toast_reset_error": {
+    "message": "Asetusten nollaus epäonnistui"
+  },
+  "options_button_logout": {
+    "message": "Kirjaudu ulos"
+  },
+  "options_toast_min_size": {
+    "message": "Minimi on $1 $2"
+  },
+  "options_toast_enter_domain": {
+    "message": "Syötä ensin verkkotunnus"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "Virheellinen syöte"
+  },
+  "options_toast_invalid_domain": {
+    "message": "Syötä kelvollinen verkkotunnus kuten example.com tai *.example.com"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "Virheellinen verkkotunnus"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "Tämä sivusto on jo estolistalla"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "Jo estetty"
+  },
+  "options_toast_block_limit": {
+    "message": "Voit estää enintään $1 sivustoa."
+  },
+  "options_toast_permission_denied": {
+    "message": "Pääsy evätty. Vaihda ja yritä uudelleen."
+  },
+  "options_toast_permission_title": {
+    "message": "Pääsy vaaditaan"
+  },
+  "options_toast_permission_failed": {
+    "message": "Lupaa ei voi pyytää. Yritä uudelleen."
+  },
+  "options_toast_save_success": {
+    "message": "Asetukset käytetty"
+  },
+  "options_toast_save_error": {
+    "message": "Tallentaminen epäonnistui. Yritä uudelleen."
+  },
+  "options_toast_logout_success": {
+    "message": "Kirjauduttu ulos"
+  },
+  "options_toast_logout_error": {
+    "message": "Uloskirjautuminen epäonnistui. Yritä uudelleen."
+  },
+  "options_toast_load_error": {
+    "message": "Asetuksia ei voi ladata. Päivitä sivu."
+  },
+  "options_footer_privacy": {
+    "message": "Tietosuojakäytäntö"
+  },
+  "options_footer_terms": {
+    "message": "Käyttöehdot"
+  },
+  "player_modal_close": {
+    "message": "Sulje soitin"
+  },
+  "player_modal_error": {
+    "message": "Tätä videota ei voi toistaa"
+  },
+  "player_modal_unsupported": {
+    "message": "Tätä muotoa ei voi esikatsella. Käytä latausta."
+  },
+  "player_modal_loading": {
+    "message": "Ladataan videota..."
+  },
+  "options_header_badge": {
+    "message": "Asetukset"
+  },
+  "toast_viewport_label": {
+    "message": "Ilmoitukset"
+  },
+  "popup_group_streaming_title": {
+    "message": "Suoratoisto $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "Palvelinhaku $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "Suora lataus $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "Palvelinhaku"
+  },
+  "popup_group_merge_note": {
+    "message": "Ääni ja video ovat erillisiä — ne yhdistetään latauksen aikana"
+  },
+  "popup_dismiss_label": {
+    "message": "Hylkää"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "Suoratoiston toisto epäonnistui"
+  },
+  "player_error_hls_unsupported": {
+    "message": "HLS-toistoa ei tueta"
+  },
+  "player_error_library_failed": {
+    "message": "Suoratoistokirjaston lataaminen epäonnistui"
+  },
+  "player_error_no_url": {
+    "message": "Toistettavaa URL-osoitetta ei ole saatavilla"
+  },
+  "player_error_unsupported_format": {
+    "message": "Tätä muotoa ei voi esikatsella"
+  },
+  "error_no_internet": {
+    "message": "Ei internet-yhteyttä"
+  },
+  "error_server_unavailable": {
+    "message": "Palvelin tilapäisesti poissa käytöstä"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "Aloita ilmainen kokeilujaksosi ladataksesi minkä tahansa videon heti — ei sitoumusta, peruuta milloin tahansa."
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "Kokeile Premiumia ilmaiseksi — lataa mikä tahansa video missä tahansa laadussa, ilman rajoituksia."
+  }
+}

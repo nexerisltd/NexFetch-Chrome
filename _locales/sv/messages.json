@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "Ladda ner och spara videor från vilken webbplats som helst direkt. En snabb och enkel videonedladdare."
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "Titta senare"
+  },
+  "popup_saved": {
+    "message": "Sparad"
+  },
+  "popup_my_list": {
+    "message": "Min lista"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 kvaliteter"
+  },
+  "popup_group_title_fallback": {
+    "message": "Video"
+  },
+  "popup_group_title_numbered": {
+    "message": "Video $1"
+  },
+  "popup_footer_settings": {
+    "message": "Inställningar"
+  },
+  "popup_footer_reviews": {
+    "message": "Recensioner"
+  },
+  "popup_footer_blog": {
+    "message": "Blogg"
+  },
+  "popup_footer_account": {
+    "message": "Konto"
+  },
+  "popup_footer_upgrade": {
+    "message": "Uppgradera"
+  },
+  "popup_play_button_label": {
+    "message": "Spela upp video"
+  },
+  "popup_cast_button_label": {
+    "message": "Casta till enhet"
+  },
+  "popup_live_label": {
+    "message": "Live"
+  },
+  "popup_download_label": {
+    "message": "Ladda ner"
+  },
+  "popup_audio_label": {
+    "message": "Ljud"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "Endast ljud"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps ljud"
+  },
+  "popup_empty_state": {
+    "message": "Inga videor hittades."
+  },
+  "popup_report_no_video": {
+    "message": "Rapportera problem"
+  },
+  "popup_report_submitting": {
+    "message": "Skickar..."
+  },
+  "popup_report_success": {
+    "message": "Tack för din rapport!"
+  },
+  "popup_report_error": {
+    "message": "Kunde inte skicka. Försök igen."
+  },
+  "popup_site_blocked": {
+    "message": "Denna webbplats är blockerad. Du kan avblockera den för att hitta videor."
+  },
+  "popup_unblock_site": {
+    "message": "Avblockera webbplats"
+  },
+  "popup_toast_unblock_success": {
+    "message": "Avblockerad! Laddar om..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "Kunde inte avblockera"
+  },
+  "popup_block_site": {
+    "message": "Blockera denna webbplats"
+  },
+  "popup_toast_block_success": {
+    "message": "Webbplats blockerad! Laddar om..."
+  },
+  "popup_toast_block_failed": {
+    "message": "Kunde inte blockera"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "Kan inte öppna säker nedladdningssida"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "Kan inte förbereda säker nedladdning"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "Förbereder säker nedladdning…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "Kan inte starta säker nedladdning. Försök igen."
+  },
+  "popup_toast_open_source_failed": {
+    "message": "Kan inte öppna denna video"
+  },
+  "popup_toast_identify_failed": {
+    "message": "Kan inte identifiera denna video"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "Borttagen från Titta senare-listan"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "Sparad i Titta senare-listan"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "Kan inte uppdatera Titta senare"
+  },
+  "popup_toast_settings_failed": {
+    "message": "Kan inte ladda inställningar"
+  },
+  "popup_toast_videos_failed": {
+    "message": "Kan inte ladda videor"
+  },
+  "popup_toast_download_started": {
+    "message": "Nedladdning startad"
+  },
+  "popup_toast_download_failed": {
+    "message": "Kan inte starta nedladdning"
+  },
+  "popup_toast_cast_error": {
+    "message": "Kan inte förbereda Chromecast. Försök igen."
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "Kan inte ladda videor på denna sida"
+  },
+  "watch_later_error_server": {
+    "message": "Kan inte kontakta servern. Försök igen."
+  },
+  "watch_later_error_login": {
+    "message": "Logga in för att hantera Titta senare-videor."
+  },
+  "watch_later_error_upgrade": {
+    "message": "Uppgradering krävs för Titta senare."
+  },
+  "watch_later_error_premium_only": {
+    "message": "Premium krävs för att spara videor."
+  },
+  "watch_later_error_limit": {
+    "message": "Du har nått gränsen för gratis sparningar."
+  },
+  "watch_later_error_generic": {
+    "message": "Kan inte uppdatera Titta senare. Försök igen."
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "Saknar flikfingeravtryck."
+  },
+  "watch_later_error_missing_source": {
+    "message": "Denna video saknar källlänk."
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "Saknar Titta senare-identifierare."
+  },
+  "save_premium_modal_title": {
+    "message": "Spara videor med Premium"
+  },
+  "save_premium_modal_message": {
+    "message": "Att spara videor till ditt bibliotek är tillgängligt för Premium-medlemmar. Uppgradera för att spara obegränsade videor."
+  },
+  "limit_modal_title": {
+    "message": "Sparningsgräns nådd"
+  },
+  "limit_modal_message": {
+    "message": "Du har nått din gratis sparningsgräns. Uppgradera till Premium för att spara obegränsat med videor."
+  },
+  "limit_modal_upgrade": {
+    "message": "Skaffa Premium"
+  },
+  "limit_modal_start_trial": {
+    "message": "Starta gratis provperiod"
+  },
+  "limit_modal_later": {
+    "message": "Inte nu"
+  },
+  "hd_limit_modal_title": {
+    "message": "Daglig HD-nedladdningsgräns nådd"
+  },
+  "hd_limit_modal_message": {
+    "message": "Du har nått din dagliga gratis HD-nedladdningsgräns. Uppgradera till Premium för att ladda ner videor i full kvalitet utan begränsningar."
+  },
+  "download_premium_modal_title": {
+    "message": "Lås upp videonedladdningar"
+  },
+  "download_premium_modal_message": {
+    "message": "Uppgradera till Premium för att ladda ner vilken video som helst i vilken kvalitet som helst — obegränsade nedladdningar."
+  },
+  "cast_limit_modal_title": {
+    "message": "Daglig castgräns nådd"
+  },
+  "cast_limit_modal_message": {
+    "message": "Du har nått din dagliga gratis castgräns. Uppgradera till Premium för att casta vilken video som helst till din TV utan begränsningar."
+  },
+  "cast_premium_modal_title": {
+    "message": "Casta till din TV med Premium"
+  },
+  "cast_premium_modal_message": {
+    "message": "Chromecast-casting finns tillgängligt för Premium-medlemmar. Uppgradera för att streama vilken video som helst till din TV utan begränsningar."
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "Starta din gratis provperiod för att casta vilken video som helst till din TV — inget åtagande, avbryt när som helst."
+  },
+  "review_modal_title": {
+    "message": "Gillar du Video Downloader Plus?"
+  },
+  "review_modal_message": {
+    "message": "Om Video Downloader Plus har varit till hjälp skulle en snabb recension på Chrome Web Store betyda mycket för oss!"
+  },
+  "review_modal_rate": {
+    "message": "Betygsätt Video Downloader Plus"
+  },
+  "review_modal_later": {
+    "message": "Kanske senare"
+  },
+  "download_limit_banner_remaining": {
+    "message": "$1 HD-nedladdning(ar) kvar idag"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "Daglig HD-nedladdningsgräns nådd"
+  },
+  "download_limit_banner_reset": {
+    "message": "Återställs om $1"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "Uppgradera till Premium — ladda ner vilken video som helst i vilken kvalitet som helst, utan begränsningar."
+  },
+  "generic_video_label": {
+    "message": "Video"
+  },
+  "popup_actions_cast": {
+    "message": "Casta"
+  },
+  "popup_actions_download": {
+    "message": "Ladda ner"
+  },
+  "popup_actions_premium": {
+    "message": "Premium"
+  },
+  "popup_actions_save": {
+    "message": "Spara"
+  },
+  "toast_dismiss": {
+    "message": "Stäng"
+  },
+  "options_header_subtitle": {
+    "message": "Anpassa hur Video Downloader Plus hittar och sparar videor"
+  },
+  "options_help_center": {
+    "message": "Hjälpcenter"
+  },
+  "options_support": {
+    "message": "Support"
+  },
+  "options_formats_title": {
+    "message": "Medieformat"
+  },
+  "options_formats_description": {
+    "message": "Välj filtyper som Video Downloader Plus ska leta efter"
+  },
+  "options_formats_video_label": {
+    "message": "Video"
+  },
+  "options_formats_audio_label": {
+    "message": "Ljud"
+  },
+  "options_size_title": {
+    "message": "Storleksgräns"
+  },
+  "options_size_description": {
+    "message": "Ignorera filer mindre än denna storlek"
+  },
+  "options_size_label": {
+    "message": "Min. storlek"
+  },
+  "options_size_custom": {
+    "message": "Anpassad"
+  },
+  "options_download_title": {
+    "message": "Sparplats"
+  },
+  "options_download_description": {
+    "message": "Välj var nedladdade videor sparas"
+  },
+  "options_download_toggle_label": {
+    "message": "Dedikerad mapp"
+  },
+  "options_download_toggle_description": {
+    "message": "Skicka alla nedladdningar till en mapp"
+  },
+  "options_download_folder_label": {
+    "message": "Mappnamn"
+  },
+  "options_download_folder_description": {
+    "message": "Sökväg i Nedladdningar (tomt för rot)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "Utseende"
+  },
+  "options_appearance_description": {
+    "message": "Välj hur Video Downloader Plus ser ut"
+  },
+  "options_theme_system": {
+    "message": "System"
+  },
+  "options_theme_light": {
+    "message": "Ljust"
+  },
+  "options_theme_dark": {
+    "message": "Mörkt"
+  },
+  "options_cast_title": {
+    "message": "Casta till TV"
+  },
+  "options_cast_description": {
+    "message": "Strömma videor till Chromecast-enheter"
+  },
+  "options_cast_toggle_label": {
+    "message": "Cast-knapp"
+  },
+  "options_cast_toggle_description": {
+    "message": "Visa en cast-ikon bredvid stödda videor"
+  },
+  "options_badge_title": {
+    "message": "Märke"
+  },
+  "options_badge_description": {
+    "message": "Välj vad verktygsfältets ikonmärke visar"
+  },
+  "options_badge_count": {
+    "message": "Antal"
+  },
+  "options_badge_dot": {
+    "message": "Prick"
+  },
+  "options_badge_hidden": {
+    "message": "Dold"
+  },
+  "options_website_title": {
+    "message": "Blockeringslista"
+  },
+  "options_website_description": {
+    "message": "Förhindra Video Downloader Plus från att köras på specifika webbplatser"
+  },
+  "options_website_add_label": {
+    "message": "Blockera en webbplats"
+  },
+  "options_website_add_description": {
+    "message": "Accepterade mönster: <code>example.com</code> eller <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com eller *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "Blockera"
+  },
+  "options_website_list_label": {
+    "message": "Blockerade webbplatser"
+  },
+  "options_website_empty": {
+    "message": "Inga blockerade webbplatser ännu"
+  },
+  "options_status_unsaved": {
+    "message": "Osparade ändringar"
+  },
+  "options_status_saved": {
+    "message": "Inställningar sparade"
+  },
+  "options_button_save": {
+    "message": "Tillämpa"
+  },
+  "options_button_reset": {
+    "message": "Återställ till standard"
+  },
+  "options_button_reset_confirm": {
+    "message": "Är du säker?"
+  },
+  "options_toast_reset_success": {
+    "message": "Inställningar återställda till standard"
+  },
+  "options_toast_reset_error": {
+    "message": "Kunde inte återställa inställningar"
+  },
+  "options_button_logout": {
+    "message": "Logga ut"
+  },
+  "options_toast_min_size": {
+    "message": "Minimum är $1 $2"
+  },
+  "options_toast_enter_domain": {
+    "message": "Ange en domän först"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "Ogiltig inmatning"
+  },
+  "options_toast_invalid_domain": {
+    "message": "Ange en giltig domän som example.com eller *.example.com"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "Ogiltig domän"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "Denna webbplats finns redan på blockeringslistan"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "Redan blockerad"
+  },
+  "options_toast_block_limit": {
+    "message": "Du kan blockera upp till $1 webbplatser."
+  },
+  "options_toast_permission_denied": {
+    "message": "Åtkomst nekad. Växla för att försöka igen."
+  },
+  "options_toast_permission_title": {
+    "message": "Åtkomst krävs"
+  },
+  "options_toast_permission_failed": {
+    "message": "Kunde inte begära behörighet. Försök igen."
+  },
+  "options_toast_save_success": {
+    "message": "Inställningar tillämpade"
+  },
+  "options_toast_save_error": {
+    "message": "Kunde inte spara. Försök igen."
+  },
+  "options_toast_logout_success": {
+    "message": "Utloggad"
+  },
+  "options_toast_logout_error": {
+    "message": "Utloggning misslyckades. Försök igen."
+  },
+  "options_toast_load_error": {
+    "message": "Kunde inte ladda inställningar. Uppdatera sidan."
+  },
+  "options_footer_privacy": {
+    "message": "Integritetspolicy"
+  },
+  "options_footer_terms": {
+    "message": "Användarvillkor"
+  },
+  "player_modal_close": {
+    "message": "Stäng spelare"
+  },
+  "player_modal_error": {
+    "message": "Kan inte spela upp denna video"
+  },
+  "player_modal_unsupported": {
+    "message": "Detta format kan inte förhandsgranskas. Använd nedladdning."
+  },
+  "player_modal_loading": {
+    "message": "Laddar video..."
+  },
+  "options_header_badge": {
+    "message": "Inställningar"
+  },
+  "toast_viewport_label": {
+    "message": "Aviseringar"
+  },
+  "popup_group_streaming_title": {
+    "message": "Streaming $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "Serverhämtning $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "Direktnedladdning $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "Serverhämtning"
+  },
+  "popup_group_merge_note": {
+    "message": "Ljud och video är separata — de kommer att sammanfogas vid nedladdning"
+  },
+  "popup_dismiss_label": {
+    "message": "Stäng"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "Strömuppspelning misslyckades"
+  },
+  "player_error_hls_unsupported": {
+    "message": "HLS-uppspelning stöds inte"
+  },
+  "player_error_library_failed": {
+    "message": "Kunde inte ladda strömningsbiblioteket"
+  },
+  "player_error_no_url": {
+    "message": "Ingen spelbar URL tillgänglig"
+  },
+  "player_error_unsupported_format": {
+    "message": "Detta format kan inte förhandsgranskas"
+  },
+  "error_no_internet": {
+    "message": "Ingen internetanslutning"
+  },
+  "error_server_unavailable": {
+    "message": "Servern är tillfälligt otillgänglig"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "Starta din gratis provperiod för att ladda ner vilken video som helst direkt — inget åtagande, avbryt när som helst."
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "Prova Premium gratis — ladda ner vilken video som helst i vilken kvalitet som helst, utan begränsningar."
+  }
+}

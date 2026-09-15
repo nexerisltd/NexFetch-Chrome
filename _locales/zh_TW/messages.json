@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "從任何網站即時下載並儲存影片。快速、簡單的影片下載工具。"
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "稍後觀看"
+  },
+  "popup_saved": {
+    "message": "已儲存"
+  },
+  "popup_my_list": {
+    "message": "我的清單"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 種畫質"
+  },
+  "popup_group_title_fallback": {
+    "message": "影片"
+  },
+  "popup_group_title_numbered": {
+    "message": "影片 $1"
+  },
+  "popup_footer_settings": {
+    "message": "設定"
+  },
+  "popup_footer_reviews": {
+    "message": "評論"
+  },
+  "popup_footer_blog": {
+    "message": "部落格"
+  },
+  "popup_footer_account": {
+    "message": "帳號"
+  },
+  "popup_footer_upgrade": {
+    "message": "升級"
+  },
+  "popup_play_button_label": {
+    "message": "播放影片"
+  },
+  "popup_cast_button_label": {
+    "message": "投放到裝置"
+  },
+  "popup_live_label": {
+    "message": "直播"
+  },
+  "popup_download_label": {
+    "message": "下載"
+  },
+  "popup_audio_label": {
+    "message": "音訊"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "僅音訊"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps 音訊"
+  },
+  "popup_empty_state": {
+    "message": "未發現影片。"
+  },
+  "popup_report_no_video": {
+    "message": "回報問題"
+  },
+  "popup_report_submitting": {
+    "message": "提交中..."
+  },
+  "popup_report_success": {
+    "message": "感謝您的回報！"
+  },
+  "popup_report_error": {
+    "message": "提交失敗，請重試。"
+  },
+  "popup_site_blocked": {
+    "message": "此網站已被封鎖。您可以解除封鎖以偵測影片。"
+  },
+  "popup_unblock_site": {
+    "message": "解除封鎖網站"
+  },
+  "popup_toast_unblock_success": {
+    "message": "網站已解除封鎖！重新載入中..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "解除封鎖失敗"
+  },
+  "popup_block_site": {
+    "message": "封鎖此網站"
+  },
+  "popup_toast_block_success": {
+    "message": "網站已封鎖！重新載入中..."
+  },
+  "popup_toast_block_failed": {
+    "message": "封鎖失敗"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "無法開啟安全下載頁面"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "無法準備安全下載"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "正在準備安全下載…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "無法開始安全下載，請重試。"
+  },
+  "popup_toast_open_source_failed": {
+    "message": "無法開啟此影片"
+  },
+  "popup_toast_identify_failed": {
+    "message": "無法識別此影片"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "已從稍後觀看清單移除"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "已儲存至稍後觀看清單"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "無法更新稍後觀看"
+  },
+  "popup_toast_settings_failed": {
+    "message": "無法載入設定"
+  },
+  "popup_toast_videos_failed": {
+    "message": "無法載入影片"
+  },
+  "popup_toast_download_started": {
+    "message": "下載已開始"
+  },
+  "popup_toast_download_failed": {
+    "message": "無法開始下載"
+  },
+  "popup_toast_cast_error": {
+    "message": "無法準備 Chromecast，請重試。"
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "無法載入此頁面的影片"
+  },
+  "watch_later_error_server": {
+    "message": "無法連接伺服器，請重試。"
+  },
+  "watch_later_error_login": {
+    "message": "請登入以管理稍後觀看影片。"
+  },
+  "watch_later_error_upgrade": {
+    "message": "使用稍後觀看需要升級。"
+  },
+  "watch_later_error_premium_only": {
+    "message": "儲存影片需要 Premium。"
+  },
+  "watch_later_error_limit": {
+    "message": "已達免費儲存上限。"
+  },
+  "watch_later_error_generic": {
+    "message": "無法更新稍後觀看，請重試。"
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "缺少分頁指紋。"
+  },
+  "watch_later_error_missing_source": {
+    "message": "此影片缺少來源連結。"
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "缺少稍後觀看識別碼。"
+  },
+  "save_premium_modal_title": {
+    "message": "使用 Premium 儲存影片"
+  },
+  "save_premium_modal_message": {
+    "message": "將影片儲存到您的媒體庫僅限 Premium 會員使用。升級以儲存無限影片。"
+  },
+  "limit_modal_title": {
+    "message": "已達儲存上限"
+  },
+  "limit_modal_message": {
+    "message": "您已達到免費儲存上限。升級至 Premium 以無限儲存影片。"
+  },
+  "limit_modal_upgrade": {
+    "message": "取得 Premium"
+  },
+  "limit_modal_start_trial": {
+    "message": "開始免費試用"
+  },
+  "limit_modal_later": {
+    "message": "暫時不用"
+  },
+  "hd_limit_modal_title": {
+    "message": "已達每日 HD 下載上限"
+  },
+  "hd_limit_modal_message": {
+    "message": "您已達到每日免費 HD 下載上限。升級至 Premium 以無限制下載完整畫質影片。"
+  },
+  "download_premium_modal_title": {
+    "message": "解鎖影片下載"
+  },
+  "download_premium_modal_message": {
+    "message": "升級到 Premium，以任何畫質下載任何影片 — 無限下載。"
+  },
+  "cast_limit_modal_title": {
+    "message": "已達每日投放上限"
+  },
+  "cast_limit_modal_message": {
+    "message": "您已達到每日免費投放上限。升級至 Premium 以無限制將任何影片投放到電視。"
+  },
+  "cast_premium_modal_title": {
+    "message": "使用 Premium 投放到電視"
+  },
+  "cast_premium_modal_message": {
+    "message": "Chromecast 投放僅供 Premium 會員使用。升級以無限制將任何影片投放到電視。"
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "開始免費試用，將任何影片投放到電視 — 無需承諾，隨時取消。"
+  },
+  "review_modal_title": {
+    "message": "喜歡 Video Downloader Plus 嗎？"
+  },
+  "review_modal_message": {
+    "message": "如果 Video Downloader Plus 對您有幫助，在 Chrome Web Store 上的快速評分對我們意義重大！"
+  },
+  "review_modal_rate": {
+    "message": "評分 Video Downloader Plus"
+  },
+  "review_modal_later": {
+    "message": "稍後再說"
+  },
+  "download_limit_banner_remaining": {
+    "message": "今天剩餘 $1 次 HD 下載"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "已達每日 HD 下載上限"
+  },
+  "download_limit_banner_reset": {
+    "message": "$1 後重置"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "升級到 Premium — 以任何畫質下載任何影片，無限制。"
+  },
+  "generic_video_label": {
+    "message": "影片"
+  },
+  "popup_actions_cast": {
+    "message": "投放"
+  },
+  "popup_actions_download": {
+    "message": "下載"
+  },
+  "popup_actions_premium": {
+    "message": "Premium"
+  },
+  "popup_actions_save": {
+    "message": "儲存"
+  },
+  "toast_dismiss": {
+    "message": "關閉"
+  },
+  "options_header_subtitle": {
+    "message": "自訂 Video Downloader Plus 偵測和儲存影片的方式"
+  },
+  "options_help_center": {
+    "message": "幫助中心"
+  },
+  "options_support": {
+    "message": "支援"
+  },
+  "options_formats_title": {
+    "message": "媒體格式"
+  },
+  "options_formats_description": {
+    "message": "選擇 Video Downloader Plus 應搜尋的檔案類型"
+  },
+  "options_formats_video_label": {
+    "message": "影片"
+  },
+  "options_formats_audio_label": {
+    "message": "音訊"
+  },
+  "options_size_title": {
+    "message": "大小門檻"
+  },
+  "options_size_description": {
+    "message": "忽略小於此大小的檔案"
+  },
+  "options_size_label": {
+    "message": "最小大小"
+  },
+  "options_size_custom": {
+    "message": "自訂"
+  },
+  "options_download_title": {
+    "message": "儲存位置"
+  },
+  "options_download_description": {
+    "message": "選擇下載的影片儲存位置"
+  },
+  "options_download_toggle_label": {
+    "message": "專用資料夾"
+  },
+  "options_download_toggle_description": {
+    "message": "將所有下載導向單一資料夾"
+  },
+  "options_download_folder_label": {
+    "message": "資料夾名稱"
+  },
+  "options_download_folder_description": {
+    "message": "下載資料夾內的路徑（留空為根目錄）"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "外觀"
+  },
+  "options_appearance_description": {
+    "message": "選擇 Video Downloader Plus 的外觀"
+  },
+  "options_theme_system": {
+    "message": "系統"
+  },
+  "options_theme_light": {
+    "message": "淺色"
+  },
+  "options_theme_dark": {
+    "message": "深色"
+  },
+  "options_cast_title": {
+    "message": "投放到電視"
+  },
+  "options_cast_description": {
+    "message": "將影片串流到 Chromecast 裝置"
+  },
+  "options_cast_toggle_label": {
+    "message": "投放按鈕"
+  },
+  "options_cast_toggle_description": {
+    "message": "在支援的影片旁顯示投放圖示"
+  },
+  "options_badge_title": {
+    "message": "徽章"
+  },
+  "options_badge_description": {
+    "message": "選擇工具列圖示徽章顯示的內容"
+  },
+  "options_badge_count": {
+    "message": "計數"
+  },
+  "options_badge_dot": {
+    "message": "圓點"
+  },
+  "options_badge_hidden": {
+    "message": "隱藏"
+  },
+  "options_website_title": {
+    "message": "封鎖名單"
+  },
+  "options_website_description": {
+    "message": "防止 Video Downloader Plus 在特定網站上執行"
+  },
+  "options_website_add_label": {
+    "message": "封鎖網站"
+  },
+  "options_website_add_description": {
+    "message": "接受的格式：<code>example.com</code> 或 <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com 或 *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "封鎖"
+  },
+  "options_website_list_label": {
+    "message": "已封鎖網站"
+  },
+  "options_website_empty": {
+    "message": "尚無封鎖的網站"
+  },
+  "options_status_unsaved": {
+    "message": "未儲存的變更"
+  },
+  "options_status_saved": {
+    "message": "設定已儲存"
+  },
+  "options_button_save": {
+    "message": "套用"
+  },
+  "options_button_reset": {
+    "message": "恢復預設值"
+  },
+  "options_button_reset_confirm": {
+    "message": "確定要恢復嗎？"
+  },
+  "options_toast_reset_success": {
+    "message": "設定已恢復為預設值"
+  },
+  "options_toast_reset_error": {
+    "message": "重設設定失敗"
+  },
+  "options_button_logout": {
+    "message": "登出"
+  },
+  "options_toast_min_size": {
+    "message": "最小為 $1 $2"
+  },
+  "options_toast_enter_domain": {
+    "message": "請先輸入網域"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "無效輸入"
+  },
+  "options_toast_invalid_domain": {
+    "message": "請輸入有效網域，例如 example.com 或 *.example.com"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "無效網域"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "此網站已在封鎖名單中"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "已封鎖"
+  },
+  "options_toast_block_limit": {
+    "message": "最多可封鎖 $1 個網站。"
+  },
+  "options_toast_permission_denied": {
+    "message": "存取被拒。請切換後重試。"
+  },
+  "options_toast_permission_title": {
+    "message": "需要存取權限"
+  },
+  "options_toast_permission_failed": {
+    "message": "無法請求權限，請重試。"
+  },
+  "options_toast_save_success": {
+    "message": "設定已套用"
+  },
+  "options_toast_save_error": {
+    "message": "無法儲存，請重試。"
+  },
+  "options_toast_logout_success": {
+    "message": "已登出"
+  },
+  "options_toast_logout_error": {
+    "message": "登出失敗，請重試。"
+  },
+  "options_toast_load_error": {
+    "message": "無法載入設定，請重新整理頁面。"
+  },
+  "options_footer_privacy": {
+    "message": "隱私權政策"
+  },
+  "options_footer_terms": {
+    "message": "服務條款"
+  },
+  "player_modal_close": {
+    "message": "關閉播放器"
+  },
+  "player_modal_error": {
+    "message": "無法播放此影片"
+  },
+  "player_modal_unsupported": {
+    "message": "此格式無法預覽，請使用下載。"
+  },
+  "player_modal_loading": {
+    "message": "影片載入中..."
+  },
+  "options_header_badge": {
+    "message": "設定"
+  },
+  "toast_viewport_label": {
+    "message": "通知"
+  },
+  "popup_group_streaming_title": {
+    "message": "串流 $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "伺服器擷取 $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "直接下載 $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "伺服器擷取"
+  },
+  "popup_group_merge_note": {
+    "message": "音訊和視訊是分開的 — 下載時將自動合併"
+  },
+  "popup_dismiss_label": {
+    "message": "關閉"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "串流播放失敗"
+  },
+  "player_error_hls_unsupported": {
+    "message": "不支援 HLS 播放"
+  },
+  "player_error_library_failed": {
+    "message": "無法載入串流庫"
+  },
+  "player_error_no_url": {
+    "message": "沒有可播放的 URL"
+  },
+  "player_error_unsupported_format": {
+    "message": "此格式無法預覽"
+  },
+  "error_no_internet": {
+    "message": "沒有網路連線"
+  },
+  "error_server_unavailable": {
+    "message": "伺服器暫時無法使用"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "開始免費試用，立即下載任何影片——無需承諾，隨時取消。"
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "免費試用 Premium — 以任何品質下載任何影片，無限制。"
+  }
+}

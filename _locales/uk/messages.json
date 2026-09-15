@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "Миттєво завантажуйте та зберігайте відео з будь-якого сайту. Швидкий та простий завантажувач відео, який просто працює."
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "Переглянути пізніше"
+  },
+  "popup_saved": {
+    "message": "Збережено"
+  },
+  "popup_my_list": {
+    "message": "Мій список"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 якостей"
+  },
+  "popup_group_title_fallback": {
+    "message": "Відео"
+  },
+  "popup_group_title_numbered": {
+    "message": "Відео $1"
+  },
+  "popup_footer_settings": {
+    "message": "Налаштування"
+  },
+  "popup_footer_reviews": {
+    "message": "Відгуки"
+  },
+  "popup_footer_blog": {
+    "message": "Блог"
+  },
+  "popup_footer_account": {
+    "message": "Обліковий запис"
+  },
+  "popup_footer_upgrade": {
+    "message": "Покращити"
+  },
+  "popup_play_button_label": {
+    "message": "Відтворити відео"
+  },
+  "popup_cast_button_label": {
+    "message": "Транслювати на пристрій"
+  },
+  "popup_live_label": {
+    "message": "Наживо"
+  },
+  "popup_download_label": {
+    "message": "Завантажити"
+  },
+  "popup_audio_label": {
+    "message": "Аудіо"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "Лише аудіо"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 кбіт/с аудіо"
+  },
+  "popup_empty_state": {
+    "message": "Відео не знайдено."
+  },
+  "popup_report_no_video": {
+    "message": "Повідомити про проблему"
+  },
+  "popup_report_submitting": {
+    "message": "Відправлення..."
+  },
+  "popup_report_success": {
+    "message": "Дякуємо за ваше повідомлення!"
+  },
+  "popup_report_error": {
+    "message": "Не вдалося відправити повідомлення. Спробуйте ще раз."
+  },
+  "popup_site_blocked": {
+    "message": "Цей сайт заблокований. Ви можете розблокувати його для виявлення відео."
+  },
+  "popup_unblock_site": {
+    "message": "Розблокувати сайт"
+  },
+  "popup_toast_unblock_success": {
+    "message": "Сайт розблоковано! Перезавантаження..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "Не вдалося розблокувати"
+  },
+  "popup_block_site": {
+    "message": "Заблокувати цей сайт"
+  },
+  "popup_toast_block_success": {
+    "message": "Сайт заблоковано! Перезавантаження..."
+  },
+  "popup_toast_block_failed": {
+    "message": "Не вдалося заблокувати"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "Не вдалося відкрити сторінку безпечного завантаження"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "Не вдалося підготувати безпечне завантаження"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "Підготовка безпечного завантаження…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "Не вдалося розпочати безпечне завантаження. Спробуйте ще раз."
+  },
+  "popup_toast_open_source_failed": {
+    "message": "Не вдалося відкрити це відео"
+  },
+  "popup_toast_identify_failed": {
+    "message": "Не вдалося ідентифікувати це відео"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "Видалено зі списку «Переглянути пізніше»"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "Збережено до списку «Переглянути пізніше»"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "Не вдалося оновити «Переглянути пізніше»"
+  },
+  "popup_toast_settings_failed": {
+    "message": "Не вдалося завантажити налаштування"
+  },
+  "popup_toast_videos_failed": {
+    "message": "Не вдалося завантажити відео"
+  },
+  "popup_toast_download_started": {
+    "message": "Завантаження розпочато"
+  },
+  "popup_toast_download_failed": {
+    "message": "Не вдалося розпочати завантаження"
+  },
+  "popup_toast_cast_error": {
+    "message": "Не вдалося підготувати відтворення Chromecast. Спробуйте ще раз."
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "Не вдалося завантажити відео на цій сторінці"
+  },
+  "watch_later_error_server": {
+    "message": "Не вдалося зв'язатися з сервером. Спробуйте ще раз."
+  },
+  "watch_later_error_login": {
+    "message": "Увійдіть, щоб керувати відео «Переглянути пізніше»."
+  },
+  "watch_later_error_upgrade": {
+    "message": "Для використання «Переглянути пізніше» потрібен перехід на Premium."
+  },
+  "watch_later_error_premium_only": {
+    "message": "Для збереження відео потрібен Premium."
+  },
+  "watch_later_error_limit": {
+    "message": "Ви досягли ліміту безкоштовних збережень."
+  },
+  "watch_later_error_generic": {
+    "message": "Не вдалося оновити «Переглянути пізніше». Спробуйте ще раз."
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "Відбиток вкладки відсутній."
+  },
+  "watch_later_error_missing_source": {
+    "message": "У цього відео відсутнє посилання на джерело."
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "Ідентифікатор «Переглянути пізніше» відсутній."
+  },
+  "save_premium_modal_title": {
+    "message": "Зберігайте відео з Premium"
+  },
+  "save_premium_modal_message": {
+    "message": "Збереження відео до бібліотеки доступне для учасників Premium. Оновіться, щоб зберігати необмежену кількість відео."
+  },
+  "limit_modal_title": {
+    "message": "Ліміт збережень досягнуто"
+  },
+  "limit_modal_message": {
+    "message": "Ви досягли ліміту безкоштовних збережень. Перейдіть на Premium для збереження необмеженої кількості відео."
+  },
+  "limit_modal_upgrade": {
+    "message": "Отримати Premium"
+  },
+  "limit_modal_start_trial": {
+    "message": "Почати безкоштовний пробний період"
+  },
+  "limit_modal_later": {
+    "message": "Не зараз"
+  },
+  "hd_limit_modal_title": {
+    "message": "Денний ліміт HD-завантажень досягнуто"
+  },
+  "hd_limit_modal_message": {
+    "message": "Ви досягли денного ліміту безкоштовних HD-завантажень. Перейдіть на Premium для завантаження відео в повній якості без обмежень."
+  },
+  "download_premium_modal_title": {
+    "message": "Розблокуйте завантаження відео"
+  },
+  "download_premium_modal_message": {
+    "message": "Оновіться до Premium, щоб завантажувати будь-яке відео в будь-якій якості — необмежені завантаження."
+  },
+  "cast_limit_modal_title": {
+    "message": "Денний ліміт трансляцій досягнуто"
+  },
+  "cast_limit_modal_message": {
+    "message": "Ви досягли денного ліміту безкоштовних трансляцій. Перейдіть на Premium для трансляції будь-якого відео на ваш ТВ без обмежень."
+  },
+  "cast_premium_modal_title": {
+    "message": "Транслюйте на ТВ з Premium"
+  },
+  "cast_premium_modal_message": {
+    "message": "Трансляція Chromecast доступна для учасників Premium. Перейдіть на Premium для трансляції будь-якого відео на ваш ТВ без обмежень."
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "Почніть безкоштовний пробний період, щоб транслювати будь-яке відео на телевізор — без зобов'язань, скасуйте будь-коли."
+  },
+  "review_modal_title": {
+    "message": "Подобається Video Downloader Plus?"
+  },
+  "review_modal_message": {
+    "message": "Якщо Video Downloader Plus був корисним для вас, швидка оцінка в Chrome Web Store буде для нас дуже важливою!"
+  },
+  "review_modal_rate": {
+    "message": "Оцінити Video Downloader Plus"
+  },
+  "review_modal_later": {
+    "message": "Можливо, пізніше"
+  },
+  "download_limit_banner_remaining": {
+    "message": "Залишилось $1 HD-завантажень на сьогодні"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "Денний ліміт HD-завантажень досягнуто"
+  },
+  "download_limit_banner_reset": {
+    "message": "Скидання через $1"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "Оновіться до Premium — завантажуйте будь-яке відео в будь-якій якості, без обмежень."
+  },
+  "generic_video_label": {
+    "message": "Відео"
+  },
+  "popup_actions_cast": {
+    "message": "Транслювати"
+  },
+  "popup_actions_download": {
+    "message": "Завантажити"
+  },
+  "popup_actions_premium": {
+    "message": "Преміум"
+  },
+  "popup_actions_save": {
+    "message": "Зберегти"
+  },
+  "toast_dismiss": {
+    "message": "Закрити"
+  },
+  "options_header_subtitle": {
+    "message": "Налаштуйте виявлення та збереження відео у Video Downloader Plus"
+  },
+  "options_help_center": {
+    "message": "Довідковий центр"
+  },
+  "options_support": {
+    "message": "Підтримка"
+  },
+  "options_formats_title": {
+    "message": "Медіаформати"
+  },
+  "options_formats_description": {
+    "message": "Оберіть типи файлів, які шукатиме Video Downloader Plus"
+  },
+  "options_formats_video_label": {
+    "message": "Відео"
+  },
+  "options_formats_audio_label": {
+    "message": "Аудіо"
+  },
+  "options_size_title": {
+    "message": "Поріг розміру"
+  },
+  "options_size_description": {
+    "message": "Ігнорувати файли менші за цей розмір"
+  },
+  "options_size_label": {
+    "message": "Мін. розмір"
+  },
+  "options_size_custom": {
+    "message": "Інший"
+  },
+  "options_download_title": {
+    "message": "Місце збереження"
+  },
+  "options_download_description": {
+    "message": "Оберіть, куди зберігати завантажені відео"
+  },
+  "options_download_toggle_label": {
+    "message": "Окрема папка"
+  },
+  "options_download_toggle_description": {
+    "message": "Спрямовувати всі завантаження в одну папку"
+  },
+  "options_download_folder_label": {
+    "message": "Назва папки"
+  },
+  "options_download_folder_description": {
+    "message": "Шлях у Завантаженнях (порожнє для кореня)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "Зовнішній вигляд"
+  },
+  "options_appearance_description": {
+    "message": "Оберіть оформлення Video Downloader Plus"
+  },
+  "options_theme_system": {
+    "message": "Системна"
+  },
+  "options_theme_light": {
+    "message": "Світла"
+  },
+  "options_theme_dark": {
+    "message": "Темна"
+  },
+  "options_cast_title": {
+    "message": "Трансляція на ТВ"
+  },
+  "options_cast_description": {
+    "message": "Транслювати відео на пристрої з Chromecast"
+  },
+  "options_cast_toggle_label": {
+    "message": "Кнопка Cast"
+  },
+  "options_cast_toggle_description": {
+    "message": "Показувати значок Cast поряд із підтримуваними відео"
+  },
+  "options_badge_title": {
+    "message": "Значок"
+  },
+  "options_badge_description": {
+    "message": "Оберіть, що показує значок іконки на панелі інструментів"
+  },
+  "options_badge_count": {
+    "message": "Лічильник"
+  },
+  "options_badge_dot": {
+    "message": "Крапка"
+  },
+  "options_badge_hidden": {
+    "message": "Прихований"
+  },
+  "options_website_title": {
+    "message": "Чорний список сайтів"
+  },
+  "options_website_description": {
+    "message": "Заборонити роботу Video Downloader Plus на певних сайтах"
+  },
+  "options_website_add_label": {
+    "message": "Заблокувати сайт"
+  },
+  "options_website_add_description": {
+    "message": "Допустимі шаблони: <code>example.com</code> або <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com або *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "Заблокувати"
+  },
+  "options_website_list_label": {
+    "message": "Заблоковані сайти"
+  },
+  "options_website_empty": {
+    "message": "Немає заблокованих сайтів"
+  },
+  "options_status_unsaved": {
+    "message": "Незбережені зміни"
+  },
+  "options_status_saved": {
+    "message": "Налаштування збережено"
+  },
+  "options_button_save": {
+    "message": "Застосувати"
+  },
+  "options_button_reset": {
+    "message": "Скинути до стандартних"
+  },
+  "options_button_reset_confirm": {
+    "message": "Ви впевнені?"
+  },
+  "options_toast_reset_success": {
+    "message": "Налаштування відновлено до стандартних"
+  },
+  "options_toast_reset_error": {
+    "message": "Не вдалося скинути налаштування"
+  },
+  "options_button_logout": {
+    "message": "Вийти"
+  },
+  "options_toast_min_size": {
+    "message": "Мінімум — $1 $2"
+  },
+  "options_toast_enter_domain": {
+    "message": "Спочатку введіть домен"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "Невірний ввід"
+  },
+  "options_toast_invalid_domain": {
+    "message": "Введіть дійсний домен, наприклад example.com або *.example.com"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "Невірний домен"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "Цей сайт вже у чорному списку"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "Вже заблоковано"
+  },
+  "options_toast_block_limit": {
+    "message": "Можна заблокувати до $1 сайтів."
+  },
+  "options_toast_permission_denied": {
+    "message": "Доступ заборонено. Перемкніть перемикач для повторної спроби."
+  },
+  "options_toast_permission_title": {
+    "message": "Потрібен доступ"
+  },
+  "options_toast_permission_failed": {
+    "message": "Не вдалося запросити дозвіл. Спробуйте ще раз."
+  },
+  "options_toast_save_success": {
+    "message": "Налаштування застосовано"
+  },
+  "options_toast_save_error": {
+    "message": "Не вдалося зберегти. Спробуйте ще раз."
+  },
+  "options_toast_logout_success": {
+    "message": "Ви вийшли"
+  },
+  "options_toast_logout_error": {
+    "message": "Не вдалося вийти. Спробуйте ще раз."
+  },
+  "options_toast_load_error": {
+    "message": "Не вдалося завантажити налаштування. Оновіть сторінку."
+  },
+  "options_footer_privacy": {
+    "message": "Політика конфіденційності"
+  },
+  "options_footer_terms": {
+    "message": "Умови використання"
+  },
+  "player_modal_close": {
+    "message": "Закрити плеєр"
+  },
+  "player_modal_error": {
+    "message": "Не вдалося відтворити це відео"
+  },
+  "player_modal_unsupported": {
+    "message": "Цей формат не можна переглянути. Скористайтеся завантаженням."
+  },
+  "player_modal_loading": {
+    "message": "Завантаження відео..."
+  },
+  "options_header_badge": {
+    "message": "Налаштування"
+  },
+  "toast_viewport_label": {
+    "message": "Сповіщення"
+  },
+  "popup_group_streaming_title": {
+    "message": "Потокове відео $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "Завантаження з сервера $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "Пряме завантаження $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "Завантаження з сервера"
+  },
+  "popup_group_merge_note": {
+    "message": "Аудіо та відео розділені — вони будуть об'єднані під час завантаження"
+  },
+  "popup_dismiss_label": {
+    "message": "Закрити"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "Відтворення потоку не вдалося"
+  },
+  "player_error_hls_unsupported": {
+    "message": "Відтворення HLS не підтримується"
+  },
+  "player_error_library_failed": {
+    "message": "Не вдалося завантажити бібліотеку потокового відтворення"
+  },
+  "player_error_no_url": {
+    "message": "Немає доступного URL для відтворення"
+  },
+  "player_error_unsupported_format": {
+    "message": "Цей формат не можна переглянути"
+  },
+  "error_no_internet": {
+    "message": "Немає підключення до інтернету"
+  },
+  "error_server_unavailable": {
+    "message": "Сервер тимчасово недоступний"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "Розпочніть безкоштовний пробний період, щоб миттєво завантажувати будь-яке відео — без зобов'язань, скасування в будь-який час."
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "Спробуйте Premium безкоштовно — завантажуйте будь-яке відео в будь-якій якості, без обмежень."
+  }
+}

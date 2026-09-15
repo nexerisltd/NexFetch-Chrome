@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "قم بتنزيل وحفظ مقاطع الفيديو من أي موقع على الفور. أداة تنزيل فيديو سريعة وبسيطة تعمل بشكل مثالي."
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "مشاهدة لاحقاً"
+  },
+  "popup_saved": {
+    "message": "تم الحفظ"
+  },
+  "popup_my_list": {
+    "message": "قائمتي"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 جودة"
+  },
+  "popup_group_title_fallback": {
+    "message": "فيديو"
+  },
+  "popup_group_title_numbered": {
+    "message": "فيديو $1"
+  },
+  "popup_footer_settings": {
+    "message": "الإعدادات"
+  },
+  "popup_footer_reviews": {
+    "message": "التقييمات"
+  },
+  "popup_footer_blog": {
+    "message": "مدونة"
+  },
+  "popup_footer_account": {
+    "message": "الحساب"
+  },
+  "popup_footer_upgrade": {
+    "message": "ترقية"
+  },
+  "popup_play_button_label": {
+    "message": "تشغيل الفيديو"
+  },
+  "popup_cast_button_label": {
+    "message": "إرسال إلى جهاز"
+  },
+  "popup_live_label": {
+    "message": "مباشر"
+  },
+  "popup_download_label": {
+    "message": "تنزيل"
+  },
+  "popup_audio_label": {
+    "message": "صوت"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "صوت فقط"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 كيلوبت/ث صوت"
+  },
+  "popup_empty_state": {
+    "message": "لم يتم العثور على فيديوهات."
+  },
+  "popup_report_no_video": {
+    "message": "الإبلاغ عن مشكلة"
+  },
+  "popup_report_submitting": {
+    "message": "جارٍ الإرسال..."
+  },
+  "popup_report_success": {
+    "message": "شكراً لتقريرك!"
+  },
+  "popup_report_error": {
+    "message": "فشل في إرسال التقرير. يرجى المحاولة مرة أخرى."
+  },
+  "popup_site_blocked": {
+    "message": "هذا الموقع محظور. يمكنك إلغاء الحظر لاكتشاف الفيديوهات."
+  },
+  "popup_unblock_site": {
+    "message": "إلغاء حظر الموقع"
+  },
+  "popup_toast_unblock_success": {
+    "message": "تم إلغاء حظر الموقع! جارٍ إعادة التحميل..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "فشل إلغاء الحظر"
+  },
+  "popup_block_site": {
+    "message": "حظر هذا الموقع"
+  },
+  "popup_toast_block_success": {
+    "message": "تم حظر الموقع! جارٍ إعادة التحميل..."
+  },
+  "popup_toast_block_failed": {
+    "message": "فشل حظر الموقع"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "تعذر فتح صفحة التنزيل الآمنة"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "تعذر إعداد هذا التنزيل الآمن"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "جارٍ إعداد التنزيل الآمن…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "تعذر بدء التنزيل الآمن. يرجى المحاولة مرة أخرى."
+  },
+  "popup_toast_open_source_failed": {
+    "message": "تعذر فتح هذا الفيديو"
+  },
+  "popup_toast_identify_failed": {
+    "message": "تعذر التعرف على هذا الفيديو"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "تمت الإزالة من قائمة المشاهدة لاحقًا"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "تمت الإضافة إلى قائمة المشاهدة لاحقًا"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "تعذر تحديث قائمة المشاهدة لاحقاً"
+  },
+  "popup_toast_settings_failed": {
+    "message": "تعذر تحميل الإعدادات"
+  },
+  "popup_toast_videos_failed": {
+    "message": "تعذر تحميل الفيديوهات"
+  },
+  "popup_toast_download_started": {
+    "message": "تم بدء التنزيل"
+  },
+  "popup_toast_download_failed": {
+    "message": "تعذر بدء التنزيل"
+  },
+  "popup_toast_cast_error": {
+    "message": "تعذر إعداد تشغيل Chromecast. يرجى المحاولة مرة أخرى."
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "تعذر تحميل الفيديوهات على هذه الصفحة"
+  },
+  "watch_later_error_server": {
+    "message": "تعذر الاتصال بالخادم. يرجى المحاولة مرة أخرى."
+  },
+  "watch_later_error_login": {
+    "message": "يرجى تسجيل الدخول لاستخدام قائمة المشاهدة لاحقاً."
+  },
+  "watch_later_error_upgrade": {
+    "message": "يجب الترقية لاستخدام قائمة المشاهدة لاحقاً."
+  },
+  "watch_later_error_premium_only": {
+    "message": "مطلوب Premium لحفظ الفيديوهات."
+  },
+  "watch_later_error_limit": {
+    "message": "لقد وصلت إلى حد الحفظ المجاني."
+  },
+  "watch_later_error_generic": {
+    "message": "تعذر تحديث قائمة المشاهدة لاحقاً. يرجى المحاولة مرة أخرى."
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "بصمة التبويب مفقودة."
+  },
+  "watch_later_error_missing_source": {
+    "message": "هذا الفيديو بدون رابط مصدر."
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "معرف قائمة المشاهدة لاحقاً مفقود."
+  },
+  "save_premium_modal_title": {
+    "message": "احفظ الفيديوهات مع Premium"
+  },
+  "save_premium_modal_message": {
+    "message": "حفظ الفيديوهات في مكتبتك متاح لأعضاء Premium. قم بالترقية لحفظ فيديوهات غير محدودة."
+  },
+  "limit_modal_title": {
+    "message": "تم الوصول لحد الحفظ"
+  },
+  "limit_modal_message": {
+    "message": "لقد وصلت إلى حد الحفظ المجاني. قم بالترقية إلى بريميوم لحفظ فيديوهات بلا حدود."
+  },
+  "limit_modal_upgrade": {
+    "message": "احصل على بريميوم"
+  },
+  "limit_modal_start_trial": {
+    "message": "ابدأ التجربة المجانية"
+  },
+  "limit_modal_later": {
+    "message": "ليس الآن"
+  },
+  "hd_limit_modal_title": {
+    "message": "تم الوصول لحدّ تنزيلات HD اليومي"
+  },
+  "hd_limit_modal_message": {
+    "message": "لقد وصلت إلى حدّ تنزيلات HD المجاني اليومي. قم بالترقية إلى الإصدار المميّز لتنزيل فيديوهات بجودة كاملة بلا حدود."
+  },
+  "download_premium_modal_title": {
+    "message": "افتح تنزيلات الفيديو"
+  },
+  "download_premium_modal_message": {
+    "message": "قم بالترقية إلى Premium لتحميل أي فيديو بأي جودة — تحميلات غير محدودة."
+  },
+  "cast_limit_modal_title": {
+    "message": "تم الوصول لحد البث اليومي"
+  },
+  "cast_limit_modal_message": {
+    "message": "لقد وصلت إلى حد البث المجاني اليومي. قم بالترقية إلى بريميوم لبث أي فيديو على تلفازك بلا حدود."
+  },
+  "cast_premium_modal_title": {
+    "message": "البث إلى تلفازك مع بريميوم"
+  },
+  "cast_premium_modal_message": {
+    "message": "بث Chromecast متاح لأعضاء بريميوم. قم بالترقية لبث أي فيديو على تلفازك بلا حدود."
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "ابدأ تجربتك المجانية لبث أي فيديو إلى التلفزيون — بدون التزام، يمكنك الإلغاء في أي وقت."
+  },
+  "review_modal_title": {
+    "message": "هل يعجبك Video Downloader Plus؟"
+  },
+  "review_modal_message": {
+    "message": "إذا كان Video Downloader Plus مفيدًا لك، فإن تقييمًا سريعًا على Chrome Web Store سيعني الكثير لنا!"
+  },
+  "review_modal_rate": {
+    "message": "قيّم Video Downloader Plus"
+  },
+  "review_modal_later": {
+    "message": "ربما لاحقًا"
+  },
+  "download_limit_banner_remaining": {
+    "message": "متبقٍ $1 تنزيل HD اليوم"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "تم الوصول إلى الحد اليومي لتنزيلات HD"
+  },
+  "download_limit_banner_reset": {
+    "message": "يُعاد التعيين خلال $1"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "قم بالترقية إلى Premium — حمّل أي فيديو بأي جودة، بدون حدود."
+  },
+  "generic_video_label": {
+    "message": "فيديو"
+  },
+  "popup_actions_cast": {
+    "message": "إرسال"
+  },
+  "popup_actions_download": {
+    "message": "تنزيل"
+  },
+  "popup_actions_premium": {
+    "message": "بريميوم"
+  },
+  "popup_actions_save": {
+    "message": "حفظ"
+  },
+  "toast_dismiss": {
+    "message": "إغلاق"
+  },
+  "options_header_subtitle": {
+    "message": "تحكّم في طريقة اكتشاف Video Downloader Plus للفيديوهات وحفظها"
+  },
+  "options_help_center": {
+    "message": "مركز المساعدة"
+  },
+  "options_support": {
+    "message": "الدعم"
+  },
+  "options_formats_title": {
+    "message": "صيغ الوسائط"
+  },
+  "options_formats_description": {
+    "message": "اختر أنواع الملفات التي يجب أن يبحث عنها Video Downloader Plus"
+  },
+  "options_formats_video_label": {
+    "message": "فيديو"
+  },
+  "options_formats_audio_label": {
+    "message": "صوت"
+  },
+  "options_size_title": {
+    "message": "حد الحجم"
+  },
+  "options_size_description": {
+    "message": "تجاهل الملفات الأصغر من هذا الحجم"
+  },
+  "options_size_label": {
+    "message": "الحد الأدنى"
+  },
+  "options_size_custom": {
+    "message": "مخصص"
+  },
+  "options_download_title": {
+    "message": "مكان الحفظ"
+  },
+  "options_download_description": {
+    "message": "اختر أين يتم حفظ الفيديوهات المُنزَّلة"
+  },
+  "options_download_toggle_label": {
+    "message": "مجلد مخصص"
+  },
+  "options_download_toggle_description": {
+    "message": "توجيه جميع التنزيلات إلى مجلد واحد"
+  },
+  "options_download_folder_label": {
+    "message": "اسم المجلد"
+  },
+  "options_download_folder_description": {
+    "message": "المسار داخل التنزيلات (اتركه فارغاً للجذر)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "المظهر"
+  },
+  "options_appearance_description": {
+    "message": "اختر مظهر Video Downloader Plus"
+  },
+  "options_theme_system": {
+    "message": "النظام"
+  },
+  "options_theme_light": {
+    "message": "فاتح"
+  },
+  "options_theme_dark": {
+    "message": "داكن"
+  },
+  "options_cast_title": {
+    "message": "البث إلى التلفاز"
+  },
+  "options_cast_description": {
+    "message": "بث الفيديوهات إلى أجهزة Chromecast المتوافقة"
+  },
+  "options_cast_toggle_label": {
+    "message": "زر البث"
+  },
+  "options_cast_toggle_description": {
+    "message": "عرض أيقونة البث بجانب الفيديوهات المدعومة"
+  },
+  "options_badge_title": {
+    "message": "الشارة"
+  },
+  "options_badge_description": {
+    "message": "اختر ما تعرضه شارة الإضافة"
+  },
+  "options_badge_count": {
+    "message": "العدد"
+  },
+  "options_badge_dot": {
+    "message": "نقطة"
+  },
+  "options_badge_hidden": {
+    "message": "مخفية"
+  },
+  "options_website_title": {
+    "message": "قائمة المواقع المحظورة"
+  },
+  "options_website_description": {
+    "message": "منع Video Downloader Plus من العمل على مواقع معينة"
+  },
+  "options_website_add_label": {
+    "message": "حظر موقع"
+  },
+  "options_website_add_description": {
+    "message": "الأنماط المقبولة: <code>example.com</code> أو <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com أو *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "حظر"
+  },
+  "options_website_list_label": {
+    "message": "المواقع المحظورة"
+  },
+  "options_website_empty": {
+    "message": "لا توجد مواقع محظورة بعد"
+  },
+  "options_status_unsaved": {
+    "message": "تغييرات غير محفوظة"
+  },
+  "options_status_saved": {
+    "message": "تم حفظ الإعدادات"
+  },
+  "options_button_save": {
+    "message": "تطبيق"
+  },
+  "options_button_reset": {
+    "message": "إعادة التعيين إلى الافتراضي"
+  },
+  "options_button_reset_confirm": {
+    "message": "هل أنت متأكد؟"
+  },
+  "options_toast_reset_success": {
+    "message": "تم استعادة الإعدادات الافتراضية"
+  },
+  "options_toast_reset_error": {
+    "message": "فشل في إعادة تعيين الإعدادات"
+  },
+  "options_button_logout": {
+    "message": "تسجيل الخروج"
+  },
+  "options_toast_min_size": {
+    "message": "الحد الأدنى هو $1 $2"
+  },
+  "options_toast_enter_domain": {
+    "message": "أدخل نطاقاً أولاً"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "إدخال غير صالح"
+  },
+  "options_toast_invalid_domain": {
+    "message": "أدخل نطاقاً صالحاً مثل example.com أو *.example.com"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "نطاق غير صالح"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "هذا الموقع موجود بالفعل في قائمة الحظر"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "محظور بالفعل"
+  },
+  "options_toast_block_limit": {
+    "message": "يمكنك حظر ما يصل إلى $1 موقع."
+  },
+  "options_toast_permission_denied": {
+    "message": "تم رفض الوصول. فعّل الزر للمحاولة مجدداً."
+  },
+  "options_toast_permission_title": {
+    "message": "مطلوب إذن"
+  },
+  "options_toast_permission_failed": {
+    "message": "تعذر طلب الإذن. حاول مرة أخرى."
+  },
+  "options_toast_save_success": {
+    "message": "تم تطبيق الإعدادات"
+  },
+  "options_toast_save_error": {
+    "message": "تعذر الحفظ. يرجى المحاولة مرة أخرى."
+  },
+  "options_toast_logout_success": {
+    "message": "تم تسجيل الخروج"
+  },
+  "options_toast_logout_error": {
+    "message": "فشل تسجيل الخروج. يرجى المحاولة مرة أخرى."
+  },
+  "options_toast_load_error": {
+    "message": "تعذر تحميل الإعدادات. قم بتحديث الصفحة."
+  },
+  "options_footer_privacy": {
+    "message": "سياسة الخصوصية"
+  },
+  "options_footer_terms": {
+    "message": "شروط الخدمة"
+  },
+  "player_modal_close": {
+    "message": "إغلاق المشغّل"
+  },
+  "player_modal_error": {
+    "message": "تعذّر تشغيل هذا الفيديو"
+  },
+  "player_modal_unsupported": {
+    "message": "لا يمكن معاينة هذا التنسيق. استخدم التنزيل بدلاً من ذلك."
+  },
+  "player_modal_loading": {
+    "message": "جارٍ تحميل الفيديو..."
+  },
+  "options_header_badge": {
+    "message": "الإعدادات"
+  },
+  "toast_viewport_label": {
+    "message": "الإشعارات"
+  },
+  "popup_group_streaming_title": {
+    "message": "بث $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "جلب من الخادم $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "تنزيل مباشر $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "جلب من الخادم"
+  },
+  "popup_group_merge_note": {
+    "message": "الصوت والفيديو منفصلان — سيتم دمجهما أثناء التنزيل"
+  },
+  "popup_dismiss_label": {
+    "message": "إغلاق"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "فشل تشغيل البث"
+  },
+  "player_error_hls_unsupported": {
+    "message": "تشغيل HLS غير مدعوم"
+  },
+  "player_error_library_failed": {
+    "message": "فشل تحميل مكتبة البث"
+  },
+  "player_error_no_url": {
+    "message": "لا يوجد URL قابل للتشغيل"
+  },
+  "player_error_unsupported_format": {
+    "message": "لا يمكن معاينة هذا التنسيق"
+  },
+  "error_no_internet": {
+    "message": "لا يوجد اتصال بالإنترنت"
+  },
+  "error_server_unavailable": {
+    "message": "الخادم غير متاح مؤقتاً"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "ابدأ تجربتك المجانية لتنزيل أي فيديو فوراً — بدون التزام، إلغاء في أي وقت."
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "جرّب بريميوم مجاناً — حمّل أي فيديو بأي جودة، بلا حدود."
+  }
+}

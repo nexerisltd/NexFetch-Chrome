@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "即时下载和保存任何网站的视频。一个快速、简单、好用的视频下载器。"
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "稍后观看"
+  },
+  "popup_saved": {
+    "message": "已保存"
+  },
+  "popup_my_list": {
+    "message": "我的列表"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 种画质"
+  },
+  "popup_group_title_fallback": {
+    "message": "视频"
+  },
+  "popup_group_title_numbered": {
+    "message": "视频 $1"
+  },
+  "popup_footer_settings": {
+    "message": "设置"
+  },
+  "popup_footer_reviews": {
+    "message": "评价"
+  },
+  "popup_footer_blog": {
+    "message": "博客"
+  },
+  "popup_footer_account": {
+    "message": "账户"
+  },
+  "popup_footer_upgrade": {
+    "message": "升级"
+  },
+  "popup_play_button_label": {
+    "message": "播放视频"
+  },
+  "popup_cast_button_label": {
+    "message": "投射到设备"
+  },
+  "popup_live_label": {
+    "message": "直播"
+  },
+  "popup_download_label": {
+    "message": "下载"
+  },
+  "popup_audio_label": {
+    "message": "音频"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "仅音频"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps 音频"
+  },
+  "popup_empty_state": {
+    "message": "未找到视频。"
+  },
+  "popup_report_no_video": {
+    "message": "报告问题"
+  },
+  "popup_report_submitting": {
+    "message": "正在提交..."
+  },
+  "popup_report_success": {
+    "message": "感谢您的反馈！"
+  },
+  "popup_report_error": {
+    "message": "提交失败。请重试。"
+  },
+  "popup_site_blocked": {
+    "message": "此网站已被屏蔽。您可以取消屏蔽以检测视频。"
+  },
+  "popup_unblock_site": {
+    "message": "取消屏蔽网站"
+  },
+  "popup_toast_unblock_success": {
+    "message": "网站已取消屏蔽！正在重新加载..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "取消屏蔽失败"
+  },
+  "popup_block_site": {
+    "message": "屏蔽此网站"
+  },
+  "popup_toast_block_success": {
+    "message": "网站已屏蔽！正在重新加载..."
+  },
+  "popup_toast_block_failed": {
+    "message": "屏蔽失败"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "无法打开安全下载页面"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "无法准备此安全下载"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "正在准备安全下载…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "无法启动安全下载。请重试。"
+  },
+  "popup_toast_open_source_failed": {
+    "message": "无法打开此视频"
+  },
+  "popup_toast_identify_failed": {
+    "message": "无法识别此视频"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "已从稍后观看列表中移除"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "已保存到稍后观看列表"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "无法更新稍后观看"
+  },
+  "popup_toast_settings_failed": {
+    "message": "无法加载设置"
+  },
+  "popup_toast_videos_failed": {
+    "message": "无法加载视频"
+  },
+  "popup_toast_download_started": {
+    "message": "下载已开始"
+  },
+  "popup_toast_download_failed": {
+    "message": "无法开始下载"
+  },
+  "popup_toast_cast_error": {
+    "message": "无法准备 Chromecast 播放。请重试。"
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "无法加载此页面上的视频"
+  },
+  "watch_later_error_server": {
+    "message": "无法连接到服务器。请重试。"
+  },
+  "watch_later_error_login": {
+    "message": "请登录以管理稍后观看视频。"
+  },
+  "watch_later_error_upgrade": {
+    "message": "需要升级才能使用稍后观看。"
+  },
+  "watch_later_error_premium_only": {
+    "message": "保存视频需要 Premium。"
+  },
+  "watch_later_error_limit": {
+    "message": "您已达到免费保存限制。"
+  },
+  "watch_later_error_generic": {
+    "message": "无法更新稍后观看。请重试。"
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "缺少标签页指纹。"
+  },
+  "watch_later_error_missing_source": {
+    "message": "此视频缺少来源链接。"
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "缺少稍后观看标识符。"
+  },
+  "save_premium_modal_title": {
+    "message": "使用 Premium 保存视频"
+  },
+  "save_premium_modal_message": {
+    "message": "将视频保存到您的媒体库仅限 Premium 会员使用。升级以保存无限视频。"
+  },
+  "limit_modal_title": {
+    "message": "已达保存上限"
+  },
+  "limit_modal_message": {
+    "message": "您已达到免费保存上限。升级到 Premium 以无限保存视频。"
+  },
+  "limit_modal_upgrade": {
+    "message": "获取 Premium"
+  },
+  "limit_modal_start_trial": {
+    "message": "开始免费试用"
+  },
+  "limit_modal_later": {
+    "message": "暂时不用"
+  },
+  "hd_limit_modal_title": {
+    "message": "已达每日 HD 下载上限"
+  },
+  "hd_limit_modal_message": {
+    "message": "您已达到每日免费 HD 下载上限。升级到 Premium 以无限制下载完整画质视频。"
+  },
+  "download_premium_modal_title": {
+    "message": "解锁视频下载"
+  },
+  "download_premium_modal_message": {
+    "message": "升级到 Premium，以任何画质下载任何视频 — 无限下载。"
+  },
+  "cast_limit_modal_title": {
+    "message": "已达每日投屏上限"
+  },
+  "cast_limit_modal_message": {
+    "message": "您已达到每日免费投屏上限。升级到 Premium 以无限制将任何视频投屏到电视。"
+  },
+  "cast_premium_modal_title": {
+    "message": "使用 Premium 投屏到电视"
+  },
+  "cast_premium_modal_message": {
+    "message": "Chromecast 投屏面向 Premium 会员开放。升级以无限制将任何视频投屏到电视。"
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "开始免费试用，将任何视频投射到电视 — 无需承诺，随时取消。"
+  },
+  "review_modal_title": {
+    "message": "喜欢 Video Downloader Plus 吗？"
+  },
+  "review_modal_message": {
+    "message": "如果 Video Downloader Plus 对你有所帮助，在 Chrome Web Store 留下一个简短的评价对我们意义重大！"
+  },
+  "review_modal_rate": {
+    "message": "评价 Video Downloader Plus"
+  },
+  "review_modal_later": {
+    "message": "以后再说"
+  },
+  "download_limit_banner_remaining": {
+    "message": "今天还剩 $1 次 HD 下载"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "已达每日 HD 下载上限"
+  },
+  "download_limit_banner_reset": {
+    "message": "$1 后重置"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "升级到 Premium — 以任何画质下载任何视频，无限制。"
+  },
+  "generic_video_label": {
+    "message": "视频"
+  },
+  "popup_actions_cast": {
+    "message": "投射"
+  },
+  "popup_actions_download": {
+    "message": "下载"
+  },
+  "popup_actions_premium": {
+    "message": "Premium"
+  },
+  "popup_actions_save": {
+    "message": "保存"
+  },
+  "toast_dismiss": {
+    "message": "关闭"
+  },
+  "options_header_subtitle": {
+    "message": "自定义 Video Downloader Plus 检测和保存视频的方式"
+  },
+  "options_help_center": {
+    "message": "帮助中心"
+  },
+  "options_support": {
+    "message": "支持"
+  },
+  "options_formats_title": {
+    "message": "媒体格式"
+  },
+  "options_formats_description": {
+    "message": "选择 Video Downloader Plus 应搜索的文件类型"
+  },
+  "options_formats_video_label": {
+    "message": "视频"
+  },
+  "options_formats_audio_label": {
+    "message": "音频"
+  },
+  "options_size_title": {
+    "message": "大小阈值"
+  },
+  "options_size_description": {
+    "message": "忽略小于此大小的文件"
+  },
+  "options_size_label": {
+    "message": "最小大小"
+  },
+  "options_size_custom": {
+    "message": "自定义"
+  },
+  "options_download_title": {
+    "message": "保存位置"
+  },
+  "options_download_description": {
+    "message": "选择下载视频的保存位置"
+  },
+  "options_download_toggle_label": {
+    "message": "专用文件夹"
+  },
+  "options_download_toggle_description": {
+    "message": "将所有下载保存到一个文件夹"
+  },
+  "options_download_folder_label": {
+    "message": "文件夹名称"
+  },
+  "options_download_folder_description": {
+    "message": "下载目录中的路径（留空为根目录）"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "外观"
+  },
+  "options_appearance_description": {
+    "message": "选择 Video Downloader Plus 的外观"
+  },
+  "options_theme_system": {
+    "message": "跟随系统"
+  },
+  "options_theme_light": {
+    "message": "浅色"
+  },
+  "options_theme_dark": {
+    "message": "深色"
+  },
+  "options_cast_title": {
+    "message": "投射到电视"
+  },
+  "options_cast_description": {
+    "message": "将视频流式传输到 Chromecast 设备"
+  },
+  "options_cast_toggle_label": {
+    "message": "投射按钮"
+  },
+  "options_cast_toggle_description": {
+    "message": "在支持的视频旁显示投射图标"
+  },
+  "options_badge_title": {
+    "message": "徽章"
+  },
+  "options_badge_description": {
+    "message": "选择工具栏图标徽章显示的内容"
+  },
+  "options_badge_count": {
+    "message": "计数"
+  },
+  "options_badge_dot": {
+    "message": "圆点"
+  },
+  "options_badge_hidden": {
+    "message": "隐藏"
+  },
+  "options_website_title": {
+    "message": "网站屏蔽列表"
+  },
+  "options_website_description": {
+    "message": "阻止 Video Downloader Plus 在特定网站上运行"
+  },
+  "options_website_add_label": {
+    "message": "屏蔽网站"
+  },
+  "options_website_add_description": {
+    "message": "接受的格式：<code>example.com</code> 或 <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com 或 *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "屏蔽"
+  },
+  "options_website_list_label": {
+    "message": "已屏蔽的网站"
+  },
+  "options_website_empty": {
+    "message": "暂无屏蔽的网站"
+  },
+  "options_status_unsaved": {
+    "message": "未保存的更改"
+  },
+  "options_status_saved": {
+    "message": "设置已保存"
+  },
+  "options_button_save": {
+    "message": "应用"
+  },
+  "options_button_reset": {
+    "message": "恢复默认设置"
+  },
+  "options_button_reset_confirm": {
+    "message": "确定要恢复吗？"
+  },
+  "options_toast_reset_success": {
+    "message": "设置已恢复为默认值"
+  },
+  "options_toast_reset_error": {
+    "message": "重置设置失败"
+  },
+  "options_button_logout": {
+    "message": "退出登录"
+  },
+  "options_toast_min_size": {
+    "message": "最小值为 $1 $2"
+  },
+  "options_toast_enter_domain": {
+    "message": "请先输入域名"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "输入无效"
+  },
+  "options_toast_invalid_domain": {
+    "message": "请输入有效域名，如 example.com 或 *.example.com"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "域名无效"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "该网站已在黑名单中"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "已屏蔽"
+  },
+  "options_toast_block_limit": {
+    "message": "最多可屏蔽 $1 个网站。"
+  },
+  "options_toast_permission_denied": {
+    "message": "访问被拒绝。切换开关重试。"
+  },
+  "options_toast_permission_title": {
+    "message": "需要访问权限"
+  },
+  "options_toast_permission_failed": {
+    "message": "无法请求权限。请重试。"
+  },
+  "options_toast_save_success": {
+    "message": "设置已应用"
+  },
+  "options_toast_save_error": {
+    "message": "无法保存。请重试。"
+  },
+  "options_toast_logout_success": {
+    "message": "已退出登录"
+  },
+  "options_toast_logout_error": {
+    "message": "退出失败。请重试。"
+  },
+  "options_toast_load_error": {
+    "message": "无法加载设置。请刷新页面。"
+  },
+  "options_footer_privacy": {
+    "message": "隐私政策"
+  },
+  "options_footer_terms": {
+    "message": "服务条款"
+  },
+  "player_modal_close": {
+    "message": "关闭播放器"
+  },
+  "player_modal_error": {
+    "message": "无法播放此视频"
+  },
+  "player_modal_unsupported": {
+    "message": "此格式无法预览，请改用下载。"
+  },
+  "player_modal_loading": {
+    "message": "正在加载视频..."
+  },
+  "options_header_badge": {
+    "message": "设置"
+  },
+  "toast_viewport_label": {
+    "message": "通知"
+  },
+  "popup_group_streaming_title": {
+    "message": "流媒体 $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "服务器获取 $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "直接下载 $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "服务器获取"
+  },
+  "popup_group_merge_note": {
+    "message": "音频和视频是分开的 — 下载时将自动合并"
+  },
+  "popup_dismiss_label": {
+    "message": "关闭"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "流播放失败"
+  },
+  "player_error_hls_unsupported": {
+    "message": "不支持 HLS 播放"
+  },
+  "player_error_library_failed": {
+    "message": "无法加载流媒体库"
+  },
+  "player_error_no_url": {
+    "message": "没有可播放的 URL"
+  },
+  "player_error_unsupported_format": {
+    "message": "此格式无法预览"
+  },
+  "error_no_internet": {
+    "message": "无网络连接"
+  },
+  "error_server_unavailable": {
+    "message": "服务器暂时不可用"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "开始免费试用，即刻下载任何视频——无需承诺，随时取消。"
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "免费试用 Premium — 以任何品质下载任何视频，无限制。"
+  }
+}

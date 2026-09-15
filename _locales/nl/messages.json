@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "Download en bewaar video's van elke website direct. Een snelle, eenvoudige video downloader die gewoon werkt."
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "Later bekijken"
+  },
+  "popup_saved": {
+    "message": "Opgeslagen"
+  },
+  "popup_my_list": {
+    "message": "Mijn lijst"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 kwaliteiten"
+  },
+  "popup_group_title_fallback": {
+    "message": "Video"
+  },
+  "popup_group_title_numbered": {
+    "message": "Video $1"
+  },
+  "popup_footer_settings": {
+    "message": "Instellingen"
+  },
+  "popup_footer_reviews": {
+    "message": "Beoordelingen"
+  },
+  "popup_footer_blog": {
+    "message": "Blog"
+  },
+  "popup_footer_account": {
+    "message": "Account"
+  },
+  "popup_footer_upgrade": {
+    "message": "Upgraden"
+  },
+  "popup_play_button_label": {
+    "message": "Video afspelen"
+  },
+  "popup_cast_button_label": {
+    "message": "Casten naar apparaat"
+  },
+  "popup_live_label": {
+    "message": "Live"
+  },
+  "popup_download_label": {
+    "message": "Downloaden"
+  },
+  "popup_audio_label": {
+    "message": "Audio"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "Alleen audio"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps audio"
+  },
+  "popup_empty_state": {
+    "message": "Geen video's gevonden."
+  },
+  "popup_report_no_video": {
+    "message": "Probleem melden"
+  },
+  "popup_report_submitting": {
+    "message": "Verzenden..."
+  },
+  "popup_report_success": {
+    "message": "Bedankt voor je melding!"
+  },
+  "popup_report_error": {
+    "message": "Melding kon niet worden verzonden. Probeer het opnieuw."
+  },
+  "popup_site_blocked": {
+    "message": "Deze site is geblokkeerd. Je kunt de blokkering opheffen om video's te detecteren."
+  },
+  "popup_unblock_site": {
+    "message": "Site deblokkeren"
+  },
+  "popup_toast_unblock_success": {
+    "message": "Site gedeblokkeerd! Pagina wordt herladen..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "Deblokkeren mislukt"
+  },
+  "popup_block_site": {
+    "message": "Deze site blokkeren"
+  },
+  "popup_toast_block_success": {
+    "message": "Site geblokkeerd! Pagina wordt herladen..."
+  },
+  "popup_toast_block_failed": {
+    "message": "Blokkeren mislukt"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "Kan de beveiligde downloadpagina niet openen"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "Kan deze beveiligde download niet voorbereiden"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "Beveiligde download voorbereiden…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "Kan de beveiligde download niet starten. Probeer het opnieuw."
+  },
+  "popup_toast_open_source_failed": {
+    "message": "Kan deze video niet openen"
+  },
+  "popup_toast_identify_failed": {
+    "message": "Kan deze video niet identificeren"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "Verwijderd uit de Later bekijken-lijst"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "Opgeslagen in de Later bekijken-lijst"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "Kan Later bekijken niet bijwerken"
+  },
+  "popup_toast_settings_failed": {
+    "message": "Kan instellingen niet laden"
+  },
+  "popup_toast_videos_failed": {
+    "message": "Kan video's niet laden"
+  },
+  "popup_toast_download_started": {
+    "message": "Download gestart"
+  },
+  "popup_toast_download_failed": {
+    "message": "Kan download niet starten"
+  },
+  "popup_toast_cast_error": {
+    "message": "Kan Chromecast-weergave niet voorbereiden. Probeer het opnieuw."
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "Kan video's op deze pagina niet laden"
+  },
+  "watch_later_error_server": {
+    "message": "Kan geen verbinding maken met de server. Probeer het opnieuw."
+  },
+  "watch_later_error_login": {
+    "message": "Log in om Later bekijken-video's te beheren."
+  },
+  "watch_later_error_upgrade": {
+    "message": "Upgrade vereist om Later bekijken te gebruiken."
+  },
+  "watch_later_error_premium_only": {
+    "message": "Premium vereist om video's op te slaan."
+  },
+  "watch_later_error_limit": {
+    "message": "Je hebt de gratis opslaglimiet bereikt."
+  },
+  "watch_later_error_generic": {
+    "message": "Kan Later bekijken niet bijwerken. Probeer het opnieuw."
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "Tabblad-vingerafdruk ontbreekt."
+  },
+  "watch_later_error_missing_source": {
+    "message": "Deze video mist een bronlink."
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "Later bekijken-identificatie ontbreekt."
+  },
+  "save_premium_modal_title": {
+    "message": "Bewaar video's met Premium"
+  },
+  "save_premium_modal_message": {
+    "message": "Het opslaan van video's in je bibliotheek is beschikbaar voor Premium-leden. Upgrade om onbeperkt video's op te slaan."
+  },
+  "limit_modal_title": {
+    "message": "Opslaglimiet bereikt"
+  },
+  "limit_modal_message": {
+    "message": "Je hebt je gratis opslaglimiet bereikt. Upgrade naar Premium om onbeperkt video's op te slaan."
+  },
+  "limit_modal_upgrade": {
+    "message": "Premium krijgen"
+  },
+  "limit_modal_start_trial": {
+    "message": "Start gratis proefperiode"
+  },
+  "limit_modal_later": {
+    "message": "Niet nu"
+  },
+  "hd_limit_modal_title": {
+    "message": "Dagelijkse HD-downloadlimiet bereikt"
+  },
+  "hd_limit_modal_message": {
+    "message": "Je hebt je dagelijkse gratis HD-downloadlimiet bereikt. Upgrade naar Premium om video's in volledige kwaliteit zonder limieten te downloaden."
+  },
+  "download_premium_modal_title": {
+    "message": "Ontgrendel videodownloads"
+  },
+  "download_premium_modal_message": {
+    "message": "Upgrade naar Premium om elke video in elke kwaliteit te downloaden — onbeperkte downloads."
+  },
+  "cast_limit_modal_title": {
+    "message": "Dagelijkse castlimiet bereikt"
+  },
+  "cast_limit_modal_message": {
+    "message": "Je hebt je dagelijkse gratis castlimiet bereikt. Upgrade naar Premium om elke video zonder limieten naar je TV te casten."
+  },
+  "cast_premium_modal_title": {
+    "message": "Cast naar je TV met Premium"
+  },
+  "cast_premium_modal_message": {
+    "message": "Chromecast-casting is beschikbaar voor Premium-leden. Upgrade om elke video zonder limieten naar je TV te streamen."
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "Start je gratis proefperiode om elke video naar je TV te casten — geen verplichting, annuleer op elk moment."
+  },
+  "review_modal_title": {
+    "message": "Bevalt Video Downloader Plus?"
+  },
+  "review_modal_message": {
+    "message": "Als Video Downloader Plus je goed van pas komt, zou een snelle beoordeling in de Chrome Web Store veel voor ons betekenen!"
+  },
+  "review_modal_rate": {
+    "message": "Beoordeel Video Downloader Plus"
+  },
+  "review_modal_later": {
+    "message": "Misschien later"
+  },
+  "download_limit_banner_remaining": {
+    "message": "$1 HD-download(s) over vandaag"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "Dagelijkse HD-downloadlimiet bereikt"
+  },
+  "download_limit_banner_reset": {
+    "message": "Reset over $1"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "Upgrade naar Premium — download elke video in elke kwaliteit, zonder limieten."
+  },
+  "generic_video_label": {
+    "message": "Video"
+  },
+  "popup_actions_cast": {
+    "message": "Casten"
+  },
+  "popup_actions_download": {
+    "message": "Downloaden"
+  },
+  "popup_actions_premium": {
+    "message": "Premium"
+  },
+  "popup_actions_save": {
+    "message": "Opslaan"
+  },
+  "toast_dismiss": {
+    "message": "Sluiten"
+  },
+  "options_header_subtitle": {
+    "message": "Pas aan hoe Video Downloader Plus video's detecteert en opslaat"
+  },
+  "options_help_center": {
+    "message": "Helpcentrum"
+  },
+  "options_support": {
+    "message": "Ondersteuning"
+  },
+  "options_formats_title": {
+    "message": "Mediaformaten"
+  },
+  "options_formats_description": {
+    "message": "Kies de bestandstypen waar Video Downloader Plus naar moet zoeken"
+  },
+  "options_formats_video_label": {
+    "message": "Video"
+  },
+  "options_formats_audio_label": {
+    "message": "Audio"
+  },
+  "options_size_title": {
+    "message": "Groottedrempel"
+  },
+  "options_size_description": {
+    "message": "Bestanden kleiner dan deze grootte negeren"
+  },
+  "options_size_label": {
+    "message": "Min. grootte"
+  },
+  "options_size_custom": {
+    "message": "Aangepast"
+  },
+  "options_download_title": {
+    "message": "Opslaglocatie"
+  },
+  "options_download_description": {
+    "message": "Kies waar gedownloade video's worden opgeslagen"
+  },
+  "options_download_toggle_label": {
+    "message": "Speciale map"
+  },
+  "options_download_toggle_description": {
+    "message": "Alle downloads naar één map sturen"
+  },
+  "options_download_folder_label": {
+    "message": "Mapnaam"
+  },
+  "options_download_folder_description": {
+    "message": "Pad in Downloads (leeg voor root)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "Weergave"
+  },
+  "options_appearance_description": {
+    "message": "Kies het uiterlijk van Video Downloader Plus"
+  },
+  "options_theme_system": {
+    "message": "Systeem"
+  },
+  "options_theme_light": {
+    "message": "Licht"
+  },
+  "options_theme_dark": {
+    "message": "Donker"
+  },
+  "options_cast_title": {
+    "message": "Cast naar TV"
+  },
+  "options_cast_description": {
+    "message": "Stream video's naar Chromecast-apparaten"
+  },
+  "options_cast_toggle_label": {
+    "message": "Cast-knop"
+  },
+  "options_cast_toggle_description": {
+    "message": "Toon een Cast-pictogram naast ondersteunde video's"
+  },
+  "options_badge_title": {
+    "message": "Badge"
+  },
+  "options_badge_description": {
+    "message": "Kies wat de badge van het werkbalkpictogram toont"
+  },
+  "options_badge_count": {
+    "message": "Aantal"
+  },
+  "options_badge_dot": {
+    "message": "Punt"
+  },
+  "options_badge_hidden": {
+    "message": "Verborgen"
+  },
+  "options_website_title": {
+    "message": "Siteblokkeerlijst"
+  },
+  "options_website_description": {
+    "message": "Voorkom dat Video Downloader Plus op bepaalde sites werkt"
+  },
+  "options_website_add_label": {
+    "message": "Site blokkeren"
+  },
+  "options_website_add_description": {
+    "message": "Geaccepteerde patronen: <code>example.com</code> of <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com of *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "Blokkeren"
+  },
+  "options_website_list_label": {
+    "message": "Geblokkeerde sites"
+  },
+  "options_website_empty": {
+    "message": "Nog geen sites geblokkeerd"
+  },
+  "options_status_unsaved": {
+    "message": "Niet-opgeslagen wijzigingen"
+  },
+  "options_status_saved": {
+    "message": "Instellingen opgeslagen"
+  },
+  "options_button_save": {
+    "message": "Toepassen"
+  },
+  "options_button_reset": {
+    "message": "Standaardwaarden herstellen"
+  },
+  "options_button_reset_confirm": {
+    "message": "Weet je het zeker?"
+  },
+  "options_toast_reset_success": {
+    "message": "Instellingen hersteld naar standaard"
+  },
+  "options_toast_reset_error": {
+    "message": "Instellingen herstellen mislukt"
+  },
+  "options_button_logout": {
+    "message": "Uitloggen"
+  },
+  "options_toast_min_size": {
+    "message": "Minimum is $1 $2"
+  },
+  "options_toast_enter_domain": {
+    "message": "Voer eerst een domein in"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "Ongeldige invoer"
+  },
+  "options_toast_invalid_domain": {
+    "message": "Voer een geldig domein in zoals example.com of *.example.com"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "Ongeldig domein"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "Die site staat al op de blokkeerlijst"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "Al geblokkeerd"
+  },
+  "options_toast_block_limit": {
+    "message": "Je kunt maximaal $1 sites blokkeren."
+  },
+  "options_toast_permission_denied": {
+    "message": "Toegang geweigerd. Schakel de schakelaar om het opnieuw te proberen."
+  },
+  "options_toast_permission_title": {
+    "message": "Toegang vereist"
+  },
+  "options_toast_permission_failed": {
+    "message": "Kon toestemming niet aanvragen. Probeer het opnieuw."
+  },
+  "options_toast_save_success": {
+    "message": "Instellingen toegepast"
+  },
+  "options_toast_save_error": {
+    "message": "Kon niet opslaan. Probeer het opnieuw."
+  },
+  "options_toast_logout_success": {
+    "message": "Uitgelogd"
+  },
+  "options_toast_logout_error": {
+    "message": "Uitloggen mislukt. Probeer het opnieuw."
+  },
+  "options_toast_load_error": {
+    "message": "Kon instellingen niet laden. Vernieuw de pagina."
+  },
+  "options_footer_privacy": {
+    "message": "Privacybeleid"
+  },
+  "options_footer_terms": {
+    "message": "Servicevoorwaarden"
+  },
+  "player_modal_close": {
+    "message": "Speler sluiten"
+  },
+  "player_modal_error": {
+    "message": "Kan deze video niet afspelen"
+  },
+  "player_modal_unsupported": {
+    "message": "Dit formaat kan niet worden bekeken. Gebruik in plaats daarvan de download."
+  },
+  "player_modal_loading": {
+    "message": "Video laden..."
+  },
+  "options_header_badge": {
+    "message": "Instellingen"
+  },
+  "toast_viewport_label": {
+    "message": "Meldingen"
+  },
+  "popup_group_streaming_title": {
+    "message": "Streaming $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "Ophalen via server $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "Directe download $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "Ophalen via server"
+  },
+  "popup_group_merge_note": {
+    "message": "Audio en video zijn gescheiden — ze zullen tijdens het downloaden worden samengevoegd"
+  },
+  "popup_dismiss_label": {
+    "message": "Sluiten"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "Streamweergave mislukt"
+  },
+  "player_error_hls_unsupported": {
+    "message": "HLS-weergave wordt niet ondersteund"
+  },
+  "player_error_library_failed": {
+    "message": "Kan streamingbibliotheek niet laden"
+  },
+  "player_error_no_url": {
+    "message": "Geen afspeelbare URL beschikbaar"
+  },
+  "player_error_unsupported_format": {
+    "message": "Dit formaat kan niet worden bekeken"
+  },
+  "error_no_internet": {
+    "message": "Geen internetverbinding"
+  },
+  "error_server_unavailable": {
+    "message": "Server tijdelijk niet beschikbaar"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "Start je gratis proefperiode om elke video direct te downloaden — geen verplichting, annuleer op elk moment."
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "Probeer Premium gratis — download elke video in elke kwaliteit, zonder limieten."
+  }
+}

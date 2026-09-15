@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "ჩამოტვირთეთ და შეინახეთ ვიდეოები ნებისმიერი ვებსაიტიდან მყისიერად. სწრაფი და მარტივი ვიდეო ჩამომტვირთველი."
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "ნახე მოგვიანებით"
+  },
+  "popup_saved": {
+    "message": "შენახულია"
+  },
+  "popup_my_list": {
+    "message": "ჩემი სია"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 ხარისხი"
+  },
+  "popup_group_title_fallback": {
+    "message": "ვიდეო"
+  },
+  "popup_group_title_numbered": {
+    "message": "ვიდეო $1"
+  },
+  "popup_footer_settings": {
+    "message": "პარამეტრები"
+  },
+  "popup_footer_reviews": {
+    "message": "მიმოხილვები"
+  },
+  "popup_footer_blog": {
+    "message": "ბლოგი"
+  },
+  "popup_footer_account": {
+    "message": "ანგარიში"
+  },
+  "popup_footer_upgrade": {
+    "message": "განახლება"
+  },
+  "popup_play_button_label": {
+    "message": "ვიდეოს გაშვება"
+  },
+  "popup_cast_button_label": {
+    "message": "გადაცემა მოწყობილობაზე"
+  },
+  "popup_live_label": {
+    "message": "პირდაპირ"
+  },
+  "popup_download_label": {
+    "message": "ჩამოტვირთვა"
+  },
+  "popup_audio_label": {
+    "message": "აუდიო"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "მხოლოდ აუდიო"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps აუდიო"
+  },
+  "popup_empty_state": {
+    "message": "ვიდეოები ვერ მოიძებნა."
+  },
+  "popup_report_no_video": {
+    "message": "პრობლემის შეტყობინება"
+  },
+  "popup_report_submitting": {
+    "message": "იგზავნება..."
+  },
+  "popup_report_success": {
+    "message": "გმადლობთ შეტყობინებისთვის!"
+  },
+  "popup_report_error": {
+    "message": "გაგზავნა ვერ მოხერხდა. სცადეთ ხელახლა."
+  },
+  "popup_site_blocked": {
+    "message": "ეს საიტი დაბლოკილია. ვიდეოების აღმოსაჩენად შეგიძლიათ განბლოკოთ."
+  },
+  "popup_unblock_site": {
+    "message": "საიტის განბლოკვა"
+  },
+  "popup_toast_unblock_success": {
+    "message": "საიტი განბლოკილია! იტვირთება..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "განბლოკვა ვერ მოხერხდა"
+  },
+  "popup_block_site": {
+    "message": "ამ საიტის დაბლოკვა"
+  },
+  "popup_toast_block_success": {
+    "message": "საიტი დაბლოკილია! იტვირთება..."
+  },
+  "popup_toast_block_failed": {
+    "message": "დაბლოკვა ვერ მოხერხდა"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "უსაფრთხო ჩამოტვირთვის გვერდი ვერ გაიხსნა"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "უსაფრთხო ჩამოტვირთვა ვერ მომზადდა"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "უსაფრთხო ჩამოტვირთვა მზადდება…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "უსაფრთხო ჩამოტვირთვა ვერ დაიწყო. სცადეთ ხელახლა."
+  },
+  "popup_toast_open_source_failed": {
+    "message": "ეს ვიდეო ვერ გაიხსნა"
+  },
+  "popup_toast_identify_failed": {
+    "message": "ეს ვიდეო ვერ ამოიცნო"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "ნახე მოგვიანებით სიიდან ამოღებულია"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "ნახე მოგვიანებით სიაში შენახულია"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "ნახე მოგვიანებით ვერ განახლდა"
+  },
+  "popup_toast_settings_failed": {
+    "message": "პარამეტრები ვერ ჩაიტვირთა"
+  },
+  "popup_toast_videos_failed": {
+    "message": "ვიდეოები ვერ ჩაიტვირთა"
+  },
+  "popup_toast_download_started": {
+    "message": "ჩამოტვირთვა დაიწყო"
+  },
+  "popup_toast_download_failed": {
+    "message": "ჩამოტვირთვა ვერ დაიწყო"
+  },
+  "popup_toast_cast_error": {
+    "message": "Chromecast ვერ მომზადდა. სცადეთ ხელახლა."
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "ამ გვერდზე ვიდეოები ვერ ჩაიტვირთა"
+  },
+  "watch_later_error_server": {
+    "message": "სერვერთან დაკავშირება ვერ მოხერხდა. სცადეთ ხელახლა."
+  },
+  "watch_later_error_login": {
+    "message": "ნახე მოგვიანებით ვიდეოების სამართავად შედით."
+  },
+  "watch_later_error_upgrade": {
+    "message": "ნახე მოგვიანებით-ისთვის განახლება საჭიროა."
+  },
+  "watch_later_error_premium_only": {
+    "message": "ვიდეოების შესანახად საჭიროა Premium."
+  },
+  "watch_later_error_limit": {
+    "message": "უფასო შენახვის ლიმიტს მიაღწიეთ."
+  },
+  "watch_later_error_generic": {
+    "message": "ნახე მოგვიანებით ვერ განახლდა. სცადეთ ხელახლა."
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "ჩანართის თითის ანაბეჭდი აკლია."
+  },
+  "watch_later_error_missing_source": {
+    "message": "ამ ვიდეოს წყაროს ბმული არ აქვს."
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "ნახე მოგვიანებით იდენტიფიკატორი აკლია."
+  },
+  "save_premium_modal_title": {
+    "message": "შეინახეთ ვიდეოები Premium-ით"
+  },
+  "save_premium_modal_message": {
+    "message": "ვიდეოების თქვენს ბიბლიოთეკაში შენახვა ხელმისაწვდომია Premium წევრებისთვის. განაახლეთ შეუზღუდავი ვიდეოების შესანახად."
+  },
+  "limit_modal_title": {
+    "message": "შენახვის ლიმიტი მიღწეულია"
+  },
+  "limit_modal_message": {
+    "message": "თქვენ მიაღწიეთ უფასო შენახვის ლიმიტს. განაახლეთ Premium-ზე შეუზღუდავი ვიდეოების შესანახად."
+  },
+  "limit_modal_upgrade": {
+    "message": "მიიღეთ Premium"
+  },
+  "limit_modal_start_trial": {
+    "message": "დაიწყეთ უფასო საცდელი პერიოდი"
+  },
+  "limit_modal_later": {
+    "message": "ახლა არა"
+  },
+  "hd_limit_modal_title": {
+    "message": "დღიური HD ჩამოტვირთვის ლიმიტი მიღწეულია"
+  },
+  "hd_limit_modal_message": {
+    "message": "თქვენ მიაღწიეთ დღიურ უფასო HD ჩამოტვირთვის ლიმიტს. განაახლეთ Premium-ზე სრული ხარისხით ვიდეოების ჩამოსატვირთად შეზღუდვების გარეშე."
+  },
+  "download_premium_modal_title": {
+    "message": "გახსენით ვიდეოების ჩამოტვირთვა"
+  },
+  "download_premium_modal_message": {
+    "message": "განაახლეთ Premium-ზე ნებისმიერი ვიდეოს ნებისმიერი ხარისხით ჩამოსატვირთად — შეუზღუდავი ჩამოტვირთვები."
+  },
+  "cast_limit_modal_title": {
+    "message": "დღიური ტრანსლაციის ლიმიტი მიღწეულია"
+  },
+  "cast_limit_modal_message": {
+    "message": "თქვენ მიაღწიეთ დღიურ უფასო ტრანსლაციის ლიმიტს. განაახლეთ Premium-ზე ნებისმიერი ვიდეოს ტელევიზორზე ტრანსლაციისთვის შეზღუდვების გარეშე."
+  },
+  "cast_premium_modal_title": {
+    "message": "ტრანსლაცია ტელევიზორზე Premium-ით"
+  },
+  "cast_premium_modal_message": {
+    "message": "Chromecast ტრანსლაცია ხელმისაწვდომია Premium წევრებისთვის. განაახლეთ ნებისმიერი ვიდეოს ტელევიზორზე სტრიმინგისთვის შეზღუდვების გარეშე."
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "დაიწყეთ უფასო საცდელი პერიოდი ნებისმიერი ვიდეოს ტელევიზორზე გადასაცემად — ვალდებულების გარეშე, გააუქმეთ ნებისმიერ დროს."
+  },
+  "review_modal_title": {
+    "message": "მოგწონთ Video Downloader Plus?"
+  },
+  "review_modal_message": {
+    "message": "თუ Video Downloader Plus გამოგადგათ, სწრაფი მიმოხილვა Chrome Web Store-ზე ჩვენთვის ძალიან ბევრს ნიშნავს!"
+  },
+  "review_modal_rate": {
+    "message": "შეაფასეთ Video Downloader Plus"
+  },
+  "review_modal_later": {
+    "message": "იქნებ მოგვიანებით"
+  },
+  "download_limit_banner_remaining": {
+    "message": "დღეს $1 HD ჩამოტვირთვა დარჩა"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "დღიური HD ჩამოტვირთვის ლიმიტი მიღწეულია"
+  },
+  "download_limit_banner_reset": {
+    "message": "აღდგენა $1-ში"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "განაახლეთ Premium-ზე — ჩამოტვირთეთ ნებისმიერი ვიდეო ნებისმიერი ხარისხით, შეზღუდვების გარეშე."
+  },
+  "generic_video_label": {
+    "message": "ვიდეო"
+  },
+  "popup_actions_cast": {
+    "message": "გადაცემა"
+  },
+  "popup_actions_download": {
+    "message": "ჩამოტვირთვა"
+  },
+  "popup_actions_premium": {
+    "message": "პრემიუმ"
+  },
+  "popup_actions_save": {
+    "message": "შენახვა"
+  },
+  "toast_dismiss": {
+    "message": "დახურვა"
+  },
+  "options_header_subtitle": {
+    "message": "მოარგეთ როგორ აღმოაჩენს და შეინახავს Video Downloader Plus ვიდეოებს"
+  },
+  "options_help_center": {
+    "message": "დახმარების ცენტრი"
+  },
+  "options_support": {
+    "message": "მხარდაჭერა"
+  },
+  "options_formats_title": {
+    "message": "მედია ფორმატები"
+  },
+  "options_formats_description": {
+    "message": "აირჩიეთ რა ტიპის ფაილებს ეძებს Video Downloader Plus"
+  },
+  "options_formats_video_label": {
+    "message": "ვიდეო"
+  },
+  "options_formats_audio_label": {
+    "message": "აუდიო"
+  },
+  "options_size_title": {
+    "message": "ზომის ზღვარი"
+  },
+  "options_size_description": {
+    "message": "პატარა ფაილების უგულებელყოფა"
+  },
+  "options_size_label": {
+    "message": "მინ. ზომა"
+  },
+  "options_size_custom": {
+    "message": "მორგებული"
+  },
+  "options_download_title": {
+    "message": "შენახვის ადგილი"
+  },
+  "options_download_description": {
+    "message": "აირჩიეთ სად შეინახება ჩამოტვირთული ვიდეოები"
+  },
+  "options_download_toggle_label": {
+    "message": "გამოყოფილი საქაღალდე"
+  },
+  "options_download_toggle_description": {
+    "message": "ყველა ჩამოტვირთვა ერთ საქაღალდეში გადაამისამართეთ"
+  },
+  "options_download_folder_label": {
+    "message": "საქაღალდის სახელი"
+  },
+  "options_download_folder_description": {
+    "message": "გზა ჩამოტვირთვებში (ძირისთვის ცარიელი)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "გარეგნობა"
+  },
+  "options_appearance_description": {
+    "message": "აირჩიეთ როგორ გამოიყურება Video Downloader Plus"
+  },
+  "options_theme_system": {
+    "message": "სისტემის"
+  },
+  "options_theme_light": {
+    "message": "ღია"
+  },
+  "options_theme_dark": {
+    "message": "მუქი"
+  },
+  "options_cast_title": {
+    "message": "გადაცემა ტელევიზორზე"
+  },
+  "options_cast_description": {
+    "message": "ვიდეოების სტრიმინგი Chromecast მოწყობილობებზე"
+  },
+  "options_cast_toggle_label": {
+    "message": "გადაცემის ღილაკი"
+  },
+  "options_cast_toggle_description": {
+    "message": "მხარდაჭერილ ვიდეოებთან გადაცემის ხატულის ჩვენება"
+  },
+  "options_badge_title": {
+    "message": "ბეჯი"
+  },
+  "options_badge_description": {
+    "message": "აირჩიეთ რას აჩვენებს ხელსაწყოთა ზოლის ხატულის ბეჯი"
+  },
+  "options_badge_count": {
+    "message": "რაოდენობა"
+  },
+  "options_badge_dot": {
+    "message": "წერტილი"
+  },
+  "options_badge_hidden": {
+    "message": "დამალული"
+  },
+  "options_website_title": {
+    "message": "ბლოკის სია"
+  },
+  "options_website_description": {
+    "message": "აუკრძალეთ Video Downloader Plus-ს კონკრეტულ საიტებზე მუშაობა"
+  },
+  "options_website_add_label": {
+    "message": "საიტის დაბლოკვა"
+  },
+  "options_website_add_description": {
+    "message": "მისაღები შაბლონები: <code>example.com</code> ან <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com ან *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "დაბლოკვა"
+  },
+  "options_website_list_label": {
+    "message": "დაბლოკილი საიტები"
+  },
+  "options_website_empty": {
+    "message": "ჯერ დაბლოკილი საიტები არ არის"
+  },
+  "options_status_unsaved": {
+    "message": "შეუნახავი ცვლილებები"
+  },
+  "options_status_saved": {
+    "message": "პარამეტრები შენახულია"
+  },
+  "options_button_save": {
+    "message": "გამოყენება"
+  },
+  "options_button_reset": {
+    "message": "ნაგულისხმევზე დაბრუნება"
+  },
+  "options_button_reset_confirm": {
+    "message": "დარწმუნებული ხართ?"
+  },
+  "options_toast_reset_success": {
+    "message": "პარამეტრები ნაგულისხმევზე აღდგა"
+  },
+  "options_toast_reset_error": {
+    "message": "პარამეტრების გადატვირთვა ვერ მოხერხდა"
+  },
+  "options_button_logout": {
+    "message": "გასვლა"
+  },
+  "options_toast_min_size": {
+    "message": "მინიმუმი არის $1 $2"
+  },
+  "options_toast_enter_domain": {
+    "message": "ჯერ დომენი შეიყვანეთ"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "არასწორი შეყვანა"
+  },
+  "options_toast_invalid_domain": {
+    "message": "შეიყვანეთ სწორი დომენი როგორც example.com ან *.example.com"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "არასწორი დომენი"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "ეს საიტი უკვე ბლოკის სიაშია"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "უკვე დაბლოკილია"
+  },
+  "options_toast_block_limit": {
+    "message": "შეგიძლიათ $1 საიტამდე დაბლოკოთ."
+  },
+  "options_toast_permission_denied": {
+    "message": "წვდომა უარყოფილია. ხელახლა სცადეთ."
+  },
+  "options_toast_permission_title": {
+    "message": "წვდომა საჭიროა"
+  },
+  "options_toast_permission_failed": {
+    "message": "ნებართვის მოთხოვნა ვერ მოხერხდა. სცადეთ ხელახლა."
+  },
+  "options_toast_save_success": {
+    "message": "პარამეტრები გამოყენებულია"
+  },
+  "options_toast_save_error": {
+    "message": "შენახვა ვერ მოხერხდა. სცადეთ ხელახლა."
+  },
+  "options_toast_logout_success": {
+    "message": "გასული ხართ"
+  },
+  "options_toast_logout_error": {
+    "message": "გასვლა ვერ მოხერხდა. სცადეთ ხელახლა."
+  },
+  "options_toast_load_error": {
+    "message": "პარამეტრები ვერ ჩაიტვირთა. გვერდი განაახლეთ."
+  },
+  "options_footer_privacy": {
+    "message": "კონფიდენციალურობის პოლიტიკა"
+  },
+  "options_footer_terms": {
+    "message": "მომსახურების პირობები"
+  },
+  "player_modal_close": {
+    "message": "პლეიერის დახურვა"
+  },
+  "player_modal_error": {
+    "message": "ეს ვიდეო ვერ გაეშვა"
+  },
+  "player_modal_unsupported": {
+    "message": "ეს ფორმატი ვერ გადაიხედება. გამოიყენეთ ჩამოტვირთვა."
+  },
+  "player_modal_loading": {
+    "message": "ვიდეო იტვირთება..."
+  },
+  "options_header_badge": {
+    "message": "პარამეტრები"
+  },
+  "toast_viewport_label": {
+    "message": "შეტყობინებები"
+  },
+  "popup_group_streaming_title": {
+    "message": "სტრიმინგი $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "სერვერიდან მიღება $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "პირდაპირი ჩამოტვირთვა $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "სერვერიდან მიღება"
+  },
+  "popup_group_merge_note": {
+    "message": "აუდიო და ვიდეო ცალ-ცალკეა — ჩამოტვირთვისას გაერთიანდება"
+  },
+  "popup_dismiss_label": {
+    "message": "დახურვა"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "სტრიმის გაშვება ვერ მოხერხდა"
+  },
+  "player_error_hls_unsupported": {
+    "message": "HLS გაშვება მხარდაუჭერელია"
+  },
+  "player_error_library_failed": {
+    "message": "სტრიმინგის ბიბლიოთეკის ჩატვირთვა ვერ მოხერხდა"
+  },
+  "player_error_no_url": {
+    "message": "გასაშვები URL ხელმისაწვდომი არ არის"
+  },
+  "player_error_unsupported_format": {
+    "message": "ეს ფორმატი ვერ გადაიხედება"
+  },
+  "error_no_internet": {
+    "message": "ინტერნეტთან კავშირი არ არის"
+  },
+  "error_server_unavailable": {
+    "message": "სერვერი დროებით მიუწვდომელია"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "დაიწყეთ უფასო საცდელი პერიოდი ნებისმიერი ვიდეოს მყისიერად ჩამოსატვირთად — ვალდებულების გარეშე, გააუქმეთ ნებისმიერ დროს."
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "სცადეთ Premium უფასოდ — ჩამოტვირთეთ ნებისმიერი ვიდეო ნებისმიერი ხარისხით, ლიმიტების გარეშე."
+  }
+}

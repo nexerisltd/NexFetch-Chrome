@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "எந்த வலைத்தளத்திலிருந்தும் வீடியோக்களை உடனடியாக பதிவிறக்கம் செய்து சேமிக்கவும். வேகமான, எளிய வீடியோ பதிவிறக்கி."
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "பின்னர் பார்"
+  },
+  "popup_saved": {
+    "message": "சேமிக்கப்பட்டது"
+  },
+  "popup_my_list": {
+    "message": "எனது பட்டியல்"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 தரங்கள்"
+  },
+  "popup_group_title_fallback": {
+    "message": "வீடியோ"
+  },
+  "popup_group_title_numbered": {
+    "message": "வீடியோ $1"
+  },
+  "popup_footer_settings": {
+    "message": "அமைப்புகள்"
+  },
+  "popup_footer_reviews": {
+    "message": "மதிப்புரைகள்"
+  },
+  "popup_footer_blog": {
+    "message": "வலைப்பதிவு"
+  },
+  "popup_footer_account": {
+    "message": "கணக்கு"
+  },
+  "popup_footer_upgrade": {
+    "message": "மேம்படுத்து"
+  },
+  "popup_play_button_label": {
+    "message": "வீடியோ இயக்கு"
+  },
+  "popup_cast_button_label": {
+    "message": "சாதனத்திற்கு அனுப்பு"
+  },
+  "popup_live_label": {
+    "message": "நேரலை"
+  },
+  "popup_download_label": {
+    "message": "பதிவிறக்கு"
+  },
+  "popup_audio_label": {
+    "message": "ஆடியோ"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "ஆடியோ மட்டும்"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps ஆடியோ"
+  },
+  "popup_empty_state": {
+    "message": "வீடியோக்கள் கிடைக்கவில்லை."
+  },
+  "popup_report_no_video": {
+    "message": "சிக்கலைப் புகாரளி"
+  },
+  "popup_report_submitting": {
+    "message": "சமர்ப்பிக்கிறது..."
+  },
+  "popup_report_success": {
+    "message": "புகாரளித்ததற்கு நன்றி!"
+  },
+  "popup_report_error": {
+    "message": "சமர்ப்பிக்க முடியவில்லை. மீண்டும் முயற்சிக்கவும்."
+  },
+  "popup_site_blocked": {
+    "message": "இந்த தளம் தடுக்கப்பட்டுள்ளது. வீடியோக்களைக் கண்டறிய தடையை நீக்கவும்."
+  },
+  "popup_unblock_site": {
+    "message": "தளத்தை தடைநீக்கு"
+  },
+  "popup_toast_unblock_success": {
+    "message": "தளம் தடைநீக்கப்பட்டது! மீளேற்றம்..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "தடைநீக்கம் தோல்வி"
+  },
+  "popup_block_site": {
+    "message": "இந்த தளத்தைத் தடு"
+  },
+  "popup_toast_block_success": {
+    "message": "தளம் தடுக்கப்பட்டது! மீளேற்றம்..."
+  },
+  "popup_toast_block_failed": {
+    "message": "தடுப்பு தோல்வி"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "பாதுகாப்பான பதிவிறக்கப் பக்கத்தைத் திறக்க முடியவில்லை"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "பாதுகாப்பான பதிவிறக்கத்தைத் தயாரிக்க முடியவில்லை"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "பாதுகாப்பான பதிவிறக்கம் தயாராகிறது…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "பாதுகாப்பான பதிவிறக்கத்தைத் தொடங்க முடியவில்லை. மீண்டும் முயற்சிக்கவும்."
+  },
+  "popup_toast_open_source_failed": {
+    "message": "இந்த வீடியோவைத் திறக்க முடியவில்லை"
+  },
+  "popup_toast_identify_failed": {
+    "message": "இந்த வீடியோவை அடையாளம் காண முடியவில்லை"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "பின்னர் பார் பட்டியலிலிருந்து நீக்கப்பட்டது"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "பின்னர் பார் பட்டியலில் சேமிக்கப்பட்டது"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "பின்னர் பார் புதுப்பிக்க முடியவில்லை"
+  },
+  "popup_toast_settings_failed": {
+    "message": "அமைப்புகளை ஏற்ற முடியவில்லை"
+  },
+  "popup_toast_videos_failed": {
+    "message": "வீடியோக்களை ஏற்ற முடியவில்லை"
+  },
+  "popup_toast_download_started": {
+    "message": "பதிவிறக்கம் தொடங்கியது"
+  },
+  "popup_toast_download_failed": {
+    "message": "பதிவிறக்கத்தைத் தொடங்க முடியவில்லை"
+  },
+  "popup_toast_cast_error": {
+    "message": "Chromecast தயாரிக்க முடியவில்லை. மீண்டும் முயற்சிக்கவும்."
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "இந்தப் பக்கத்தில் வீடியோக்களை ஏற்ற முடியவில்லை"
+  },
+  "watch_later_error_server": {
+    "message": "சேவையகத்துடன் இணைக்க முடியவில்லை. மீண்டும் முயற்சிக்கவும்."
+  },
+  "watch_later_error_login": {
+    "message": "பின்னர் பார் வீடியோக்களை நிர்வகிக்க உள்நுழையவும்."
+  },
+  "watch_later_error_upgrade": {
+    "message": "பின்னர் பாருக்கு மேம்படுத்தல் தேவை."
+  },
+  "watch_later_error_premium_only": {
+    "message": "வீடியோக்களைச் சேமிக்க Premium தேவை."
+  },
+  "watch_later_error_limit": {
+    "message": "இலவச சேமிப்பு வரம்பை எட்டிவிட்டீர்கள்."
+  },
+  "watch_later_error_generic": {
+    "message": "பின்னர் பார் புதுப்பிக்க முடியவில்லை. மீண்டும் முயற்சிக்கவும்."
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "தாவல் கைரேகை இல்லை."
+  },
+  "watch_later_error_missing_source": {
+    "message": "இந்த வீடியோவுக்கு மூல இணைப்பு இல்லை."
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "பின்னர் பார் அடையாளங்காட்டி இல்லை."
+  },
+  "save_premium_modal_title": {
+    "message": "Premium உடன் வீடியோக்களைச் சேமியுங்கள்"
+  },
+  "save_premium_modal_message": {
+    "message": "உங்கள் நூலகத்தில் வீடியோக்களைச் சேமிப்பது Premium உறுப்பினர்களுக்கு கிடைக்கும். வரம்பற்ற வீடியோக்களைச் சேமிக்க மேம்படுத்தவும்."
+  },
+  "limit_modal_title": {
+    "message": "சேமிப்பு வரம்பை எட்டியது"
+  },
+  "limit_modal_message": {
+    "message": "உங்கள் இலவச சேமிப்பு வரம்பை எட்டிவிட்டீர்கள். வரம்பற்ற வீடியோக்களை சேமிக்க Premium க்கு மேம்படுத்துங்கள்."
+  },
+  "limit_modal_upgrade": {
+    "message": "Premium பெறுங்கள்"
+  },
+  "limit_modal_start_trial": {
+    "message": "இலவச சோதனையைத் தொடங்கு"
+  },
+  "limit_modal_later": {
+    "message": "இப்போது வேண்டாம்"
+  },
+  "hd_limit_modal_title": {
+    "message": "தினசரி HD பதிவிறக்க வரம்பை எட்டியது"
+  },
+  "hd_limit_modal_message": {
+    "message": "உங்கள் தினசரி இலவச HD பதிவிறக்க வரம்பை எட்டிவிட்டீர்கள். வரம்புகள் இல்லாமல் முழு தரத்தில் வீடியோக்களை பதிவிறக்க Premium க்கு மேம்படுத்துங்கள்."
+  },
+  "download_premium_modal_title": {
+    "message": "வீடியோ பதிவிறக்கங்களைத் திறக்கவும்"
+  },
+  "download_premium_modal_message": {
+    "message": "எந்த வீடியோவையும் எந்த தரத்திலும் பதிவிறக்க Premium க்கு மேம்படுத்தவும் — வரம்பற்ற பதிவிறக்கங்கள்."
+  },
+  "cast_limit_modal_title": {
+    "message": "தினசரி காஸ்ட் வரம்பை எட்டியது"
+  },
+  "cast_limit_modal_message": {
+    "message": "உங்கள் தினசரி இலவச காஸ்ட் வரம்பை எட்டிவிட்டீர்கள். வரம்புகள் இல்லாமல் எந்த வீடியோவையும் உங்கள் TV க்கு காஸ்ட் செய்ய Premium க்கு மேம்படுத்துங்கள்."
+  },
+  "cast_premium_modal_title": {
+    "message": "Premium உடன் உங்கள் TV க்கு காஸ்ட் செய்யுங்கள்"
+  },
+  "cast_premium_modal_message": {
+    "message": "Chromecast காஸ்டிங் Premium உறுப்பினர்களுக்கு கிடைக்கும். வரம்புகள் இல்லாமல் எந்த வீடியோவையும் உங்கள் TV க்கு ஸ்ட்ரீம் செய்ய மேம்படுத்துங்கள்."
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "உங்கள் டிவிக்கு எந்த வீடியோவையும் காஸ்ட் செய்ய இலவச சோதனையைத் தொடங்குங்கள் — எந்த கடமையும் இல்லை, எப்போது வேண்டுமானாலும் ரத்து செய்யுங்கள்."
+  },
+  "review_modal_title": {
+    "message": "Video Downloader Plus பிடிக்குமா?"
+  },
+  "review_modal_message": {
+    "message": "Video Downloader Plus உதவிகரமாக இருந்தால், Chrome Web Store-ல் விரைவான மதிப்பீடு எங்களுக்கு மிகவும் பொருள்படும்!"
+  },
+  "review_modal_rate": {
+    "message": "Video Downloader Plus மதிப்பிடு"
+  },
+  "review_modal_later": {
+    "message": "பிறகு ஒருவேளை"
+  },
+  "download_limit_banner_remaining": {
+    "message": "இன்று $1 HD பதிவிறக்கங்கள் மீதம்"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "தினசரி HD பதிவிறக்க வரம்பை எட்டியது"
+  },
+  "download_limit_banner_reset": {
+    "message": "$1-ல் மீட்டமைப்பு"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "Premium க்கு மேம்படுத்தவும் — எந்த வீடியோவையும் எந்த தரத்திலும் பதிவிறக்கவும், வரம்புகள் இல்லை."
+  },
+  "generic_video_label": {
+    "message": "வீடியோ"
+  },
+  "popup_actions_cast": {
+    "message": "அனுப்பு"
+  },
+  "popup_actions_download": {
+    "message": "பதிவிறக்கு"
+  },
+  "popup_actions_premium": {
+    "message": "பிரீமியம்"
+  },
+  "popup_actions_save": {
+    "message": "சேமி"
+  },
+  "toast_dismiss": {
+    "message": "மூடு"
+  },
+  "options_header_subtitle": {
+    "message": "Video Downloader Plus வீடியோக்களை எவ்வாறு கண்டறிந்து சேமிக்கிறது என்பதைத் தனிப்பயனாக்கு"
+  },
+  "options_help_center": {
+    "message": "உதவி மையம்"
+  },
+  "options_support": {
+    "message": "ஆதரவு"
+  },
+  "options_formats_title": {
+    "message": "ஊடக வடிவங்கள்"
+  },
+  "options_formats_description": {
+    "message": "Video Downloader Plus எந்த கோப்பு வகைகளைத் தேட வேண்டும் என்பதைத் தேர்ந்தெடுக்கவும்"
+  },
+  "options_formats_video_label": {
+    "message": "வீடியோ"
+  },
+  "options_formats_audio_label": {
+    "message": "ஆடியோ"
+  },
+  "options_size_title": {
+    "message": "அளவு வரம்பு"
+  },
+  "options_size_description": {
+    "message": "சிறிய கோப்புகளை புறக்கணி"
+  },
+  "options_size_label": {
+    "message": "குறைந்தபட்ச அளவு"
+  },
+  "options_size_custom": {
+    "message": "தனிப்பயன்"
+  },
+  "options_download_title": {
+    "message": "சேமிப்பு இடம்"
+  },
+  "options_download_description": {
+    "message": "பதிவிறக்கிய வீடியோக்கள் எங்கே சேமிக்கப்படும் என்பதைத் தேர்ந்தெடுக்கவும்"
+  },
+  "options_download_toggle_label": {
+    "message": "பிரத்யேக கோப்புறை"
+  },
+  "options_download_toggle_description": {
+    "message": "அனைத்து பதிவிறக்கங்களையும் ஒரு கோப்புறைக்கு வழிநடத்து"
+  },
+  "options_download_folder_label": {
+    "message": "கோப்புறை பெயர்"
+  },
+  "options_download_folder_description": {
+    "message": "பதிவிறக்கங்களில் பாதை (மூலத்திற்கு காலி)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "தோற்றம்"
+  },
+  "options_appearance_description": {
+    "message": "Video Downloader Plus எப்படி தெரிய வேண்டும் என்பதைத் தேர்ந்தெடுக்கவும்"
+  },
+  "options_theme_system": {
+    "message": "கணினி"
+  },
+  "options_theme_light": {
+    "message": "ஒளி"
+  },
+  "options_theme_dark": {
+    "message": "இருள்"
+  },
+  "options_cast_title": {
+    "message": "TV-க்கு அனுப்பு"
+  },
+  "options_cast_description": {
+    "message": "Chromecast சாதனங்களுக்கு வீடியோக்களை ஸ்ட்ரீம் செய்யவும்"
+  },
+  "options_cast_toggle_label": {
+    "message": "அனுப்பு பொத்தான்"
+  },
+  "options_cast_toggle_description": {
+    "message": "ஆதரிக்கப்படும் வீடியோக்களுக்கு அருகில் அனுப்பு ஐகானைக் காட்டு"
+  },
+  "options_badge_title": {
+    "message": "பேட்ஜ்"
+  },
+  "options_badge_description": {
+    "message": "கருவிப்பட்டி ஐகான் பேட்ஜ் என்ன காட்ட வேண்டும் என்பதைத் தேர்ந்தெடுக்கவும்"
+  },
+  "options_badge_count": {
+    "message": "எண்ணிக்கை"
+  },
+  "options_badge_dot": {
+    "message": "புள்ளி"
+  },
+  "options_badge_hidden": {
+    "message": "மறைக்கப்பட்டது"
+  },
+  "options_website_title": {
+    "message": "தடுப்புப்பட்டியல்"
+  },
+  "options_website_description": {
+    "message": "குறிப்பிட்ட தளங்களில் Video Downloader Plus இயங்குவதைத் தடு"
+  },
+  "options_website_add_label": {
+    "message": "தளத்தைத் தடு"
+  },
+  "options_website_add_description": {
+    "message": "ஏற்றுக்கொள்ளப்படும் வடிவங்கள்: <code>example.com</code> அல்லது <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com அல்லது *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "தடு"
+  },
+  "options_website_list_label": {
+    "message": "தடுக்கப்பட்ட தளங்கள்"
+  },
+  "options_website_empty": {
+    "message": "இன்னும் தடுக்கப்பட்ட தளங்கள் இல்லை"
+  },
+  "options_status_unsaved": {
+    "message": "சேமிக்கப்படாத மாற்றங்கள்"
+  },
+  "options_status_saved": {
+    "message": "அமைப்புகள் சேமிக்கப்பட்டன"
+  },
+  "options_button_save": {
+    "message": "பயன்படுத்து"
+  },
+  "options_button_reset": {
+    "message": "இயல்புநிலைக்கு மீட்டமை"
+  },
+  "options_button_reset_confirm": {
+    "message": "உறுதியாகவா?"
+  },
+  "options_toast_reset_success": {
+    "message": "அமைப்புகள் இயல்புநிலைக்கு மீட்டமைக்கப்பட்டன"
+  },
+  "options_toast_reset_error": {
+    "message": "அமைப்புகளை மீட்டமைக்க இயலவில்லை"
+  },
+  "options_button_logout": {
+    "message": "வெளியேறு"
+  },
+  "options_toast_min_size": {
+    "message": "குறைந்தபட்சம் $1 $2"
+  },
+  "options_toast_enter_domain": {
+    "message": "முதலில் ஒரு டொமைன் உள்ளிடவும்"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "தவறான உள்ளீடு"
+  },
+  "options_toast_invalid_domain": {
+    "message": "example.com அல்லது *.example.com போன்ற சரியான டொமைன் உள்ளிடவும்"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "தவறான டொமைன்"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "இந்த தளம் ஏற்கனவே தடுப்புப்பட்டியலில் உள்ளது"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "ஏற்கனவே தடுக்கப்பட்டது"
+  },
+  "options_toast_block_limit": {
+    "message": "$1 தளங்கள் வரை தடுக்கலாம்."
+  },
+  "options_toast_permission_denied": {
+    "message": "அணுகல் மறுக்கப்பட்டது. மீண்டும் முயற்சிக்க மாற்றவும்."
+  },
+  "options_toast_permission_title": {
+    "message": "அணுகல் தேவை"
+  },
+  "options_toast_permission_failed": {
+    "message": "அனுமதி கோர முடியவில்லை. மீண்டும் முயற்சிக்கவும்."
+  },
+  "options_toast_save_success": {
+    "message": "அமைப்புகள் பயன்படுத்தப்பட்டன"
+  },
+  "options_toast_save_error": {
+    "message": "சேமிக்க முடியவில்லை. மீண்டும் முயற்சிக்கவும்."
+  },
+  "options_toast_logout_success": {
+    "message": "வெளியேறியது"
+  },
+  "options_toast_logout_error": {
+    "message": "வெளியேற்றம் தோல்வி. மீண்டும் முயற்சிக்கவும்."
+  },
+  "options_toast_load_error": {
+    "message": "அமைப்புகளை ஏற்ற முடியவில்லை. பக்கத்தை புதுப்பிக்கவும்."
+  },
+  "options_footer_privacy": {
+    "message": "தனியுரிமைக் கொள்கை"
+  },
+  "options_footer_terms": {
+    "message": "சேவை விதிமுறைகள்"
+  },
+  "player_modal_close": {
+    "message": "பிளேயரை மூடு"
+  },
+  "player_modal_error": {
+    "message": "இந்த வீடியோவை இயக்க முடியவில்லை"
+  },
+  "player_modal_unsupported": {
+    "message": "இந்த வடிவத்தை முன்னோட்டமிட முடியாது. பதிவிறக்கத்தைப் பயன்படுத்தவும்."
+  },
+  "player_modal_loading": {
+    "message": "வீடியோ ஏற்றப்படுகிறது..."
+  },
+  "options_header_badge": {
+    "message": "அமைப்புகள்"
+  },
+  "toast_viewport_label": {
+    "message": "அறிவிப்புகள்"
+  },
+  "popup_group_streaming_title": {
+    "message": "ஸ்ட்ரீமிங் $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "சர்வர் ஃபெட்ச் $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "நேரடி பதிவிறக்கம் $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "சர்வர் ஃபெட்ச்"
+  },
+  "popup_group_merge_note": {
+    "message": "ஆடியோவும் வீடியோவும் தனித்தனியாக உள்ளன — பதிவிறக்கத்தின்போது இணைக்கப்படும்"
+  },
+  "popup_dismiss_label": {
+    "message": "நிராகரி"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "ஸ்ட்ரீம் இயக்கம் தோல்வியடைந்தது"
+  },
+  "player_error_hls_unsupported": {
+    "message": "HLS இயக்கம் ஆதரிக்கப்படவில்லை"
+  },
+  "player_error_library_failed": {
+    "message": "ஸ்ட்ரீமிங் நூலகத்தை ஏற்ற இயலவில்லை"
+  },
+  "player_error_no_url": {
+    "message": "இயக்கக்கூடிய URL இல்லை"
+  },
+  "player_error_unsupported_format": {
+    "message": "இந்த வடிவத்தை முன்னோட்டமிட முடியாது"
+  },
+  "error_no_internet": {
+    "message": "இணைய இணைப்பு இல்லை"
+  },
+  "error_server_unavailable": {
+    "message": "சேவையகம் தற்காலிகமாக கிடைக்கவில்லை"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "எந்த வீடியோவையும் உடனடியாகப் பதிவிறக்க உங்கள் இலவச சோதனையைத் தொடங்குங்கள் — கடமை இல்லை, எப்போது வேண்டுமானாலும் ரத்து செய்யுங்கள்."
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "Premium ஐ இலவசமாக முயற்சிக்கவும் — எந்த தரத்திலும் எந்த வீடியோவையும் பதிவிறக்கவும், வரம்புகள் இல்லை."
+  }
+}

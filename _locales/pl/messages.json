@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "Pobieraj i zapisuj filmy z dowolnej strony internetowej natychmiast. Szybki, prosty program do pobierania wideo, który po prostu działa."
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "Obejrzyj później"
+  },
+  "popup_saved": {
+    "message": "Zapisano"
+  },
+  "popup_my_list": {
+    "message": "Moja lista"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 jakości"
+  },
+  "popup_group_title_fallback": {
+    "message": "Wideo"
+  },
+  "popup_group_title_numbered": {
+    "message": "Wideo $1"
+  },
+  "popup_footer_settings": {
+    "message": "Ustawienia"
+  },
+  "popup_footer_reviews": {
+    "message": "Recenzje"
+  },
+  "popup_footer_blog": {
+    "message": "Blog"
+  },
+  "popup_footer_account": {
+    "message": "Konto"
+  },
+  "popup_footer_upgrade": {
+    "message": "Uaktualnij"
+  },
+  "popup_play_button_label": {
+    "message": "Odtwórz wideo"
+  },
+  "popup_cast_button_label": {
+    "message": "Przesyłaj na urządzenie"
+  },
+  "popup_live_label": {
+    "message": "Na żywo"
+  },
+  "popup_download_label": {
+    "message": "Pobierz"
+  },
+  "popup_audio_label": {
+    "message": "Audio"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "Tylko audio"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps audio"
+  },
+  "popup_empty_state": {
+    "message": "Nie znaleziono filmów."
+  },
+  "popup_report_no_video": {
+    "message": "Zgłoś problem"
+  },
+  "popup_report_submitting": {
+    "message": "Wysyłanie..."
+  },
+  "popup_report_success": {
+    "message": "Dziękujemy za zgłoszenie!"
+  },
+  "popup_report_error": {
+    "message": "Nie udało się wysłać zgłoszenia. Spróbuj ponownie."
+  },
+  "popup_site_blocked": {
+    "message": "Ta strona jest zablokowana. Możesz ją odblokować, aby wykrywać filmy."
+  },
+  "popup_unblock_site": {
+    "message": "Odblokuj stronę"
+  },
+  "popup_toast_unblock_success": {
+    "message": "Strona odblokowana! Odświeżanie..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "Nie udało się odblokować"
+  },
+  "popup_block_site": {
+    "message": "Zablokuj tę stronę"
+  },
+  "popup_toast_block_success": {
+    "message": "Strona zablokowana! Odświeżanie..."
+  },
+  "popup_toast_block_failed": {
+    "message": "Nie udało się zablokować"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "Nie można otworzyć strony bezpiecznego pobierania"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "Nie można przygotować tego bezpiecznego pobierania"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "Przygotowywanie bezpiecznego pobierania…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "Nie można rozpocząć bezpiecznego pobierania. Spróbuj ponownie."
+  },
+  "popup_toast_open_source_failed": {
+    "message": "Nie można otworzyć tego wideo"
+  },
+  "popup_toast_identify_failed": {
+    "message": "Nie można zidentyfikować tego wideo"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "Usunięto z listy Do obejrzenia"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "Zapisano na liście Do obejrzenia"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "Nie można zaktualizować Obejrzyj później"
+  },
+  "popup_toast_settings_failed": {
+    "message": "Nie można załadować ustawień"
+  },
+  "popup_toast_videos_failed": {
+    "message": "Nie można załadować filmów"
+  },
+  "popup_toast_download_started": {
+    "message": "Pobieranie rozpoczęte"
+  },
+  "popup_toast_download_failed": {
+    "message": "Nie można rozpocząć pobierania"
+  },
+  "popup_toast_cast_error": {
+    "message": "Nie można przygotować odtwarzania Chromecast. Spróbuj ponownie."
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "Nie można załadować filmów na tej stronie"
+  },
+  "watch_later_error_server": {
+    "message": "Nie można połączyć się z serwerem. Spróbuj ponownie."
+  },
+  "watch_later_error_login": {
+    "message": "Zaloguj się, aby zarządzać filmami Obejrzyj później."
+  },
+  "watch_later_error_upgrade": {
+    "message": "Wymagane ulepszenie, aby korzystać z Obejrzyj później."
+  },
+  "watch_later_error_premium_only": {
+    "message": "Premium wymagany do zapisywania filmów."
+  },
+  "watch_later_error_limit": {
+    "message": "Osiągnięto limit darmowych zapisów."
+  },
+  "watch_later_error_generic": {
+    "message": "Nie można zaktualizować Obejrzyj później. Spróbuj ponownie."
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "Brak odcisku karty."
+  },
+  "watch_later_error_missing_source": {
+    "message": "Ten film nie ma linku źródłowego."
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "Brak identyfikatora Obejrzyj później."
+  },
+  "save_premium_modal_title": {
+    "message": "Zapisuj filmy z Premium"
+  },
+  "save_premium_modal_message": {
+    "message": "Zapisywanie filmów w bibliotece jest dostępne dla członków Premium. Uaktualnij, aby zapisywać nieograniczoną liczbę filmów."
+  },
+  "limit_modal_title": {
+    "message": "Osiągnięto limit zapisów"
+  },
+  "limit_modal_message": {
+    "message": "Twój limit darmowych zapisów został osiągnięty. Uaktualnij do Premium, aby zapisywać nieograniczoną liczbę filmów."
+  },
+  "limit_modal_upgrade": {
+    "message": "Uzyskaj Premium"
+  },
+  "limit_modal_start_trial": {
+    "message": "Rozpocznij darmowy okres próbny"
+  },
+  "limit_modal_later": {
+    "message": "Nie teraz"
+  },
+  "hd_limit_modal_title": {
+    "message": "Osiągnięto dzienny limit pobrań HD"
+  },
+  "hd_limit_modal_message": {
+    "message": "Dzienny limit darmowych pobrań HD został osiągnięty. Uaktualnij do Premium, aby pobierać filmy w pełnej jakości bez limitów."
+  },
+  "download_premium_modal_title": {
+    "message": "Odblokuj pobieranie filmów"
+  },
+  "download_premium_modal_message": {
+    "message": "Uaktualnij do Premium, aby pobierać dowolne filmy w dowolnej jakości — nieograniczone pobieranie."
+  },
+  "cast_limit_modal_title": {
+    "message": "Osiągnięto dzienny limit przesyłania"
+  },
+  "cast_limit_modal_message": {
+    "message": "Dzienny limit darmowego przesyłania został osiągnięty. Uaktualnij do Premium, aby przesyłać dowolny film na telewizor bez limitów."
+  },
+  "cast_premium_modal_title": {
+    "message": "Przesyłaj na telewizor z Premium"
+  },
+  "cast_premium_modal_message": {
+    "message": "Przesyłanie Chromecast jest dostępne dla członków Premium. Uaktualnij, aby przesyłać dowolny film na telewizor bez limitów."
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "Rozpocznij bezpłatny okres próbny, aby przesyłać dowolne filmy na telewizor — bez zobowiązań, anuluj w dowolnym momencie."
+  },
+  "review_modal_title": {
+    "message": "Podoba Ci się Video Downloader Plus?"
+  },
+  "review_modal_message": {
+    "message": "Jeśli Video Downloader Plus okazał się przydatny, szybka ocena w Chrome Web Store będzie dla nas bardzo ważna!"
+  },
+  "review_modal_rate": {
+    "message": "Oceń Video Downloader Plus"
+  },
+  "review_modal_later": {
+    "message": "Może później"
+  },
+  "download_limit_banner_remaining": {
+    "message": "Pozostało $1 pobierań HD na dziś"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "Dzienny limit pobierań HD osiągnięty"
+  },
+  "download_limit_banner_reset": {
+    "message": "Resetuje się za $1"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "Uaktualnij do Premium — pobieraj dowolne filmy w dowolnej jakości, bez limitów."
+  },
+  "generic_video_label": {
+    "message": "Wideo"
+  },
+  "popup_actions_cast": {
+    "message": "Przesyłaj"
+  },
+  "popup_actions_download": {
+    "message": "Pobierz"
+  },
+  "popup_actions_premium": {
+    "message": "Premium"
+  },
+  "popup_actions_save": {
+    "message": "Zapisz"
+  },
+  "toast_dismiss": {
+    "message": "Zamknij"
+  },
+  "options_header_subtitle": {
+    "message": "Dostosuj sposób wykrywania i zapisywania filmów przez Video Downloader Plus"
+  },
+  "options_help_center": {
+    "message": "Centrum pomocy"
+  },
+  "options_support": {
+    "message": "Wsparcie"
+  },
+  "options_formats_title": {
+    "message": "Formaty mediów"
+  },
+  "options_formats_description": {
+    "message": "Wybierz typy plików, których Video Downloader Plus ma szukać"
+  },
+  "options_formats_video_label": {
+    "message": "Wideo"
+  },
+  "options_formats_audio_label": {
+    "message": "Audio"
+  },
+  "options_size_title": {
+    "message": "Próg rozmiaru"
+  },
+  "options_size_description": {
+    "message": "Ignoruj pliki mniejsze niż ten rozmiar"
+  },
+  "options_size_label": {
+    "message": "Min. rozmiar"
+  },
+  "options_size_custom": {
+    "message": "Niestandardowy"
+  },
+  "options_download_title": {
+    "message": "Lokalizacja zapisu"
+  },
+  "options_download_description": {
+    "message": "Wybierz, gdzie trafiają pobrane filmy"
+  },
+  "options_download_toggle_label": {
+    "message": "Dedykowany folder"
+  },
+  "options_download_toggle_description": {
+    "message": "Kieruj wszystkie pobierania do jednego folderu"
+  },
+  "options_download_folder_label": {
+    "message": "Nazwa folderu"
+  },
+  "options_download_folder_description": {
+    "message": "Ścieżka w Pobrane (puste dla katalogu głównego)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "Wygląd"
+  },
+  "options_appearance_description": {
+    "message": "Wybierz wygląd Video Downloader Plus"
+  },
+  "options_theme_system": {
+    "message": "Systemowy"
+  },
+  "options_theme_light": {
+    "message": "Jasny"
+  },
+  "options_theme_dark": {
+    "message": "Ciemny"
+  },
+  "options_cast_title": {
+    "message": "Przesyłaj na TV"
+  },
+  "options_cast_description": {
+    "message": "Przesyłaj filmy na urządzenia obsługujące Chromecast"
+  },
+  "options_cast_toggle_label": {
+    "message": "Przycisk Cast"
+  },
+  "options_cast_toggle_description": {
+    "message": "Wyświetl ikonę Cast obok obsługiwanych filmów"
+  },
+  "options_badge_title": {
+    "message": "Znaczek"
+  },
+  "options_badge_description": {
+    "message": "Wybierz, co wyświetla znaczek ikony na pasku narzędzi"
+  },
+  "options_badge_count": {
+    "message": "Liczba"
+  },
+  "options_badge_dot": {
+    "message": "Kropka"
+  },
+  "options_badge_hidden": {
+    "message": "Ukryty"
+  },
+  "options_website_title": {
+    "message": "Lista zablokowanych stron"
+  },
+  "options_website_description": {
+    "message": "Zablokuj działanie Video Downloader Plus na wybranych stronach"
+  },
+  "options_website_add_label": {
+    "message": "Zablokuj stronę"
+  },
+  "options_website_add_description": {
+    "message": "Akceptowane wzorce: <code>example.com</code> lub <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com lub *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "Zablokuj"
+  },
+  "options_website_list_label": {
+    "message": "Zablokowane strony"
+  },
+  "options_website_empty": {
+    "message": "Brak zablokowanych stron"
+  },
+  "options_status_unsaved": {
+    "message": "Niezapisane zmiany"
+  },
+  "options_status_saved": {
+    "message": "Ustawienia zapisane"
+  },
+  "options_button_save": {
+    "message": "Zastosuj"
+  },
+  "options_button_reset": {
+    "message": "Przywróć domyślne"
+  },
+  "options_button_reset_confirm": {
+    "message": "Czy na pewno?"
+  },
+  "options_toast_reset_success": {
+    "message": "Ustawienia przywrócone do domyślnych"
+  },
+  "options_toast_reset_error": {
+    "message": "Nie udało się zresetować ustawień"
+  },
+  "options_button_logout": {
+    "message": "Wyloguj"
+  },
+  "options_toast_min_size": {
+    "message": "Minimum to $1 $2"
+  },
+  "options_toast_enter_domain": {
+    "message": "Najpierw wpisz domenę"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "Nieprawidłowe dane"
+  },
+  "options_toast_invalid_domain": {
+    "message": "Wpisz poprawną domenę, np. example.com lub *.example.com"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "Nieprawidłowa domena"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "Ta strona jest już na liście blokowania"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "Już zablokowana"
+  },
+  "options_toast_block_limit": {
+    "message": "Możesz zablokować maksymalnie $1 stron."
+  },
+  "options_toast_permission_denied": {
+    "message": "Odmowa dostępu. Przełącz przycisk, aby spróbować ponownie."
+  },
+  "options_toast_permission_title": {
+    "message": "Wymagany dostęp"
+  },
+  "options_toast_permission_failed": {
+    "message": "Nie można poprosić o uprawnienia. Spróbuj ponownie."
+  },
+  "options_toast_save_success": {
+    "message": "Ustawienia zastosowane"
+  },
+  "options_toast_save_error": {
+    "message": "Nie można zapisać. Spróbuj ponownie."
+  },
+  "options_toast_logout_success": {
+    "message": "Wylogowano"
+  },
+  "options_toast_logout_error": {
+    "message": "Wylogowanie nieudane. Spróbuj ponownie."
+  },
+  "options_toast_load_error": {
+    "message": "Nie można załadować ustawień. Odśwież stronę."
+  },
+  "options_footer_privacy": {
+    "message": "Polityka prywatności"
+  },
+  "options_footer_terms": {
+    "message": "Warunki korzystania z usługi"
+  },
+  "player_modal_close": {
+    "message": "Zamknij odtwarzacz"
+  },
+  "player_modal_error": {
+    "message": "Nie można odtworzyć tego filmu"
+  },
+  "player_modal_unsupported": {
+    "message": "Nie można wyświetlić podglądu tego formatu. Użyj pobierania."
+  },
+  "player_modal_loading": {
+    "message": "Ładowanie filmu..."
+  },
+  "options_header_badge": {
+    "message": "Ustawienia"
+  },
+  "toast_viewport_label": {
+    "message": "Powiadomienia"
+  },
+  "popup_group_streaming_title": {
+    "message": "Streaming $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "Pobieranie z serwera $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "Bezpośrednie pobieranie $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "Pobieranie z serwera"
+  },
+  "popup_group_merge_note": {
+    "message": "Dźwięk i wideo są osobne — zostaną połączone podczas pobierania"
+  },
+  "popup_dismiss_label": {
+    "message": "Odrzuć"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "Odtwarzanie strumienia nie powiodło się"
+  },
+  "player_error_hls_unsupported": {
+    "message": "Odtwarzanie HLS nie jest obsługiwane"
+  },
+  "player_error_library_failed": {
+    "message": "Nie udało się załadować biblioteki strumieniowania"
+  },
+  "player_error_no_url": {
+    "message": "Brak dostępnego adresu URL do odtworzenia"
+  },
+  "player_error_unsupported_format": {
+    "message": "Nie można wyświetlić podglądu tego formatu"
+  },
+  "error_no_internet": {
+    "message": "Brak połączenia z internetem"
+  },
+  "error_server_unavailable": {
+    "message": "Serwer tymczasowo niedostępny"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "Rozpocznij darmowy okres próbny, aby natychmiast pobierać dowolne filmy — bez zobowiązań, anuluj w dowolnym momencie."
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "Wypróbuj Premium za darmo — pobieraj dowolne filmy w dowolnej jakości, bez limitów."
+  }
+}

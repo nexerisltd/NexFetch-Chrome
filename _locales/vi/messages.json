@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "Tải và lưu video từ bất kỳ trang web nào ngay lập tức. Trình tải video nhanh, đơn giản và hiệu quả."
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "Xem sau"
+  },
+  "popup_saved": {
+    "message": "Đã lưu"
+  },
+  "popup_my_list": {
+    "message": "Danh sách của tôi"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 chất lượng"
+  },
+  "popup_group_title_fallback": {
+    "message": "Video"
+  },
+  "popup_group_title_numbered": {
+    "message": "Video $1"
+  },
+  "popup_footer_settings": {
+    "message": "Cài đặt"
+  },
+  "popup_footer_reviews": {
+    "message": "Đánh giá"
+  },
+  "popup_footer_blog": {
+    "message": "Blog"
+  },
+  "popup_footer_account": {
+    "message": "Tài khoản"
+  },
+  "popup_footer_upgrade": {
+    "message": "Nâng cấp"
+  },
+  "popup_play_button_label": {
+    "message": "Phát video"
+  },
+  "popup_cast_button_label": {
+    "message": "Truyền đến thiết bị"
+  },
+  "popup_live_label": {
+    "message": "Trực tiếp"
+  },
+  "popup_download_label": {
+    "message": "Tải xuống"
+  },
+  "popup_audio_label": {
+    "message": "Âm thanh"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "Chỉ âm thanh"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps âm thanh"
+  },
+  "popup_empty_state": {
+    "message": "Không tìm thấy video."
+  },
+  "popup_report_no_video": {
+    "message": "Báo cáo sự cố"
+  },
+  "popup_report_submitting": {
+    "message": "Đang gửi..."
+  },
+  "popup_report_success": {
+    "message": "Cảm ơn bạn đã báo cáo!"
+  },
+  "popup_report_error": {
+    "message": "Không thể gửi báo cáo. Vui lòng thử lại."
+  },
+  "popup_site_blocked": {
+    "message": "Trang web này đã bị chặn. Bạn có thể bỏ chặn để phát hiện video."
+  },
+  "popup_unblock_site": {
+    "message": "Bỏ chặn trang web"
+  },
+  "popup_toast_unblock_success": {
+    "message": "Đã bỏ chặn! Đang tải lại..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "Không thể bỏ chặn"
+  },
+  "popup_block_site": {
+    "message": "Chặn trang web này"
+  },
+  "popup_toast_block_success": {
+    "message": "Đã chặn trang web! Đang tải lại..."
+  },
+  "popup_toast_block_failed": {
+    "message": "Không thể chặn"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "Không thể mở trang tải xuống bảo mật"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "Không thể chuẩn bị tải xuống bảo mật này"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "Đang chuẩn bị tải xuống bảo mật…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "Không thể bắt đầu tải xuống bảo mật. Vui lòng thử lại."
+  },
+  "popup_toast_open_source_failed": {
+    "message": "Không thể mở video này"
+  },
+  "popup_toast_identify_failed": {
+    "message": "Không thể nhận diện video này"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "Đã xóa khỏi danh sách Xem sau"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "Đã lưu vào danh sách Xem sau"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "Không thể cập nhật Xem sau"
+  },
+  "popup_toast_settings_failed": {
+    "message": "Không thể tải cài đặt"
+  },
+  "popup_toast_videos_failed": {
+    "message": "Không thể tải video"
+  },
+  "popup_toast_download_started": {
+    "message": "Đã bắt đầu tải xuống"
+  },
+  "popup_toast_download_failed": {
+    "message": "Không thể bắt đầu tải xuống"
+  },
+  "popup_toast_cast_error": {
+    "message": "Không thể chuẩn bị phát Chromecast. Vui lòng thử lại."
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "Không thể tải video trên trang này"
+  },
+  "watch_later_error_server": {
+    "message": "Không thể liên hệ máy chủ. Vui lòng thử lại."
+  },
+  "watch_later_error_login": {
+    "message": "Vui lòng đăng nhập để quản lý video Xem sau."
+  },
+  "watch_later_error_upgrade": {
+    "message": "Cần nâng cấp để sử dụng Xem sau."
+  },
+  "watch_later_error_premium_only": {
+    "message": "Cần Premium để lưu video."
+  },
+  "watch_later_error_limit": {
+    "message": "Bạn đã đạt giới hạn lưu miễn phí."
+  },
+  "watch_later_error_generic": {
+    "message": "Không thể cập nhật Xem sau. Vui lòng thử lại."
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "Thiếu dấu vân tay tab."
+  },
+  "watch_later_error_missing_source": {
+    "message": "Video này thiếu liên kết nguồn."
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "Thiếu mã định danh Xem sau."
+  },
+  "save_premium_modal_title": {
+    "message": "Lưu video với Premium"
+  },
+  "save_premium_modal_message": {
+    "message": "Lưu video vào thư viện của bạn chỉ dành cho thành viên Premium. Nâng cấp để lưu video không giới hạn."
+  },
+  "limit_modal_title": {
+    "message": "Đã đạt giới hạn lưu"
+  },
+  "limit_modal_message": {
+    "message": "Bạn đã đạt giới hạn lưu miễn phí. Nâng cấp lên Premium để lưu video không giới hạn."
+  },
+  "limit_modal_upgrade": {
+    "message": "Nhận Premium"
+  },
+  "limit_modal_start_trial": {
+    "message": "Bắt đầu dùng thử miễn phí"
+  },
+  "limit_modal_later": {
+    "message": "Không phải bây giờ"
+  },
+  "hd_limit_modal_title": {
+    "message": "Đã đạt giới hạn tải HD hàng ngày"
+  },
+  "hd_limit_modal_message": {
+    "message": "Bạn đã đạt giới hạn tải HD miễn phí hàng ngày. Nâng cấp lên Premium để tải video chất lượng đầy đủ không giới hạn."
+  },
+  "download_premium_modal_title": {
+    "message": "Mở khóa tải xuống video"
+  },
+  "download_premium_modal_message": {
+    "message": "Nâng cấp lên Premium để tải bất kỳ video nào ở bất kỳ chất lượng nào — tải không giới hạn."
+  },
+  "cast_limit_modal_title": {
+    "message": "Đã đạt giới hạn truyền hàng ngày"
+  },
+  "cast_limit_modal_message": {
+    "message": "Bạn đã đạt giới hạn truyền miễn phí hàng ngày. Nâng cấp lên Premium để truyền bất kỳ video nào lên TV không giới hạn."
+  },
+  "cast_premium_modal_title": {
+    "message": "Truyền lên TV với Premium"
+  },
+  "cast_premium_modal_message": {
+    "message": "Tính năng Chromecast dành cho thành viên Premium. Nâng cấp để truyền bất kỳ video nào lên TV không giới hạn."
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "Bắt đầu dùng thử miễn phí để chiếu bất kỳ video nào lên TV — không ràng buộc, hủy bất cứ lúc nào."
+  },
+  "review_modal_title": {
+    "message": "Bạn thích Video Downloader Plus chứ?"
+  },
+  "review_modal_message": {
+    "message": "Nếu Video Downloader Plus hữu ích với bạn, một đánh giá nhanh trên Chrome Web Store sẽ rất có ý nghĩa với chúng tôi!"
+  },
+  "review_modal_rate": {
+    "message": "Đánh giá Video Downloader Plus"
+  },
+  "review_modal_later": {
+    "message": "Để sau"
+  },
+  "download_limit_banner_remaining": {
+    "message": "Còn $1 lần tải HD hôm nay"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "Đã đạt giới hạn tải HD hàng ngày"
+  },
+  "download_limit_banner_reset": {
+    "message": "Đặt lại sau $1"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "Nâng cấp lên Premium — tải bất kỳ video nào ở bất kỳ chất lượng nào, không giới hạn."
+  },
+  "generic_video_label": {
+    "message": "Video"
+  },
+  "popup_actions_cast": {
+    "message": "Truyền"
+  },
+  "popup_actions_download": {
+    "message": "Tải xuống"
+  },
+  "popup_actions_premium": {
+    "message": "Premium"
+  },
+  "popup_actions_save": {
+    "message": "Lưu"
+  },
+  "toast_dismiss": {
+    "message": "Đóng"
+  },
+  "options_header_subtitle": {
+    "message": "Tùy chỉnh cách Video Downloader Plus phát hiện và lưu video"
+  },
+  "options_help_center": {
+    "message": "Trung tâm trợ giúp"
+  },
+  "options_support": {
+    "message": "Hỗ trợ"
+  },
+  "options_formats_title": {
+    "message": "Định dạng phương tiện"
+  },
+  "options_formats_description": {
+    "message": "Chọn loại tệp mà Video Downloader Plus nên tìm kiếm"
+  },
+  "options_formats_video_label": {
+    "message": "Video"
+  },
+  "options_formats_audio_label": {
+    "message": "Âm thanh"
+  },
+  "options_size_title": {
+    "message": "Ngưỡng kích thước"
+  },
+  "options_size_description": {
+    "message": "Bỏ qua các tệp nhỏ hơn kích thước này"
+  },
+  "options_size_label": {
+    "message": "Kích thước tối thiểu"
+  },
+  "options_size_custom": {
+    "message": "Tùy chỉnh"
+  },
+  "options_download_title": {
+    "message": "Vị trí lưu"
+  },
+  "options_download_description": {
+    "message": "Chọn nơi lưu video đã tải"
+  },
+  "options_download_toggle_label": {
+    "message": "Thư mục riêng"
+  },
+  "options_download_toggle_description": {
+    "message": "Chuyển tất cả tải xuống vào một thư mục"
+  },
+  "options_download_folder_label": {
+    "message": "Tên thư mục"
+  },
+  "options_download_folder_description": {
+    "message": "Đường dẫn trong Tải xuống (để trống cho thư mục gốc)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "Giao diện"
+  },
+  "options_appearance_description": {
+    "message": "Chọn giao diện của Video Downloader Plus"
+  },
+  "options_theme_system": {
+    "message": "Hệ thống"
+  },
+  "options_theme_light": {
+    "message": "Sáng"
+  },
+  "options_theme_dark": {
+    "message": "Tối"
+  },
+  "options_cast_title": {
+    "message": "Phát lên TV"
+  },
+  "options_cast_description": {
+    "message": "Phát video tới thiết bị hỗ trợ Chromecast"
+  },
+  "options_cast_toggle_label": {
+    "message": "Nút Cast"
+  },
+  "options_cast_toggle_description": {
+    "message": "Hiển thị biểu tượng Cast bên cạnh video được hỗ trợ"
+  },
+  "options_badge_title": {
+    "message": "Huy hiệu"
+  },
+  "options_badge_description": {
+    "message": "Chọn nội dung hiển thị trên huy hiệu biểu tượng thanh công cụ"
+  },
+  "options_badge_count": {
+    "message": "Số lượng"
+  },
+  "options_badge_dot": {
+    "message": "Chấm"
+  },
+  "options_badge_hidden": {
+    "message": "Ẩn"
+  },
+  "options_website_title": {
+    "message": "Danh sách chặn trang web"
+  },
+  "options_website_description": {
+    "message": "Ngăn Video Downloader Plus hoạt động trên các trang web cụ thể"
+  },
+  "options_website_add_label": {
+    "message": "Chặn trang web"
+  },
+  "options_website_add_description": {
+    "message": "Mẫu chấp nhận: <code>example.com</code> hoặc <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com hoặc *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "Chặn"
+  },
+  "options_website_list_label": {
+    "message": "Trang web bị chặn"
+  },
+  "options_website_empty": {
+    "message": "Chưa có trang web nào bị chặn"
+  },
+  "options_status_unsaved": {
+    "message": "Thay đổi chưa lưu"
+  },
+  "options_status_saved": {
+    "message": "Đã lưu cài đặt"
+  },
+  "options_button_save": {
+    "message": "Áp dụng"
+  },
+  "options_button_reset": {
+    "message": "Đặt lại mặc định"
+  },
+  "options_button_reset_confirm": {
+    "message": "Bạn có chắc không?"
+  },
+  "options_toast_reset_success": {
+    "message": "Cài đặt đã được khôi phục về mặc định"
+  },
+  "options_toast_reset_error": {
+    "message": "Không thể đặt lại cài đặt"
+  },
+  "options_button_logout": {
+    "message": "Đăng xuất"
+  },
+  "options_toast_min_size": {
+    "message": "Tối thiểu là $1 $2"
+  },
+  "options_toast_enter_domain": {
+    "message": "Nhập tên miền trước"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "Dữ liệu không hợp lệ"
+  },
+  "options_toast_invalid_domain": {
+    "message": "Nhập tên miền hợp lệ như example.com hoặc *.example.com"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "Tên miền không hợp lệ"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "Trang web đó đã có trong danh sách chặn"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "Đã bị chặn"
+  },
+  "options_toast_block_limit": {
+    "message": "Bạn có thể chặn tối đa $1 trang web."
+  },
+  "options_toast_permission_denied": {
+    "message": "Truy cập bị từ chối. Bật công tắc để thử lại."
+  },
+  "options_toast_permission_title": {
+    "message": "Cần quyền truy cập"
+  },
+  "options_toast_permission_failed": {
+    "message": "Không thể yêu cầu quyền. Thử lại."
+  },
+  "options_toast_save_success": {
+    "message": "Đã áp dụng cài đặt"
+  },
+  "options_toast_save_error": {
+    "message": "Không thể lưu. Vui lòng thử lại."
+  },
+  "options_toast_logout_success": {
+    "message": "Đã đăng xuất"
+  },
+  "options_toast_logout_error": {
+    "message": "Đăng xuất thất bại. Vui lòng thử lại."
+  },
+  "options_toast_load_error": {
+    "message": "Không thể tải cài đặt. Làm mới trang."
+  },
+  "options_footer_privacy": {
+    "message": "Chính sách quyền riêng tư"
+  },
+  "options_footer_terms": {
+    "message": "Điều khoản dịch vụ"
+  },
+  "player_modal_close": {
+    "message": "Đóng trình phát"
+  },
+  "player_modal_error": {
+    "message": "Không thể phát video này"
+  },
+  "player_modal_unsupported": {
+    "message": "Không thể xem trước định dạng này. Hãy tải xuống thay thế."
+  },
+  "player_modal_loading": {
+    "message": "Đang tải video..."
+  },
+  "options_header_badge": {
+    "message": "Cài đặt"
+  },
+  "toast_viewport_label": {
+    "message": "Thông báo"
+  },
+  "popup_group_streaming_title": {
+    "message": "Phát trực tuyến $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "Tải từ máy chủ $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "Tải trực tiếp $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "Tải từ máy chủ"
+  },
+  "popup_group_merge_note": {
+    "message": "Âm thanh và video tách biệt — chúng sẽ được hợp nhất khi tải xuống"
+  },
+  "popup_dismiss_label": {
+    "message": "Đóng"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "Phát luồng thất bại"
+  },
+  "player_error_hls_unsupported": {
+    "message": "Không hỗ trợ phát HLS"
+  },
+  "player_error_library_failed": {
+    "message": "Không thể tải thư viện phát trực tuyến"
+  },
+  "player_error_no_url": {
+    "message": "Không có URL phát được"
+  },
+  "player_error_unsupported_format": {
+    "message": "Không thể xem trước định dạng này"
+  },
+  "error_no_internet": {
+    "message": "Không có kết nối internet"
+  },
+  "error_server_unavailable": {
+    "message": "Máy chủ tạm thời không khả dụng"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "Bắt đầu dùng thử miễn phí để tải xuống bất kỳ video nào ngay lập tức — không ràng buộc, hủy bất cứ lúc nào."
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "Dùng thử Premium miễn phí — tải xuống bất kỳ video nào ở bất kỳ chất lượng nào, không giới hạn."
+  }
+}

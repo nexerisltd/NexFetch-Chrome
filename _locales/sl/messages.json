@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "Prenesite in shranite videoposnetke s katerega koli spletnega mesta takoj. Hiter in preprost prenosnik videoposnetkov."
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "Poglej pozneje"
+  },
+  "popup_saved": {
+    "message": "Shranjeno"
+  },
+  "popup_my_list": {
+    "message": "Moj seznam"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 kakovosti"
+  },
+  "popup_group_title_fallback": {
+    "message": "Video"
+  },
+  "popup_group_title_numbered": {
+    "message": "Video $1"
+  },
+  "popup_footer_settings": {
+    "message": "Nastavitve"
+  },
+  "popup_footer_reviews": {
+    "message": "Ocene"
+  },
+  "popup_footer_blog": {
+    "message": "Blog"
+  },
+  "popup_footer_account": {
+    "message": "Račun"
+  },
+  "popup_footer_upgrade": {
+    "message": "Nadgradnja"
+  },
+  "popup_play_button_label": {
+    "message": "Predvajaj video"
+  },
+  "popup_cast_button_label": {
+    "message": "Predvajaj na napravi"
+  },
+  "popup_live_label": {
+    "message": "V živo"
+  },
+  "popup_download_label": {
+    "message": "Prenesi"
+  },
+  "popup_audio_label": {
+    "message": "Zvok"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "Samo zvok"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps zvok"
+  },
+  "popup_empty_state": {
+    "message": "Videoposnetki niso bili najdeni."
+  },
+  "popup_report_no_video": {
+    "message": "Prijavi težavo"
+  },
+  "popup_report_submitting": {
+    "message": "Pošiljanje..."
+  },
+  "popup_report_success": {
+    "message": "Hvala za prijavo!"
+  },
+  "popup_report_error": {
+    "message": "Pošiljanje ni uspelo. Poskusite znova."
+  },
+  "popup_site_blocked": {
+    "message": "To spletno mesto je blokirano. Lahko ga odblokirate za zaznavanje videoposnetkov."
+  },
+  "popup_unblock_site": {
+    "message": "Odblokiraj stran"
+  },
+  "popup_toast_unblock_success": {
+    "message": "Stran odblokirana! Nalaganje..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "Odblokiranje ni uspelo"
+  },
+  "popup_block_site": {
+    "message": "Blokiraj to stran"
+  },
+  "popup_toast_block_success": {
+    "message": "Stran blokirana! Nalaganje..."
+  },
+  "popup_toast_block_failed": {
+    "message": "Blokiranje ni uspelo"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "Ni mogoče odpreti strani za varen prenos"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "Ni mogoče pripraviti varnega prenosa"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "Priprava varnega prenosa…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "Ni mogoče začeti varnega prenosa. Poskusite znova."
+  },
+  "popup_toast_open_source_failed": {
+    "message": "Ni mogoče odpreti tega videoposnetka"
+  },
+  "popup_toast_identify_failed": {
+    "message": "Ni mogoče prepoznati tega videoposnetka"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "Odstranjeno s seznama Poglej pozneje"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "Shranjeno na seznam Poglej pozneje"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "Ni mogoče posodobiti Poglej pozneje"
+  },
+  "popup_toast_settings_failed": {
+    "message": "Ni mogoče naložiti nastavitev"
+  },
+  "popup_toast_videos_failed": {
+    "message": "Ni mogoče naložiti videoposnetkov"
+  },
+  "popup_toast_download_started": {
+    "message": "Prenos se je začel"
+  },
+  "popup_toast_download_failed": {
+    "message": "Ni mogoče začeti prenosa"
+  },
+  "popup_toast_cast_error": {
+    "message": "Ni mogoče pripraviti Chromecasta. Poskusite znova."
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "Ni mogoče naložiti videoposnetkov na tej strani"
+  },
+  "watch_later_error_server": {
+    "message": "Ni mogoče vzpostaviti stika s strežnikom. Poskusite znova."
+  },
+  "watch_later_error_login": {
+    "message": "Prijavite se za upravljanje videoposnetkov Poglej pozneje."
+  },
+  "watch_later_error_upgrade": {
+    "message": "Za Poglej pozneje je potrebna nadgradnja."
+  },
+  "watch_later_error_premium_only": {
+    "message": "Za shranjevanje videoposnetkov je potreben Premium."
+  },
+  "watch_later_error_limit": {
+    "message": "Dosegli ste brezplačno omejitev shranjevanja."
+  },
+  "watch_later_error_generic": {
+    "message": "Ni mogoče posodobiti Poglej pozneje. Poskusite znova."
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "Manjkajoč prstni odtis zavihka."
+  },
+  "watch_later_error_missing_source": {
+    "message": "Ta videoposnetek nima izvorne povezave."
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "Manjkajoč identifikator Poglej pozneje."
+  },
+  "save_premium_modal_title": {
+    "message": "Shranite videoposnetke s Premium"
+  },
+  "save_premium_modal_message": {
+    "message": "Shranjevanje videoposnetkov v vašo knjižnico je na voljo za člane Premium. Nadgradite za shranjevanje neomejenih videoposnetkov."
+  },
+  "limit_modal_title": {
+    "message": "Omejitev shranjevanja dosežena"
+  },
+  "limit_modal_message": {
+    "message": "Dosegli ste omejitev brezplačnega shranjevanja. Nadgradite na Premium za shranjevanje neomejenih videoposnetkov."
+  },
+  "limit_modal_upgrade": {
+    "message": "Pridobite Premium"
+  },
+  "limit_modal_start_trial": {
+    "message": "Začni brezplačno preizkusno obdobje"
+  },
+  "limit_modal_later": {
+    "message": "Ne zdaj"
+  },
+  "hd_limit_modal_title": {
+    "message": "Dnevna omejitev HD prenosov dosežena"
+  },
+  "hd_limit_modal_message": {
+    "message": "Dosegli ste dnevno omejitev brezplačnih HD prenosov. Nadgradite na Premium za prenos videoposnetkov v polni kakovosti brez omejitev."
+  },
+  "download_premium_modal_title": {
+    "message": "Odklenite prenose videov"
+  },
+  "download_premium_modal_message": {
+    "message": "Nadgradite na Premium za prenos kateregakoli videoposnetka v katerikoli kakovosti — neomejeni prenosi."
+  },
+  "cast_limit_modal_title": {
+    "message": "Dnevna omejitev predvajanja dosežena"
+  },
+  "cast_limit_modal_message": {
+    "message": "Dosegli ste dnevno omejitev brezplačnega predvajanja. Nadgradite na Premium za predvajanje kateregakoli videoposnetka na TV brez omejitev."
+  },
+  "cast_premium_modal_title": {
+    "message": "Predvajajte na TV s Premium"
+  },
+  "cast_premium_modal_message": {
+    "message": "Chromecast predvajanje je na voljo za člane Premium. Nadgradite za pretakanje kateregakoli videoposnetka na TV brez omejitev."
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "Začnite brezplačno preskusno obdobje za predvajanje kateregakoli videoposnetka na televizorju — brez obveznosti, prekličite kadarkoli."
+  },
+  "review_modal_title": {
+    "message": "Vam je všeč Video Downloader Plus?"
+  },
+  "review_modal_message": {
+    "message": "Če vam je Video Downloader Plus pomagal, bi nam hitra ocena na Chrome Web Store veliko pomenila!"
+  },
+  "review_modal_rate": {
+    "message": "Oceni Video Downloader Plus"
+  },
+  "review_modal_later": {
+    "message": "Morda pozneje"
+  },
+  "download_limit_banner_remaining": {
+    "message": "$1 HD prenos(ov) preostane danes"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "Dnevna omejitev HD prenosov dosežena"
+  },
+  "download_limit_banner_reset": {
+    "message": "Ponastavitev čez $1"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "Nadgradite na Premium — prenesite katerikoli videoposnetek v katerikoli kakovosti, brez omejitev."
+  },
+  "generic_video_label": {
+    "message": "Video"
+  },
+  "popup_actions_cast": {
+    "message": "Predvajaj"
+  },
+  "popup_actions_download": {
+    "message": "Prenesi"
+  },
+  "popup_actions_premium": {
+    "message": "Premium"
+  },
+  "popup_actions_save": {
+    "message": "Shrani"
+  },
+  "toast_dismiss": {
+    "message": "Zapri"
+  },
+  "options_header_subtitle": {
+    "message": "Prilagodite kako Video Downloader Plus zaznava in shranjuje videoposnetke"
+  },
+  "options_help_center": {
+    "message": "Center za pomoč"
+  },
+  "options_support": {
+    "message": "Podpora"
+  },
+  "options_formats_title": {
+    "message": "Medijski formati"
+  },
+  "options_formats_description": {
+    "message": "Izberite vrste datotek, ki jih Video Downloader Plus išče"
+  },
+  "options_formats_video_label": {
+    "message": "Video"
+  },
+  "options_formats_audio_label": {
+    "message": "Zvok"
+  },
+  "options_size_title": {
+    "message": "Prag velikosti"
+  },
+  "options_size_description": {
+    "message": "Prezri manjše datoteke"
+  },
+  "options_size_label": {
+    "message": "Min. velikost"
+  },
+  "options_size_custom": {
+    "message": "Po meri"
+  },
+  "options_download_title": {
+    "message": "Lokacija shranjevanja"
+  },
+  "options_download_description": {
+    "message": "Izberite kam se shranjujejo preneseni videoposnetki"
+  },
+  "options_download_toggle_label": {
+    "message": "Namenska mapa"
+  },
+  "options_download_toggle_description": {
+    "message": "Usmeri vse prenose v eno mapo"
+  },
+  "options_download_folder_label": {
+    "message": "Ime mape"
+  },
+  "options_download_folder_description": {
+    "message": "Pot v Prenosih (prazno za koren)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "Videz"
+  },
+  "options_appearance_description": {
+    "message": "Izberite videz Video Downloader Plus"
+  },
+  "options_theme_system": {
+    "message": "Sistemski"
+  },
+  "options_theme_light": {
+    "message": "Svetel"
+  },
+  "options_theme_dark": {
+    "message": "Temen"
+  },
+  "options_cast_title": {
+    "message": "Predvajaj na TV"
+  },
+  "options_cast_description": {
+    "message": "Pretočite videoposnetke na naprave Chromecast"
+  },
+  "options_cast_toggle_label": {
+    "message": "Gumb za predvajanje"
+  },
+  "options_cast_toggle_description": {
+    "message": "Prikaži ikono predvajanja ob podprtih videoposnetkih"
+  },
+  "options_badge_title": {
+    "message": "Značka"
+  },
+  "options_badge_description": {
+    "message": "Izberite, kaj prikazuje značka ikone v orodni vrstici"
+  },
+  "options_badge_count": {
+    "message": "Število"
+  },
+  "options_badge_dot": {
+    "message": "Pika"
+  },
+  "options_badge_hidden": {
+    "message": "Skrita"
+  },
+  "options_website_title": {
+    "message": "Seznam blokiranih"
+  },
+  "options_website_description": {
+    "message": "Preprečite delovanje Video Downloader Plus na določenih straneh"
+  },
+  "options_website_add_label": {
+    "message": "Blokiraj stran"
+  },
+  "options_website_add_description": {
+    "message": "Sprejeti vzorci: <code>example.com</code> ali <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com ali *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "Blokiraj"
+  },
+  "options_website_list_label": {
+    "message": "Blokirane strani"
+  },
+  "options_website_empty": {
+    "message": "Še ni blokiranih strani"
+  },
+  "options_status_unsaved": {
+    "message": "Neshranjene spremembe"
+  },
+  "options_status_saved": {
+    "message": "Nastavitve shranjene"
+  },
+  "options_button_save": {
+    "message": "Uporabi"
+  },
+  "options_button_reset": {
+    "message": "Ponastavi na privzeto"
+  },
+  "options_button_reset_confirm": {
+    "message": "Ste prepričani?"
+  },
+  "options_toast_reset_success": {
+    "message": "Nastavitve povrnjene na privzete"
+  },
+  "options_toast_reset_error": {
+    "message": "Ponastavitev nastavitev ni uspela"
+  },
+  "options_button_logout": {
+    "message": "Odjava"
+  },
+  "options_toast_min_size": {
+    "message": "Minimum je $1 $2"
+  },
+  "options_toast_enter_domain": {
+    "message": "Najprej vnesite domeno"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "Neveljaven vnos"
+  },
+  "options_toast_invalid_domain": {
+    "message": "Vnesite veljavno domeno kot example.com ali *.example.com"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "Neveljavna domena"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "Ta stran je že na seznamu blokiranih"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "Že blokirano"
+  },
+  "options_toast_block_limit": {
+    "message": "Blokirate lahko do $1 strani."
+  },
+  "options_toast_permission_denied": {
+    "message": "Dostop zavrnjen. Preklopite za ponovni poskus."
+  },
+  "options_toast_permission_title": {
+    "message": "Potreben dostop"
+  },
+  "options_toast_permission_failed": {
+    "message": "Ni mogoče zahtevati dovoljenja. Poskusite znova."
+  },
+  "options_toast_save_success": {
+    "message": "Nastavitve uporabljene"
+  },
+  "options_toast_save_error": {
+    "message": "Ni mogoče shraniti. Poskusite znova."
+  },
+  "options_toast_logout_success": {
+    "message": "Odjavljeno"
+  },
+  "options_toast_logout_error": {
+    "message": "Odjava ni uspela. Poskusite znova."
+  },
+  "options_toast_load_error": {
+    "message": "Ni mogoče naložiti nastavitev. Osvežite stran."
+  },
+  "options_footer_privacy": {
+    "message": "Pravilnik o zasebnosti"
+  },
+  "options_footer_terms": {
+    "message": "Pogoji storitve"
+  },
+  "player_modal_close": {
+    "message": "Zapri predvajalnik"
+  },
+  "player_modal_error": {
+    "message": "Ni mogoče predvajati tega videoposnetka"
+  },
+  "player_modal_unsupported": {
+    "message": "Tega formata ni mogoče predogledati. Uporabite prenos."
+  },
+  "player_modal_loading": {
+    "message": "Nalaganje videoposnetka..."
+  },
+  "options_header_badge": {
+    "message": "Nastavitve"
+  },
+  "toast_viewport_label": {
+    "message": "Obvestila"
+  },
+  "popup_group_streaming_title": {
+    "message": "Pretakanje $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "Pridobivanje s strežnika $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "Neposreden prenos $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "Pridobivanje s strežnika"
+  },
+  "popup_group_merge_note": {
+    "message": "Zvok in video sta ločena — med prenosom bosta združena"
+  },
+  "popup_dismiss_label": {
+    "message": "Zapri"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "Predvajanje toka ni uspelo"
+  },
+  "player_error_hls_unsupported": {
+    "message": "Predvajanje HLS ni podprto"
+  },
+  "player_error_library_failed": {
+    "message": "Ni mogoče naložiti knjižnice za pretakanje"
+  },
+  "player_error_no_url": {
+    "message": "Ni razpoložljivega URL za predvajanje"
+  },
+  "player_error_unsupported_format": {
+    "message": "Tega formata ni mogoče predogledati"
+  },
+  "error_no_internet": {
+    "message": "Ni internetne povezave"
+  },
+  "error_server_unavailable": {
+    "message": "Strežnik začasno ni na voljo"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "Začnite brezplačno preizkusno obdobje za takojšnji prenos kateregakoli videa — brez obveznosti, prekličite kadarkoli."
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "Preizkusite Premium brezplačno — prenesite katerikoli video v katerikoli kakovosti, brez omejitev."
+  }
+}

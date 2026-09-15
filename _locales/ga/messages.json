@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "Íoslódáil agus sábháil físeáin ó aon suíomh gréasáin láithreach. Íoslódálaí físeáin tapa agus simplí."
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "Féach Níos Déanaí"
+  },
+  "popup_saved": {
+    "message": "Sábháilte"
+  },
+  "popup_my_list": {
+    "message": "Mo Liosta"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 Cáilíocht"
+  },
+  "popup_group_title_fallback": {
+    "message": "Físeán"
+  },
+  "popup_group_title_numbered": {
+    "message": "Físeán $1"
+  },
+  "popup_footer_settings": {
+    "message": "Socruithe"
+  },
+  "popup_footer_reviews": {
+    "message": "Léirmheasanna"
+  },
+  "popup_footer_blog": {
+    "message": "Blag"
+  },
+  "popup_footer_account": {
+    "message": "Cuntas"
+  },
+  "popup_footer_upgrade": {
+    "message": "Uasghrádú"
+  },
+  "popup_play_button_label": {
+    "message": "Seinn físeán"
+  },
+  "popup_cast_button_label": {
+    "message": "Teilg chuig gléas"
+  },
+  "popup_live_label": {
+    "message": "Beo"
+  },
+  "popup_download_label": {
+    "message": "Íoslódáil"
+  },
+  "popup_audio_label": {
+    "message": "Fuaim"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "Fuaim amháin"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps fuaim"
+  },
+  "popup_empty_state": {
+    "message": "Níor aimsíodh aon fhíseáin."
+  },
+  "popup_report_no_video": {
+    "message": "Tuairiscigh Fadhb"
+  },
+  "popup_report_submitting": {
+    "message": "Á sheoladh..."
+  },
+  "popup_report_success": {
+    "message": "Go raibh maith agat as do thuairisc!"
+  },
+  "popup_report_error": {
+    "message": "Theip ar an seoladh. Bain triail eile as."
+  },
+  "popup_site_blocked": {
+    "message": "Tá an suíomh seo blocáilte. Is féidir leat é a dhíbhlocáil chun físeáin a bhrath."
+  },
+  "popup_unblock_site": {
+    "message": "Díbhlocáil Suíomh"
+  },
+  "popup_toast_unblock_success": {
+    "message": "Suíomh díbhlocáilte! Ag athlódáil..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "Theip ar an díbhlocáil"
+  },
+  "popup_block_site": {
+    "message": "Blocáil an suíomh seo"
+  },
+  "popup_toast_block_success": {
+    "message": "Suíomh blocáilte! Ag athlódáil..."
+  },
+  "popup_toast_block_failed": {
+    "message": "Theip ar an mblocáil"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "Ní féidir an leathanach íoslódála slán a oscailt"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "Ní féidir an íoslódáil shlán a ullmhú"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "Ag ullmhú íoslódáil shlán…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "Ní féidir an íoslódáil shlán a thosú. Bain triail eile as."
+  },
+  "popup_toast_open_source_failed": {
+    "message": "Ní féidir an físeán seo a oscailt"
+  },
+  "popup_toast_identify_failed": {
+    "message": "Ní féidir an físeán seo a aithint"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "Bainte den liosta Féach Níos Déanaí"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "Sábháilte ar an liosta Féach Níos Déanaí"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "Ní féidir Féach Níos Déanaí a nuashonrú"
+  },
+  "popup_toast_settings_failed": {
+    "message": "Ní féidir socruithe a lódáil"
+  },
+  "popup_toast_videos_failed": {
+    "message": "Ní féidir físeáin a lódáil"
+  },
+  "popup_toast_download_started": {
+    "message": "Íoslódáil tosaithe"
+  },
+  "popup_toast_download_failed": {
+    "message": "Ní féidir an íoslódáil a thosú"
+  },
+  "popup_toast_cast_error": {
+    "message": "Ní féidir Chromecast a ullmhú. Bain triail eile as."
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "Ní féidir físeáin a lódáil ar an leathanach seo"
+  },
+  "watch_later_error_server": {
+    "message": "Ní féidir teagmháil a dhéanamh leis an bhfreastalaí. Bain triail eile as."
+  },
+  "watch_later_error_login": {
+    "message": "Logáil isteach chun físeáin Féach Níos Déanaí a bhainistiú."
+  },
+  "watch_later_error_upgrade": {
+    "message": "Tá uasghrádú ag teastáil le haghaidh Féach Níos Déanaí."
+  },
+  "watch_later_error_premium_only": {
+    "message": "Teastaíonn Premium chun físeáin a shábháil."
+  },
+  "watch_later_error_limit": {
+    "message": "Tá an teorainn sábhála saor in aisce bainte amach agat."
+  },
+  "watch_later_error_generic": {
+    "message": "Ní féidir Féach Níos Déanaí a nuashonrú. Bain triail eile as."
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "Méarloirg cluaisín ar iarraidh."
+  },
+  "watch_later_error_missing_source": {
+    "message": "Níl nasc foinse ag an bhfíseán seo."
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "Aitheantóir Féach Níos Déanaí ar iarraidh."
+  },
+  "save_premium_modal_title": {
+    "message": "Sábháil físeáin le Premium"
+  },
+  "save_premium_modal_message": {
+    "message": "Tá sábháil físeáin chuig do leabharlann ar fáil do bhaill Premium. Uasghrádaigh chun físeáin gan teorainn a shábháil."
+  },
+  "limit_modal_title": {
+    "message": "Teorainn shábhála bainte amach"
+  },
+  "limit_modal_message": {
+    "message": "Tá do theorainn shábhála saor in aisce bainte amach agat. Uasghrádaigh go Premium chun físeáin gan teorainn a shábháil."
+  },
+  "limit_modal_upgrade": {
+    "message": "Faigh Premium"
+  },
+  "limit_modal_start_trial": {
+    "message": "Tosaigh triail saor in aisce"
+  },
+  "limit_modal_later": {
+    "message": "Ní anois"
+  },
+  "hd_limit_modal_title": {
+    "message": "Teorainn laethúil íoslódála HD bainte amach"
+  },
+  "hd_limit_modal_message": {
+    "message": "Tá do theorainn laethúil íoslódála HD saor in aisce bainte amach agat. Uasghrádaigh go Premium chun físeáin a íoslódáil i gcáilíocht iomlán gan teorainneacha."
+  },
+  "download_premium_modal_title": {
+    "message": "Díghlasáil íoslódálacha físeán"
+  },
+  "download_premium_modal_message": {
+    "message": "Uasghrádaigh go Premium chun aon fhíseán a íoslódáil in aon cháilíocht — íoslódálacha gan teorainn."
+  },
+  "cast_limit_modal_title": {
+    "message": "Teorainn laethúil craoladh bainte amach"
+  },
+  "cast_limit_modal_message": {
+    "message": "Tá do theorainn laethúil craoladh saor in aisce bainte amach agat. Uasghrádaigh go Premium chun aon fhíseán a chraoladh ar do theilifís gan teorainneacha."
+  },
+  "cast_premium_modal_title": {
+    "message": "Craol ar do theilifís le Premium"
+  },
+  "cast_premium_modal_message": {
+    "message": "Tá craoladh Chromecast ar fáil do bhaill Premium. Uasghrádaigh chun aon fhíseán a shruthú ar do theilifís gan teorainneacha."
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "Tosaigh do thriail saor in aisce chun aon fhíseán a chraoladh chuig do theilifís — gan tiomantas, cealaigh am ar bith."
+  },
+  "review_modal_title": {
+    "message": "An maith leat Video Downloader Plus?"
+  },
+  "review_modal_message": {
+    "message": "Má chabhraigh Video Downloader Plus leat, bheadh rátáil thapa ar Chrome Web Store thar a bheith luachmhar dúinn!"
+  },
+  "review_modal_rate": {
+    "message": "Rátáil Video Downloader Plus"
+  },
+  "review_modal_later": {
+    "message": "B'fhéidir Níos Déanaí"
+  },
+  "download_limit_banner_remaining": {
+    "message": "$1 íoslódáil HD fágtha inniu"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "Teorainn laethúil íoslódála HD bainte amach"
+  },
+  "download_limit_banner_reset": {
+    "message": "Athshocraítear i $1"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "Uasghrádaigh go Premium — íoslódáil aon fhíseán in aon cháilíocht, gan teorainn."
+  },
+  "generic_video_label": {
+    "message": "Físeán"
+  },
+  "popup_actions_cast": {
+    "message": "Teilg"
+  },
+  "popup_actions_download": {
+    "message": "Íoslódáil"
+  },
+  "popup_actions_premium": {
+    "message": "Premium"
+  },
+  "popup_actions_save": {
+    "message": "Sábháil"
+  },
+  "toast_dismiss": {
+    "message": "Díbhe"
+  },
+  "options_header_subtitle": {
+    "message": "Saincheap conas a bhraitheann agus a shábhálann Video Downloader Plus físeáin"
+  },
+  "options_help_center": {
+    "message": "Ionad Cabhrach"
+  },
+  "options_support": {
+    "message": "Tacaíocht"
+  },
+  "options_formats_title": {
+    "message": "Formáidí Meán"
+  },
+  "options_formats_description": {
+    "message": "Roghnaigh na cineálacha comhad ba cheart do Video Downloader Plus a lorg"
+  },
+  "options_formats_video_label": {
+    "message": "Físeán"
+  },
+  "options_formats_audio_label": {
+    "message": "Fuaim"
+  },
+  "options_size_title": {
+    "message": "Tairseach Méide"
+  },
+  "options_size_description": {
+    "message": "Déan neamhaird ar chomhaid níos lú ná an méid seo"
+  },
+  "options_size_label": {
+    "message": "Méid Íosta"
+  },
+  "options_size_custom": {
+    "message": "Saincheaptha"
+  },
+  "options_download_title": {
+    "message": "Suíomh Sábhála"
+  },
+  "options_download_description": {
+    "message": "Roghnaigh cá stóráiltear na físeáin íoslódáilte"
+  },
+  "options_download_toggle_label": {
+    "message": "Fillteán Tiomnaithe"
+  },
+  "options_download_toggle_description": {
+    "message": "Seol gach sábháil go fillteán amháin"
+  },
+  "options_download_folder_label": {
+    "message": "Ainm Fillteáin"
+  },
+  "options_download_folder_description": {
+    "message": "Cosán in Íoslódálacha (folamh don fhréamh)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "Cuma"
+  },
+  "options_appearance_description": {
+    "message": "Roghnaigh conas a fhéachann Video Downloader Plus"
+  },
+  "options_theme_system": {
+    "message": "Córas"
+  },
+  "options_theme_light": {
+    "message": "Geal"
+  },
+  "options_theme_dark": {
+    "message": "Dorcha"
+  },
+  "options_cast_title": {
+    "message": "Teilg chuig TV"
+  },
+  "options_cast_description": {
+    "message": "Sruthú físeán chuig gléasanna Chromecast"
+  },
+  "options_cast_toggle_label": {
+    "message": "Cnaipe Teilgthe"
+  },
+  "options_cast_toggle_description": {
+    "message": "Taispeáin deilbhín teilgthe in aice le físeáin tacaithe"
+  },
+  "options_badge_title": {
+    "message": "Suaitheantas"
+  },
+  "options_badge_description": {
+    "message": "Roghnaigh cad a thaispeánann suaitheantas deilbhín an bharra uirlisí"
+  },
+  "options_badge_count": {
+    "message": "Comhaireamh"
+  },
+  "options_badge_dot": {
+    "message": "Ponc"
+  },
+  "options_badge_hidden": {
+    "message": "Folaithe"
+  },
+  "options_website_title": {
+    "message": "Liosta Blocála"
+  },
+  "options_website_description": {
+    "message": "Cosc a chur ar Video Downloader Plus rith ar shuímh ar leith"
+  },
+  "options_website_add_label": {
+    "message": "Blocáil Suíomh"
+  },
+  "options_website_add_description": {
+    "message": "Patrúin a nglactar leo: <code>example.com</code> nó <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com nó *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "Blocáil"
+  },
+  "options_website_list_label": {
+    "message": "Suímh Bhlocáilte"
+  },
+  "options_website_empty": {
+    "message": "Níl aon suímh bhlocáilte fós"
+  },
+  "options_status_unsaved": {
+    "message": "Athruithe gan sábháil"
+  },
+  "options_status_saved": {
+    "message": "Socruithe sábháilte"
+  },
+  "options_button_save": {
+    "message": "Cuir i bhFeidhm"
+  },
+  "options_button_reset": {
+    "message": "Athshocraigh go réamhshocruithe"
+  },
+  "options_button_reset_confirm": {
+    "message": "An bhfuil tú cinnte?"
+  },
+  "options_toast_reset_success": {
+    "message": "Socruithe curtha ar ais go réamhshocruithe"
+  },
+  "options_toast_reset_error": {
+    "message": "Theip ar athshocrú na socruithe"
+  },
+  "options_button_logout": {
+    "message": "Logáil Amach"
+  },
+  "options_toast_min_size": {
+    "message": "Is é $1 $2 an t-íosmhéid"
+  },
+  "options_toast_enter_domain": {
+    "message": "Cuir isteach fearann ar dtús"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "Ionchur Neamhbhailí"
+  },
+  "options_toast_invalid_domain": {
+    "message": "Cuir isteach fearann bailí cosúil le example.com nó *.example.com"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "Fearann Neamhbhailí"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "Tá an suíomh seo ar an liosta blocála cheana féin"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "Blocáilte Cheana"
+  },
+  "options_toast_block_limit": {
+    "message": "Is féidir leat suas le $1 suíomh a bhlocáil."
+  },
+  "options_toast_permission_denied": {
+    "message": "Rochtain diúltaithe. Scoránaigh chun triail eile a bhaint as."
+  },
+  "options_toast_permission_title": {
+    "message": "Rochtain ag Teastáil"
+  },
+  "options_toast_permission_failed": {
+    "message": "Ní féidir cead a iarraidh. Bain triail eile as."
+  },
+  "options_toast_save_success": {
+    "message": "Socruithe curtha i bhfeidhm"
+  },
+  "options_toast_save_error": {
+    "message": "Ní féidir a shábháil. Bain triail eile as."
+  },
+  "options_toast_logout_success": {
+    "message": "Logáilte amach"
+  },
+  "options_toast_logout_error": {
+    "message": "Theip ar an logáil amach. Bain triail eile as."
+  },
+  "options_toast_load_error": {
+    "message": "Ní féidir socruithe a lódáil. Athnuaigh an leathanach."
+  },
+  "options_footer_privacy": {
+    "message": "Polasaí Príobháideachta"
+  },
+  "options_footer_terms": {
+    "message": "Téarmaí Seirbhíse"
+  },
+  "player_modal_close": {
+    "message": "Dún an seinnteoir"
+  },
+  "player_modal_error": {
+    "message": "Ní féidir an físeán seo a sheinm"
+  },
+  "player_modal_unsupported": {
+    "message": "Ní féidir an fhormáid seo a réamhamharc. Úsáid íoslódáil."
+  },
+  "player_modal_loading": {
+    "message": "Físeán á lódáil..."
+  },
+  "options_header_badge": {
+    "message": "Socruithe"
+  },
+  "toast_viewport_label": {
+    "message": "Fógraí"
+  },
+  "popup_group_streaming_title": {
+    "message": "Sruthú $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "Fáil ón bhfreastalaí $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "Íoslódáil Dhíreach $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "Fáil ón bhfreastalaí"
+  },
+  "popup_group_merge_note": {
+    "message": "Tá an fhuaim agus an físeán ar leithligh — cuirfear le chéile iad le linn an íoslódáil"
+  },
+  "popup_dismiss_label": {
+    "message": "Ruaig"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "Theip ar sheinm an tsrutha"
+  },
+  "player_error_hls_unsupported": {
+    "message": "Ní thacaítear le seinm HLS"
+  },
+  "player_error_library_failed": {
+    "message": "Theip ar lódáil na leabharlainne sruthaithe"
+  },
+  "player_error_no_url": {
+    "message": "Níl aon URL inseinnte ar fáil"
+  },
+  "player_error_unsupported_format": {
+    "message": "Ní féidir an fhormáid seo a réamhamharc"
+  },
+  "error_no_internet": {
+    "message": "Gan nasc idirlín"
+  },
+  "error_server_unavailable": {
+    "message": "Freastalaí gan fáil go sealadach"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "Tosaigh do thriail saor in aisce chun aon fhíseán a íoslódáil láithreach — gan oibleagáid, cealaigh am ar bith."
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "Bain triail as Premium saor in aisce — íoslódáil aon fhíseán in aon cháilíocht, gan teorainneacha."
+  }
+}

@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "له هرې ویب پاڼې څخه سمدلاسه ویډیوګانې ډاونلوډ او خوندي کړئ. ګړندی او ساده ویډیو ډاونلوډر."
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "وروسته وګوره"
+  },
+  "popup_saved": {
+    "message": "خوندي شو"
+  },
+  "popup_my_list": {
+    "message": "زما لیست"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 کیفیت"
+  },
+  "popup_group_title_fallback": {
+    "message": "ویډیو"
+  },
+  "popup_group_title_numbered": {
+    "message": "ویډیو $1"
+  },
+  "popup_footer_settings": {
+    "message": "تنظیمات"
+  },
+  "popup_footer_reviews": {
+    "message": "بیاکتنې"
+  },
+  "popup_footer_blog": {
+    "message": "بلاګ"
+  },
+  "popup_footer_account": {
+    "message": "حساب"
+  },
+  "popup_footer_upgrade": {
+    "message": "لوړول"
+  },
+  "popup_play_button_label": {
+    "message": "ویډیو غږول"
+  },
+  "popup_cast_button_label": {
+    "message": "وسیلې ته لیږل"
+  },
+  "popup_live_label": {
+    "message": "ژوندی"
+  },
+  "popup_download_label": {
+    "message": "ډاونلوډ"
+  },
+  "popup_audio_label": {
+    "message": "غږ"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "یوازې غږ"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps غږ"
+  },
+  "popup_empty_state": {
+    "message": "ویډیوګانې ونه موندل شوې."
+  },
+  "popup_report_no_video": {
+    "message": "ستونزه راپور کړئ"
+  },
+  "popup_report_submitting": {
+    "message": "لیږل کیږي..."
+  },
+  "popup_report_success": {
+    "message": "د راپور لپاره مننه!"
+  },
+  "popup_report_error": {
+    "message": "لیږل ناکام شو. بیا هڅه وکړئ."
+  },
+  "popup_site_blocked": {
+    "message": "دا سایټ بند دی. د ویډیوګانو موندلو لپاره خلاص کړئ."
+  },
+  "popup_unblock_site": {
+    "message": "سایټ خلاص کړئ"
+  },
+  "popup_toast_unblock_success": {
+    "message": "سایټ خلاص شو! بیا پورته کیږي..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "خلاصول ناکام شو"
+  },
+  "popup_block_site": {
+    "message": "دا سایټ بند کړئ"
+  },
+  "popup_toast_block_success": {
+    "message": "سایټ بند شو! بیا پورته کیږي..."
+  },
+  "popup_toast_block_failed": {
+    "message": "بندول ناکام شو"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "خوندي ډاونلوډ پاڼه نشي خلاصیدی"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "خوندي ډاونلوډ نشي تیاریدی"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "خوندي ډاونلوډ تیاریږي…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "خوندي ډاونلوډ نشي پیلیدی. بیا هڅه وکړئ."
+  },
+  "popup_toast_open_source_failed": {
+    "message": "دا ویډیو نشي خلاصیدی"
+  },
+  "popup_toast_identify_failed": {
+    "message": "دا ویډیو نشي پیژندل کیدی"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "له وروسته وګوره لیست څخه لرې شو"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "په وروسته وګوره لیست کې خوندي شو"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "وروسته وګوره نشي تازه کیدی"
+  },
+  "popup_toast_settings_failed": {
+    "message": "تنظیمات نشي پورته کیدی"
+  },
+  "popup_toast_videos_failed": {
+    "message": "ویډیوګانې نشي پورته کیدی"
+  },
+  "popup_toast_download_started": {
+    "message": "ډاونلوډ پیل شو"
+  },
+  "popup_toast_download_failed": {
+    "message": "ډاونلوډ نشي پیل کیدی"
+  },
+  "popup_toast_cast_error": {
+    "message": "Chromecast نشي تیاریدی. بیا هڅه وکړئ."
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "په دې پاڼه کې ویډیوګانې نشي پورته کیدی"
+  },
+  "watch_later_error_server": {
+    "message": "سرور سره نشي نښلول کیدی. بیا هڅه وکړئ."
+  },
+  "watch_later_error_login": {
+    "message": "د وروسته وګوره ویډیوګانو اداره لپاره ننوتل."
+  },
+  "watch_later_error_upgrade": {
+    "message": "وروسته وګوره لپاره لوړول اړین دي."
+  },
+  "watch_later_error_premium_only": {
+    "message": "د ویډیوګانو خوندي کولو لپاره Premium اړین دی."
+  },
+  "watch_later_error_limit": {
+    "message": "وړیا خوندي کولو حد ته رسیدلی."
+  },
+  "watch_later_error_generic": {
+    "message": "وروسته وګوره نشي تازه کیدی. بیا هڅه وکړئ."
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "د ټب ګوتې نښه نشته."
+  },
+  "watch_later_error_missing_source": {
+    "message": "دا ویډیو سرچینه لینک نلري."
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "وروسته وګوره پیژندونکی نشته."
+  },
+  "save_premium_modal_title": {
+    "message": "د Premium سره ویډیوګانې خوندي کړئ"
+  },
+  "save_premium_modal_message": {
+    "message": "ستاسو کتابتون ته ویډیوګانې خوندي کول د Premium غړو لپاره شتون لري. د نامحدودو ویډیوګانو خوندي کولو لپاره لوړ کړئ."
+  },
+  "limit_modal_title": {
+    "message": "د خوندي کولو حد پوره شو"
+  },
+  "limit_modal_message": {
+    "message": "تاسو خپل وړیا خوندي کولو حد ته رسیدلي یاست. د نامحدود ویډیوګانو خوندي کولو لپاره Premium ته لوړ کړئ."
+  },
+  "limit_modal_upgrade": {
+    "message": "Premium ترلاسه کړئ"
+  },
+  "limit_modal_start_trial": {
+    "message": "وړیا ازموینه پیل کړئ"
+  },
+  "limit_modal_later": {
+    "message": "اوس نه"
+  },
+  "hd_limit_modal_title": {
+    "message": "ورځنی HD ډاونلوډ حد پوره شو"
+  },
+  "hd_limit_modal_message": {
+    "message": "تاسو خپل ورځنی وړیا HD ډاونلوډ حد ته رسیدلي یاست. د بې حده بشپړ کیفیت ویډیوګانو ډاونلوډ لپاره Premium ته لوړ کړئ."
+  },
+  "download_premium_modal_title": {
+    "message": "د ویډیو ډاونلوډونه خلاص کړئ"
+  },
+  "download_premium_modal_message": {
+    "message": "د هر ویډیو په هر کیفیت کې ډاونلوډ کولو لپاره Premium ته لوړ کړئ — نامحدودې ډاونلوډونه."
+  },
+  "cast_limit_modal_title": {
+    "message": "ورځنی کاسټ حد پوره شو"
+  },
+  "cast_limit_modal_message": {
+    "message": "تاسو خپل ورځنی وړیا کاسټ حد ته رسیدلي یاست. د بې حده هر ویډیو خپل TV ته کاسټ کولو لپاره Premium ته لوړ کړئ."
+  },
+  "cast_premium_modal_title": {
+    "message": "د Premium سره خپل TV ته کاسټ وکړئ"
+  },
+  "cast_premium_modal_message": {
+    "message": "Chromecast کاسټینګ د Premium غړو لپاره شتون لري. د بې حده هر ویډیو خپل TV ته سټریم کولو لپاره لوړ کړئ."
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "خپل وړیا ازموینه پیل کړئ ترڅو هر ویډیو خپل ټلویزیون ته واستوئ — هیڅ ژمنه نشته، هر وخت لغوه کړئ."
+  },
+  "review_modal_title": {
+    "message": "Video Downloader Plus خوښوي?"
+  },
+  "review_modal_message": {
+    "message": "که Video Downloader Plus ګټور وو، په Chrome Web Store کې ګړندۍ بیاکتنه زموږ لپاره ډیره ارزښتناکه ده!"
+  },
+  "review_modal_rate": {
+    "message": "Video Downloader Plus درجه ورکړئ"
+  },
+  "review_modal_later": {
+    "message": "شاید وروسته"
+  },
+  "download_limit_banner_remaining": {
+    "message": "نن $1 HD ډاونلوډ پاتې"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "ورځنی HD ډاونلوډ حد رسیدلی"
+  },
+  "download_limit_banner_reset": {
+    "message": "په $1 کې بیا تنظیم"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "Premium ته لوړ کړئ — هر ویډیو په هر کیفیت کې ډاونلوډ کړئ، محدودیت نشته."
+  },
+  "generic_video_label": {
+    "message": "ویډیو"
+  },
+  "popup_actions_cast": {
+    "message": "لیږل"
+  },
+  "popup_actions_download": {
+    "message": "ډاونلوډ"
+  },
+  "popup_actions_premium": {
+    "message": "پریمیم"
+  },
+  "popup_actions_save": {
+    "message": "خوندي"
+  },
+  "toast_dismiss": {
+    "message": "بندول"
+  },
+  "options_header_subtitle": {
+    "message": "Video Downloader Plus څنګه ویډیوګانې مومي او خوندي کوي تنظیم کړئ"
+  },
+  "options_help_center": {
+    "message": "مرستې مرکز"
+  },
+  "options_support": {
+    "message": "ملاتړ"
+  },
+  "options_formats_title": {
+    "message": "میډیا فارمیټونه"
+  },
+  "options_formats_description": {
+    "message": "Video Downloader Plus کوم فایل ډولونه وپلټي غوره کړئ"
+  },
+  "options_formats_video_label": {
+    "message": "ویډیو"
+  },
+  "options_formats_audio_label": {
+    "message": "غږ"
+  },
+  "options_size_title": {
+    "message": "اندازه حد"
+  },
+  "options_size_description": {
+    "message": "کوچنۍ فایلونه بې پامه کړئ"
+  },
+  "options_size_label": {
+    "message": "لږترلږه اندازه"
+  },
+  "options_size_custom": {
+    "message": "دودیز"
+  },
+  "options_download_title": {
+    "message": "خوندي ځای"
+  },
+  "options_download_description": {
+    "message": "ډاونلوډ شوي ویډیوګانې چیرته خوندي شي غوره کړئ"
+  },
+  "options_download_toggle_label": {
+    "message": "ځانګړی فولډر"
+  },
+  "options_download_toggle_description": {
+    "message": "ټول ډاونلوډونه یوې فولډر ته ولیږئ"
+  },
+  "options_download_folder_label": {
+    "message": "فولډر نوم"
+  },
+  "options_download_folder_description": {
+    "message": "د ډاونلوډونو کې لاره (ریښې لپاره خالي)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "بڼه"
+  },
+  "options_appearance_description": {
+    "message": "Video Downloader Plus څنګه ښکاري غوره کړئ"
+  },
+  "options_theme_system": {
+    "message": "سیسټم"
+  },
+  "options_theme_light": {
+    "message": "روښانه"
+  },
+  "options_theme_dark": {
+    "message": "تیاره"
+  },
+  "options_cast_title": {
+    "message": "TV ته لیږل"
+  },
+  "options_cast_description": {
+    "message": "Chromecast وسیلو ته ویډیوګانې لیږئ"
+  },
+  "options_cast_toggle_label": {
+    "message": "لیږلو تڼۍ"
+  },
+  "options_cast_toggle_description": {
+    "message": "ملاتړ شویو ویډیوګانو ته نږدې لیږلو آیکون وښایاست"
+  },
+  "options_badge_title": {
+    "message": "بیج"
+  },
+  "options_badge_description": {
+    "message": "غوره کړئ چې د وسیلې پټې آیکون بیج څه ښکاره کوي"
+  },
+  "options_badge_count": {
+    "message": "شمیرنه"
+  },
+  "options_badge_dot": {
+    "message": "ټکی"
+  },
+  "options_badge_hidden": {
+    "message": "پټ"
+  },
+  "options_website_title": {
+    "message": "بند لیست"
+  },
+  "options_website_description": {
+    "message": "ځانګړو سایټونو کې Video Downloader Plus چلیدل مخنیوی کړئ"
+  },
+  "options_website_add_label": {
+    "message": "سایټ بند کړئ"
+  },
+  "options_website_add_description": {
+    "message": "منل شوي نمونې: <code>example.com</code> یا <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com یا *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "بند"
+  },
+  "options_website_list_label": {
+    "message": "بند شوي سایټونه"
+  },
+  "options_website_empty": {
+    "message": "تر اوسه بند شوي سایټونه نشته"
+  },
+  "options_status_unsaved": {
+    "message": "نه خوندي شوي بدلونونه"
+  },
+  "options_status_saved": {
+    "message": "تنظیمات خوندي شوې"
+  },
+  "options_button_save": {
+    "message": "پلي کړئ"
+  },
+  "options_button_reset": {
+    "message": "ډیفالټ ته بیا تنظیم"
+  },
+  "options_button_reset_confirm": {
+    "message": "تاسو ډاډه یاست?"
+  },
+  "options_toast_reset_success": {
+    "message": "تنظیمات ډیفالټ ته بیرته راغلې"
+  },
+  "options_toast_reset_error": {
+    "message": "تنظیمات بیا تنظیمول ناکام شو"
+  },
+  "options_button_logout": {
+    "message": "وتل"
+  },
+  "options_toast_min_size": {
+    "message": "لږترلږه $1 $2 دی"
+  },
+  "options_toast_enter_domain": {
+    "message": "لومړی ډومین دننه کړئ"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "ناباوره ننوتنه"
+  },
+  "options_toast_invalid_domain": {
+    "message": "لکه example.com یا *.example.com باوري ډومین دننه کړئ"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "ناباوره ډومین"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "دا سایټ لا دمخه بند لیست کې دی"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "لا دمخه بند"
+  },
+  "options_toast_block_limit": {
+    "message": "تاسو تر $1 سایټونو پورې بند کولی شئ."
+  },
+  "options_toast_permission_denied": {
+    "message": "لاسرسي رد شو. بیا هڅې لپاره ټوګل کړئ."
+  },
+  "options_toast_permission_title": {
+    "message": "لاسرسي اړینه ده"
+  },
+  "options_toast_permission_failed": {
+    "message": "اجازه غوښتل نشي کیدی. بیا هڅه وکړئ."
+  },
+  "options_toast_save_success": {
+    "message": "تنظیمات پلي شوې"
+  },
+  "options_toast_save_error": {
+    "message": "خوندي نشي کیدی. بیا هڅه وکړئ."
+  },
+  "options_toast_logout_success": {
+    "message": "ووتلئ"
+  },
+  "options_toast_logout_error": {
+    "message": "وتل ناکام شو. بیا هڅه وکړئ."
+  },
+  "options_toast_load_error": {
+    "message": "تنظیمات نشي پورته کیدی. پاڼه تازه کړئ."
+  },
+  "options_footer_privacy": {
+    "message": "د محرمیت تګلاره"
+  },
+  "options_footer_terms": {
+    "message": "د خدمت شرایط"
+  },
+  "player_modal_close": {
+    "message": "پلیر بند کړئ"
+  },
+  "player_modal_error": {
+    "message": "دا ویډیو نشي غږول کیدی"
+  },
+  "player_modal_unsupported": {
+    "message": "دا فارمیټ نشي لیدل کیدی. ډاونلوډ وکاروئ."
+  },
+  "player_modal_loading": {
+    "message": "ویډیو پورته کیږي..."
+  },
+  "options_header_badge": {
+    "message": "تنظیمات"
+  },
+  "toast_viewport_label": {
+    "message": "خبرتیاوې"
+  },
+  "popup_group_streaming_title": {
+    "message": "سټریمینګ $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "د سرور راوړل $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "مستقیم ډاونلوډ $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "د سرور راوړل"
+  },
+  "popup_group_merge_note": {
+    "message": "غږ او ویډیو جلا دي — ډاونلوډ دوران سره ترکیب کیږي"
+  },
+  "popup_dismiss_label": {
+    "message": "رد کول"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "د سټریم غږول ناکام شو"
+  },
+  "player_error_hls_unsupported": {
+    "message": "د HLS غږول ملاتړ نلري"
+  },
+  "player_error_library_failed": {
+    "message": "د سټریمینګ کتابتون نشي پورته کیدی"
+  },
+  "player_error_no_url": {
+    "message": "هیڅ د غږولو وړ URL شتون نلري"
+  },
+  "player_error_unsupported_format": {
+    "message": "دا فارمیټ نشي لیدل کیدی"
+  },
+  "error_no_internet": {
+    "message": "د انټرنېټ اتصال نشته"
+  },
+  "error_server_unavailable": {
+    "message": "سرور موقتاً ناشته"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "د هرې ویډیو سمدستي ډاونلوډ کولو لپاره خپل وړیا ازموینه پیل کړئ — هیڅ ژمنه نشته، هر وخت لغوه کړئ."
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "Premium وړیا وازمویئ — هره ویډیو په هر کیفیت کې ډاونلوډ کړئ، بې حده."
+  }
+}

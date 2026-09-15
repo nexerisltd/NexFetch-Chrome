@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "Töltsön le és mentsen videókat bármely weboldalról azonnal. Gyors és egyszerű videó letöltő."
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "Megnézem később"
+  },
+  "popup_saved": {
+    "message": "Mentve"
+  },
+  "popup_my_list": {
+    "message": "Listám"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 minőség"
+  },
+  "popup_group_title_fallback": {
+    "message": "Videó"
+  },
+  "popup_group_title_numbered": {
+    "message": "Videó $1"
+  },
+  "popup_footer_settings": {
+    "message": "Beállítások"
+  },
+  "popup_footer_reviews": {
+    "message": "Értékelések"
+  },
+  "popup_footer_blog": {
+    "message": "Blog"
+  },
+  "popup_footer_account": {
+    "message": "Fiók"
+  },
+  "popup_footer_upgrade": {
+    "message": "Frissítés"
+  },
+  "popup_play_button_label": {
+    "message": "Videó lejátszása"
+  },
+  "popup_cast_button_label": {
+    "message": "Átküldés eszközre"
+  },
+  "popup_live_label": {
+    "message": "Élő"
+  },
+  "popup_download_label": {
+    "message": "Letöltés"
+  },
+  "popup_audio_label": {
+    "message": "Hang"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "Csak hang"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps hang"
+  },
+  "popup_empty_state": {
+    "message": "Nem találhatók videók."
+  },
+  "popup_report_no_video": {
+    "message": "Probléma jelentése"
+  },
+  "popup_report_submitting": {
+    "message": "Küldés..."
+  },
+  "popup_report_success": {
+    "message": "Köszönjük a jelentést!"
+  },
+  "popup_report_error": {
+    "message": "A küldés sikertelen. Próbálja újra."
+  },
+  "popup_site_blocked": {
+    "message": "Ez az oldal le van tiltva. Feloldhatja a videók érzékeléséhez."
+  },
+  "popup_unblock_site": {
+    "message": "Tiltás feloldása"
+  },
+  "popup_toast_unblock_success": {
+    "message": "Tiltás feloldva! Újratöltés..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "A feloldás sikertelen"
+  },
+  "popup_block_site": {
+    "message": "Oldal letiltása"
+  },
+  "popup_toast_block_success": {
+    "message": "Oldal letiltva! Újratöltés..."
+  },
+  "popup_toast_block_failed": {
+    "message": "A letiltás sikertelen"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "Nem nyitható meg a biztonságos letöltési oldal"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "Nem készíthető elő a biztonságos letöltés"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "Biztonságos letöltés előkészítése…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "Nem indítható a biztonságos letöltés. Próbálja újra."
+  },
+  "popup_toast_open_source_failed": {
+    "message": "Nem nyitható meg ez a videó"
+  },
+  "popup_toast_identify_failed": {
+    "message": "Nem azonosítható ez a videó"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "Eltávolítva a Megnézem később listáról"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "Mentve a Megnézem később listára"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "Nem frissíthető a Megnézem később"
+  },
+  "popup_toast_settings_failed": {
+    "message": "Nem tölthetők be a beállítások"
+  },
+  "popup_toast_videos_failed": {
+    "message": "Nem tölthetők be a videók"
+  },
+  "popup_toast_download_started": {
+    "message": "Letöltés elindítva"
+  },
+  "popup_toast_download_failed": {
+    "message": "Nem indítható a letöltés"
+  },
+  "popup_toast_cast_error": {
+    "message": "Nem készíthető elő a Chromecast. Próbálja újra."
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "Nem tölthetők be videók ezen az oldalon"
+  },
+  "watch_later_error_server": {
+    "message": "Nem érhető el a szerver. Próbálja újra."
+  },
+  "watch_later_error_login": {
+    "message": "Jelentkezzen be a Megnézem később videók kezeléséhez."
+  },
+  "watch_later_error_upgrade": {
+    "message": "Frissítés szükséges a Megnézem későbbhez."
+  },
+  "watch_later_error_premium_only": {
+    "message": "A videók mentéséhez Premium szükséges."
+  },
+  "watch_later_error_limit": {
+    "message": "Elérte az ingyenes mentési limitet."
+  },
+  "watch_later_error_generic": {
+    "message": "Nem frissíthető a Megnézem később. Próbálja újra."
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "Hiányzó lap ujjlenyomat."
+  },
+  "watch_later_error_missing_source": {
+    "message": "Ennek a videónak hiányzik a forrás linkje."
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "Hiányzó Megnézem később azonosító."
+  },
+  "save_premium_modal_title": {
+    "message": "Mentse el a videókat Premiummal"
+  },
+  "save_premium_modal_message": {
+    "message": "A videók mentése a könyvtárába a Premium tagok számára érhető el. Frissítsen a korlátlan videómentéshez."
+  },
+  "limit_modal_title": {
+    "message": "Mentési korlát elérve"
+  },
+  "limit_modal_message": {
+    "message": "Elérted az ingyenes mentési korlátot. Frissíts Premiumra korlátlan videó mentéséhez."
+  },
+  "limit_modal_upgrade": {
+    "message": "Premium beszerzése"
+  },
+  "limit_modal_start_trial": {
+    "message": "Ingyenes próba indítása"
+  },
+  "limit_modal_later": {
+    "message": "Most nem"
+  },
+  "hd_limit_modal_title": {
+    "message": "Napi HD letöltési korlát elérve"
+  },
+  "hd_limit_modal_message": {
+    "message": "Elérted a napi ingyenes HD letöltési korlátot. Frissíts Premiumra, hogy videókat tölts le teljes minőségben korlátok nélkül."
+  },
+  "download_premium_modal_title": {
+    "message": "Videóletöltések feloldása"
+  },
+  "download_premium_modal_message": {
+    "message": "Frissítsen Premiumra bármilyen videó letöltéséhez bármilyen minőségben — korlátlan letöltések."
+  },
+  "cast_limit_modal_title": {
+    "message": "Napi közvetítési korlát elérve"
+  },
+  "cast_limit_modal_message": {
+    "message": "Elérted a napi ingyenes közvetítési korlátot. Frissíts Premiumra, hogy bármilyen videót közvetíts a TV-dre korlátok nélkül."
+  },
+  "cast_premium_modal_title": {
+    "message": "Közvetíts a TV-dre Premiummal"
+  },
+  "cast_premium_modal_message": {
+    "message": "A Chromecast közvetítés Premium tagok számára érhető el. Frissíts, hogy bármilyen videót streamelj a TV-dre korlátok nélkül."
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "Kezdje el ingyenes próbaidőszakát, hogy bármilyen videót átküldhessen a tévéjére — kötelezettség nélkül, bármikor lemondható."
+  },
+  "review_modal_title": {
+    "message": "Tetszik a Video Downloader Plus?"
+  },
+  "review_modal_message": {
+    "message": "Ha a Video Downloader Plus hasznos volt, egy gyors értékelés a Chrome Web Store-ban sokat jelentene nekünk!"
+  },
+  "review_modal_rate": {
+    "message": "Video Downloader Plus értékelése"
+  },
+  "review_modal_later": {
+    "message": "Talán később"
+  },
+  "download_limit_banner_remaining": {
+    "message": "$1 HD letöltés maradt ma"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "Napi HD letöltési limit elérve"
+  },
+  "download_limit_banner_reset": {
+    "message": "Visszaáll $1 múlva"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "Frissítsen Premiumra — töltsön le bármilyen videót bármilyen minőségben, korlátozás nélkül."
+  },
+  "generic_video_label": {
+    "message": "Videó"
+  },
+  "popup_actions_cast": {
+    "message": "Átküldés"
+  },
+  "popup_actions_download": {
+    "message": "Letöltés"
+  },
+  "popup_actions_premium": {
+    "message": "Premium"
+  },
+  "popup_actions_save": {
+    "message": "Mentés"
+  },
+  "toast_dismiss": {
+    "message": "Bezárás"
+  },
+  "options_header_subtitle": {
+    "message": "Szabja testre, hogyan érzékeli és menti a Video Downloader Plus a videókat"
+  },
+  "options_help_center": {
+    "message": "Súgóközpont"
+  },
+  "options_support": {
+    "message": "Támogatás"
+  },
+  "options_formats_title": {
+    "message": "Médiaformátumok"
+  },
+  "options_formats_description": {
+    "message": "Válassza ki a fájltípusokat, amelyeket a Video Downloader Plus keres"
+  },
+  "options_formats_video_label": {
+    "message": "Videó"
+  },
+  "options_formats_audio_label": {
+    "message": "Hang"
+  },
+  "options_size_title": {
+    "message": "Méretküszöb"
+  },
+  "options_size_description": {
+    "message": "Ennél kisebb fájlok figyelmen kívül hagyása"
+  },
+  "options_size_label": {
+    "message": "Min. méret"
+  },
+  "options_size_custom": {
+    "message": "Egyéni"
+  },
+  "options_download_title": {
+    "message": "Mentési hely"
+  },
+  "options_download_description": {
+    "message": "Válassza ki, hová kerüljenek a letöltött videók"
+  },
+  "options_download_toggle_label": {
+    "message": "Dedikált mappa"
+  },
+  "options_download_toggle_description": {
+    "message": "Minden mentés egy mappába irányítása"
+  },
+  "options_download_folder_label": {
+    "message": "Mappa neve"
+  },
+  "options_download_folder_description": {
+    "message": "Útvonal a Letöltésekben (üres a gyökérhez)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "Megjelenés"
+  },
+  "options_appearance_description": {
+    "message": "Válassza ki a Video Downloader Plus megjelenését"
+  },
+  "options_theme_system": {
+    "message": "Rendszer"
+  },
+  "options_theme_light": {
+    "message": "Világos"
+  },
+  "options_theme_dark": {
+    "message": "Sötét"
+  },
+  "options_cast_title": {
+    "message": "Átküldés TV-re"
+  },
+  "options_cast_description": {
+    "message": "Videók streamelése Chromecast eszközökre"
+  },
+  "options_cast_toggle_label": {
+    "message": "Átküldés gomb"
+  },
+  "options_cast_toggle_description": {
+    "message": "Átküldés ikon megjelenítése a támogatott videók mellett"
+  },
+  "options_badge_title": {
+    "message": "Jelvény"
+  },
+  "options_badge_description": {
+    "message": "Válassza ki, mit jelenítsen meg az eszköztár ikon jelvénye"
+  },
+  "options_badge_count": {
+    "message": "Szám"
+  },
+  "options_badge_dot": {
+    "message": "Pont"
+  },
+  "options_badge_hidden": {
+    "message": "Rejtett"
+  },
+  "options_website_title": {
+    "message": "Tiltólista"
+  },
+  "options_website_description": {
+    "message": "A Video Downloader Plus futásának megakadályozása adott oldalakon"
+  },
+  "options_website_add_label": {
+    "message": "Oldal letiltása"
+  },
+  "options_website_add_description": {
+    "message": "Elfogadott minták: <code>example.com</code> vagy <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com vagy *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "Letiltás"
+  },
+  "options_website_list_label": {
+    "message": "Letiltott oldalak"
+  },
+  "options_website_empty": {
+    "message": "Még nincsenek letiltott oldalak"
+  },
+  "options_status_unsaved": {
+    "message": "Nem mentett módosítások"
+  },
+  "options_status_saved": {
+    "message": "Beállítások mentve"
+  },
+  "options_button_save": {
+    "message": "Alkalmaz"
+  },
+  "options_button_reset": {
+    "message": "Visszaállítás alapértelmezettre"
+  },
+  "options_button_reset_confirm": {
+    "message": "Biztos benne?"
+  },
+  "options_toast_reset_success": {
+    "message": "Beállítások visszaállítva az alapértelmezettre"
+  },
+  "options_toast_reset_error": {
+    "message": "A beállítások visszaállítása sikertelen"
+  },
+  "options_button_logout": {
+    "message": "Kijelentkezés"
+  },
+  "options_toast_min_size": {
+    "message": "A minimum $1 $2"
+  },
+  "options_toast_enter_domain": {
+    "message": "Először adjon meg egy domaint"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "Érvénytelen bemenet"
+  },
+  "options_toast_invalid_domain": {
+    "message": "Adjon meg érvényes domaint, mint example.com vagy *.example.com"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "Érvénytelen domain"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "Ez az oldal már a tiltólistán van"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "Már letiltva"
+  },
+  "options_toast_block_limit": {
+    "message": "Legfeljebb $1 oldalt tilthat le."
+  },
+  "options_toast_permission_denied": {
+    "message": "Hozzáférés megtagadva. Kapcsolja át az újrapróbálkozáshoz."
+  },
+  "options_toast_permission_title": {
+    "message": "Hozzáférés szükséges"
+  },
+  "options_toast_permission_failed": {
+    "message": "Nem kérhető engedély. Próbálja újra."
+  },
+  "options_toast_save_success": {
+    "message": "Beállítások alkalmazva"
+  },
+  "options_toast_save_error": {
+    "message": "Nem menthető. Próbálja újra."
+  },
+  "options_toast_logout_success": {
+    "message": "Kijelentkezve"
+  },
+  "options_toast_logout_error": {
+    "message": "A kijelentkezés sikertelen. Próbálja újra."
+  },
+  "options_toast_load_error": {
+    "message": "Nem tölthetők be a beállítások. Frissítse az oldalt."
+  },
+  "options_footer_privacy": {
+    "message": "Adatvédelmi irányelvek"
+  },
+  "options_footer_terms": {
+    "message": "Szolgáltatási feltételek"
+  },
+  "player_modal_close": {
+    "message": "Lejátszó bezárása"
+  },
+  "player_modal_error": {
+    "message": "Nem játszható le ez a videó"
+  },
+  "player_modal_unsupported": {
+    "message": "Ez a formátum nem tekinthető meg. Használja a letöltést."
+  },
+  "player_modal_loading": {
+    "message": "Videó betöltése..."
+  },
+  "options_header_badge": {
+    "message": "Beállítások"
+  },
+  "toast_viewport_label": {
+    "message": "Értesítések"
+  },
+  "popup_group_streaming_title": {
+    "message": "Streaming $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "Szerverlekérés $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "Közvetlen letöltés $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "Szerverlekérés"
+  },
+  "popup_group_merge_note": {
+    "message": "A hang és a videó külön van — letöltés közben egyesítve lesznek"
+  },
+  "popup_dismiss_label": {
+    "message": "Bezárás"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "A stream lejátszása sikertelen"
+  },
+  "player_error_hls_unsupported": {
+    "message": "A HLS lejátszás nem támogatott"
+  },
+  "player_error_library_failed": {
+    "message": "Nem sikerült betölteni a streaming könyvtárat"
+  },
+  "player_error_no_url": {
+    "message": "Nincs elérhető lejátszható URL"
+  },
+  "player_error_unsupported_format": {
+    "message": "Ez a formátum nem tekinthető meg"
+  },
+  "error_no_internet": {
+    "message": "Nincs internetkapcsolat"
+  },
+  "error_server_unavailable": {
+    "message": "A szerver átmenetileg nem elérhető"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "Indítsa el ingyenes próbaverzióját, hogy azonnal letölthessen bármilyen videót — kötelezettség nélkül, bármikor lemondható."
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "Próbálja ki a Premiumot ingyen — töltsön le bármilyen videót bármilyen minőségben, korlátok nélkül."
+  }
+}

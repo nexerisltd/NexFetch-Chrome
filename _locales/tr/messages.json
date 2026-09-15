@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "Herhangi bir web sitesinden anında video indirin ve kaydedin. Hızlı, basit ve işe yarayan bir video indirici."
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "Daha sonra izle"
+  },
+  "popup_saved": {
+    "message": "Kaydedildi"
+  },
+  "popup_my_list": {
+    "message": "Listem"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 kalite"
+  },
+  "popup_group_title_fallback": {
+    "message": "Video"
+  },
+  "popup_group_title_numbered": {
+    "message": "Video $1"
+  },
+  "popup_footer_settings": {
+    "message": "Ayarlar"
+  },
+  "popup_footer_reviews": {
+    "message": "Değerlendirmeler"
+  },
+  "popup_footer_blog": {
+    "message": "Blog"
+  },
+  "popup_footer_account": {
+    "message": "Hesap"
+  },
+  "popup_footer_upgrade": {
+    "message": "Yükselt"
+  },
+  "popup_play_button_label": {
+    "message": "Videoyu oynat"
+  },
+  "popup_cast_button_label": {
+    "message": "Cihaza yayınla"
+  },
+  "popup_live_label": {
+    "message": "Canlı"
+  },
+  "popup_download_label": {
+    "message": "İndir"
+  },
+  "popup_audio_label": {
+    "message": "Ses"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "Yalnızca ses"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps ses"
+  },
+  "popup_empty_state": {
+    "message": "Video bulunamadı."
+  },
+  "popup_report_no_video": {
+    "message": "Sorun bildir"
+  },
+  "popup_report_submitting": {
+    "message": "Gönderiliyor..."
+  },
+  "popup_report_success": {
+    "message": "Bildiriminiz için teşekkürler!"
+  },
+  "popup_report_error": {
+    "message": "Bildirim gönderilemedi. Lütfen tekrar deneyin."
+  },
+  "popup_site_blocked": {
+    "message": "Bu site engellendi. Videoları algılamak için engelini kaldırabilirsiniz."
+  },
+  "popup_unblock_site": {
+    "message": "Sitenin engelini kaldır"
+  },
+  "popup_toast_unblock_success": {
+    "message": "Site engeli kaldırıldı! Yeniden yükleniyor..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "Engel kaldırma başarısız"
+  },
+  "popup_block_site": {
+    "message": "Bu siteyi engelle"
+  },
+  "popup_toast_block_success": {
+    "message": "Site engellendi! Yeniden yükleniyor..."
+  },
+  "popup_toast_block_failed": {
+    "message": "Engelleme başarısız"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "Güvenli indirme sayfası açılamıyor"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "Bu güvenli indirme hazırlanamıyor"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "Güvenli indirme hazırlanıyor…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "Güvenli indirme başlatılamıyor. Lütfen tekrar deneyin."
+  },
+  "popup_toast_open_source_failed": {
+    "message": "Bu video açılamıyor"
+  },
+  "popup_toast_identify_failed": {
+    "message": "Bu video tanımlanamıyor"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "Daha sonra izle listesinden kaldırıldı"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "Daha sonra izle listesine kaydedildi"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "Daha sonra izle güncellenemiyor"
+  },
+  "popup_toast_settings_failed": {
+    "message": "Ayarlar yüklenemiyor"
+  },
+  "popup_toast_videos_failed": {
+    "message": "Videolar yüklenemiyor"
+  },
+  "popup_toast_download_started": {
+    "message": "İndirme başladı"
+  },
+  "popup_toast_download_failed": {
+    "message": "İndirme başlatılamıyor"
+  },
+  "popup_toast_cast_error": {
+    "message": "Chromecast oynatma hazırlanamıyor. Lütfen tekrar deneyin."
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "Bu sayfadaki videolar yüklenemiyor"
+  },
+  "watch_later_error_server": {
+    "message": "Sunucuya bağlanılamıyor. Lütfen tekrar deneyin."
+  },
+  "watch_later_error_login": {
+    "message": "Daha sonra izle videolarını yönetmek için giriş yapın."
+  },
+  "watch_later_error_upgrade": {
+    "message": "Daha sonra izle'yi kullanmak için yükseltme gerekli."
+  },
+  "watch_later_error_premium_only": {
+    "message": "Videoları kaydetmek için Premium gereklidir."
+  },
+  "watch_later_error_limit": {
+    "message": "Ücretsiz kaydetme sınırına ulaştınız."
+  },
+  "watch_later_error_generic": {
+    "message": "Daha sonra izle güncellenemiyor. Lütfen tekrar deneyin."
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "Sekme parmak izi eksik."
+  },
+  "watch_later_error_missing_source": {
+    "message": "Bu videonun kaynak bağlantısı eksik."
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "Daha sonra izle tanımlayıcısı eksik."
+  },
+  "save_premium_modal_title": {
+    "message": "Premium ile videoları kaydedin"
+  },
+  "save_premium_modal_message": {
+    "message": "Kütüphanenize video kaydetme Premium üyeler için kullanılabilir. Sınırsız video kaydetmek için yükseltin."
+  },
+  "limit_modal_title": {
+    "message": "Kaydetme sınırına ulaşıldı"
+  },
+  "limit_modal_message": {
+    "message": "Ücretsiz kaydetme sınırınıza ulaştınız. Sınırsız video kaydetmek için Premium'a yükseltin."
+  },
+  "limit_modal_upgrade": {
+    "message": "Premium'u Edinin"
+  },
+  "limit_modal_start_trial": {
+    "message": "Ücretsiz denemeyi başlat"
+  },
+  "limit_modal_later": {
+    "message": "Şimdi değil"
+  },
+  "hd_limit_modal_title": {
+    "message": "Günlük HD indirme sınırına ulaşıldı"
+  },
+  "hd_limit_modal_message": {
+    "message": "Günlük ücretsiz HD indirme sınırınıza ulaştınız. Sınırsız tam kalitede video indirmek için Premium'a yükseltin."
+  },
+  "download_premium_modal_title": {
+    "message": "Video indirmelerini açın"
+  },
+  "download_premium_modal_message": {
+    "message": "Herhangi bir videoyu herhangi bir kalitede indirmek için Premium'a yükseltin — sınırsız indirme."
+  },
+  "cast_limit_modal_title": {
+    "message": "Günlük yayın sınırına ulaşıldı"
+  },
+  "cast_limit_modal_message": {
+    "message": "Günlük ücretsiz yayın sınırınıza ulaştınız. TV'nize sınırsız video yayınlamak için Premium'a yükseltin."
+  },
+  "cast_premium_modal_title": {
+    "message": "Premium ile TV'nize yayınlayın"
+  },
+  "cast_premium_modal_message": {
+    "message": "Chromecast yayını Premium üyeler için kullanılabilir. TV'nize sınırsız video yayınlamak için yükseltin."
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "Herhangi bir videoyu TV'nize yayınlamak için ücretsiz denemeyi başlatın — taahhüt yok, istediğiniz zaman iptal edin."
+  },
+  "review_modal_title": {
+    "message": "Video Downloader Plus'ı beğeniyor musunuz?"
+  },
+  "review_modal_message": {
+    "message": "Video Downloader Plus işine yaradıysa, Chrome Web Store'da hızlı bir değerlendirme bizim için çok şey ifade eder!"
+  },
+  "review_modal_rate": {
+    "message": "Video Downloader Plus'ı Değerlendir"
+  },
+  "review_modal_later": {
+    "message": "Belki Sonra"
+  },
+  "download_limit_banner_remaining": {
+    "message": "Bugün $1 HD indirme hakkı kaldı"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "Günlük HD indirme sınırına ulaşıldı"
+  },
+  "download_limit_banner_reset": {
+    "message": "$1 içinde sıfırlanır"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "Premium'a yükseltin — herhangi bir videoyu herhangi bir kalitede indirin, sınırsız."
+  },
+  "generic_video_label": {
+    "message": "Video"
+  },
+  "popup_actions_cast": {
+    "message": "Yayınla"
+  },
+  "popup_actions_download": {
+    "message": "İndir"
+  },
+  "popup_actions_premium": {
+    "message": "Premium"
+  },
+  "popup_actions_save": {
+    "message": "Kaydet"
+  },
+  "toast_dismiss": {
+    "message": "Kapat"
+  },
+  "options_header_subtitle": {
+    "message": "Video Downloader Plus'un videoları nasıl algılayıp kaydettiğini özelleştirin"
+  },
+  "options_help_center": {
+    "message": "Yardım Merkezi"
+  },
+  "options_support": {
+    "message": "Destek"
+  },
+  "options_formats_title": {
+    "message": "Medya biçimleri"
+  },
+  "options_formats_description": {
+    "message": "Video Downloader Plus'un araması gereken dosya türlerini seçin"
+  },
+  "options_formats_video_label": {
+    "message": "Video"
+  },
+  "options_formats_audio_label": {
+    "message": "Ses"
+  },
+  "options_size_title": {
+    "message": "Boyut eşiği"
+  },
+  "options_size_description": {
+    "message": "Bu boyuttan küçük dosyaları yoksay"
+  },
+  "options_size_label": {
+    "message": "Min. boyut"
+  },
+  "options_size_custom": {
+    "message": "Özel"
+  },
+  "options_download_title": {
+    "message": "Kayıt konumu"
+  },
+  "options_download_description": {
+    "message": "İndirilen videoların nereye kaydedileceğini seçin"
+  },
+  "options_download_toggle_label": {
+    "message": "Özel klasör"
+  },
+  "options_download_toggle_description": {
+    "message": "Tüm indirmeleri tek bir klasöre yönlendir"
+  },
+  "options_download_folder_label": {
+    "message": "Klasör adı"
+  },
+  "options_download_folder_description": {
+    "message": "İndirilenler içindeki yol (kök için boş bırakın)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "Görünüm"
+  },
+  "options_appearance_description": {
+    "message": "Video Downloader Plus'un görünümünü seçin"
+  },
+  "options_theme_system": {
+    "message": "Sistem"
+  },
+  "options_theme_light": {
+    "message": "Açık"
+  },
+  "options_theme_dark": {
+    "message": "Koyu"
+  },
+  "options_cast_title": {
+    "message": "TV'ye yayınla"
+  },
+  "options_cast_description": {
+    "message": "Videoları Chromecast uyumlu cihazlara yayınlayın"
+  },
+  "options_cast_toggle_label": {
+    "message": "Yayın düğmesi"
+  },
+  "options_cast_toggle_description": {
+    "message": "Desteklenen videoların yanında yayın simgesi göster"
+  },
+  "options_badge_title": {
+    "message": "Rozet"
+  },
+  "options_badge_description": {
+    "message": "Araç çubuğu simge rozetinin ne göstereceğini seçin"
+  },
+  "options_badge_count": {
+    "message": "Sayı"
+  },
+  "options_badge_dot": {
+    "message": "Nokta"
+  },
+  "options_badge_hidden": {
+    "message": "Gizli"
+  },
+  "options_website_title": {
+    "message": "Site engel listesi"
+  },
+  "options_website_description": {
+    "message": "Video Downloader Plus'un belirli sitelerde çalışmasını engelleyin"
+  },
+  "options_website_add_label": {
+    "message": "Site engelle"
+  },
+  "options_website_add_description": {
+    "message": "Kabul edilen kalıplar: <code>example.com</code> veya <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com veya *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "Engelle"
+  },
+  "options_website_list_label": {
+    "message": "Engellenen siteler"
+  },
+  "options_website_empty": {
+    "message": "Henüz engellenen site yok"
+  },
+  "options_status_unsaved": {
+    "message": "Kaydedilmemiş değişiklikler"
+  },
+  "options_status_saved": {
+    "message": "Ayarlar kaydedildi"
+  },
+  "options_button_save": {
+    "message": "Uygula"
+  },
+  "options_button_reset": {
+    "message": "Varsayılana sıfırla"
+  },
+  "options_button_reset_confirm": {
+    "message": "Emin misiniz?"
+  },
+  "options_toast_reset_success": {
+    "message": "Ayarlar varsayılana geri yüklendi"
+  },
+  "options_toast_reset_error": {
+    "message": "Ayarlar sıfırlanamadı"
+  },
+  "options_button_logout": {
+    "message": "Çıkış yap"
+  },
+  "options_toast_min_size": {
+    "message": "Minimum $1 $2"
+  },
+  "options_toast_enter_domain": {
+    "message": "Önce bir alan adı girin"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "Geçersiz giriş"
+  },
+  "options_toast_invalid_domain": {
+    "message": "example.com veya *.example.com gibi geçerli bir alan adı girin"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "Geçersiz alan adı"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "Bu site zaten engel listesinde"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "Zaten engelli"
+  },
+  "options_toast_block_limit": {
+    "message": "En fazla $1 site engelleyebilirsiniz."
+  },
+  "options_toast_permission_denied": {
+    "message": "Erişim reddedildi. Tekrar denemek için düğmeyi değiştirin."
+  },
+  "options_toast_permission_title": {
+    "message": "Erişim gerekli"
+  },
+  "options_toast_permission_failed": {
+    "message": "İzin istenemedi. Tekrar deneyin."
+  },
+  "options_toast_save_success": {
+    "message": "Ayarlar uygulandı"
+  },
+  "options_toast_save_error": {
+    "message": "Kaydedilemedi. Lütfen tekrar deneyin."
+  },
+  "options_toast_logout_success": {
+    "message": "Çıkış yapıldı"
+  },
+  "options_toast_logout_error": {
+    "message": "Çıkış başarısız. Lütfen tekrar deneyin."
+  },
+  "options_toast_load_error": {
+    "message": "Ayarlar yüklenemedi. Sayfayı yenileyin."
+  },
+  "options_footer_privacy": {
+    "message": "Gizlilik Politikası"
+  },
+  "options_footer_terms": {
+    "message": "Hizmet Şartları"
+  },
+  "player_modal_close": {
+    "message": "Oynatıcıyı kapat"
+  },
+  "player_modal_error": {
+    "message": "Bu video oynatılamıyor"
+  },
+  "player_modal_unsupported": {
+    "message": "Bu biçim önizlenemez. Bunun yerine indirmeyi kullanın."
+  },
+  "player_modal_loading": {
+    "message": "Video yükleniyor..."
+  },
+  "options_header_badge": {
+    "message": "Ayarlar"
+  },
+  "toast_viewport_label": {
+    "message": "Bildirimler"
+  },
+  "popup_group_streaming_title": {
+    "message": "Yayın $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "Sunucu Getirme $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "Doğrudan İndirme $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "Sunucu Getirme"
+  },
+  "popup_group_merge_note": {
+    "message": "Ses ve video ayrı — indirme sırasında birleştirilecek"
+  },
+  "popup_dismiss_label": {
+    "message": "Kapat"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "Yayın oynatma başarısız oldu"
+  },
+  "player_error_hls_unsupported": {
+    "message": "HLS oynatma desteklenmiyor"
+  },
+  "player_error_library_failed": {
+    "message": "Yayın kitaplığı yüklenemedi"
+  },
+  "player_error_no_url": {
+    "message": "Oynatılabilir URL mevcut değil"
+  },
+  "player_error_unsupported_format": {
+    "message": "Bu format önizlenemez"
+  },
+  "error_no_internet": {
+    "message": "İnternet bağlantısı yok"
+  },
+  "error_server_unavailable": {
+    "message": "Sunucu geçici olarak kullanılamıyor"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "Herhangi bir videoyu anında indirmek için ücretsiz denemenizi başlatın — taahhüt yok, istediğiniz zaman iptal edin."
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "Premium'u ücretsiz deneyin — herhangi bir videoyu herhangi bir kalitede indirin, sınırsız."
+  }
+}

@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "Transfira e guarde vídeos de qualquer site instantaneamente. Uma ferramenta rápida e simples para transferir vídeos."
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "Ver mais tarde"
+  },
+  "popup_saved": {
+    "message": "Guardado"
+  },
+  "popup_my_list": {
+    "message": "A minha lista"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 qualidades"
+  },
+  "popup_group_title_fallback": {
+    "message": "Vídeo"
+  },
+  "popup_group_title_numbered": {
+    "message": "Vídeo $1"
+  },
+  "popup_footer_settings": {
+    "message": "Definições"
+  },
+  "popup_footer_reviews": {
+    "message": "Avaliações"
+  },
+  "popup_footer_blog": {
+    "message": "Blogue"
+  },
+  "popup_footer_account": {
+    "message": "Conta"
+  },
+  "popup_footer_upgrade": {
+    "message": "Atualizar"
+  },
+  "popup_play_button_label": {
+    "message": "Reproduzir vídeo"
+  },
+  "popup_cast_button_label": {
+    "message": "Transmitir para dispositivo"
+  },
+  "popup_live_label": {
+    "message": "Em direto"
+  },
+  "popup_download_label": {
+    "message": "Transferir"
+  },
+  "popup_audio_label": {
+    "message": "Áudio"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "Apenas áudio"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps áudio"
+  },
+  "popup_empty_state": {
+    "message": "Nenhum vídeo encontrado."
+  },
+  "popup_report_no_video": {
+    "message": "Reportar problema"
+  },
+  "popup_report_submitting": {
+    "message": "A enviar..."
+  },
+  "popup_report_success": {
+    "message": "Obrigado pelo seu relatório!"
+  },
+  "popup_report_error": {
+    "message": "Falha ao enviar. Tente novamente."
+  },
+  "popup_site_blocked": {
+    "message": "Este site está bloqueado. Pode desbloqueá-lo para detetar vídeos."
+  },
+  "popup_unblock_site": {
+    "message": "Desbloquear site"
+  },
+  "popup_toast_unblock_success": {
+    "message": "Site desbloqueado! A recarregar..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "Falha ao desbloquear"
+  },
+  "popup_block_site": {
+    "message": "Bloquear este site"
+  },
+  "popup_toast_block_success": {
+    "message": "Site bloqueado! A recarregar..."
+  },
+  "popup_toast_block_failed": {
+    "message": "Falha ao bloquear"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "Não é possível abrir a página de transferência segura"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "Não é possível preparar a transferência segura"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "A preparar transferência segura…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "Não é possível iniciar a transferência segura. Tente novamente."
+  },
+  "popup_toast_open_source_failed": {
+    "message": "Não é possível abrir este vídeo"
+  },
+  "popup_toast_identify_failed": {
+    "message": "Não é possível identificar este vídeo"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "Removido da lista Ver mais tarde"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "Guardado na lista Ver mais tarde"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "Não é possível atualizar Ver mais tarde"
+  },
+  "popup_toast_settings_failed": {
+    "message": "Não é possível carregar definições"
+  },
+  "popup_toast_videos_failed": {
+    "message": "Não é possível carregar vídeos"
+  },
+  "popup_toast_download_started": {
+    "message": "Transferência iniciada"
+  },
+  "popup_toast_download_failed": {
+    "message": "Não é possível iniciar transferência"
+  },
+  "popup_toast_cast_error": {
+    "message": "Não é possível preparar o Chromecast. Tente novamente."
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "Não é possível carregar vídeos nesta página"
+  },
+  "watch_later_error_server": {
+    "message": "Não é possível contactar o servidor. Tente novamente."
+  },
+  "watch_later_error_login": {
+    "message": "Inicie sessão para gerir vídeos Ver mais tarde."
+  },
+  "watch_later_error_upgrade": {
+    "message": "Atualização necessária para Ver mais tarde."
+  },
+  "watch_later_error_premium_only": {
+    "message": "Premium necessário para guardar vídeos."
+  },
+  "watch_later_error_limit": {
+    "message": "Atingiu o limite gratuito de vídeos guardados."
+  },
+  "watch_later_error_generic": {
+    "message": "Não é possível atualizar Ver mais tarde. Tente novamente."
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "Impressão digital do separador em falta."
+  },
+  "watch_later_error_missing_source": {
+    "message": "Este vídeo não tem ligação de origem."
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "Identificador Ver mais tarde em falta."
+  },
+  "save_premium_modal_title": {
+    "message": "Guarde vídeos com o Premium"
+  },
+  "save_premium_modal_message": {
+    "message": "Guardar vídeos na sua biblioteca está disponível para membros Premium. Atualize para guardar vídeos ilimitados."
+  },
+  "limit_modal_title": {
+    "message": "Limite de vídeos guardados atingido"
+  },
+  "limit_modal_message": {
+    "message": "Atingiu o limite gratuito de vídeos guardados. Atualize para Premium para guardar vídeos sem limites."
+  },
+  "limit_modal_upgrade": {
+    "message": "Obter Premium"
+  },
+  "limit_modal_start_trial": {
+    "message": "Iniciar período de teste gratuito"
+  },
+  "limit_modal_later": {
+    "message": "Agora não"
+  },
+  "hd_limit_modal_title": {
+    "message": "Limite diário de transferência HD atingido"
+  },
+  "hd_limit_modal_message": {
+    "message": "Atingiu o seu limite diário de transferência HD gratuito. Atualize para Premium para transferir vídeos em qualidade máxima sem limites."
+  },
+  "download_premium_modal_title": {
+    "message": "Desbloqueie transferências de vídeo"
+  },
+  "download_premium_modal_message": {
+    "message": "Atualize para Premium para descarregar qualquer vídeo em qualquer qualidade — downloads ilimitados."
+  },
+  "cast_limit_modal_title": {
+    "message": "Limite diário de transmissão atingido"
+  },
+  "cast_limit_modal_message": {
+    "message": "Atingiu o seu limite diário de transmissão gratuita. Atualize para Premium para transmitir qualquer vídeo para a sua TV sem limites."
+  },
+  "cast_premium_modal_title": {
+    "message": "Transmita para a sua TV com Premium"
+  },
+  "cast_premium_modal_message": {
+    "message": "A transmissão Chromecast está disponível para membros Premium. Atualize para transmitir qualquer vídeo para a sua TV sem limites."
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "Comece o seu teste gratuito para transmitir qualquer vídeo para a sua TV — sem compromisso, cancele a qualquer momento."
+  },
+  "review_modal_title": {
+    "message": "Gosta do Video Downloader Plus?"
+  },
+  "review_modal_message": {
+    "message": "Se o Video Downloader Plus foi útil, uma avaliação rápida na Chrome Web Store significaria muito para nós!"
+  },
+  "review_modal_rate": {
+    "message": "Avaliar Video Downloader Plus"
+  },
+  "review_modal_later": {
+    "message": "Talvez mais tarde"
+  },
+  "download_limit_banner_remaining": {
+    "message": "$1 transferência(s) HD restante(s) hoje"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "Limite diário de transferências HD atingido"
+  },
+  "download_limit_banner_reset": {
+    "message": "Reinicia em $1"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "Atualize para Premium — descarregue qualquer vídeo em qualquer qualidade, sem limites."
+  },
+  "generic_video_label": {
+    "message": "Vídeo"
+  },
+  "popup_actions_cast": {
+    "message": "Transmitir"
+  },
+  "popup_actions_download": {
+    "message": "Transferir"
+  },
+  "popup_actions_premium": {
+    "message": "Premium"
+  },
+  "popup_actions_save": {
+    "message": "Guardar"
+  },
+  "toast_dismiss": {
+    "message": "Fechar"
+  },
+  "options_header_subtitle": {
+    "message": "Personalize como o Video Downloader Plus deteta e guarda vídeos"
+  },
+  "options_help_center": {
+    "message": "Centro de ajuda"
+  },
+  "options_support": {
+    "message": "Suporte"
+  },
+  "options_formats_title": {
+    "message": "Formatos de multimédia"
+  },
+  "options_formats_description": {
+    "message": "Escolha os tipos de ficheiro que o Video Downloader Plus deve procurar"
+  },
+  "options_formats_video_label": {
+    "message": "Vídeo"
+  },
+  "options_formats_audio_label": {
+    "message": "Áudio"
+  },
+  "options_size_title": {
+    "message": "Limiar de tamanho"
+  },
+  "options_size_description": {
+    "message": "Ignorar ficheiros mais pequenos que este tamanho"
+  },
+  "options_size_label": {
+    "message": "Tam. mín."
+  },
+  "options_size_custom": {
+    "message": "Personalizado"
+  },
+  "options_download_title": {
+    "message": "Local das transferências"
+  },
+  "options_download_description": {
+    "message": "Escolha onde os vídeos transferidos são guardados"
+  },
+  "options_download_toggle_label": {
+    "message": "Pasta dedicada"
+  },
+  "options_download_toggle_description": {
+    "message": "Guardar todas as transferências numa pasta"
+  },
+  "options_download_folder_label": {
+    "message": "Nome da pasta"
+  },
+  "options_download_folder_description": {
+    "message": "Caminho em Transferências (vazio para raiz)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "Aparência"
+  },
+  "options_appearance_description": {
+    "message": "Escolha o aspeto do Video Downloader Plus"
+  },
+  "options_theme_system": {
+    "message": "Sistema"
+  },
+  "options_theme_light": {
+    "message": "Claro"
+  },
+  "options_theme_dark": {
+    "message": "Escuro"
+  },
+  "options_cast_title": {
+    "message": "Transmitir para TV"
+  },
+  "options_cast_description": {
+    "message": "Transmita vídeos para dispositivos Chromecast"
+  },
+  "options_cast_toggle_label": {
+    "message": "Botão de transmissão"
+  },
+  "options_cast_toggle_description": {
+    "message": "Mostrar ícone de transmissão junto aos vídeos suportados"
+  },
+  "options_badge_title": {
+    "message": "Emblema"
+  },
+  "options_badge_description": {
+    "message": "Escolha o que o emblema do ícone da barra de ferramentas mostra"
+  },
+  "options_badge_count": {
+    "message": "Contagem"
+  },
+  "options_badge_dot": {
+    "message": "Ponto"
+  },
+  "options_badge_hidden": {
+    "message": "Oculto"
+  },
+  "options_website_title": {
+    "message": "Lista de bloqueio"
+  },
+  "options_website_description": {
+    "message": "Impedir o Video Downloader Plus de funcionar em sites específicos"
+  },
+  "options_website_add_label": {
+    "message": "Bloquear um site"
+  },
+  "options_website_add_description": {
+    "message": "Padrões aceites: <code>example.com</code> ou <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com ou *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "Bloquear"
+  },
+  "options_website_list_label": {
+    "message": "Sites bloqueados"
+  },
+  "options_website_empty": {
+    "message": "Ainda sem sites bloqueados"
+  },
+  "options_status_unsaved": {
+    "message": "Alterações não guardadas"
+  },
+  "options_status_saved": {
+    "message": "Definições guardadas"
+  },
+  "options_button_save": {
+    "message": "Aplicar"
+  },
+  "options_button_reset": {
+    "message": "Repor predefinições"
+  },
+  "options_button_reset_confirm": {
+    "message": "Tem a certeza?"
+  },
+  "options_toast_reset_success": {
+    "message": "Definições repostas para predefinições"
+  },
+  "options_toast_reset_error": {
+    "message": "Falha ao repor definições"
+  },
+  "options_button_logout": {
+    "message": "Terminar sessão"
+  },
+  "options_toast_min_size": {
+    "message": "O mínimo é $1 $2"
+  },
+  "options_toast_enter_domain": {
+    "message": "Introduza primeiro um domínio"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "Entrada inválida"
+  },
+  "options_toast_invalid_domain": {
+    "message": "Introduza um domínio válido como example.com ou *.example.com"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "Domínio inválido"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "Este site já está na lista de bloqueio"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "Já bloqueado"
+  },
+  "options_toast_block_limit": {
+    "message": "Pode bloquear até $1 sites."
+  },
+  "options_toast_permission_denied": {
+    "message": "Acesso negado. Alterne para tentar novamente."
+  },
+  "options_toast_permission_title": {
+    "message": "Acesso necessário"
+  },
+  "options_toast_permission_failed": {
+    "message": "Não foi possível solicitar permissão. Tente novamente."
+  },
+  "options_toast_save_success": {
+    "message": "Definições aplicadas"
+  },
+  "options_toast_save_error": {
+    "message": "Não foi possível guardar. Tente novamente."
+  },
+  "options_toast_logout_success": {
+    "message": "Sessão terminada"
+  },
+  "options_toast_logout_error": {
+    "message": "Falha ao terminar sessão. Tente novamente."
+  },
+  "options_toast_load_error": {
+    "message": "Não foi possível carregar definições. Atualize a página."
+  },
+  "options_footer_privacy": {
+    "message": "Política de privacidade"
+  },
+  "options_footer_terms": {
+    "message": "Termos de serviço"
+  },
+  "player_modal_close": {
+    "message": "Fechar reprodutor"
+  },
+  "player_modal_error": {
+    "message": "Não é possível reproduzir este vídeo"
+  },
+  "player_modal_unsupported": {
+    "message": "Este formato não pode ser pré-visualizado. Use a transferência."
+  },
+  "player_modal_loading": {
+    "message": "A carregar vídeo..."
+  },
+  "options_header_badge": {
+    "message": "Definições"
+  },
+  "toast_viewport_label": {
+    "message": "Notificações"
+  },
+  "popup_group_streaming_title": {
+    "message": "Transmissão $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "Obtenção do servidor $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "Transferência direta $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "Obtenção do servidor"
+  },
+  "popup_group_merge_note": {
+    "message": "Áudio e vídeo são separados — serão fundidos durante a transferência"
+  },
+  "popup_dismiss_label": {
+    "message": "Dispensar"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "Falha na reprodução da transmissão"
+  },
+  "player_error_hls_unsupported": {
+    "message": "A reprodução HLS não é suportada"
+  },
+  "player_error_library_failed": {
+    "message": "Falha ao carregar a biblioteca de transmissão"
+  },
+  "player_error_no_url": {
+    "message": "Nenhum URL reproduzível disponível"
+  },
+  "player_error_unsupported_format": {
+    "message": "Este formato não pode ser pré-visualizado"
+  },
+  "error_no_internet": {
+    "message": "Sem ligação à internet"
+  },
+  "error_server_unavailable": {
+    "message": "Servidor temporariamente indisponível"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "Comece o seu período de teste gratuito para transferir qualquer vídeo instantaneamente — sem compromisso, cancele a qualquer momento."
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "Experimente o Premium gratuitamente — transfira qualquer vídeo em qualquer qualidade, sem limites."
+  }
+}

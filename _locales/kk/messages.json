@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "Кез келген веб-сайттан бейнелерді бірден жүктеп, сақтаңыз. Жылдам және қарапайым бейне жүктеуші."
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "Кейін қарау"
+  },
+  "popup_saved": {
+    "message": "Сақталды"
+  },
+  "popup_my_list": {
+    "message": "Менің тізімім"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 сапа"
+  },
+  "popup_group_title_fallback": {
+    "message": "Бейне"
+  },
+  "popup_group_title_numbered": {
+    "message": "Бейне $1"
+  },
+  "popup_footer_settings": {
+    "message": "Параметрлер"
+  },
+  "popup_footer_reviews": {
+    "message": "Пікірлер"
+  },
+  "popup_footer_blog": {
+    "message": "Блог"
+  },
+  "popup_footer_account": {
+    "message": "Тіркелгі"
+  },
+  "popup_footer_upgrade": {
+    "message": "Жаңарту"
+  },
+  "popup_play_button_label": {
+    "message": "Бейнені ойнату"
+  },
+  "popup_cast_button_label": {
+    "message": "Құрылғыға жіберу"
+  },
+  "popup_live_label": {
+    "message": "Тікелей"
+  },
+  "popup_download_label": {
+    "message": "Жүктеу"
+  },
+  "popup_audio_label": {
+    "message": "Аудио"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "Тек аудио"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps аудио"
+  },
+  "popup_empty_state": {
+    "message": "Бейнелер табылмады."
+  },
+  "popup_report_no_video": {
+    "message": "Мәселені хабарлау"
+  },
+  "popup_report_submitting": {
+    "message": "Жіберілуде..."
+  },
+  "popup_report_success": {
+    "message": "Хабарлағаныңызға рахмет!"
+  },
+  "popup_report_error": {
+    "message": "Жіберу сәтсіз. Қайта көріңіз."
+  },
+  "popup_site_blocked": {
+    "message": "Бұл сайт бұғатталған. Бейнелерді табу үшін бұғаттан шығара аласыз."
+  },
+  "popup_unblock_site": {
+    "message": "Сайтты бұғаттан шығару"
+  },
+  "popup_toast_unblock_success": {
+    "message": "Сайт бұғаттан шықты! Жүктелуде..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "Бұғаттан шығару сәтсіз"
+  },
+  "popup_block_site": {
+    "message": "Бұл сайтты бұғаттау"
+  },
+  "popup_toast_block_success": {
+    "message": "Сайт бұғатталды! Жүктелуде..."
+  },
+  "popup_toast_block_failed": {
+    "message": "Бұғаттау сәтсіз"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "Қауіпсіз жүктеу бетін ашу мүмкін емес"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "Қауіпсіз жүктеуді дайындау мүмкін емес"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "Қауіпсіз жүктеу дайындалуда…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "Қауіпсіз жүктеуді бастау мүмкін емес. Қайта көріңіз."
+  },
+  "popup_toast_open_source_failed": {
+    "message": "Бұл бейнені ашу мүмкін емес"
+  },
+  "popup_toast_identify_failed": {
+    "message": "Бұл бейнені анықтау мүмкін емес"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "Кейін қарау тізімінен алынды"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "Кейін қарау тізіміне сақталды"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "Кейін қарауды жаңарту мүмкін емес"
+  },
+  "popup_toast_settings_failed": {
+    "message": "Параметрлерді жүктеу мүмкін емес"
+  },
+  "popup_toast_videos_failed": {
+    "message": "Бейнелерді жүктеу мүмкін емес"
+  },
+  "popup_toast_download_started": {
+    "message": "Жүктеу басталды"
+  },
+  "popup_toast_download_failed": {
+    "message": "Жүктеуді бастау мүмкін емес"
+  },
+  "popup_toast_cast_error": {
+    "message": "Chromecast дайындау мүмкін емес. Қайта көріңіз."
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "Бұл бетте бейнелерді жүктеу мүмкін емес"
+  },
+  "watch_later_error_server": {
+    "message": "Серверге қосылу мүмкін емес. Қайта көріңіз."
+  },
+  "watch_later_error_login": {
+    "message": "Кейін қарау бейнелерін басқару үшін кіріңіз."
+  },
+  "watch_later_error_upgrade": {
+    "message": "Кейін қарау үшін жаңарту қажет."
+  },
+  "watch_later_error_premium_only": {
+    "message": "Бейнелерді сақтау үшін Premium қажет."
+  },
+  "watch_later_error_limit": {
+    "message": "Тегін сақтау шегіне жеттіңіз."
+  },
+  "watch_later_error_generic": {
+    "message": "Кейін қарауды жаңарту мүмкін емес. Қайта көріңіз."
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "Қойынды бармақ ізі жоқ."
+  },
+  "watch_later_error_missing_source": {
+    "message": "Бұл бейненің бастапқы сілтемесі жоқ."
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "Кейін қарау идентификаторы жоқ."
+  },
+  "save_premium_modal_title": {
+    "message": "Premium арқылы бейнелерді сақтаңыз"
+  },
+  "save_premium_modal_message": {
+    "message": "Бейнелерді кітапханаңызға сақтау Premium мүшелер үшін қолжетімді. Шексіз бейнелерді сақтау үшін жаңартыңыз."
+  },
+  "limit_modal_title": {
+    "message": "Сақтау шегіне жеттіңіз"
+  },
+  "limit_modal_message": {
+    "message": "Тегін сақтау шегіне жеттіңіз. Шексіз бейне сақтау үшін Premium-ға жаңартыңыз."
+  },
+  "limit_modal_upgrade": {
+    "message": "Premium алу"
+  },
+  "limit_modal_start_trial": {
+    "message": "Тегін сынақ нұсқасын бастау"
+  },
+  "limit_modal_later": {
+    "message": "Қазір емес"
+  },
+  "hd_limit_modal_title": {
+    "message": "Күнделікті HD жүктеу шегіне жеттіңіз"
+  },
+  "hd_limit_modal_message": {
+    "message": "Күнделікті тегін HD жүктеу шегіне жеттіңіз. Шектеусіз толық сапада бейне жүктеу үшін Premium-ға жаңартыңыз."
+  },
+  "download_premium_modal_title": {
+    "message": "Бейне жүктеулерді ашу"
+  },
+  "download_premium_modal_message": {
+    "message": "Кез келген бейнені кез келген сапада жүктеп алу үшін Premium-ге жаңартыңыз — шексіз жүктеулер."
+  },
+  "cast_limit_modal_title": {
+    "message": "Күнделікті трансляция шегіне жеттіңіз"
+  },
+  "cast_limit_modal_message": {
+    "message": "Күнделікті тегін трансляция шегіне жеттіңіз. Шектеусіз кез келген бейнені теледидарға жіберу үшін Premium-ға жаңартыңыз."
+  },
+  "cast_premium_modal_title": {
+    "message": "Premium арқылы теледидарға трансляциялаңыз"
+  },
+  "cast_premium_modal_message": {
+    "message": "Chromecast трансляциясы Premium мүшелеріне қолжетімді. Шектеусіз кез келген бейнені теледидарға стриминг жасау үшін жаңартыңыз."
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "Кез келген бейнені теледидарға жіберу үшін тегін сынақ кезеңін бастаңыз — міндеттемесіз, кез келген уақытта бас тартыңыз."
+  },
+  "review_modal_title": {
+    "message": "Video Downloader Plus ұнайды ма?"
+  },
+  "review_modal_message": {
+    "message": "Video Downloader Plus пайдалы болса, Chrome Web Store-да жылдам пікір бізге өте маңызды!"
+  },
+  "review_modal_rate": {
+    "message": "Video Downloader Plus бағалау"
+  },
+  "review_modal_later": {
+    "message": "Мүмкін кейін"
+  },
+  "download_limit_banner_remaining": {
+    "message": "Бүгін $1 HD жүктеу қалды"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "Күнделікті HD жүктеу шегіне жетті"
+  },
+  "download_limit_banner_reset": {
+    "message": "$1 кейін қалпына келеді"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "Premium-ге жаңартыңыз — кез келген бейнені кез келген сапада жүктеп алыңыз, шектеусіз."
+  },
+  "generic_video_label": {
+    "message": "Бейне"
+  },
+  "popup_actions_cast": {
+    "message": "Жіберу"
+  },
+  "popup_actions_download": {
+    "message": "Жүктеу"
+  },
+  "popup_actions_premium": {
+    "message": "Премиум"
+  },
+  "popup_actions_save": {
+    "message": "Сақтау"
+  },
+  "toast_dismiss": {
+    "message": "Жабу"
+  },
+  "options_header_subtitle": {
+    "message": "Video Downloader Plus бейнелерді қалай табатынын және сақтайтынын реттеңіз"
+  },
+  "options_help_center": {
+    "message": "Анықтама орталығы"
+  },
+  "options_support": {
+    "message": "Қолдау"
+  },
+  "options_formats_title": {
+    "message": "Медиа форматтары"
+  },
+  "options_formats_description": {
+    "message": "Video Downloader Plus қандай файл түрлерін іздейтінін таңдаңыз"
+  },
+  "options_formats_video_label": {
+    "message": "Бейне"
+  },
+  "options_formats_audio_label": {
+    "message": "Аудио"
+  },
+  "options_size_title": {
+    "message": "Өлшем шегі"
+  },
+  "options_size_description": {
+    "message": "Кіші файлдарды елемеу"
+  },
+  "options_size_label": {
+    "message": "Мин. өлшем"
+  },
+  "options_size_custom": {
+    "message": "Реттелетін"
+  },
+  "options_download_title": {
+    "message": "Сақтау орны"
+  },
+  "options_download_description": {
+    "message": "Жүктелген бейнелер қайда сақталатынын таңдаңыз"
+  },
+  "options_download_toggle_label": {
+    "message": "Арнайы қалта"
+  },
+  "options_download_toggle_description": {
+    "message": "Барлық жүктеулерді бір қалтаға бағыттау"
+  },
+  "options_download_folder_label": {
+    "message": "Қалта атауы"
+  },
+  "options_download_folder_description": {
+    "message": "Жүктеулердегі жол (түбір үшін бос)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "Көрініс"
+  },
+  "options_appearance_description": {
+    "message": "Video Downloader Plus қалай көрінетінін таңдаңыз"
+  },
+  "options_theme_system": {
+    "message": "Жүйе"
+  },
+  "options_theme_light": {
+    "message": "Жарық"
+  },
+  "options_theme_dark": {
+    "message": "Қараңғы"
+  },
+  "options_cast_title": {
+    "message": "Теледидарға жіберу"
+  },
+  "options_cast_description": {
+    "message": "Chromecast құрылғыларына бейне ағыны"
+  },
+  "options_cast_toggle_label": {
+    "message": "Жіберу түймесі"
+  },
+  "options_cast_toggle_description": {
+    "message": "Қолдау көрсетілетін бейнелер жанында жіберу белгішесін көрсету"
+  },
+  "options_badge_title": {
+    "message": "Белгіше"
+  },
+  "options_badge_description": {
+    "message": "Құралдар тақтасы белгішесінің белгішесі нені көрсететінін таңдаңыз"
+  },
+  "options_badge_count": {
+    "message": "Сан"
+  },
+  "options_badge_dot": {
+    "message": "Нүкте"
+  },
+  "options_badge_hidden": {
+    "message": "Жасырын"
+  },
+  "options_website_title": {
+    "message": "Бұғаттау тізімі"
+  },
+  "options_website_description": {
+    "message": "Video Downloader Plus-дің белгілі сайттарда жұмыс істеуін болдырмау"
+  },
+  "options_website_add_label": {
+    "message": "Сайтты бұғаттау"
+  },
+  "options_website_add_description": {
+    "message": "Қабылданатын үлгілер: <code>example.com</code> немесе <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com немесе *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "Бұғаттау"
+  },
+  "options_website_list_label": {
+    "message": "Бұғатталған сайттар"
+  },
+  "options_website_empty": {
+    "message": "Әлі бұғатталған сайттар жоқ"
+  },
+  "options_status_unsaved": {
+    "message": "Сақталмаған өзгерістер"
+  },
+  "options_status_saved": {
+    "message": "Параметрлер сақталды"
+  },
+  "options_button_save": {
+    "message": "Қолдану"
+  },
+  "options_button_reset": {
+    "message": "Әдепкіге қайтару"
+  },
+  "options_button_reset_confirm": {
+    "message": "Сенімдісіз бе?"
+  },
+  "options_toast_reset_success": {
+    "message": "Параметрлер әдепкіге қалпына келтірілді"
+  },
+  "options_toast_reset_error": {
+    "message": "Параметрлерді қалпына келтіру сәтсіз"
+  },
+  "options_button_logout": {
+    "message": "Шығу"
+  },
+  "options_toast_min_size": {
+    "message": "Ең аз $1 $2"
+  },
+  "options_toast_enter_domain": {
+    "message": "Алдымен домен енгізіңіз"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "Жарамсыз енгізу"
+  },
+  "options_toast_invalid_domain": {
+    "message": "example.com немесе *.example.com сияқты жарамды домен енгізіңіз"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "Жарамсыз домен"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "Бұл сайт бұғаттау тізімінде бар"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "Бұрыннан бұғатталған"
+  },
+  "options_toast_block_limit": {
+    "message": "$1 сайтқа дейін бұғаттай аласыз."
+  },
+  "options_toast_permission_denied": {
+    "message": "Қол жеткізу бас тартылды. Қайта көру үшін ауыстырыңыз."
+  },
+  "options_toast_permission_title": {
+    "message": "Қол жеткізу қажет"
+  },
+  "options_toast_permission_failed": {
+    "message": "Рұқсат сұрау мүмкін емес. Қайта көріңіз."
+  },
+  "options_toast_save_success": {
+    "message": "Параметрлер қолданылды"
+  },
+  "options_toast_save_error": {
+    "message": "Сақтау мүмкін емес. Қайта көріңіз."
+  },
+  "options_toast_logout_success": {
+    "message": "Шықтыңыз"
+  },
+  "options_toast_logout_error": {
+    "message": "Шығу сәтсіз. Қайта көріңіз."
+  },
+  "options_toast_load_error": {
+    "message": "Параметрлерді жүктеу мүмкін емес. Бетті жаңартыңыз."
+  },
+  "options_footer_privacy": {
+    "message": "Құпиялылық саясаты"
+  },
+  "options_footer_terms": {
+    "message": "Қызмет көрсету шарттары"
+  },
+  "player_modal_close": {
+    "message": "Ойнатқышты жабу"
+  },
+  "player_modal_error": {
+    "message": "Бұл бейнені ойнату мүмкін емес"
+  },
+  "player_modal_unsupported": {
+    "message": "Бұл форматты алдын ала қарау мүмкін емес. Жүктеуді пайдаланыңыз."
+  },
+  "player_modal_loading": {
+    "message": "Бейне жүктелуде..."
+  },
+  "options_header_badge": {
+    "message": "Параметрлер"
+  },
+  "toast_viewport_label": {
+    "message": "Хабарландырулар"
+  },
+  "popup_group_streaming_title": {
+    "message": "Ағынды $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "Серверден алу $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "Тікелей жүктеу $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "Серверден алу"
+  },
+  "popup_group_merge_note": {
+    "message": "Аудио мен бейне бөлек — жүктеу кезінде біріктіріледі"
+  },
+  "popup_dismiss_label": {
+    "message": "Жабу"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "Ағынды ойнату сәтсіз"
+  },
+  "player_error_hls_unsupported": {
+    "message": "HLS ойнату қолдау көрсетілмейді"
+  },
+  "player_error_library_failed": {
+    "message": "Ағынды кітапхананы жүктеу сәтсіз"
+  },
+  "player_error_no_url": {
+    "message": "Ойнатылатын URL жоқ"
+  },
+  "player_error_unsupported_format": {
+    "message": "Бұл форматты алдын ала қарау мүмкін емес"
+  },
+  "error_no_internet": {
+    "message": "Интернет байланысы жоқ"
+  },
+  "error_server_unavailable": {
+    "message": "Сервер уақытша қолжетімсіз"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "Кез келген бейнені бірден жүктеу үшін тегін сынақ нұсқаңызды бастаңыз — міндеттемесіз, кез келген уақытта бас тартуға болады."
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "Premium-ды тегін қолданып көріңіз — кез келген сапада кез келген бейнені жүктеңіз, шектеусіз."
+  }
+}

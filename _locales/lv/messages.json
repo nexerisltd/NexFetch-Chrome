@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "Lejupielādējiet un saglabājiet video no jebkuras vietnes uzreiz. Ātrs un vienkāršs video lejupielādētājs."
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "Skatīt vēlāk"
+  },
+  "popup_saved": {
+    "message": "Saglabāts"
+  },
+  "popup_my_list": {
+    "message": "Mans saraksts"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 kvalitātes"
+  },
+  "popup_group_title_fallback": {
+    "message": "Video"
+  },
+  "popup_group_title_numbered": {
+    "message": "Video $1"
+  },
+  "popup_footer_settings": {
+    "message": "Iestatījumi"
+  },
+  "popup_footer_reviews": {
+    "message": "Atsauksmes"
+  },
+  "popup_footer_blog": {
+    "message": "Emuārs"
+  },
+  "popup_footer_account": {
+    "message": "Konts"
+  },
+  "popup_footer_upgrade": {
+    "message": "Uzlabot"
+  },
+  "popup_play_button_label": {
+    "message": "Atskaņot video"
+  },
+  "popup_cast_button_label": {
+    "message": "Apraidīt uz ierīci"
+  },
+  "popup_live_label": {
+    "message": "Tiešraide"
+  },
+  "popup_download_label": {
+    "message": "Lejupielādēt"
+  },
+  "popup_audio_label": {
+    "message": "Audio"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "Tikai audio"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps audio"
+  },
+  "popup_empty_state": {
+    "message": "Video nav atrasti."
+  },
+  "popup_report_no_video": {
+    "message": "Ziņot par problēmu"
+  },
+  "popup_report_submitting": {
+    "message": "Nosūta..."
+  },
+  "popup_report_success": {
+    "message": "Paldies par ziņojumu!"
+  },
+  "popup_report_error": {
+    "message": "Neizdevās nosūtīt. Mēģiniet vēlreiz."
+  },
+  "popup_site_blocked": {
+    "message": "Šī vietne ir bloķēta. Varat to atbloķēt, lai noteiktu video."
+  },
+  "popup_unblock_site": {
+    "message": "Atbloķēt vietni"
+  },
+  "popup_toast_unblock_success": {
+    "message": "Vietne atbloķēta! Pārlādē..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "Neizdevās atbloķēt"
+  },
+  "popup_block_site": {
+    "message": "Bloķēt šo vietni"
+  },
+  "popup_toast_block_success": {
+    "message": "Vietne bloķēta! Pārlādē..."
+  },
+  "popup_toast_block_failed": {
+    "message": "Neizdevās bloķēt"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "Nevar atvērt drošas lejupielādes lapu"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "Nevar sagatavot drošu lejupielādi"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "Sagatavo drošu lejupielādi…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "Nevar sākt drošu lejupielādi. Mēģiniet vēlreiz."
+  },
+  "popup_toast_open_source_failed": {
+    "message": "Nevar atvērt šo video"
+  },
+  "popup_toast_identify_failed": {
+    "message": "Nevar identificēt šo video"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "Noņemts no Skatīt vēlāk saraksta"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "Saglabāts Skatīt vēlāk sarakstā"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "Nevar atjaunināt Skatīt vēlāk"
+  },
+  "popup_toast_settings_failed": {
+    "message": "Nevar ielādēt iestatījumus"
+  },
+  "popup_toast_videos_failed": {
+    "message": "Nevar ielādēt video"
+  },
+  "popup_toast_download_started": {
+    "message": "Lejupielāde sākta"
+  },
+  "popup_toast_download_failed": {
+    "message": "Nevar sākt lejupielādi"
+  },
+  "popup_toast_cast_error": {
+    "message": "Nevar sagatavot Chromecast. Mēģiniet vēlreiz."
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "Nevar ielādēt video šajā lapā"
+  },
+  "watch_later_error_server": {
+    "message": "Nevar sazināties ar serveri. Mēģiniet vēlreiz."
+  },
+  "watch_later_error_login": {
+    "message": "Piesakieties, lai pārvaldītu Skatīt vēlāk video."
+  },
+  "watch_later_error_upgrade": {
+    "message": "Skatīt vēlāk nepieciešams uzlabojums."
+  },
+  "watch_later_error_premium_only": {
+    "message": "Video saglabāšanai nepieciešams Premium."
+  },
+  "watch_later_error_limit": {
+    "message": "Esat sasniedzis bezmaksas saglabāšanas limitu."
+  },
+  "watch_later_error_generic": {
+    "message": "Nevar atjaunināt Skatīt vēlāk. Mēģiniet vēlreiz."
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "Trūkst cilnes pirkstu nospieduma."
+  },
+  "watch_later_error_missing_source": {
+    "message": "Šim video trūkst avota saites."
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "Trūkst Skatīt vēlāk identifikatora."
+  },
+  "save_premium_modal_title": {
+    "message": "Saglabājiet video ar Premium"
+  },
+  "save_premium_modal_message": {
+    "message": "Video saglabāšana jūsu bibliotēkā ir pieejama Premium dalībniekiem. Jauniniet, lai saglabātu neierobežotu skaitu video."
+  },
+  "limit_modal_title": {
+    "message": "Saglabāšanas ierobežojums sasniegts"
+  },
+  "limit_modal_message": {
+    "message": "Jūs esat sasniedzis bezmaksas saglabāšanas ierobežojumu. Jauniniet uz Premium, lai saglabātu neierobežotu skaitu video."
+  },
+  "limit_modal_upgrade": {
+    "message": "Iegūt Premium"
+  },
+  "limit_modal_start_trial": {
+    "message": "Sākt bezmaksas izmēģinājumu"
+  },
+  "limit_modal_later": {
+    "message": "Ne tagad"
+  },
+  "hd_limit_modal_title": {
+    "message": "Dienas HD lejupielādes ierobežojums sasniegts"
+  },
+  "hd_limit_modal_message": {
+    "message": "Jūs esat sasniedzis dienas bezmaksas HD lejupielādes ierobežojumu. Jauniniet uz Premium, lai lejupielādētu video pilnā kvalitātē bez ierobežojumiem."
+  },
+  "download_premium_modal_title": {
+    "message": "Atbloķējiet video lejupielādes"
+  },
+  "download_premium_modal_message": {
+    "message": "Jauniniet uz Premium, lai lejupielādētu jebkuru video jebkurā kvalitātē — neierobežotas lejupielādes."
+  },
+  "cast_limit_modal_title": {
+    "message": "Dienas pārraides ierobežojums sasniegts"
+  },
+  "cast_limit_modal_message": {
+    "message": "Jūs esat sasniedzis dienas bezmaksas pārraides ierobežojumu. Jauniniet uz Premium, lai pārraidītu jebkuru video uz TV bez ierobežojumiem."
+  },
+  "cast_premium_modal_title": {
+    "message": "Pārraidiet uz TV ar Premium"
+  },
+  "cast_premium_modal_message": {
+    "message": "Chromecast pārraide ir pieejama Premium dalībniekiem. Jauniniet, lai straumētu jebkuru video uz TV bez ierobežojumiem."
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "Sāciet bezmaksas izmēģinājumu, lai pārraidītu jebkuru video uz savu televizoru — bez saistībām, atceliet jebkurā laikā."
+  },
+  "review_modal_title": {
+    "message": "Vai jums patīk Video Downloader Plus?"
+  },
+  "review_modal_message": {
+    "message": "Ja Video Downloader Plus ir bijis noderīgs, ātra atsauksme Chrome Web Store mums nozīmētu ļoti daudz!"
+  },
+  "review_modal_rate": {
+    "message": "Novērtēt Video Downloader Plus"
+  },
+  "review_modal_later": {
+    "message": "Varbūt vēlāk"
+  },
+  "download_limit_banner_remaining": {
+    "message": "$1 HD lejupielāde(s) atlikušas šodien"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "Dienas HD lejupielādes limits sasniegts"
+  },
+  "download_limit_banner_reset": {
+    "message": "Atiestatās pēc $1"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "Jauniniet uz Premium — lejupielādējiet jebkuru video jebkurā kvalitātē, bez ierobežojumiem."
+  },
+  "generic_video_label": {
+    "message": "Video"
+  },
+  "popup_actions_cast": {
+    "message": "Apraidīt"
+  },
+  "popup_actions_download": {
+    "message": "Lejupielādēt"
+  },
+  "popup_actions_premium": {
+    "message": "Premium"
+  },
+  "popup_actions_save": {
+    "message": "Saglabāt"
+  },
+  "toast_dismiss": {
+    "message": "Aizvērt"
+  },
+  "options_header_subtitle": {
+    "message": "Pielāgojiet kā Video Downloader Plus nosaka un saglabā video"
+  },
+  "options_help_center": {
+    "message": "Palīdzības centrs"
+  },
+  "options_support": {
+    "message": "Atbalsts"
+  },
+  "options_formats_title": {
+    "message": "Mediju formāti"
+  },
+  "options_formats_description": {
+    "message": "Izvēlieties failu tipus, ko Video Downloader Plus meklēs"
+  },
+  "options_formats_video_label": {
+    "message": "Video"
+  },
+  "options_formats_audio_label": {
+    "message": "Audio"
+  },
+  "options_size_title": {
+    "message": "Izmēra slieksnis"
+  },
+  "options_size_description": {
+    "message": "Ignorēt mazākus failus"
+  },
+  "options_size_label": {
+    "message": "Min. izmērs"
+  },
+  "options_size_custom": {
+    "message": "Pielāgots"
+  },
+  "options_download_title": {
+    "message": "Saglabāšanas vieta"
+  },
+  "options_download_description": {
+    "message": "Izvēlieties kur saglabāt lejupielādētos video"
+  },
+  "options_download_toggle_label": {
+    "message": "Īpaša mape"
+  },
+  "options_download_toggle_description": {
+    "message": "Novirzīt visas saglabāšanas vienā mapē"
+  },
+  "options_download_folder_label": {
+    "message": "Mapes nosaukums"
+  },
+  "options_download_folder_description": {
+    "message": "Ceļš Lejupielādēs (tukšs saknei)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "Izskats"
+  },
+  "options_appearance_description": {
+    "message": "Izvēlieties kā Video Downloader Plus izskatās"
+  },
+  "options_theme_system": {
+    "message": "Sistēmas"
+  },
+  "options_theme_light": {
+    "message": "Gaišs"
+  },
+  "options_theme_dark": {
+    "message": "Tumšs"
+  },
+  "options_cast_title": {
+    "message": "Apraidīt uz TV"
+  },
+  "options_cast_description": {
+    "message": "Straumējiet video uz Chromecast ierīcēm"
+  },
+  "options_cast_toggle_label": {
+    "message": "Apraides poga"
+  },
+  "options_cast_toggle_description": {
+    "message": "Rādīt apraides ikonu pie atbalstītiem video"
+  },
+  "options_badge_title": {
+    "message": "Žetons"
+  },
+  "options_badge_description": {
+    "message": "Izvēlieties, ko rāda rīkjoslas ikonas žetons"
+  },
+  "options_badge_count": {
+    "message": "Skaits"
+  },
+  "options_badge_dot": {
+    "message": "Punkts"
+  },
+  "options_badge_hidden": {
+    "message": "Slēpts"
+  },
+  "options_website_title": {
+    "message": "Bloķēšanas saraksts"
+  },
+  "options_website_description": {
+    "message": "Neļaujiet Video Downloader Plus darboties noteiktās vietnēs"
+  },
+  "options_website_add_label": {
+    "message": "Bloķēt vietni"
+  },
+  "options_website_add_description": {
+    "message": "Pieņemtie paraugi: <code>example.com</code> vai <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com vai *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "Bloķēt"
+  },
+  "options_website_list_label": {
+    "message": "Bloķētas vietnes"
+  },
+  "options_website_empty": {
+    "message": "Vēl nav bloķētu vietņu"
+  },
+  "options_status_unsaved": {
+    "message": "Nesaglabātas izmaiņas"
+  },
+  "options_status_saved": {
+    "message": "Iestatījumi saglabāti"
+  },
+  "options_button_save": {
+    "message": "Lietot"
+  },
+  "options_button_reset": {
+    "message": "Atjaunot noklusējuma iestatījumus"
+  },
+  "options_button_reset_confirm": {
+    "message": "Vai esat pārliecināts?"
+  },
+  "options_toast_reset_success": {
+    "message": "Iestatījumi atjaunoti uz noklusējuma"
+  },
+  "options_toast_reset_error": {
+    "message": "Neizdevās atiestatīt iestatījumus"
+  },
+  "options_button_logout": {
+    "message": "Izrakstīties"
+  },
+  "options_toast_min_size": {
+    "message": "Minimums ir $1 $2"
+  },
+  "options_toast_enter_domain": {
+    "message": "Vispirms ievadiet domēnu"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "Nederīga ievade"
+  },
+  "options_toast_invalid_domain": {
+    "message": "Ievadiet derīgu domēnu, piem., example.com vai *.example.com"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "Nederīgs domēns"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "Šī vietne jau ir bloķēšanas sarakstā"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "Jau bloķēts"
+  },
+  "options_toast_block_limit": {
+    "message": "Varat bloķēt līdz $1 vietnēm."
+  },
+  "options_toast_permission_denied": {
+    "message": "Piekļuve liegta. Pārslēdziet lai mēģinātu vēlreiz."
+  },
+  "options_toast_permission_title": {
+    "message": "Nepieciešama piekļuve"
+  },
+  "options_toast_permission_failed": {
+    "message": "Nevar pieprasīt atļauju. Mēģiniet vēlreiz."
+  },
+  "options_toast_save_success": {
+    "message": "Iestatījumi lietoti"
+  },
+  "options_toast_save_error": {
+    "message": "Nevar saglabāt. Mēģiniet vēlreiz."
+  },
+  "options_toast_logout_success": {
+    "message": "Izrakstījies"
+  },
+  "options_toast_logout_error": {
+    "message": "Izrakstīšanās neizdevās. Mēģiniet vēlreiz."
+  },
+  "options_toast_load_error": {
+    "message": "Nevar ielādēt iestatījumus. Atsvaidziniet lapu."
+  },
+  "options_footer_privacy": {
+    "message": "Privātuma politika"
+  },
+  "options_footer_terms": {
+    "message": "Pakalpojumu noteikumi"
+  },
+  "player_modal_close": {
+    "message": "Aizvērt atskaņotāju"
+  },
+  "player_modal_error": {
+    "message": "Nevar atskaņot šo video"
+  },
+  "player_modal_unsupported": {
+    "message": "Šo formātu nevar priekšskatīt. Izmantojiet lejupielādi."
+  },
+  "player_modal_loading": {
+    "message": "Ielādē video..."
+  },
+  "options_header_badge": {
+    "message": "Iestatījumi"
+  },
+  "toast_viewport_label": {
+    "message": "Paziņojumi"
+  },
+  "popup_group_streaming_title": {
+    "message": "Straumēšana $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "Servera ielāde $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "Tiešā lejupielāde $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "Servera ielāde"
+  },
+  "popup_group_merge_note": {
+    "message": "Audio un video ir atsevišķi — tie tiks apvienoti lejupielādes laikā"
+  },
+  "popup_dismiss_label": {
+    "message": "Noraidīt"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "Straumes atskaņošana neizdevās"
+  },
+  "player_error_hls_unsupported": {
+    "message": "HLS atskaņošana netiek atbalstīta"
+  },
+  "player_error_library_failed": {
+    "message": "Neizdevās ielādēt straumēšanas bibliotēku"
+  },
+  "player_error_no_url": {
+    "message": "Nav pieejama atskaņojama URL"
+  },
+  "player_error_unsupported_format": {
+    "message": "Šo formātu nevar priekšskatīt"
+  },
+  "error_no_internet": {
+    "message": "Nav interneta savienojuma"
+  },
+  "error_server_unavailable": {
+    "message": "Serveris īslaicīgi nav pieejams"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "Sāciet bezmaksas izmēģinājumu, lai nekavējoties lejupielādētu jebkuru video — bez saistībām, atceliet jebkurā laikā."
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "Izmēģiniet Premium bez maksas — lejupielādējiet jebkuru video jebkurā kvalitātē, bez ierobežojumiem."
+  }
+}

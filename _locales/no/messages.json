@@ -1,0 +1,545 @@
+{
+  "name": {
+    "message": "Video Downloader Plus"
+  },
+  "short_name": {
+    "message": "Vidow"
+  },
+  "title": {
+    "message": "Video Downloader Plus"
+  },
+  "desc": {
+    "message": "Last ned og lagre videoer fra alle nettsider umiddelbart. En rask og enkel videonedlaster."
+  },
+  "action_title": {
+    "message": "Video Downloader Plus"
+  },
+  "unit_mb_short": {
+    "message": "MB"
+  },
+  "unit_gb_short": {
+    "message": "GB"
+  },
+  "popup_watch_later": {
+    "message": "Se senere"
+  },
+  "popup_saved": {
+    "message": "Lagret"
+  },
+  "popup_my_list": {
+    "message": "Min liste"
+  },
+  "popup_group_quality_count": {
+    "message": "$1 kvaliteter"
+  },
+  "popup_group_title_fallback": {
+    "message": "Video"
+  },
+  "popup_group_title_numbered": {
+    "message": "Video $1"
+  },
+  "popup_footer_settings": {
+    "message": "Innstillinger"
+  },
+  "popup_footer_reviews": {
+    "message": "Anmeldelser"
+  },
+  "popup_footer_blog": {
+    "message": "Blogg"
+  },
+  "popup_footer_account": {
+    "message": "Konto"
+  },
+  "popup_footer_upgrade": {
+    "message": "Oppgrader"
+  },
+  "popup_play_button_label": {
+    "message": "Spill av video"
+  },
+  "popup_cast_button_label": {
+    "message": "Cast til enhet"
+  },
+  "popup_live_label": {
+    "message": "Direkte"
+  },
+  "popup_download_label": {
+    "message": "Last ned"
+  },
+  "popup_audio_label": {
+    "message": "Lyd"
+  },
+  "popup_audio_only_tooltip": {
+    "message": "Kun lyd"
+  },
+  "popup_audio_bitrate_format": {
+    "message": "$1 kbps"
+  },
+  "popup_audio_bitrate_format_suffix": {
+    "message": "$1 kbps lyd"
+  },
+  "popup_empty_state": {
+    "message": "Ingen videoer funnet."
+  },
+  "popup_report_no_video": {
+    "message": "Rapporter problem"
+  },
+  "popup_report_submitting": {
+    "message": "Sender..."
+  },
+  "popup_report_success": {
+    "message": "Takk for din rapport!"
+  },
+  "popup_report_error": {
+    "message": "Kunne ikke sende. Prøv igjen."
+  },
+  "popup_site_blocked": {
+    "message": "Dette nettstedet er blokkert. Du kan fjerne blokkeringen for å oppdage videoer."
+  },
+  "popup_unblock_site": {
+    "message": "Fjern blokkering"
+  },
+  "popup_toast_unblock_success": {
+    "message": "Blokkering fjernet! Laster på nytt..."
+  },
+  "popup_toast_unblock_failed": {
+    "message": "Kunne ikke fjerne blokkering"
+  },
+  "popup_block_site": {
+    "message": "Blokker dette nettstedet"
+  },
+  "popup_toast_block_success": {
+    "message": "Nettsted blokkert! Laster på nytt..."
+  },
+  "popup_toast_block_failed": {
+    "message": "Kunne ikke blokkere"
+  },
+  "popup_toast_secure_open_failed": {
+    "message": "Kan ikke åpne sikker nedlastingsside"
+  },
+  "popup_toast_secure_prepare_failed": {
+    "message": "Kan ikke forberede sikker nedlasting"
+  },
+  "popup_toast_secure_preparing": {
+    "message": "Forbereder sikker nedlasting…"
+  },
+  "popup_toast_secure_start_failed": {
+    "message": "Kan ikke starte sikker nedlasting. Prøv igjen."
+  },
+  "popup_toast_open_source_failed": {
+    "message": "Kan ikke åpne denne videoen"
+  },
+  "popup_toast_identify_failed": {
+    "message": "Kan ikke identifisere denne videoen"
+  },
+  "popup_toast_watch_later_removed": {
+    "message": "Fjernet fra Se senere-listen"
+  },
+  "popup_toast_watch_later_saved": {
+    "message": "Lagret i Se senere-listen"
+  },
+  "popup_toast_watch_later_update_failed": {
+    "message": "Kan ikke oppdatere Se senere"
+  },
+  "popup_toast_settings_failed": {
+    "message": "Kan ikke laste innstillinger"
+  },
+  "popup_toast_videos_failed": {
+    "message": "Kan ikke laste videoer"
+  },
+  "popup_toast_download_started": {
+    "message": "Nedlasting startet"
+  },
+  "popup_toast_download_failed": {
+    "message": "Kan ikke starte nedlasting"
+  },
+  "popup_toast_cast_error": {
+    "message": "Kan ikke forberede Chromecast. Prøv igjen."
+  },
+  "popup_toast_active_tab_failed": {
+    "message": "Kan ikke laste videoer på denne siden"
+  },
+  "watch_later_error_server": {
+    "message": "Kan ikke kontakte serveren. Prøv igjen."
+  },
+  "watch_later_error_login": {
+    "message": "Logg inn for å administrere Se senere-videoer."
+  },
+  "watch_later_error_upgrade": {
+    "message": "Oppgradering kreves for Se senere."
+  },
+  "watch_later_error_premium_only": {
+    "message": "Premium kreves for å lagre videoer."
+  },
+  "watch_later_error_limit": {
+    "message": "Du har nådd grensen for gratis lagring."
+  },
+  "watch_later_error_generic": {
+    "message": "Kan ikke oppdatere Se senere. Prøv igjen."
+  },
+  "watch_later_error_missing_fingerprint": {
+    "message": "Manglende fane-fingeravtrykk."
+  },
+  "watch_later_error_missing_source": {
+    "message": "Denne videoen mangler kildelink."
+  },
+  "watch_later_error_missing_identifier": {
+    "message": "Manglende Se senere-identifikator."
+  },
+  "save_premium_modal_title": {
+    "message": "Lagre videoer med Premium"
+  },
+  "save_premium_modal_message": {
+    "message": "Lagring av videoer til biblioteket ditt er tilgjengelig for Premium-medlemmer. Oppgrader for å lagre ubegrensede videoer."
+  },
+  "limit_modal_title": {
+    "message": "Lagringsgrense nådd"
+  },
+  "limit_modal_message": {
+    "message": "Du har nådd din gratis lagringsgrense. Oppgrader til Premium for å lagre ubegrensede videoer."
+  },
+  "limit_modal_upgrade": {
+    "message": "Få Premium"
+  },
+  "limit_modal_start_trial": {
+    "message": "Start gratis prøveperiode"
+  },
+  "limit_modal_later": {
+    "message": "Ikke nå"
+  },
+  "hd_limit_modal_title": {
+    "message": "Daglig HD-nedlastingsgrense nådd"
+  },
+  "hd_limit_modal_message": {
+    "message": "Du har nådd din daglige gratis HD-nedlastingsgrense. Oppgrader til Premium for å laste ned videoer i full kvalitet uten begrensninger."
+  },
+  "download_premium_modal_title": {
+    "message": "Lås opp videonedlastinger"
+  },
+  "download_premium_modal_message": {
+    "message": "Oppgrader til Premium for å laste ned hvilken som helst video i hvilken som helst kvalitet — ubegrensede nedlastinger."
+  },
+  "cast_limit_modal_title": {
+    "message": "Daglig castgrense nådd"
+  },
+  "cast_limit_modal_message": {
+    "message": "Du har nådd din daglige gratis castgrense. Oppgrader til Premium for å caste enhver video til TV-en din uten begrensninger."
+  },
+  "cast_premium_modal_title": {
+    "message": "Cast til TV-en din med Premium"
+  },
+  "cast_premium_modal_message": {
+    "message": "Chromecast-casting er tilgjengelig for Premium-medlemmer. Oppgrader for å strømme enhver video til TV-en din uten begrensninger."
+  },
+  "cast_premium_modal_message_trial": {
+    "message": "Start din gratis prøveperiode for å caste hvilken som helst video til TV-en din — ingen forpliktelse, avbryt når som helst."
+  },
+  "review_modal_title": {
+    "message": "Liker du Video Downloader Plus?"
+  },
+  "review_modal_message": {
+    "message": "Hvis Video Downloader Plus har vært nyttig, ville en rask vurdering på Chrome Web Store bety mye for oss!"
+  },
+  "review_modal_rate": {
+    "message": "Vurder Video Downloader Plus"
+  },
+  "review_modal_later": {
+    "message": "Kanskje senere"
+  },
+  "download_limit_banner_remaining": {
+    "message": "$1 HD-nedlasting(er) igjen i dag"
+  },
+  "download_limit_banner_exceeded": {
+    "message": "Daglig HD-nedlastingsgrense nådd"
+  },
+  "download_limit_banner_reset": {
+    "message": "Nullstilles om $1"
+  },
+  "download_limit_banner_all_premium": {
+    "message": "Oppgrader til Premium — last ned hvilken som helst video i hvilken som helst kvalitet, uten begrensninger."
+  },
+  "generic_video_label": {
+    "message": "Video"
+  },
+  "popup_actions_cast": {
+    "message": "Strøm"
+  },
+  "popup_actions_download": {
+    "message": "Last ned"
+  },
+  "popup_actions_premium": {
+    "message": "Premium"
+  },
+  "popup_actions_save": {
+    "message": "Lagre"
+  },
+  "toast_dismiss": {
+    "message": "Lukk"
+  },
+  "options_header_subtitle": {
+    "message": "Tilpass hvordan Video Downloader Plus oppdager og lagrer videoer"
+  },
+  "options_help_center": {
+    "message": "Hjelpesenter"
+  },
+  "options_support": {
+    "message": "Støtte"
+  },
+  "options_formats_title": {
+    "message": "Medieformater"
+  },
+  "options_formats_description": {
+    "message": "Velg filtypene Video Downloader Plus skal lete etter"
+  },
+  "options_formats_video_label": {
+    "message": "Video"
+  },
+  "options_formats_audio_label": {
+    "message": "Lyd"
+  },
+  "options_size_title": {
+    "message": "Størrelsesgrense"
+  },
+  "options_size_description": {
+    "message": "Ignorer filer mindre enn denne størrelsen"
+  },
+  "options_size_label": {
+    "message": "Min. størrelse"
+  },
+  "options_size_custom": {
+    "message": "Egendefinert"
+  },
+  "options_download_title": {
+    "message": "Lagringssted"
+  },
+  "options_download_description": {
+    "message": "Velg hvor nedlastede videoer lagres"
+  },
+  "options_download_toggle_label": {
+    "message": "Dedikert mappe"
+  },
+  "options_download_toggle_description": {
+    "message": "Send alle nedlastinger til én mappe"
+  },
+  "options_download_folder_label": {
+    "message": "Mappenavn"
+  },
+  "options_download_folder_description": {
+    "message": "Sti i Nedlastinger (tom for rot)"
+  },
+  "options_download_prefix": {
+    "message": "Downloads/"
+  },
+  "options_download_placeholder": {
+    "message": "e.g., Vidow"
+  },
+  "options_appearance_title": {
+    "message": "Utseende"
+  },
+  "options_appearance_description": {
+    "message": "Velg hvordan Video Downloader Plus ser ut"
+  },
+  "options_theme_system": {
+    "message": "System"
+  },
+  "options_theme_light": {
+    "message": "Lys"
+  },
+  "options_theme_dark": {
+    "message": "Mørk"
+  },
+  "options_cast_title": {
+    "message": "Cast til TV"
+  },
+  "options_cast_description": {
+    "message": "Strøm videoer til Chromecast-enheter"
+  },
+  "options_cast_toggle_label": {
+    "message": "Cast-knapp"
+  },
+  "options_cast_toggle_description": {
+    "message": "Vis et cast-ikon ved støttede videoer"
+  },
+  "options_badge_title": {
+    "message": "Merke"
+  },
+  "options_badge_description": {
+    "message": "Velg hva verktøylinjeikonets merke viser"
+  },
+  "options_badge_count": {
+    "message": "Antall"
+  },
+  "options_badge_dot": {
+    "message": "Prikk"
+  },
+  "options_badge_hidden": {
+    "message": "Skjult"
+  },
+  "options_website_title": {
+    "message": "Blokkeringsliste"
+  },
+  "options_website_description": {
+    "message": "Hindre Video Downloader Plus fra å kjøre på bestemte nettsteder"
+  },
+  "options_website_add_label": {
+    "message": "Blokker et nettsted"
+  },
+  "options_website_add_description": {
+    "message": "Mønstre akseptert: <code>example.com</code> eller <code>*.example.com</code>"
+  },
+  "options_website_input_placeholder": {
+    "message": "example.com eller *.example.com"
+  },
+  "options_website_add_button": {
+    "message": "Blokker"
+  },
+  "options_website_list_label": {
+    "message": "Blokkerte nettsteder"
+  },
+  "options_website_empty": {
+    "message": "Ingen nettsteder blokkert ennå"
+  },
+  "options_status_unsaved": {
+    "message": "Ikke-lagrede endringer"
+  },
+  "options_status_saved": {
+    "message": "Innstillinger lagret"
+  },
+  "options_button_save": {
+    "message": "Bruk"
+  },
+  "options_button_reset": {
+    "message": "Tilbakestill til standard"
+  },
+  "options_button_reset_confirm": {
+    "message": "Er du sikker?"
+  },
+  "options_toast_reset_success": {
+    "message": "Innstillinger tilbakestilt til standard"
+  },
+  "options_toast_reset_error": {
+    "message": "Kunne ikke tilbakestille innstillinger"
+  },
+  "options_button_logout": {
+    "message": "Logg ut"
+  },
+  "options_toast_min_size": {
+    "message": "Minimum er $1 $2"
+  },
+  "options_toast_enter_domain": {
+    "message": "Skriv inn et domene først"
+  },
+  "options_toast_invalid_input_title": {
+    "message": "Ugyldig inndata"
+  },
+  "options_toast_invalid_domain": {
+    "message": "Skriv inn et gyldig domene som example.com eller *.example.com"
+  },
+  "options_toast_invalid_domain_title": {
+    "message": "Ugyldig domene"
+  },
+  "options_toast_duplicate_entry": {
+    "message": "Dette nettstedet er allerede på blokkeringslisten"
+  },
+  "options_toast_duplicate_entry_title": {
+    "message": "Allerede blokkert"
+  },
+  "options_toast_block_limit": {
+    "message": "Du kan blokkere opptil $1 nettsteder."
+  },
+  "options_toast_permission_denied": {
+    "message": "Tilgang nektet. Slå av/på for å prøve igjen."
+  },
+  "options_toast_permission_title": {
+    "message": "Tilgang nødvendig"
+  },
+  "options_toast_permission_failed": {
+    "message": "Kunne ikke be om tillatelse. Prøv igjen."
+  },
+  "options_toast_save_success": {
+    "message": "Innstillinger brukt"
+  },
+  "options_toast_save_error": {
+    "message": "Kunne ikke lagre. Prøv igjen."
+  },
+  "options_toast_logout_success": {
+    "message": "Logget ut"
+  },
+  "options_toast_logout_error": {
+    "message": "Utlogging mislyktes. Prøv igjen."
+  },
+  "options_toast_load_error": {
+    "message": "Kunne ikke laste innstillinger. Oppdater siden."
+  },
+  "options_footer_privacy": {
+    "message": "Personvernerklæring"
+  },
+  "options_footer_terms": {
+    "message": "Tjenestevilkår"
+  },
+  "player_modal_close": {
+    "message": "Lukk avspiller"
+  },
+  "player_modal_error": {
+    "message": "Kan ikke spille av denne videoen"
+  },
+  "player_modal_unsupported": {
+    "message": "Dette formatet kan ikke forhåndsvises. Bruk nedlasting."
+  },
+  "player_modal_loading": {
+    "message": "Laster video..."
+  },
+  "options_header_badge": {
+    "message": "Innstillinger"
+  },
+  "toast_viewport_label": {
+    "message": "Varsler"
+  },
+  "popup_group_streaming_title": {
+    "message": "Strømming $1"
+  },
+  "popup_group_server_fetch_title": {
+    "message": "Serverhenting $1"
+  },
+  "popup_group_direct_download_title": {
+    "message": "Direkte nedlasting $1"
+  },
+  "popup_group_server_fetch_label": {
+    "message": "Serverhenting"
+  },
+  "popup_group_merge_note": {
+    "message": "Lyd og video er separate — de blir slått sammen under nedlasting"
+  },
+  "popup_dismiss_label": {
+    "message": "Avvis"
+  },
+  "generic_video_filename": {
+    "message": "video"
+  },
+  "player_error_stream_failed": {
+    "message": "Strømmeavspilling feilet"
+  },
+  "player_error_hls_unsupported": {
+    "message": "HLS-avspilling støttes ikke"
+  },
+  "player_error_library_failed": {
+    "message": "Kunne ikke laste strømmebibliotek"
+  },
+  "player_error_no_url": {
+    "message": "Ingen spillbar URL tilgjengelig"
+  },
+  "player_error_unsupported_format": {
+    "message": "Dette formatet kan ikke forhåndsvises"
+  },
+  "error_no_internet": {
+    "message": "Ingen internettforbindelse"
+  },
+  "error_server_unavailable": {
+    "message": "Server midlertidig utilgjengelig"
+  },
+  "download_premium_modal_message_trial": {
+    "message": "Start din gratis prøveperiode for å laste ned hvilken som helst video umiddelbart — ingen forpliktelse, avbryt når som helst."
+  },
+  "download_limit_banner_all_premium_trial": {
+    "message": "Prøv Premium gratis — last ned hvilken som helst video i hvilken som helst kvalitet, uten begrensninger."
+  }
+}
