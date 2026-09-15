@@ -1,0 +1,43 @@
+{
+  "manifest_version": 3,
+  "name": "NexFetch",
+  "version": "0.1.0",
+  "description": "Detect, download, and convert video streams (m3u8/mp4/webm/DASH) directly from your browser — built for large files, safely.",
+  "author": "NexApp",
+  "homepage_url": "https://nexfetch.vercel.app",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "permissions": [
+    "webRequest",
+    "webNavigation",
+    "storage",
+    "downloads",
+    "unlimitedStorage",
+    "tabs",
+    "declarativeNetRequest"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["download.html", "download.js", "ffmpeg/*"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
